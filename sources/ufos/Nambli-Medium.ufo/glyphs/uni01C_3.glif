@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01C3" format="2">
+  <advance width="250"/>
+  <unicode hex="01C3"/>
+  <outline>
+    <contour>
+      <point x="175" y="305" type="line"/>
+      <point x="175" y="282"/>
+      <point x="173" y="274" type="qcurve"/>
+      <point x="170" y="264"/>
+      <point x="161" y="257" type="qcurve"/>
+      <point x="146" y="246"/>
+      <point x="125" y="246" type="qcurve"/>
+      <point x="104" y="246"/>
+      <point x="89" y="257" type="qcurve"/>
+      <point x="80" y="264"/>
+      <point x="77" y="274" type="qcurve"/>
+      <point x="75" y="282"/>
+      <point x="75" y="305" type="qcurve"/>
+      <point x="75" y="680" type="line"/>
+      <point x="75" y="703"/>
+      <point x="77" y="711" type="qcurve"/>
+      <point x="80" y="721"/>
+      <point x="89" y="728" type="qcurve"/>
+      <point x="104" y="739"/>
+      <point x="125" y="739" type="qcurve"/>
+      <point x="146" y="739"/>
+      <point x="161" y="728" type="qcurve"/>
+      <point x="170" y="721"/>
+      <point x="173" y="711" type="qcurve"/>
+      <point x="175" y="703"/>
+      <point x="175" y="680" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="185" y="70" type="qcurve"/>
+      <point x="185" y="60"/>
+      <point x="179" y="42"/>
+      <point x="168" y="27"/>
+      <point x="153" y="16"/>
+      <point x="135" y="10"/>
+      <point x="125" y="10" type="qcurve"/>
+      <point x="115" y="10"/>
+      <point x="97" y="16"/>
+      <point x="82" y="27"/>
+      <point x="71" y="42"/>
+      <point x="65" y="60"/>
+      <point x="65" y="70" type="qcurve"/>
+      <point x="65" y="80"/>
+      <point x="71" y="98"/>
+      <point x="82" y="113"/>
+      <point x="97" y="124"/>
+      <point x="115" y="130"/>
+      <point x="125" y="130" type="qcurve"/>
+      <point x="135" y="130"/>
+      <point x="153" y="124"/>
+      <point x="168" y="113"/>
+      <point x="179" y="98"/>
+      <point x="185" y="80"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.nambli.snapshot.leftSideBearing</key>
+      <integer>65</integer>
+    </dict>
+  </lib>
+</glyph>

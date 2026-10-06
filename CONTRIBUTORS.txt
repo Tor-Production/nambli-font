@@ -1,0 +1,3 @@
+Yurii Tor (https://github.com/Yurii-Tor)
+
+AI tooling is documented in documentation/PROVENANCE.txt.

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01C3" format="2">
+  <advance width="250"/>
+  <unicode hex="01C3"/>
+  <outline>
+    <contour>
+      <point x="174" y="300" type="line"/>
+      <point x="170" y="277"/>
+      <point x="167" y="270" type="qcurve"/>
+      <point x="164" y="262"/>
+      <point x="156" y="256" type="qcurve"/>
+      <point x="141" y="246"/>
+      <point x="122" y="246" type="qcurve"/>
+      <point x="102" y="246"/>
+      <point x="91" y="256" type="qcurve"/>
+      <point x="85" y="262"/>
+      <point x="84" y="270" type="qcurve"/>
+      <point x="84" y="277"/>
+      <point x="88" y="300" type="qcurve"/>
+      <point x="156" y="685" type="line"/>
+      <point x="160" y="708"/>
+      <point x="163" y="715" type="qcurve"/>
+      <point x="166" y="723"/>
+      <point x="174" y="729" type="qcurve"/>
+      <point x="189" y="739"/>
+      <point x="209" y="739" type="qcurve"/>
+      <point x="228" y="739"/>
+      <point x="239" y="729" type="qcurve"/>
+      <point x="245" y="723"/>
+      <point x="246" y="715" type="qcurve"/>
+      <point x="246" y="708"/>
+      <point x="242" y="685" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="144" y="70" type="qcurve"/>
+      <point x="143" y="61"/>
+      <point x="135" y="45"/>
+      <point x="122" y="31"/>
+      <point x="107" y="22"/>
+      <point x="90" y="16"/>
+      <point x="81" y="16" type="qcurve"/>
+      <point x="70" y="16"/>
+      <point x="52" y="25"/>
+      <point x="40" y="39"/>
+      <point x="35" y="59"/>
+      <point x="37" y="70" type="qcurve"/>
+      <point x="38" y="79"/>
+      <point x="47" y="95"/>
+      <point x="59" y="109"/>
+      <point x="74" y="118"/>
+      <point x="91" y="124"/>
+      <point x="100" y="124" type="qcurve"/>
+      <point x="111" y="124"/>
+      <point x="129" y="115"/>
+      <point x="142" y="101"/>
+      <point x="146" y="81"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.nambli.snapshot.leftSideBearing</key>
+      <integer>35</integer>
+    </dict>
+  </lib>
+</glyph>

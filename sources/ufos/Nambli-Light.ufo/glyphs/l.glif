@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="250"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="165" y="53" type="line"/>
+      <point x="165" y="27"/>
+      <point x="163" y="20" type="qcurve"/>
+      <point x="162" y="14"/>
+      <point x="156" y="9" type="qcurve"/>
+      <point x="144" y="0"/>
+      <point x="125" y="0" type="qcurve"/>
+      <point x="106" y="0"/>
+      <point x="94" y="9" type="qcurve"/>
+      <point x="88" y="14"/>
+      <point x="87" y="20" type="qcurve"/>
+      <point x="85" y="27"/>
+      <point x="85" y="53" type="qcurve"/>
+      <point x="85" y="659" type="line"/>
+      <point x="85" y="685"/>
+      <point x="87" y="692" type="qcurve"/>
+      <point x="88" y="698"/>
+      <point x="94" y="703" type="qcurve"/>
+      <point x="106" y="712"/>
+      <point x="125" y="712" type="qcurve"/>
+      <point x="144" y="712"/>
+      <point x="156" y="703" type="qcurve"/>
+      <point x="162" y="698"/>
+      <point x="163" y="692" type="qcurve"/>
+      <point x="165" y="685"/>
+      <point x="165" y="659" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.nambli.snapshot.leftSideBearing</key>
+      <integer>85</integer>
+    </dict>
+  </lib>
+</glyph>

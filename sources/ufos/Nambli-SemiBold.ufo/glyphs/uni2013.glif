@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2013" format="2">
+  <advance width="586"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="106" y="231" type="line"/>
+      <point x="85" y="231"/>
+      <point x="78" y="233" type="qcurve"/>
+      <point x="66" y="236"/>
+      <point x="59" y="245" type="qcurve"/>
+      <point x="48" y="260"/>
+      <point x="48" y="281" type="qcurve"/>
+      <point x="48" y="302"/>
+      <point x="59" y="317" type="qcurve"/>
+      <point x="66" y="326"/>
+      <point x="78" y="329" type="qcurve"/>
+      <point x="85" y="331"/>
+      <point x="106" y="331" type="qcurve"/>
+      <point x="480" y="331" type="line"/>
+      <point x="501" y="331"/>
+      <point x="508" y="329" type="qcurve"/>
+      <point x="520" y="326"/>
+      <point x="527" y="317" type="qcurve"/>
+      <point x="538" y="302"/>
+      <point x="538" y="281" type="qcurve"/>
+      <point x="538" y="260"/>
+      <point x="527" y="245" type="qcurve"/>
+      <point x="520" y="236"/>
+      <point x="508" y="233" type="qcurve"/>
+      <point x="501" y="231"/>
+      <point x="480" y="231" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.nambli.snapshot.leftSideBearing</key>
+      <integer>48</integer>
+    </dict>
+  </lib>
+</glyph>

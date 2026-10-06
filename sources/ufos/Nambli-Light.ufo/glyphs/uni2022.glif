@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2022" format="2">
+  <advance width="420"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="268" y="299" type="qcurve"/>
+      <point x="268" y="289"/>
+      <point x="262" y="272"/>
+      <point x="251" y="258"/>
+      <point x="237" y="247"/>
+      <point x="220" y="241"/>
+      <point x="210" y="241" type="qcurve"/>
+      <point x="200" y="241"/>
+      <point x="183" y="247"/>
+      <point x="169" y="258"/>
+      <point x="158" y="272"/>
+      <point x="152" y="289"/>
+      <point x="152" y="299" type="qcurve"/>
+      <point x="152" y="309"/>
+      <point x="158" y="326"/>
+      <point x="169" y="340"/>
+      <point x="183" y="351"/>
+      <point x="200" y="357"/>
+      <point x="210" y="357" type="qcurve"/>
+      <point x="220" y="357"/>
+      <point x="237" y="351"/>
+      <point x="251" y="340"/>
+      <point x="262" y="326"/>
+      <point x="268" y="309"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.nambli.snapshot.leftSideBearing</key>
+      <integer>152</integer>
+    </dict>
+  </lib>
+</glyph>

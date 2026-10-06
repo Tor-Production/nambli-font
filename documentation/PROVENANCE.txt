@@ -1,0 +1,30 @@
+Nambli — provenance and licensing scope
+Prepared 2026-10-07 from user-approved Nambli Family 0.7.3 (2026-10-02).
+
+Yurii Tor supplied the logo reference, established the design direction,
+requested specific changes to letter construction and rounded terminals,
+reviewed successive specimens, and approved the glyph designs. The family
+was renamed from Nembli to Nambli at his request.
+
+AI tools generated and edited the Python code that constructs the outlines
+and builds the fonts. This is an AI-assisted project; the glyphs are not
+represented as having all been manually drawn by a human. No external font
+outlines were imported according to the retained production records.
+FontTools, Skia PathOps, HarfBuzz, Unicode/CLDR data and related tools were
+used. The Unicode data license is retained in sources/UNICODE-LICENSE.txt.
+
+Yurii Tor selected SIL OFL 1.1 for public distribution and confirmed the
+public author/rightsholder name on 2026-10-07. AUTHORS.txt identifies the
+person offering the project under OFL; it is not a government finding of
+copyright ownership. The legal protection of particular AI-assisted parts
+depends on applicable law and the nature of the human contribution.
+
+The OFL notice licenses rights held in the font software, including the
+project's original sources and build scripts. It does not create rights in
+otherwise unprotected elements. Third-party dependencies retain their own
+licenses. Brand logos and unrelated Nambli products are outside this font
+package and are not offered under this font license.
+
+No government copyright, trademark or design registration is claimed.
+Google Fonts acceptance and the contributor's CLA are not yet confirmed.
+The original raster logo and private conversation are not included.

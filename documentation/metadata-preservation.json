@@ -1,0 +1,236 @@
+[
+  {
+    "file": "fonts/otf/Nambli-Bold.otf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "1a7633af9065c6bb4c67ccc0bc2e09ee169d71b5708583ad0bd0daef9f972b56"
+  },
+  {
+    "file": "fonts/ttf/Nambli-Bold.ttf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "2fbc1e2c54372cadd77ff28a0d80127d44fdb8b44c4c37b23dd16dd6e3695005"
+  },
+  {
+    "file": "fonts/webfonts/Nambli-Bold.woff2",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "4a61de50571f1a1430ef30ade3142ff0922a92096dcad1bfa48b8f5c55b61931"
+  },
+  {
+    "file": "fonts/otf/Nambli-BoldItalic.otf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "4b999967e64bc50a182934819814976fab173db20817828f3d7334868a41b0d9"
+  },
+  {
+    "file": "fonts/ttf/Nambli-BoldItalic.ttf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "386f164ab667643b275560b5b6b4786c60cb3dc25a66797d44b76ee6582047fc"
+  },
+  {
+    "file": "fonts/webfonts/Nambli-BoldItalic.woff2",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "da30a4b2897f9ace740d689676235d16a99aa8238333822efa99bcd6495cadd4"
+  },
+  {
+    "file": "fonts/otf/Nambli-ExtraBold.otf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "f8bdc7726bd9dfc20bb102e553a25ae91c3be68acfc2b634202ebd992b9ee927"
+  },
+  {
+    "file": "fonts/ttf/Nambli-ExtraBold.ttf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "e60e14afdd1239f9e21f41fa0e80553cf444dba8a9b98954dfc7458039eac08a"
+  },
+  {
+    "file": "fonts/webfonts/Nambli-ExtraBold.woff2",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "d424cfac15dc69d97a2c531c784a038171ac2be76ebc7ccc803bcc9eeab3d8ab"
+  },
+  {
+    "file": "fonts/otf/Nambli-ExtraBoldItalic.otf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "a6b3bdff307c07262094045cb1dd85e4d034241ac04e692fa49033de5b3513f0"
+  },
+  {
+    "file": "fonts/ttf/Nambli-ExtraBoldItalic.ttf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "a7723aa61bb68e99b1af0708ae93c96e88c29b9b03956e02d17019582cda62f9"
+  },
+  {
+    "file": "fonts/webfonts/Nambli-ExtraBoldItalic.woff2",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "5fc5780aecc5701763f9a725e3bb1a10a99695fc27f8056cd9b5876c4f19a75e"
+  },
+  {
+    "file": "fonts/otf/Nambli-Italic.otf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "9a8d936d675fb23e97d10c3e8513c7a5db76cc8249cc473cc260e5f5c38643ea"
+  },
+  {
+    "file": "fonts/ttf/Nambli-Italic.ttf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "c352d8574735810b30aa134f95bbbbd45305ea4c4b0cfcb419dbbda42066ea0a"
+  },
+  {
+    "file": "fonts/webfonts/Nambli-Italic.woff2",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "fa1c470dc2d7296a1d30c3f1ff80deeeea0d1966bf5228802df7808ee53c3a4d"
+  },
+  {
+    "file": "fonts/otf/Nambli-Light.otf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "5137cb7b80f39af752594542f6004a43e227dd537d8259362e124bc5c54fb995"
+  },
+  {
+    "file": "fonts/ttf/Nambli-Light.ttf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "a9f7b90c676d564bc409deee4f46c17f0146ddeaf868362b57ad493a7e8ea982"
+  },
+  {
+    "file": "fonts/webfonts/Nambli-Light.woff2",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "089dd1a01b23321542f59ff23c9a52f03a8ad9817cd82141bfb0ee90dc08a9b3"
+  },
+  {
+    "file": "fonts/otf/Nambli-LightItalic.otf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "14cbd0e0eba6ce33775b7046a1c72623b94f36f275d87713ee25a5c8fb3b2607"
+  },
+  {
+    "file": "fonts/ttf/Nambli-LightItalic.ttf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "61470e35520a1525765741dcbba79f3cd9184738ab7436fd4e4b5335c8decb2c"
+  },
+  {
+    "file": "fonts/webfonts/Nambli-LightItalic.woff2",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "1d0d8c1cfc7060e7cc58b1b6e749046792becedf1b525e7b4ac11bfa781708cf"
+  },
+  {
+    "file": "fonts/otf/Nambli-Medium.otf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "38235ffb865c87f08f61a7d91638334d4afb08b46eefd78f2b8a450ab2b970e3"
+  },
+  {
+    "file": "fonts/ttf/Nambli-Medium.ttf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "7f62ed575ad6d2c09e5b0878f000b7cd60e6bc1b7b4363a1268fcc3cda25f49c"
+  },
+  {
+    "file": "fonts/webfonts/Nambli-Medium.woff2",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "075567519e43e371df3b05a1e8685a7d076ae0e5d3a3127fe4d677d00b117294"
+  },
+  {
+    "file": "fonts/otf/Nambli-MediumItalic.otf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "b7094a1e5fabd4506776f2b2f254a3ec7b6c3c388592a515cf16c2fa8923a543"
+  },
+  {
+    "file": "fonts/ttf/Nambli-MediumItalic.ttf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "0d3a81f216de7031d81552d3b7a416cc3418143961ab91fb3bc0eca15dc3ab42"
+  },
+  {
+    "file": "fonts/webfonts/Nambli-MediumItalic.woff2",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "54ff7b2f248b540ef08833239362f53b31999204f0993dc469c6bd6477065fe8"
+  },
+  {
+    "file": "fonts/otf/Nambli-Regular.otf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "4f0beb0a7201c2ba7180c40c435e36e36e0f25bb348a75fe187b57a9373700dd"
+  },
+  {
+    "file": "fonts/ttf/Nambli-Regular.ttf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "c873231d60b3f4edd1197d3abf30f2d6588e4ab8555a932c717a2ec6e4ec27e7"
+  },
+  {
+    "file": "fonts/webfonts/Nambli-Regular.woff2",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "5cc5ef9cac7a4efb5f45cf6bbe5eb1e26b57b23f68ad5d2c0d4ff1329ca49799"
+  },
+  {
+    "file": "fonts/otf/Nambli-SemiBold.otf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "7df1a9509a0a79a359b0c42b8b8ef3f2e0f54bda5ae4b8f616de9c52d9a9e33f"
+  },
+  {
+    "file": "fonts/ttf/Nambli-SemiBold.ttf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "f2dc2d869b0d8c017c15edaf9d7fb35db31b9af2563d96e154a610277c2a5da0"
+  },
+  {
+    "file": "fonts/webfonts/Nambli-SemiBold.woff2",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "4e21931a03cdaa57f5714af277ece56e8d13005dbed5ea20d63242dd1463b907"
+  },
+  {
+    "file": "fonts/otf/Nambli-SemiBoldItalic.otf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "368b4daefaafbcf130b9d83d672a53463486f2f05b73f20e4283df1a740067b9"
+  },
+  {
+    "file": "fonts/ttf/Nambli-SemiBoldItalic.ttf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "631c3094996357a6d936b47db1a61b3f2cf39ca8d084fb7842f717c39b05af0f"
+  },
+  {
+    "file": "fonts/webfonts/Nambli-SemiBoldItalic.woff2",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "e728e9fa91c693ce223b82231d853107bfff6d8e7f52a89525100b009ed42cfa"
+  },
+  {
+    "file": "sources/master/Nambli-Bold.otf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "100b9154a24949605380fb88fc1a5e091c50e38c9f5df5444826cdbb836995ae"
+  },
+  {
+    "file": "sources/master/Nambli-Bold.ttf",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "87fb8578e57a0270c12ef28051f9562bc0f203ff2ec1cc4f6b4df683cf82952d"
+  },
+  {
+    "file": "sources/master/Nambli-Bold.woff2",
+    "geometry_metrics_unicode_preserved": true,
+    "shaping_tables_preserved": true,
+    "sha256": "de5ac375120cc27f834e1475bfaca137605ecc7eb57c302dd264288e44b3247c"
+  }
+]

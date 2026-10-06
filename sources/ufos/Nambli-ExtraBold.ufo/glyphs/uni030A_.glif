@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030A" format="2">
+  <unicode hex="030A"/>
+  <outline>
+    <contour>
+      <point x="87" y="100" type="qcurve"/>
+      <point x="87" y="82"/>
+      <point x="80" y="66" type="qcurve"/>
+      <point x="73" y="51"/>
+      <point x="61" y="39" type="qcurve"/>
+      <point x="49" y="27"/>
+      <point x="34" y="20" type="qcurve"/>
+      <point x="18" y="13"/>
+      <point x="0" y="13" type="qcurve"/>
+      <point x="-18" y="13"/>
+      <point x="-34" y="20" type="qcurve"/>
+      <point x="-49" y="27"/>
+      <point x="-61" y="39" type="qcurve"/>
+      <point x="-73" y="51"/>
+      <point x="-80" y="66" type="qcurve"/>
+      <point x="-87" y="82"/>
+      <point x="-87" y="100" type="qcurve"/>
+      <point x="-87" y="118"/>
+      <point x="-80" y="134" type="qcurve"/>
+      <point x="-73" y="149"/>
+      <point x="-61" y="161" type="qcurve"/>
+      <point x="-49" y="173"/>
+      <point x="-34" y="180" type="qcurve"/>
+      <point x="-18" y="187"/>
+      <point x="0" y="187" type="qcurve"/>
+      <point x="18" y="187"/>
+      <point x="34" y="180" type="qcurve"/>
+      <point x="49" y="173"/>
+      <point x="61" y="161" type="qcurve"/>
+      <point x="73" y="149"/>
+      <point x="80" y="134" type="qcurve"/>
+      <point x="87" y="118"/>
+    </contour>
+    <contour>
+      <point x="28" y="100" type="qcurve"/>
+      <point x="28" y="112"/>
+      <point x="20" y="120" type="qcurve"/>
+      <point x="12" y="128"/>
+      <point x="0" y="128" type="qcurve"/>
+      <point x="-12" y="128"/>
+      <point x="-20" y="120" type="qcurve"/>
+      <point x="-28" y="112"/>
+      <point x="-28" y="100" type="qcurve"/>
+      <point x="-28" y="88"/>
+      <point x="-20" y="80" type="qcurve"/>
+      <point x="-12" y="72"/>
+      <point x="0" y="72" type="qcurve"/>
+      <point x="12" y="72"/>
+      <point x="20" y="80" type="qcurve"/>
+      <point x="28" y="88"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.nambli.snapshot.leftSideBearing</key>
+      <integer>-87</integer>
+    </dict>
+  </lib>
+</glyph>

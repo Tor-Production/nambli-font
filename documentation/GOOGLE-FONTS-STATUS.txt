@@ -1,0 +1,46 @@
+Google Fonts preparation — 2026-10-07
+
+This is a public development release, not an accepted Google Fonts family.
+The current 0.704 fonts retain the approved 872-character repertoire.
+
+Fontspector 1.8.0 was rerun on all 12 licensed 0.704 TTFs with its
+googlefonts profile: 1047 PASS, 218 WARN, 49 FAIL, 716 SKIP and 50 INFO.
+There were no ERROR or FATAL results. Network checks were skipped.
+These are subresult counts; some checks return multiple messages. The complete
+grouped public report is fontspector-summary.json in this directory.
+
+License, author metadata, RIBBI names and OS/2 codepage ranges were corrected.
+Remaining FAIL groups are:
+- 24 version_format messages: release 0.704 is below the required 1.000.
+- 12 glyph_coverage messages: 20 required Latin Core characters are missing.
+- 12 shape_languages messages: repertoire/shaping findings need review.
+- 1 dirname_matches_nameid_1 message: the current distribution layout uses
+  a ttf directory, whereas Google's repository check expects nambli.
+
+The shape_languages check heuristically infers GF glyphsets and tests their
+languages. This is different from the earlier 238-locale CLDR 48.2 exemplar
+baseline. Its FAIL messages mention 47 GF language identifiers; direct base-code
+matches with that baseline are teo_Latn (Teso) and yo_Latn (Yoruba). Teso needs
+review of seven modifier letters; Yoruba needs review of U+0329 and related
+sequences. WARN messages mention 24 identifiers, including direct matches for
+Igbo, Luo, Nuer, Riffian and Yoruba. Base-code matching is not an exhaustive
+mapping: dialects, aliases and macrolanguages can create additional overlap.
+Many inferred tests extend beyond the documented CLDR baseline, but actual
+overlaps remain. These findings are pending review, not automatically dismissed
+and not a claim that all flagged languages are wholly unsupported.
+
+Twenty Latin Core additions and four unencoded source alternatives have been
+prepared separately for all twelve faces in TTF, OTF and WOFF2. Those candidates
+have 892 characters and 911 glyphs, with all prior 887 outlines/metrics verified
+unchanged. They are NOT included in release 0.704. New designs need visual
+approval, and locale activation of the unencoded alternatives needs work.
+
+Outstanding work includes integrating reviewed Latin Core additions, resolving
+the shaping findings, reviewing overlap/soft-dotted warnings, a fully verified
+production rebuild, and the contributor's Google CLA. The CLA has not been
+signed. Editable UFO3 snapshots
+are included and their original 0.7.3 geometry/feature round trips were verified.
+Public license and metadata in those snapshots have been updated to match.
+
+The project uses AI tools; this must be disclosed in the submission.
+Google's curatorial acceptance has not been requested or granted yet.

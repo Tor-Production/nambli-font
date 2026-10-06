@@ -1,0 +1,1 @@
+The specimen image is project documentation distributed under SIL OFL 1.1; see ../OFL.txt. It renders the Nambli fonts.

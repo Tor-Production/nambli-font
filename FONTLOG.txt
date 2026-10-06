@@ -1,0 +1,7 @@
+Nambli font project
+2026-10-07 — 0.704 — OFL preparation
+Yurii Tor confirmed as the public author/rightsholder. Added OFL 1.1,
+licensing metadata and explicit AI provenance. No Reserved Font Name.
+Approved glyph outlines, metrics, Unicode mapping and shaping tables are
+preserved from 0.7.3 in all 36 distribution font files.
+This package has not yet been accepted by Google Fonts.

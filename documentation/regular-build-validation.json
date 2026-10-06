@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "scope": "Regular face only: pure Python family-generator build compared independently with approved 0.7.3 TTF and OTF",
+  "comparisonDate": "2026-10-07",
+  "approvedVersion": "0.7.3",
+  "fonts": [
+    {
+      "format": "TTF",
+      "face": "Nambli-Regular",
+      "approvedSHA256": "1a1c53d4ec752e8358401b266efcce6695dac2c94c31ad1e9290d1ad0d3efa99",
+      "rebuiltSHA256": "485acd2d65b0aabba619cf944a9bd308f3bd915bf27cd0091ce09a192ad02992",
+      "glyphsCompared": 887,
+      "encodedCharactersCompared": 872,
+      "glyphOrderIdentical": true,
+      "unicodeMapIdentical": true,
+      "exactRecordingPenPaths": 887,
+      "differentPaths": 0,
+      "differentHorizontalMetrics": 0,
+      "maximumOutlineDeltaUnits": 0,
+      "maximumBoundsDeltaUnits": 0,
+      "layoutTablesByteIdentical": ["GDEF", "GSUB", "GPOS", "kern"],
+      "harfBuzzShapingComparisons": 65304,
+      "harfBuzzShapingMismatches": 0
+    },
+    {
+      "format": "OTF",
+      "face": "Nambli-Regular",
+      "approvedSHA256": "2b8ed30c5fed105e437c7fd026438484f5922dfafedfb852f279a24ee90ca0a8",
+      "rebuiltSHA256": "90de0376b32b8154b8b54c1856ed8fd0d3f91e9feee544a55d2bcb6afedd2f76",
+      "glyphsCompared": 887,
+      "encodedCharactersCompared": 872,
+      "glyphOrderIdentical": true,
+      "unicodeMapIdentical": true,
+      "exactRecordingPenPaths": 887,
+      "differentPaths": 0,
+      "differentHorizontalMetrics": 0,
+      "maximumOutlineDeltaUnits": 0,
+      "maximumBoundsDeltaUnits": 0,
+      "layoutTablesByteIdentical": ["GDEF", "GSUB", "GPOS", "kern"],
+      "harfBuzzShapingComparisons": 65304,
+      "harfBuzzShapingMismatches": 0
+    }
+  ],
+  "shapingScope": {
+    "localeSets": 238,
+    "localeText": "main and auxiliary characters, original/uppercase/titlecase, NFC and NFD",
+    "languageSampleSets": 26,
+    "sampleText": "alphabet, lowercase alphabet, full sample text; NFC and NFD",
+    "comparedValues": ["glyph ID", "x advance", "y advance", "x offset", "y offset"],
+    "comparisonsAcrossBothFormats": 130608
+  },
+  "notes": [
+    "Binary file hashes differ, while every compared outline and layout table is identical. This audit does not assert whole-file byte reproducibility.",
+    "The rebuilt hashes identify the exact candidate files inspected before public-release metadata changes.",
+    "Other 11 faces were not independently regenerated in this scoped check.",
+    "This is not a fontmake/gftools build or a Google Fonts approval."
+  ]
+}

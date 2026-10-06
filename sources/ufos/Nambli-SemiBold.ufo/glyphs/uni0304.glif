@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0304" format="2">
+  <unicode hex="0304"/>
+  <outline>
+    <contour>
+      <point x="-64" y="67" type="line"/>
+      <point x="-78" y="67"/>
+      <point x="-83" y="68" type="qcurve"/>
+      <point x="-91" y="70"/>
+      <point x="-96" y="76" type="qcurve"/>
+      <point x="-103" y="84"/>
+      <point x="-103" y="97" type="qcurve"/>
+      <point x="-103" y="110"/>
+      <point x="-96" y="118" type="qcurve"/>
+      <point x="-91" y="124"/>
+      <point x="-83" y="126" type="qcurve"/>
+      <point x="-78" y="127"/>
+      <point x="-64" y="127" type="qcurve"/>
+      <point x="64" y="127" type="line"/>
+      <point x="78" y="127"/>
+      <point x="83" y="126" type="qcurve"/>
+      <point x="91" y="124"/>
+      <point x="96" y="118" type="qcurve"/>
+      <point x="103" y="110"/>
+      <point x="103" y="97" type="qcurve"/>
+      <point x="103" y="84"/>
+      <point x="96" y="76" type="qcurve"/>
+      <point x="91" y="70"/>
+      <point x="83" y="68" type="qcurve"/>
+      <point x="78" y="67"/>
+      <point x="64" y="67" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.nambli.snapshot.leftSideBearing</key>
+      <integer>-103</integer>
+    </dict>
+  </lib>
+</glyph>

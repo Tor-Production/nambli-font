@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E37" format="2">
+  <advance width="250"/>
+  <unicode hex="1E37"/>
+  <outline>
+    <contour>
+      <point x="168" y="88" type="line"/>
+      <point x="163" y="60"/>
+      <point x="158" y="49" type="qcurve"/>
+      <point x="151" y="30"/>
+      <point x="133" y="17" type="qcurve"/>
+      <point x="108" y="0"/>
+      <point x="78" y="0" type="qcurve"/>
+      <point x="48" y="0"/>
+      <point x="30" y="17" type="qcurve"/>
+      <point x="16" y="30"/>
+      <point x="15" y="49" type="qcurve"/>
+      <point x="15" y="60"/>
+      <point x="20" y="88" type="qcurve"/>
+      <point x="114" y="624" type="line"/>
+      <point x="119" y="652"/>
+      <point x="124" y="663" type="qcurve"/>
+      <point x="132" y="682"/>
+      <point x="149" y="695" type="qcurve"/>
+      <point x="174" y="712"/>
+      <point x="204" y="712" type="qcurve"/>
+      <point x="234" y="712"/>
+      <point x="252" y="695" type="qcurve"/>
+      <point x="266" y="682"/>
+      <point x="267" y="663" type="qcurve"/>
+      <point x="267" y="652"/>
+      <point x="263" y="624" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="114" y="-75" type="qcurve"/>
+      <point x="113" y="-85"/>
+      <point x="102" y="-103"/>
+      <point x="86" y="-117"/>
+      <point x="67" y="-124"/>
+      <point x="56" y="-124" type="qcurve"/>
+      <point x="46" y="-124"/>
+      <point x="30" y="-117"/>
+      <point x="18" y="-103"/>
+      <point x="14" y="-85"/>
+      <point x="16" y="-75" type="qcurve"/>
+      <point x="17" y="-65"/>
+      <point x="28" y="-47"/>
+      <point x="44" y="-33"/>
+      <point x="64" y="-26"/>
+      <point x="74" y="-26" type="qcurve"/>
+      <point x="84" y="-26"/>
+      <point x="101" y="-33"/>
+      <point x="112" y="-47"/>
+      <point x="116" y="-65"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.nambli.snapshot.leftSideBearing</key>
+      <integer>14</integer>
+    </dict>
+  </lib>
+</glyph>
