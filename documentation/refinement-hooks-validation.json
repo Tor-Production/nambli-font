@@ -1,0 +1,6840 @@
+{
+  "scope": "Read-only independent review of final immutable hook candidate after U+0260 C1 fillet",
+  "reviewed_utc": "2026-10-07T13:31:50.777598+00:00",
+  "manifest_sha256": "3bdfa60e19f7be1dff925532d0c50f0e5a701706dcda01f85493b3d3ab24c3c8",
+  "following_characters": "Hnpjqgy",
+  "shaping": "HarfBuzz default features, guessed segment properties; actual advances and offsets applied",
+  "contour_intersection_area_tolerance": 0.01,
+  "faces": [
+    {
+      "file": "Nambli-Bold.ttf",
+      "sha256": "3eaf2d4390e7c1501d346e2b2f435b11d4717fea5602c68c18a9526611b0fc6d",
+      "manifest_matches": true,
+      "glyphs": [
+        {
+          "codepoint": "U+01A4",
+          "glyph": "uni01A4",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 794,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 794,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 794,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 794,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 794,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 794,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 794,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01A5",
+          "glyph": "uni01A5",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 752,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 752,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 752,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 752,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 752,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 752,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 752,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AC",
+          "glyph": "uni01AC",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AD",
+          "glyph": "uni01AD",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AE",
+          "glyph": "uni01AE",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0260",
+          "glyph": "uni0260",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0266",
+          "glyph": "uni0266",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+A7AA",
+          "glyph": "uniA7AA",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C72",
+          "glyph": "uni2C72",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C73",
+          "glyph": "uni2C73",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+027D",
+          "glyph": "uni027D",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "sha256": "3b03c6cfbae024e049fc1e5ddd57d65894173e1e43844dfb391d7b6751878a67",
+      "manifest_matches": true,
+      "glyphs": [
+        {
+          "codepoint": "U+01A4",
+          "glyph": "uni01A4",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 794,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 794,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 794,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 794,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 794,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 794,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 794,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01A5",
+          "glyph": "uni01A5",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 752,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 752,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 752,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 752,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 752,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 752,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 752,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AC",
+          "glyph": "uni01AC",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AD",
+          "glyph": "uni01AD",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AE",
+          "glyph": "uni01AE",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0260",
+          "glyph": "uni0260",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0266",
+          "glyph": "uni0266",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+A7AA",
+          "glyph": "uniA7AA",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C72",
+          "glyph": "uni2C72",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C73",
+          "glyph": "uni2C73",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+027D",
+          "glyph": "uni027D",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "sha256": "6ddf52e3f6412e47975f0b10f909891169089dfd39240741942f5c854e0198b6",
+      "manifest_matches": true,
+      "glyphs": [
+        {
+          "codepoint": "U+01A4",
+          "glyph": "uni01A4",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 793,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 793,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 793,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 793,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 793,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 793,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 793,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01A5",
+          "glyph": "uni01A5",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 751,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 751,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 751,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 751,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 751,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 751,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 751,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AC",
+          "glyph": "uni01AC",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AD",
+          "glyph": "uni01AD",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AE",
+          "glyph": "uni01AE",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0260",
+          "glyph": "uni0260",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0266",
+          "glyph": "uni0266",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+A7AA",
+          "glyph": "uniA7AA",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C72",
+          "glyph": "uni2C72",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C73",
+          "glyph": "uni2C73",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+027D",
+          "glyph": "uni027D",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBoldItalic.ttf",
+      "sha256": "e8e9b872c5c0fc74318c63dd0074b81e691d4d55042a46930f6adf5b945a1400",
+      "manifest_matches": true,
+      "glyphs": [
+        {
+          "codepoint": "U+01A4",
+          "glyph": "uni01A4",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 792,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 792,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 792,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 792,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 792,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 792,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 792,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01A5",
+          "glyph": "uni01A5",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 750,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 750,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 750,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 750,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 750,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 750,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 750,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AC",
+          "glyph": "uni01AC",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AD",
+          "glyph": "uni01AD",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AE",
+          "glyph": "uni01AE",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0260",
+          "glyph": "uni0260",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0266",
+          "glyph": "uni0266",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+A7AA",
+          "glyph": "uniA7AA",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C72",
+          "glyph": "uni2C72",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C73",
+          "glyph": "uni2C73",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+027D",
+          "glyph": "uni027D",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Italic.ttf",
+      "sha256": "cba2d63d1f6c4a2543d1312b1ef383e758d245132eab271e3f5b68171e85a002",
+      "manifest_matches": true,
+      "glyphs": [
+        {
+          "codepoint": "U+01A4",
+          "glyph": "uni01A4",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 798,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 798,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 798,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 798,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 798,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 798,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 798,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01A5",
+          "glyph": "uni01A5",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 756,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 756,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 756,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 756,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 756,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 756,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 756,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AC",
+          "glyph": "uni01AC",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AD",
+          "glyph": "uni01AD",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AE",
+          "glyph": "uni01AE",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0260",
+          "glyph": "uni0260",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0266",
+          "glyph": "uni0266",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+A7AA",
+          "glyph": "uniA7AA",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C72",
+          "glyph": "uni2C72",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C73",
+          "glyph": "uni2C73",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+027D",
+          "glyph": "uni027D",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "sha256": "e53faa1305f9916e7603783e1c979e688311356b2af0c519050bca9268d468f4",
+      "manifest_matches": true,
+      "glyphs": [
+        {
+          "codepoint": "U+01A4",
+          "glyph": "uni01A4",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 801,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 801,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 801,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 801,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 801,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 801,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 801,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01A5",
+          "glyph": "uni01A5",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 759,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 759,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 759,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 759,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 759,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 759,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 759,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AC",
+          "glyph": "uni01AC",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AD",
+          "glyph": "uni01AD",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AE",
+          "glyph": "uni01AE",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0260",
+          "glyph": "uni0260",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0266",
+          "glyph": "uni0266",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+A7AA",
+          "glyph": "uniA7AA",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C72",
+          "glyph": "uni2C72",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C73",
+          "glyph": "uni2C73",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+027D",
+          "glyph": "uni027D",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "sha256": "19c00cd4c57c1166099b915575f479d2f11ba36a6c86851e6cfc6ed4e05511ce",
+      "manifest_matches": true,
+      "glyphs": [
+        {
+          "codepoint": "U+01A4",
+          "glyph": "uni01A4",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 801,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 801,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 801,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 801,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 801,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 801,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 801,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01A5",
+          "glyph": "uni01A5",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 759,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 759,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 759,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 759,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 759,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 759,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 759,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AC",
+          "glyph": "uni01AC",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AD",
+          "glyph": "uni01AD",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AE",
+          "glyph": "uni01AE",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0260",
+          "glyph": "uni0260",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0266",
+          "glyph": "uni0266",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+A7AA",
+          "glyph": "uniA7AA",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C72",
+          "glyph": "uni2C72",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C73",
+          "glyph": "uni2C73",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+027D",
+          "glyph": "uni027D",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "sha256": "fbda2dc7ffd7033b4d84d3f42c2f2d426a05895a9d5afec85f5f79faaa5f34e5",
+      "manifest_matches": true,
+      "glyphs": [
+        {
+          "codepoint": "U+01A4",
+          "glyph": "uni01A4",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 797,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 797,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 797,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 797,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 797,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 797,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 797,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01A5",
+          "glyph": "uni01A5",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 755,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 755,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 755,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 755,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 755,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 755,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 755,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AC",
+          "glyph": "uni01AC",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AD",
+          "glyph": "uni01AD",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AE",
+          "glyph": "uni01AE",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0260",
+          "glyph": "uni0260",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0266",
+          "glyph": "uni0266",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+A7AA",
+          "glyph": "uniA7AA",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C72",
+          "glyph": "uni2C72",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C73",
+          "glyph": "uni2C73",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+027D",
+          "glyph": "uni027D",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "sha256": "c075a5c0e50b84ab7a72fbb83ef069002440a69d5b4f0355fcf6c694231d6ee5",
+      "manifest_matches": true,
+      "glyphs": [
+        {
+          "codepoint": "U+01A4",
+          "glyph": "uni01A4",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 797,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 797,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 797,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 797,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 797,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 797,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 797,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01A5",
+          "glyph": "uni01A5",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 755,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 755,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 755,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 755,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 755,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 755,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 755,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AC",
+          "glyph": "uni01AC",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AD",
+          "glyph": "uni01AD",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AE",
+          "glyph": "uni01AE",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0260",
+          "glyph": "uni0260",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0266",
+          "glyph": "uni0266",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+A7AA",
+          "glyph": "uniA7AA",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C72",
+          "glyph": "uni2C72",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C73",
+          "glyph": "uni2C73",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+027D",
+          "glyph": "uni027D",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "sha256": "18208aa87757d848e3189db0b583c5f3f73c36d12449d3fd58c3a74729f12a26",
+      "manifest_matches": true,
+      "glyphs": [
+        {
+          "codepoint": "U+01A4",
+          "glyph": "uni01A4",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 798,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 798,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 798,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 798,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 798,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 798,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 798,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01A5",
+          "glyph": "uni01A5",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 756,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 756,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 756,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 756,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 756,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 756,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 756,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AC",
+          "glyph": "uni01AC",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AD",
+          "glyph": "uni01AD",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AE",
+          "glyph": "uni01AE",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0260",
+          "glyph": "uni0260",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0266",
+          "glyph": "uni0266",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+A7AA",
+          "glyph": "uniA7AA",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C72",
+          "glyph": "uni2C72",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C73",
+          "glyph": "uni2C73",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+027D",
+          "glyph": "uni027D",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "sha256": "ff42df67c1a0e1097869bb0f70f281a9e0c37f749113a34fbc88ec2b48a37386",
+      "manifest_matches": true,
+      "glyphs": [
+        {
+          "codepoint": "U+01A4",
+          "glyph": "uni01A4",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 796,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 796,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 796,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 796,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 796,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 796,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 796,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01A5",
+          "glyph": "uni01A5",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AC",
+          "glyph": "uni01AC",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AD",
+          "glyph": "uni01AD",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AE",
+          "glyph": "uni01AE",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0260",
+          "glyph": "uni0260",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0266",
+          "glyph": "uni0266",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+A7AA",
+          "glyph": "uniA7AA",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C72",
+          "glyph": "uni2C72",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C73",
+          "glyph": "uni2C73",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+027D",
+          "glyph": "uni027D",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "sha256": "16514f1eea6c037c1af900b49b1c69c13343da745343f335642343f173314dff",
+      "manifest_matches": true,
+      "glyphs": [
+        {
+          "codepoint": "U+01A4",
+          "glyph": "uni01A4",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 795,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 795,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 795,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 795,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 795,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 795,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 795,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01A5",
+          "glyph": "uni01A5",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 753,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 753,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 753,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 753,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 753,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 753,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 753,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AC",
+          "glyph": "uni01AC",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 680,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AD",
+          "glyph": "uni01AD",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 512,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+01AE",
+          "glyph": "uni01AE",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 650,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0260",
+          "glyph": "uni0260",
+          "contours": 2,
+          "expected_contours": 2,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+0266",
+          "glyph": "uni0266",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 690,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+A7AA",
+          "glyph": "uniA7AA",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 754,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C72",
+          "glyph": "uni2C72",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 1050,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+2C73",
+          "glyph": "uni2C73",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 958,
+              "pass": true
+            }
+          ]
+        },
+        {
+          "codepoint": "U+027D",
+          "glyph": "uni027D",
+          "contours": 1,
+          "expected_contours": 1,
+          "contours_pass": true,
+          "shaped_pairs": [
+            {
+              "following": "H",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "n",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "p",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "j",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "q",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "g",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            },
+            {
+              "following": "y",
+              "intersection_area": 0.0,
+              "first_advance": 480,
+              "pass": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "visual_review": {
+    "assets": [
+      "hooks/hooks-1.png",
+      "hooks/hooks-2.png",
+      "hooks/hooks-3.png",
+      "hooks/hooks-4.png"
+    ],
+    "findings": "All 12 faces visually inspected. The U+0260 bowl-to-hook crop seam and pointed notch are removed. No obvious new lumps, abrupt stroke-width steps, closed hook openings or disconnected contours were observed at proof scale. Other ten glyphs retain the previous reviewed shapes. User design approval remains separate."
+  },
+  "checked_glyphs": 132,
+  "checked_pairs": 924,
+  "topology_failures": [],
+  "collision_failures": [],
+  "all_pass": true
+}

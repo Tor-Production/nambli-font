@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni027D" format="2">
+  <advance width="480"/>
+  <unicode hex="027D"/>
+  <outline>
+    <contour>
+      <point x="48" y="439" type="line"/>
+      <point x="48" y="465"/>
+      <point x="50" y="475" type="qcurve"/>
+      <point x="53" y="488"/>
+      <point x="64" y="496" type="qcurve"/>
+      <point x="81" y="509"/>
+      <point x="105" y="509" type="qcurve"/>
+      <point x="130" y="509"/>
+      <point x="147" y="496" type="qcurve"/>
+      <point x="148" y="494"/>
+      <point x="150" y="493" type="qcurve"/>
+      <point x="158" y="486"/>
+      <point x="171" y="493" type="qcurve"/>
+      <point x="187" y="501" type="line"/>
+      <point x="248" y="528"/>
+      <point x="315" y="523" type="qcurve"/>
+      <point x="387" y="517"/>
+      <point x="448" y="475" type="qcurve"/>
+      <point x="453" y="472"/>
+      <point x="461" y="464"/>
+      <point x="464" y="459" type="qcurve"/>
+      <point x="467" y="455"/>
+      <point x="469" y="449" type="qcurve"/>
+      <point x="471" y="444"/>
+      <point x="472" y="439" type="qcurve"/>
+      <point x="473" y="433"/>
+      <point x="473" y="427" type="qcurve"/>
+      <point x="473" y="422"/>
+      <point x="472" y="416" type="qcurve"/>
+      <point x="468" y="406" type="line"/>
+      <point x="466" y="401"/>
+      <point x="460" y="391"/>
+      <point x="456" y="387" type="qcurve"/>
+      <point x="451" y="383"/>
+      <point x="447" y="380" type="qcurve"/>
+      <point x="442" y="377"/>
+      <point x="432" y="373"/>
+      <point x="426" y="372" type="qcurve"/>
+      <point x="421" y="371"/>
+      <point x="409" y="371"/>
+      <point x="404" y="372" type="qcurve"/>
+      <point x="398" y="374"/>
+      <point x="388" y="378"/>
+      <point x="383" y="381" type="qcurve"/>
+      <point x="348" y="406"/>
+      <point x="306" y="409" type="qcurve"/>
+      <point x="268" y="412"/>
+      <point x="234" y="397" type="qcurve"/>
+      <point x="201" y="382"/>
+      <point x="182" y="355" type="qcurve"/>
+      <point x="162" y="327"/>
+      <point x="162" y="293" type="qcurve"/>
+      <point x="162" y="20" type="line"/>
+      <point x="162" y="-27"/>
+      <point x="179" y="-54" type="qcurve"/>
+      <point x="190" y="-71"/>
+      <point x="203" y="-74" type="qcurve"/>
+      <point x="211" y="-76"/>
+      <point x="216" y="-72" type="qcurve"/>
+      <point x="226" y="-64"/>
+      <point x="228" y="-43" type="qcurve"/>
+      <point x="229" y="-40"/>
+      <point x="230" y="-35"/>
+      <point x="232" y="-30"/>
+      <point x="234" y="-25"/>
+      <point x="237" y="-20"/>
+      <point x="240" y="-15"/>
+      <point x="244" y="-11"/>
+      <point x="248" y="-7"/>
+      <point x="252" y="-3"/>
+      <point x="257" y="0"/>
+      <point x="262" y="2"/>
+      <point x="267" y="4"/>
+      <point x="272" y="6"/>
+      <point x="278" y="7"/>
+      <point x="283" y="7"/>
+      <point x="289" y="7"/>
+      <point x="295" y="6"/>
+      <point x="300" y="5"/>
+      <point x="305" y="3"/>
+      <point x="310" y="1"/>
+      <point x="315" y="-2"/>
+      <point x="320" y="-5"/>
+      <point x="324" y="-9"/>
+      <point x="328" y="-13"/>
+      <point x="332" y="-17"/>
+      <point x="335" y="-22"/>
+      <point x="337" y="-27"/>
+      <point x="339" y="-32"/>
+      <point x="341" y="-37"/>
+      <point x="342" y="-43"/>
+      <point x="342" y="-48"/>
+      <point x="342" y="-54"/>
+      <point x="342" y="-57" type="qcurve"/>
+      <point x="338" y="-90"/>
+      <point x="323" y="-117" type="qcurve"/>
+      <point x="309" y="-145"/>
+      <point x="285" y="-162" type="qcurve"/>
+      <point x="261" y="-180"/>
+      <point x="233" y="-186" type="qcurve"/>
+      <point x="204" y="-192"/>
+      <point x="176" y="-185" type="qcurve"/>
+      <point x="148" y="-178"/>
+      <point x="124" y="-160" type="qcurve"/>
+      <point x="100" y="-142"/>
+      <point x="83" y="-115" type="qcurve"/>
+      <point x="48" y="-60"/>
+      <point x="48" y="20" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.nambli.snapshot.leftSideBearing</key>
+      <integer>48</integer>
+    </dict>
+  </lib>
+</glyph>

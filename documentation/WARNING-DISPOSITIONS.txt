@@ -1,0 +1,39 @@
+Nambli final QA warning dispositions — 2026-10-07
+
+1127 PASS, 134 WARN, 704 SKIP, 80 INFO, 0 FAIL, 0 ERROR, 0 FATAL
+
+No checks excluded. These notes do not turn warnings into passes.
+
+alt_caron: 48 WARN
+Existing decomposed side-caron outlines need human inspection; localized substitution is tested.
+
+googlefonts/metadata/unreachable_subsetting: 12 WARN
+Google serving subset coverage requires onboarding decisions; no misleading script labels were added.
+
+googlefonts/vendor_id: 12 WARN
+NAMB is not claimed as a registered Microsoft vendor ID.
+
+googlefonts/vertical_metrics: 12 WARN
+Existing 1.6 UPM line metrics preserve room for tall accents and descenders.
+
+math_signs_width: 12 WARN
+Math signs retain proportional spacing; changing advances needs a separate spacing decision.
+
+outline_colinear_vectors: 6 WARN
+Approximate collinearity notices include straight joins. Exact zero segments and exact redundant points were removed; remaining heuristics are not blanket-waived.
+
+outline_jaggy_segments: 4 WARN
+Inspect the individual remaining coordinates. New italic hooked P/p and light h-hook backtracking was corrected; unrelated older geometry is preserved.
+
+overlapping_path_segments: 4 WARN
+Small quantized-path overlap notices remain for manual inspection; they are recorded without claiming perfect outlines.
+
+rupee: 12 WARN
+The rupee sign is outside this release's repertoire.
+
+unreachable_glyphs: 12 WARN
+The retained legacy empty .null glyph is unencoded.
+
+All raw warning details are preserved in fontspector-summary.json.
+The review pages preserve the before/after evidence for the compiled fonts.
+Yurii Tor approved the final designs for publication on 2026-10-07.

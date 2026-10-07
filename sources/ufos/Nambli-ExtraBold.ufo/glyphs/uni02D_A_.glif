@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02DA" format="2">
+  <advance width="360"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="267" y="712" type="qcurve"/>
+      <point x="267" y="694"/>
+      <point x="260" y="678" type="qcurve"/>
+      <point x="253" y="662"/>
+      <point x="241" y="650" type="qcurve"/>
+      <point x="229" y="638"/>
+      <point x="214" y="632" type="qcurve"/>
+      <point x="198" y="625"/>
+      <point x="180" y="625" type="qcurve"/>
+      <point x="162" y="625"/>
+      <point x="146" y="632" type="qcurve"/>
+      <point x="131" y="638"/>
+      <point x="119" y="650" type="qcurve"/>
+      <point x="107" y="662"/>
+      <point x="100" y="678" type="qcurve"/>
+      <point x="93" y="694"/>
+      <point x="93" y="712" type="qcurve"/>
+      <point x="93" y="729"/>
+      <point x="100" y="745" type="qcurve"/>
+      <point x="107" y="761"/>
+      <point x="119" y="773" type="qcurve"/>
+      <point x="131" y="785"/>
+      <point x="146" y="791" type="qcurve"/>
+      <point x="162" y="798"/>
+      <point x="180" y="798" type="qcurve"/>
+      <point x="198" y="798"/>
+      <point x="214" y="791" type="qcurve"/>
+      <point x="229" y="785"/>
+      <point x="241" y="773" type="qcurve"/>
+      <point x="253" y="761"/>
+      <point x="260" y="745" type="qcurve"/>
+      <point x="267" y="729"/>
+    </contour>
+    <contour>
+      <point x="208" y="712" type="qcurve"/>
+      <point x="208" y="723"/>
+      <point x="200" y="731" type="qcurve"/>
+      <point x="192" y="740"/>
+      <point x="180" y="740" type="qcurve"/>
+      <point x="168" y="740"/>
+      <point x="160" y="731" type="qcurve"/>
+      <point x="152" y="723"/>
+      <point x="152" y="712" type="qcurve"/>
+      <point x="152" y="700"/>
+      <point x="160" y="692" type="qcurve"/>
+      <point x="168" y="683"/>
+      <point x="180" y="683" type="qcurve"/>
+      <point x="192" y="683"/>
+      <point x="200" y="692" type="qcurve"/>
+      <point x="208" y="700"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.nambli.snapshot.leftSideBearing</key>
+      <integer>93</integer>
+    </dict>
+  </lib>
+</glyph>

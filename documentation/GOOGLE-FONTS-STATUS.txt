@@ -1,46 +1,63 @@
-Google Fonts preparation — 2026-10-07
+Nambli 1.0.0 — approved upstream release, 2026-10-07
 
-This is a public development release, not an accepted Google Fonts family.
-The current 0.704 fonts retain the approved 872-character repertoire.
+STATUS
+Submitted: https://github.com/google/fonts/issues/11082
+Merged design review: https://github.com/Tor-Production/nambli-font/pull/1
+Yurii Tor's Individual CLA was verified as on file on 2026-10-07.
+Google Fonts has not accepted or published Nambli. Yurii Tor approved the
+final designs and authorized publication on 2026-10-07. Upstream release
+v1.0.0 uses font version 1.000 and the exact validated font files.
 
-Fontspector 1.8.0 was rerun on all 12 licensed 0.704 TTFs with its
-googlefonts profile: 1047 PASS, 218 WARN, 49 FAIL, 716 SKIP and 50 INFO.
-There were no ERROR or FATAL results. Network checks were skipped.
-These are subresult counts; some checks return multiple messages. The complete
-grouped public report is fontspector-summary.json in this directory.
+DESIGN REFINEMENT
+All twelve styles contain 970 encoded characters and 998 glyphs. Compared with
+the previous candidate (671f777), 21 forms per style changed: @; P/p with hook;
+T/t with hook; T/r/R retroflex tails; g/h/H/W/w with hook; reversed ezh;
+crossed-tail j, dotless j and J; Latin beta capitals/lowercase; i-ogonek and
+its dotless alternate. Review all 252 cards in:
+  refinement/Nambli-Refinement-Review.html
+The complete comparison with public v0.7.4 remains in:
+  review/Nambli-Technical-Review.html
 
-License, author metadata, RIBBI names and OS/2 codepage ranges were corrected.
-Remaining FAIL groups are:
-- 24 version_format messages: release 0.704 is below the required 1.000.
-- 12 glyph_coverage messages: 20 required Latin Core characters are missing.
-- 12 shape_languages messages: repertoire/shaping findings need review.
-- 1 dirname_matches_nameid_1 message: the current distribution layout uses
-  a ttf directory, whereas Google's repository check expects nambli.
+@ uses the approved a at uniform 0.64 scale. Its circular bowl is now centered
+on the outer loop, with a curvature-continuous right return. Saved-font center
+error is at most 0.2881 font units; the pre-quantization a-counter XOR is zero.
+U+01B9 reuses the existing U+025B outline, retaining its distinct Unicode mapping.
+The 36 crossed-tail counters deviate from circles by at most 0.867 units after
+TTF rounding. Hook joins are continuous; selected italic backtracking segments
+found by final QA were repaired locally. TOP mark anchors follow the revised
+stems and heights; other anchor classes and unrelated layout remain unchanged.
 
-The shape_languages check heuristically infers GF glyphsets and tests their
-languages. This is different from the earlier 238-locale CLDR 48.2 exemplar
-baseline. Its FAIL messages mention 47 GF language identifiers; direct base-code
-matches with that baseline are teo_Latn (Teso) and yo_Latn (Yoruba). Teso needs
-review of seven modifier letters; Yoruba needs review of U+0329 and related
-sequences. WARN messages mention 24 identifiers, including direct matches for
-Igbo, Luo, Nuer, Riffian and Yoruba. Base-code matching is not an exhaustive
-mapping: dialects, aliases and macrolanguages can create additional overlap.
-Many inferred tests extend beyond the documented CLDR baseline, but actual
-overlaps remain. These findings are pending review, not automatically dismissed
-and not a claim that all flagged languages are wholly unsupported.
+PRESERVATION
+All 872 release Unicode mappings and 887 release metrics per face remain.
+10,612 of 10,644 release glyph instances retain exact normalized geometry.
+The 32 exceptions are @ and i-ogonek in all twelve styles, plus heavy ɬ/Ɬ
+aperture repairs in four styles. The refinement changed 21 of 998 forms per
+face; every other outline remains identical to candidate 671f777.
+See approved-outline-preservation.json and refinement-integration.json.
 
-Twenty Latin Core additions and four unencoded source alternatives have been
-prepared separately for all twelve faces in TTF, OTF and WOFF2. Those candidates
-have 892 characters and 911 glyphs, with all prior 887 outlines/metrics verified
-unchanged. They are NOT included in release 0.704. New designs need visual
-approval, and locale activation of the unencoded alternatives needs work.
+PRODUCTION BUILD
+The editable UFOs build independently through Fontmake 3.12.1/ufo2ft 3.9.1.
+11,976 exact glyph comparisons and 105,696 shaping comparisons pass. Two
+builds produce identical SHA-256 hashes for all 24 TTF/WOFF2 files. Reference
+binaries are validation inputs only; feature source, kerning and STAT are
+editable. See production-build-validation.json and sources/BUILDING.md.
+Supplementary OTFs carry the final repaired contours and matching layout;
+unaffected CFF contours are unchanged. The independent build still produces
+TTF/WOFF2, not OTF; see supplementary-otf-validation.json.
 
-Outstanding work includes integrating reviewed Latin Core additions, resolving
-the shaping findings, reviewing overlap/soft-dotted warnings, a fully verified
-production rebuild, and the contributor's Google CLA. The CLA has not been
-signed. Editable UFO3 snapshots
-are included and their original 0.7.3 geometry/feature round trips were verified.
-Public license and metadata in those snapshots have been updated to match.
+FINAL QA
+Fontspector 1.8.0, all twelve final TTFs, complete googlefonts profile,
+network enabled, no exclusions: 1127 PASS, 134 WARN, 704 SKIP, 80 INFO, 0 FAIL, 0 ERROR, 0 FATAL.
+All TTF and OFL hashes are unchanged by QA. Offline results are recorded
+separately; network checks are skipped only in that explicitly offline run.
+See fontspector-summary.json and fontspector-network-summary.json.
+Real HarfBuzz tests cover soft-dotted forms, language substitutions and mark
+stacking; supplementary OTF and editable feature tables match exactly.
+Pairwise contour checks cover 72 R-tail and 924 hook combinations.
+They were repeated on the final build; see refinement-final-pair-validation.json.
 
-The project uses AI tools; this must be disclosed in the submission.
-Google's curatorial acceptance has not been requested or granted yet.
+GOOGLE FONTS REVIEW STILL PENDING
+Author review is complete. Remaining Fontspector WARN/SKIP messages remain
+available in the reports; zero FAIL and upstream publication do not establish
+Google Fonts acceptance. Curatorial and specialist-language review remain
+with the Google Fonts onboarding process.

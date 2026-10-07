@@ -1,0 +1,1742 @@
+{
+  "Nambli-Light": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    }
+  ],
+  "Nambli-Regular": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    }
+  ],
+  "Nambli-Medium": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    }
+  ],
+  "Nambli-SemiBold": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    }
+  ],
+  "Nambli-Bold": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    }
+  ],
+  "Nambli-ExtraBold": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    }
+  ],
+  "Nambli-LightItalic": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    }
+  ],
+  "Nambli-Italic": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    }
+  ],
+  "Nambli-MediumItalic": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    }
+  ],
+  "Nambli-SemiBoldItalic": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    }
+  ],
+  "Nambli-BoldItalic": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    }
+  ],
+  "Nambli-ExtraBoldItalic": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "changed"
+    }
+  ]
+}

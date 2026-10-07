@@ -1,0 +1,627 @@
+{
+  "status": "PASS",
+  "faces": 12,
+  "results": [
+    {
+      "face": "Nambli-Bold",
+      "status": "PASS",
+      "glyphs": [],
+      "changedFiles": [],
+      "sourceSHA256": "7163e59fc7623e669c4fef6d6871ec76c6b164d20bb7b35e53b298769f4d17d0",
+      "ufoValidation": {
+        "face": "Nambli-Bold",
+        "inputSHA256": "7163e59fc7623e669c4fef6d6871ec76c6b164d20bb7b35e53b298769f4d17d0",
+        "ufo": "Nambli-Bold.ufo",
+        "ufoFormat": 3,
+        "glyphs": 998,
+        "encodedCharacters": 970,
+        "quadraticPointOperations": 142275,
+        "contours": 2110,
+        "exactUFOPointRecordings": 998,
+        "exactTTFPathRoundTrips": 998,
+        "exactBinaryGlyphCoordinates": 998,
+        "binaryRepresentationNormalization": [],
+        "exactAdvanceAndLeftSideBearings": 998,
+        "exactUnicodeMappings": 970,
+        "fontInfoAttributesPreserved": 62,
+        "legacyKerningPairsPreserved": 267,
+        "featureTablesRecompiled": {
+          "GDEF": {
+            "byteIdentical": true,
+            "bytes": 132,
+            "sha256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "bytes": 5954,
+            "sha256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "bytes": 22488,
+            "sha256": "090efb273f86a0730cfa3850385ae5cd2c03ba18a4db1c3945fe7363cba2221b"
+          }
+        },
+        "italicAnchorsTransformed": false,
+        "sourceHintingInstructions": 0,
+        "status": "PASS"
+      },
+      "metricsBoundsCmapLayoutExact": true
+    },
+    {
+      "face": "Nambli-BoldItalic",
+      "status": "PASS",
+      "glyphs": [
+        "uni01A4",
+        "uni01A5"
+      ],
+      "changedFiles": [
+        "Nambli-BoldItalic.ufo\\glyphs\\uni01A_4.glif",
+        "Nambli-BoldItalic.ufo\\glyphs\\uni01A_5.glif",
+        "Nambli-BoldItalic.ufo\\lib.plist"
+      ],
+      "sourceSHA256": "196b13fe071e48a86348b10569f4e93b9f2d7d680bba747b0d4948b167a92f54",
+      "ufoValidation": {
+        "face": "Nambli-BoldItalic",
+        "inputSHA256": "196b13fe071e48a86348b10569f4e93b9f2d7d680bba747b0d4948b167a92f54",
+        "ufo": "Nambli-BoldItalic.ufo",
+        "ufoFormat": 3,
+        "glyphs": 998,
+        "encodedCharacters": 970,
+        "quadraticPointOperations": 142762,
+        "contours": 2110,
+        "exactUFOPointRecordings": 998,
+        "exactTTFPathRoundTrips": 998,
+        "exactBinaryGlyphCoordinates": 998,
+        "binaryRepresentationNormalization": [],
+        "exactAdvanceAndLeftSideBearings": 998,
+        "exactUnicodeMappings": 970,
+        "fontInfoAttributesPreserved": 62,
+        "legacyKerningPairsPreserved": 267,
+        "featureTablesRecompiled": {
+          "GDEF": {
+            "byteIdentical": true,
+            "bytes": 132,
+            "sha256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "bytes": 5954,
+            "sha256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "bytes": 22566,
+            "sha256": "4532f1d172f46653a03941030b5ee1f9fd73964ffc9f4a3b412f730999dd69df"
+          }
+        },
+        "italicAnchorsTransformed": true,
+        "sourceHintingInstructions": 0,
+        "status": "PASS"
+      },
+      "metricsBoundsCmapLayoutExact": true
+    },
+    {
+      "face": "Nambli-ExtraBold",
+      "status": "PASS",
+      "glyphs": [],
+      "changedFiles": [],
+      "sourceSHA256": "17885ab53bef4b4d4c98de5329aaa09e0d4f404e64f993b08a55f792658c8d15",
+      "ufoValidation": {
+        "face": "Nambli-ExtraBold",
+        "inputSHA256": "17885ab53bef4b4d4c98de5329aaa09e0d4f404e64f993b08a55f792658c8d15",
+        "ufo": "Nambli-ExtraBold.ufo",
+        "ufoFormat": 3,
+        "glyphs": 998,
+        "encodedCharacters": 970,
+        "quadraticPointOperations": 137110,
+        "contours": 2109,
+        "exactUFOPointRecordings": 998,
+        "exactTTFPathRoundTrips": 998,
+        "exactBinaryGlyphCoordinates": 998,
+        "binaryRepresentationNormalization": [],
+        "exactAdvanceAndLeftSideBearings": 998,
+        "exactUnicodeMappings": 970,
+        "fontInfoAttributesPreserved": 64,
+        "legacyKerningPairsPreserved": 267,
+        "featureTablesRecompiled": {
+          "GDEF": {
+            "byteIdentical": true,
+            "bytes": 132,
+            "sha256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "bytes": 5954,
+            "sha256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "bytes": 22470,
+            "sha256": "dfa0987ca0de59b790ea268fc290c4a07771e3960ae96298aedd427fe011740f"
+          }
+        },
+        "italicAnchorsTransformed": false,
+        "sourceHintingInstructions": 0,
+        "status": "PASS"
+      },
+      "metricsBoundsCmapLayoutExact": true
+    },
+    {
+      "face": "Nambli-ExtraBoldItalic",
+      "status": "PASS",
+      "glyphs": [
+        "uni01A4",
+        "uni01A5"
+      ],
+      "changedFiles": [
+        "Nambli-ExtraBoldItalic.ufo\\glyphs\\uni01A_4.glif",
+        "Nambli-ExtraBoldItalic.ufo\\glyphs\\uni01A_5.glif",
+        "Nambli-ExtraBoldItalic.ufo\\lib.plist"
+      ],
+      "sourceSHA256": "f7700b96cec7584bde30214d60a7a92a8845c29631f9cebc1b9bc29d5afd73f3",
+      "ufoValidation": {
+        "face": "Nambli-ExtraBoldItalic",
+        "inputSHA256": "f7700b96cec7584bde30214d60a7a92a8845c29631f9cebc1b9bc29d5afd73f3",
+        "ufo": "Nambli-ExtraBoldItalic.ufo",
+        "ufoFormat": 3,
+        "glyphs": 998,
+        "encodedCharacters": 970,
+        "quadraticPointOperations": 141343,
+        "contours": 2109,
+        "exactUFOPointRecordings": 998,
+        "exactTTFPathRoundTrips": 998,
+        "exactBinaryGlyphCoordinates": 998,
+        "binaryRepresentationNormalization": [],
+        "exactAdvanceAndLeftSideBearings": 998,
+        "exactUnicodeMappings": 970,
+        "fontInfoAttributesPreserved": 64,
+        "legacyKerningPairsPreserved": 267,
+        "featureTablesRecompiled": {
+          "GDEF": {
+            "byteIdentical": true,
+            "bytes": 132,
+            "sha256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "bytes": 5954,
+            "sha256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "bytes": 22596,
+            "sha256": "828b3a496d78fa603ece3b5f82e4dd105c9e0f7f09cdca2f0d8b160a0c2b7e8d"
+          }
+        },
+        "italicAnchorsTransformed": true,
+        "sourceHintingInstructions": 0,
+        "status": "PASS"
+      },
+      "metricsBoundsCmapLayoutExact": true
+    },
+    {
+      "face": "Nambli-Italic",
+      "status": "PASS",
+      "glyphs": [
+        "uni01A4",
+        "uni01A5"
+      ],
+      "changedFiles": [
+        "Nambli-Italic.ufo\\glyphs\\uni01A_4.glif",
+        "Nambli-Italic.ufo\\glyphs\\uni01A_5.glif",
+        "Nambli-Italic.ufo\\lib.plist"
+      ],
+      "sourceSHA256": "cca0ec1f6e356d4f74a304c836ec1eeb1f5945319dbc6939cf32af29d127a0e2",
+      "ufoValidation": {
+        "face": "Nambli-Italic",
+        "inputSHA256": "cca0ec1f6e356d4f74a304c836ec1eeb1f5945319dbc6939cf32af29d127a0e2",
+        "ufo": "Nambli-Italic.ufo",
+        "ufoFormat": 3,
+        "glyphs": 998,
+        "encodedCharacters": 970,
+        "quadraticPointOperations": 144180,
+        "contours": 2110,
+        "exactUFOPointRecordings": 998,
+        "exactTTFPathRoundTrips": 998,
+        "exactBinaryGlyphCoordinates": 998,
+        "binaryRepresentationNormalization": [],
+        "exactAdvanceAndLeftSideBearings": 998,
+        "exactUnicodeMappings": 970,
+        "fontInfoAttributesPreserved": 62,
+        "legacyKerningPairsPreserved": 267,
+        "featureTablesRecompiled": {
+          "GDEF": {
+            "byteIdentical": true,
+            "bytes": 132,
+            "sha256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "bytes": 5954,
+            "sha256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "bytes": 22566,
+            "sha256": "394dbc7342c473c1483418b48875a6468057ecb15b819deb25b6ab44dfdc31bb"
+          }
+        },
+        "italicAnchorsTransformed": true,
+        "sourceHintingInstructions": 0,
+        "status": "PASS"
+      },
+      "metricsBoundsCmapLayoutExact": true
+    },
+    {
+      "face": "Nambli-Light",
+      "status": "PASS",
+      "glyphs": [],
+      "changedFiles": [],
+      "sourceSHA256": "3e0fda8b8b0158569aef73945b164c0d9d647d38978563575d987ca46676fa64",
+      "ufoValidation": {
+        "face": "Nambli-Light",
+        "inputSHA256": "3e0fda8b8b0158569aef73945b164c0d9d647d38978563575d987ca46676fa64",
+        "ufo": "Nambli-Light.ufo",
+        "ufoFormat": 3,
+        "glyphs": 998,
+        "encodedCharacters": 970,
+        "quadraticPointOperations": 139685,
+        "contours": 2111,
+        "exactUFOPointRecordings": 998,
+        "exactTTFPathRoundTrips": 998,
+        "exactBinaryGlyphCoordinates": 998,
+        "binaryRepresentationNormalization": [],
+        "exactAdvanceAndLeftSideBearings": 998,
+        "exactUnicodeMappings": 970,
+        "fontInfoAttributesPreserved": 64,
+        "legacyKerningPairsPreserved": 267,
+        "featureTablesRecompiled": {
+          "GDEF": {
+            "byteIdentical": true,
+            "bytes": 132,
+            "sha256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "bytes": 5954,
+            "sha256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "bytes": 22452,
+            "sha256": "2d1c6908c6be7c7a70fed082c097761df931318c96e57dd8aa7a71fb16527946"
+          }
+        },
+        "italicAnchorsTransformed": false,
+        "sourceHintingInstructions": 0,
+        "status": "PASS"
+      },
+      "metricsBoundsCmapLayoutExact": true
+    },
+    {
+      "face": "Nambli-LightItalic",
+      "status": "PASS",
+      "glyphs": [
+        "uni01A4",
+        "uni01A5",
+        "uni0266"
+      ],
+      "changedFiles": [
+        "Nambli-LightItalic.ufo\\glyphs\\uni01A_4.glif",
+        "Nambli-LightItalic.ufo\\glyphs\\uni01A_5.glif",
+        "Nambli-LightItalic.ufo\\glyphs\\uni0266.glif",
+        "Nambli-LightItalic.ufo\\lib.plist"
+      ],
+      "sourceSHA256": "1392f44a367715f9c239127266d4e6b5d11b3475b86c0c5c93293adadfa84594",
+      "ufoValidation": {
+        "face": "Nambli-LightItalic",
+        "inputSHA256": "1392f44a367715f9c239127266d4e6b5d11b3475b86c0c5c93293adadfa84594",
+        "ufo": "Nambli-LightItalic.ufo",
+        "ufoFormat": 3,
+        "glyphs": 998,
+        "encodedCharacters": 970,
+        "quadraticPointOperations": 144623,
+        "contours": 2112,
+        "exactUFOPointRecordings": 998,
+        "exactTTFPathRoundTrips": 998,
+        "exactBinaryGlyphCoordinates": 998,
+        "binaryRepresentationNormalization": [],
+        "exactAdvanceAndLeftSideBearings": 998,
+        "exactUnicodeMappings": 970,
+        "fontInfoAttributesPreserved": 64,
+        "legacyKerningPairsPreserved": 267,
+        "featureTablesRecompiled": {
+          "GDEF": {
+            "byteIdentical": true,
+            "bytes": 132,
+            "sha256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "bytes": 5954,
+            "sha256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "bytes": 22524,
+            "sha256": "c684a99ed10184534b4565ee301d0b96859d4076d02c365ee4d82d9ab5ef4188"
+          }
+        },
+        "italicAnchorsTransformed": true,
+        "sourceHintingInstructions": 0,
+        "status": "PASS"
+      },
+      "metricsBoundsCmapLayoutExact": true
+    },
+    {
+      "face": "Nambli-Medium",
+      "status": "PASS",
+      "glyphs": [],
+      "changedFiles": [],
+      "sourceSHA256": "524e48a4b9139e6a09c766051b816b1a41cf5e4693bb3a55846d5c4fa00d9f39",
+      "ufoValidation": {
+        "face": "Nambli-Medium",
+        "inputSHA256": "524e48a4b9139e6a09c766051b816b1a41cf5e4693bb3a55846d5c4fa00d9f39",
+        "ufo": "Nambli-Medium.ufo",
+        "ufoFormat": 3,
+        "glyphs": 998,
+        "encodedCharacters": 970,
+        "quadraticPointOperations": 139056,
+        "contours": 2111,
+        "exactUFOPointRecordings": 998,
+        "exactTTFPathRoundTrips": 998,
+        "exactBinaryGlyphCoordinates": 998,
+        "binaryRepresentationNormalization": [],
+        "exactAdvanceAndLeftSideBearings": 998,
+        "exactUnicodeMappings": 970,
+        "fontInfoAttributesPreserved": 64,
+        "legacyKerningPairsPreserved": 267,
+        "featureTablesRecompiled": {
+          "GDEF": {
+            "byteIdentical": true,
+            "bytes": 132,
+            "sha256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "bytes": 5954,
+            "sha256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "bytes": 22452,
+            "sha256": "7a128ac63db464385c9e8ebda845cb1ef39b5f7e49802418cc4ab2b6c9fbcce2"
+          }
+        },
+        "italicAnchorsTransformed": false,
+        "sourceHintingInstructions": 0,
+        "status": "PASS"
+      },
+      "metricsBoundsCmapLayoutExact": true
+    },
+    {
+      "face": "Nambli-MediumItalic",
+      "status": "PASS",
+      "glyphs": [
+        "uni01A4",
+        "uni01A5"
+      ],
+      "changedFiles": [
+        "Nambli-MediumItalic.ufo\\glyphs\\uni01A_4.glif",
+        "Nambli-MediumItalic.ufo\\glyphs\\uni01A_5.glif",
+        "Nambli-MediumItalic.ufo\\lib.plist"
+      ],
+      "sourceSHA256": "00f109e32ce4fb55f7c7899cf287d5892ac0f20986b52c9e792bf7c2fd04a8a5",
+      "ufoValidation": {
+        "face": "Nambli-MediumItalic",
+        "inputSHA256": "00f109e32ce4fb55f7c7899cf287d5892ac0f20986b52c9e792bf7c2fd04a8a5",
+        "ufo": "Nambli-MediumItalic.ufo",
+        "ufoFormat": 3,
+        "glyphs": 998,
+        "encodedCharacters": 970,
+        "quadraticPointOperations": 143856,
+        "contours": 2110,
+        "exactUFOPointRecordings": 998,
+        "exactTTFPathRoundTrips": 998,
+        "exactBinaryGlyphCoordinates": 998,
+        "binaryRepresentationNormalization": [],
+        "exactAdvanceAndLeftSideBearings": 998,
+        "exactUnicodeMappings": 970,
+        "fontInfoAttributesPreserved": 64,
+        "legacyKerningPairsPreserved": 267,
+        "featureTablesRecompiled": {
+          "GDEF": {
+            "byteIdentical": true,
+            "bytes": 132,
+            "sha256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "bytes": 5954,
+            "sha256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "bytes": 22566,
+            "sha256": "cdb99edd3b2f7b325b4f9a22a800cb8aad858aff3969b35d8935ef3e218c9c07"
+          }
+        },
+        "italicAnchorsTransformed": true,
+        "sourceHintingInstructions": 0,
+        "status": "PASS"
+      },
+      "metricsBoundsCmapLayoutExact": true
+    },
+    {
+      "face": "Nambli-Regular",
+      "status": "PASS",
+      "glyphs": [],
+      "changedFiles": [],
+      "sourceSHA256": "a837d0eab7a6cd27a39871fbfd7ac2a4881e7443d34391b3a55e396275470e4b",
+      "ufoValidation": {
+        "face": "Nambli-Regular",
+        "inputSHA256": "a837d0eab7a6cd27a39871fbfd7ac2a4881e7443d34391b3a55e396275470e4b",
+        "ufo": "Nambli-Regular.ufo",
+        "ufoFormat": 3,
+        "glyphs": 998,
+        "encodedCharacters": 970,
+        "quadraticPointOperations": 139019,
+        "contours": 2110,
+        "exactUFOPointRecordings": 998,
+        "exactTTFPathRoundTrips": 998,
+        "exactBinaryGlyphCoordinates": 998,
+        "binaryRepresentationNormalization": [],
+        "exactAdvanceAndLeftSideBearings": 998,
+        "exactUnicodeMappings": 970,
+        "fontInfoAttributesPreserved": 62,
+        "legacyKerningPairsPreserved": 267,
+        "featureTablesRecompiled": {
+          "GDEF": {
+            "byteIdentical": true,
+            "bytes": 132,
+            "sha256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "bytes": 5954,
+            "sha256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "bytes": 22440,
+            "sha256": "afc7d3e818a8667c305d9eafd592db37c2079249d686c99bddbd37fae4a99cc3"
+          }
+        },
+        "italicAnchorsTransformed": false,
+        "sourceHintingInstructions": 0,
+        "status": "PASS"
+      },
+      "metricsBoundsCmapLayoutExact": true
+    },
+    {
+      "face": "Nambli-SemiBold",
+      "status": "PASS",
+      "glyphs": [],
+      "changedFiles": [],
+      "sourceSHA256": "7aa45f61c37f3533db9bd835d47187b428255167bb3d5835a54d86059275af3d",
+      "ufoValidation": {
+        "face": "Nambli-SemiBold",
+        "inputSHA256": "7aa45f61c37f3533db9bd835d47187b428255167bb3d5835a54d86059275af3d",
+        "ufo": "Nambli-SemiBold.ufo",
+        "ufoFormat": 3,
+        "glyphs": 998,
+        "encodedCharacters": 970,
+        "quadraticPointOperations": 138202,
+        "contours": 2110,
+        "exactUFOPointRecordings": 998,
+        "exactTTFPathRoundTrips": 998,
+        "exactBinaryGlyphCoordinates": 998,
+        "binaryRepresentationNormalization": [],
+        "exactAdvanceAndLeftSideBearings": 998,
+        "exactUnicodeMappings": 970,
+        "fontInfoAttributesPreserved": 64,
+        "legacyKerningPairsPreserved": 267,
+        "featureTablesRecompiled": {
+          "GDEF": {
+            "byteIdentical": true,
+            "bytes": 132,
+            "sha256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "bytes": 5954,
+            "sha256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "bytes": 22488,
+            "sha256": "48e465a66fae34e8bf547bd5f97fc0f12ec6d82ec398a3322464630c6d05a8cf"
+          }
+        },
+        "italicAnchorsTransformed": false,
+        "sourceHintingInstructions": 0,
+        "status": "PASS"
+      },
+      "metricsBoundsCmapLayoutExact": true
+    },
+    {
+      "face": "Nambli-SemiBoldItalic",
+      "status": "PASS",
+      "glyphs": [
+        "uni01A4",
+        "uni01A5"
+      ],
+      "changedFiles": [
+        "Nambli-SemiBoldItalic.ufo\\glyphs\\uni01A_4.glif",
+        "Nambli-SemiBoldItalic.ufo\\glyphs\\uni01A_5.glif",
+        "Nambli-SemiBoldItalic.ufo\\lib.plist"
+      ],
+      "sourceSHA256": "6d79567bc7a84be9a535ccf8f6bd61b34aac662658b8a361f704edd521fc4583",
+      "ufoValidation": {
+        "face": "Nambli-SemiBoldItalic",
+        "inputSHA256": "6d79567bc7a84be9a535ccf8f6bd61b34aac662658b8a361f704edd521fc4583",
+        "ufo": "Nambli-SemiBoldItalic.ufo",
+        "ufoFormat": 3,
+        "glyphs": 998,
+        "encodedCharacters": 970,
+        "quadraticPointOperations": 142646,
+        "contours": 2110,
+        "exactUFOPointRecordings": 998,
+        "exactTTFPathRoundTrips": 998,
+        "exactBinaryGlyphCoordinates": 998,
+        "binaryRepresentationNormalization": [],
+        "exactAdvanceAndLeftSideBearings": 998,
+        "exactUnicodeMappings": 970,
+        "fontInfoAttributesPreserved": 64,
+        "legacyKerningPairsPreserved": 267,
+        "featureTablesRecompiled": {
+          "GDEF": {
+            "byteIdentical": true,
+            "bytes": 132,
+            "sha256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "bytes": 5954,
+            "sha256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "bytes": 22578,
+            "sha256": "b180df37a78c8600516d386bf055cf101ab246ed6fcea319a74f1f5d65fcfbd2"
+          }
+        },
+        "italicAnchorsTransformed": true,
+        "sourceHintingInstructions": 0,
+        "status": "PASS"
+      },
+      "metricsBoundsCmapLayoutExact": true
+    }
+  ],
+  "changedFiles": [
+    "Nambli-BoldItalic.ufo\\glyphs\\uni01A_4.glif",
+    "Nambli-BoldItalic.ufo\\glyphs\\uni01A_5.glif",
+    "Nambli-BoldItalic.ufo\\lib.plist",
+    "Nambli-ExtraBoldItalic.ufo\\glyphs\\uni01A_4.glif",
+    "Nambli-ExtraBoldItalic.ufo\\glyphs\\uni01A_5.glif",
+    "Nambli-ExtraBoldItalic.ufo\\lib.plist",
+    "Nambli-Italic.ufo\\glyphs\\uni01A_4.glif",
+    "Nambli-Italic.ufo\\glyphs\\uni01A_5.glif",
+    "Nambli-Italic.ufo\\lib.plist",
+    "Nambli-LightItalic.ufo\\glyphs\\uni01A_4.glif",
+    "Nambli-LightItalic.ufo\\glyphs\\uni01A_5.glif",
+    "Nambli-LightItalic.ufo\\glyphs\\uni0266.glif",
+    "Nambli-LightItalic.ufo\\lib.plist",
+    "Nambli-MediumItalic.ufo\\glyphs\\uni01A_4.glif",
+    "Nambli-MediumItalic.ufo\\glyphs\\uni01A_5.glif",
+    "Nambli-MediumItalic.ufo\\lib.plist",
+    "Nambli-SemiBoldItalic.ufo\\glyphs\\uni01A_4.glif",
+    "Nambli-SemiBoldItalic.ufo\\glyphs\\uni01A_5.glif",
+    "Nambli-SemiBoldItalic.ufo\\lib.plist"
+  ],
+  "changedGlyphs": 13,
+  "changedFaces": 6,
+  "unchangedSourceFiles": 12041,
+  "featuresAndOtherSourceFilesExact": true
+}

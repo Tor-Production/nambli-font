@@ -6,3 +6,8 @@ venv/
 build-fonts/
 build-ufos/
 build-ufo-validation.json
+build-verification/
+build-verification-repeat/
+build-fonts-repeat/
+review-output/
+previous-release-comparison.json

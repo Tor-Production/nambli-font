@@ -1,4 +1,16 @@
 Nambli font project
+2026-10-07 — 1.000 — approved public release (v1.0.0)
+Yurii Tor approved publication of all twelve styles. The repertoire grows
+to 970 encoded characters and 998 glyphs per style, with localized forms,
+soft-dotted substitutions and combining-mark support. Refined circular @,
+hook joins, crossed-tail loops, beta forms, i-ogonek and reversed ezh.
+Editable UFO masters build reproducibly to TTF/WOFF2. Supplementary OTFs
+include the same approved designs. All 36 font files retain the hashes of
+the validated candidate. Full Google Fonts QA: 1127 PASS, 134 WARN,
+704 SKIP, 80 INFO; 0 FAIL, ERROR or FATAL. Warnings remain documented.
+Google Fonts onboarding is pending in google/fonts#11082; this upstream
+release does not claim acceptance or availability in Google's catalog.
+
 2026-10-07 — 0.704 — OFL preparation
 Yurii Tor confirmed as the public author/rightsholder. Added OFL 1.1,
 licensing metadata and explicit AI provenance. No Reserved Font Name.
