@@ -1,0 +1,16 @@
+{
+  "run": "stock-baseline-network",
+  "public_report": "Explicitly path-redacted copy; severities/messages otherwise preserved.",
+  "original_files_sha256": {
+    "fontspector.json": "44b7d2cdc1edb30f806bef77736b614b798805897b9689a1f036fd131ad1be6b",
+    "summary.json": "94090cdb1e28174ade8c3bcf1d0ece6feacd866d15a41ba391fb39bd6a22ffbd",
+    "stdout.log": "7eeebd031ec002c3231b900981630c6a7c68db628f8aebdaba8a7070c7686cc8",
+    "stderr.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "redacted_json_sha256": "36d45bce752d4829f8f200f678dca578051e1596debd6812db89db967f83249a",
+  "redacted_gzip_sha256": "cf325c617c862b94f9dccabcf6d66693d72e72f4027722f9c56fbfac3f9e3a81",
+  "redacted_log_gzip_sha256": {
+    "stderr.log.redacted.txt.gz": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+    "stdout.log.redacted.txt.gz": "e6dd8db40fbe480323422a45b5f5b2bb02c1f860f22d9bfb89cd87f8ed5df3af"
+  }
+}

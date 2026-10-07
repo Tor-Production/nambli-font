@@ -1,0 +1,12 @@
+{
+  "engine": "firefox",
+  "status": "NOT TESTED",
+  "versions": {
+    "playwright": "1.62.1"
+  },
+  "checks": [],
+  "platform_font_diagnostics": [],
+  "responses": [],
+  "page_errors": [],
+  "reason": "Error: browserType.launch: Executable doesn't exist at <HOME>\\AppData\\Local\\ms-playwright\\firefox-1538\\firefox\\firefox.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
+}

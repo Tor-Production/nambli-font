@@ -1,0 +1,16 @@
+{
+  "run": "stock-final-binary-import-layout-network",
+  "public_report": "Explicitly path-redacted copy; severities/messages otherwise preserved.",
+  "original_files_sha256": {
+    "fontspector.json": "bc64ed91282863a2266ac874b2eb093e8246ee874aa73dfc144e990775072975",
+    "summary.json": "d711fbaf9616424bdfe1a5225d365293970dd85b91b861efdcae99001f01cb0a",
+    "stdout.log": "51caa38823803b4ed4b4f4c727f6bbdf8a313a8df273419ad42117d0e0694def",
+    "stderr.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "redacted_json_sha256": "b7da9712539f85e20e6b956f1fd151dd90ceaf4a2d00165ec731505c5fb3beb7",
+  "redacted_gzip_sha256": "2a4a26d737a3eefb1fc4a95f1cdbe975db970b98b7c5e8f819af8270ccc74bb9",
+  "redacted_log_gzip_sha256": {
+    "stderr.log.redacted.txt.gz": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+    "stdout.log.redacted.txt.gz": "c22284c9c1d10c17e0f620f12747eb46cf4b381560145b78726911fbdbba847d"
+  }
+}

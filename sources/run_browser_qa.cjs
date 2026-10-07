@@ -73,9 +73,10 @@ async function test(engine, config={}) {
           await session.send('DOM.enable');await session.send('CSS.enable');
           const {root}=await session.send('DOM.getDocument');
           const {nodeIds}=await session.send('DOM.querySelectorAll',{nodeId:root.nodeId,selector:'td.sample'});
-          for(const nodeId of nodeIds.slice(0,12)) {
+          const labels=await page.locator('td.sample').evaluateAll(nodes=>nodes.slice(0,12).map(el=>({sample:el.parentElement.dataset.sample,variant:el.dataset.variant})));
+          for(const [index,nodeId] of nodeIds.slice(0,12).entries()) {
             const diagnostics=await session.send('CSS.getPlatformFontsForNode',{nodeId});
-            result.platform_font_diagnostics.push({face,nodeId,...diagnostics});
+            result.platform_font_diagnostics.push({face,nodeId,...labels[index],...diagnostics});
           }
           await session.detach();
         }
@@ -85,7 +86,7 @@ async function test(engine, config={}) {
       differences:Object.fromEntries(['baseline','ext-only','patched','coherent'].map(v=>[v,result.checks.filter(c=>c.outcomes[v].different_pixels!==0).length])),
       failed_font_responses:result.responses.filter(r=>r.status!==200).length,
       webfont_responses:result.responses.length};
-    result.candidate_strategy='Coalesced declared Latin subsets with canonical cmap closure; separate Cyrillic font';
+    result.candidate_strategy='Coalesced Latin/common with canonical cmap closure; separate Cyrillic font; entire encoded repertoire retained';
     result.literal_nam_status=result.summary.differences.patched ? 'DIFFERENCES REMAIN' : 'PASS';
     result.status=result.summary.failed_font_responses || result.page_errors.length ? 'ERROR' : result.summary.differences.coherent ? 'REGRESSION FOUND' : 'PASS';
   } catch(e) {result.reason=String(e);if(browser)result.status='ERROR';}

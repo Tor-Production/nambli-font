@@ -78,7 +78,8 @@ def main():
         'nam_sha256':{v:{s:hashlib.sha256((root/f'{s}_unique-glyphs.nam').read_bytes()).hexdigest() for s in SUBSETS}
             for v,root in [('baseline',args.baseline_nam),('patched',args.patched_nam)]},
         'python_unicode':ud.unidata_version,'corpus_sha256':hashlib.sha256(args.corpus.read_bytes()).hexdigest(),
-        'fonts':{},'shape_results':[],'single_subfont_cluster_tests':[]}
+        'fonts':{},'shape_results':[],'single_subfont_cluster_tests':[],
+        'coherent_repertoire_tests':[]}
     css=[];faces=[]
     for src in sorted(args.family.glob('*.ttf')):
         face=src.stem;faces.append(face);full=args.output/'fonts'/f'{face}-full.woff2'
@@ -100,12 +101,27 @@ def main():
         # METADATA subset labels are unchanged. This is an explicit local model
         # requiring a backend/CSS-serving change, not Google's current output.
         coherent_shapers={}
-        for group, advertised in [('cyrillic',sets['patched']['cyrillic']),
-            ('latin-coherent',set.union(*(sets['patched'][s] for s in ['latin','latin-ext','vietnamese'])))]:
+        # This serving proposal must not drop encoded characters merely because
+        # their declared NAM range is missing. Keep every encoded Cyrillic form
+        # with Cyrillic and the remaining repertoire in the Latin/common font.
+        # Name-based grouping is explicit local modeling, not a claim about the
+        # private Google backend's script-extension/routing implementation.
+        cyrillic={cp for cp in full_cps if 'CYRILLIC' in ud.name(chr(cp),'')}
+        groups={'cyrillic':sets['patched']['cyrillic'] | cyrillic,
+            'latin-coherent':set.union(*(sets['patched'][s] for s in ['latin','latin-ext','vietnamese'])) | (full_cps-cyrillic)}
+        for group, advertised in groups.items():
             dst=args.output/'fonts'/f'{face}-coherent-{group}.woff2'
             manifest['fonts'][dst.name]=subset_font(src,dst,canonical_closure(full_cps & advertised,full_cps))
             coherent_shapers[group]=shaper(dst)
             css.append(f"@font-face{{font-family:'{face}-coherent';src:url(fonts/{dst.name}) format('woff2');font-weight:400;font-style:normal;unicode-range:{ranges(advertised)};}}")
+        union=set.union(*(set(sh[2]) for sh in coherent_shapers.values()))
+        assert union==full_cps,(face,'coherent repertoire loss')
+        reference_shaper=shaper(src)
+        for cp in sorted(full_cps):
+            group='cyrillic' if cp in cyrillic else 'latin-coherent'
+            assert shape(coherent_shapers[group],chr(cp))==shape(reference_shaper,chr(cp)),(face,hex(cp),'coherent encoded character')
+        manifest['coherent_repertoire_tests'].append({'face':face,'encoded_characters':len(full_cps),
+            'all_encoded_characters_retained':True,'single_character_shapes_equal_full_ttf':True})
         # Exact samples, NFC/NFD equivalence, and control strings in full fonts.
         original=shaper(src)
         for sample in corpus['samples']:
@@ -128,12 +144,14 @@ def main():
         for text in all_clusters:
             ref=shape(full_shaper,text)
             outcomes={v:[s for s,sh in subset_shapers[v].items() if shape(sh,text)==ref] for v in subset_shapers}
+            outcomes['coherent']=[s for s,sh in coherent_shapers.items() if shape(sh,text)==ref]
             manifest['single_subfont_cluster_tests'].append({'face':face,'cluster':text,'matching_subfonts':outcomes})
         print(face, 'WOFF2 and cluster shaping checked',flush=True)
     manifest['summary']={'faces':len(faces),'woff2_files':len(manifest['fonts']),
         'full_shape_tests':len(manifest['shape_results']),
         'cluster_tests':len(manifest['single_subfont_cluster_tests']),
-        'unmatched_clusters':{v:sum(not r['matching_subfonts'][v] for r in manifest['single_subfont_cluster_tests']) for v in sets}}
+        'coherent_encoded_character_checks':sum(r['encoded_characters'] for r in manifest['coherent_repertoire_tests']),
+        'unmatched_clusters':{v:sum(not r['matching_subfonts'][v] for r in manifest['single_subfont_cluster_tests']) for v in [*sets,'coherent']}}
     (args.output/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
     (args.output/'corpus.json').write_text(json.dumps(corpus,ensure_ascii=False,indent=2),encoding='utf-8')
     (args.output/'fonts.css').write_text('\n'.join(css),encoding='utf-8')
@@ -142,7 +160,7 @@ def main():
         f'<td class="sample" data-variant="{v}" lang="{html.escape(s.get("language","en"))}">{html.escape(s["text"])}</td>' for v in ['full','baseline','ext-only','patched','coherent'])+'</tr>' for s in corpus['samples'] if s.get('display'))
     page='''<!doctype html><html lang="en"><meta charset="utf-8"><title>Nambli subset regression review</title>
 <link rel="stylesheet" href="fonts.css"><style>body{margin:28px;background:#f7f6ff;color:#242338;font:15px system-ui}h1{font-size:26px}select{padding:10px}table{width:100%;border-collapse:collapse;background:white;margin-top:24px;table-layout:fixed}th,td{border:1px solid #ddd9f4;padding:16px}th{font:12px system-ui;text-align:left}td.sample{font-size:44px;overflow-wrap:anywhere;line-height:1.5}details{margin-top:24px}pre{white-space:pre-wrap}#status{margin-top:12px}</style>
-<h1>Nambli — full font and actual WOFF2 subsets</h1><p>Local NAM/fontTools model. The coherent candidate merges the three declared Latin sets into one physical font with canonical cmap closure. This requires a serving change; it does not verify Google's private pipeline or Safari/iOS.</p>
+<h1>Nambli — full font and actual WOFF2 subsets</h1><p>Local NAM/fontTools model. The coherent candidate merges the three declared Latin sets into one physical font with canonical cmap closure and preserves all encoded characters in Latin/common or Cyrillic groups. This requires a serving change; it does not verify Google's private pipeline or Safari/iOS.</p>
 <label>Style <select id="face">'''+''.join(f'<option>{f}</option>' for f in faces)+'''</select></label><div id="status">Loading fonts…</div>
 <table><thead><tr><th>Control</th><th>Full font</th><th>Stock NAM</th><th>Six marks in latin-ext only</th><th>Patched NAM, literal splits</th><th>Coherent serving candidate</th></tr></thead><tbody>'''+rows+'''</tbody></table>
 <details><summary>Exact failing language samples and regression corpus</summary><pre id="corpus"></pre></details>

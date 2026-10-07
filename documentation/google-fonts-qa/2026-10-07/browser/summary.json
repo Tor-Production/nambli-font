@@ -1,0 +1,59 @@
+{
+  "results": [
+    {
+      "engine": "chromium",
+      "status": "PASS",
+      "versions": {
+        "playwright": "1.62.1",
+        "browser": "153.0.8010.12"
+      },
+      "summary": {
+        "styles": 12,
+        "text_checks": 576,
+        "differences": {
+          "baseline": 528,
+          "ext-only": 444,
+          "patched": 132,
+          "coherent": 0
+        },
+        "failed_font_responses": 0,
+        "webfont_responses": 180
+      }
+    },
+    {
+      "engine": "firefox",
+      "status": "NOT TESTED",
+      "versions": {
+        "playwright": "1.62.1"
+      },
+      "reason": "Error: browserType.launch: Executable doesn't exist at <HOME>\\AppData\\Local\\ms-playwright\\firefox-1538\\firefox\\firefox.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
+    },
+    {
+      "engine": "webkit",
+      "status": "PASS",
+      "versions": {
+        "playwright": "1.62.1",
+        "browser": "26.5"
+      },
+      "summary": {
+        "styles": 12,
+        "text_checks": 576,
+        "differences": {
+          "baseline": 540,
+          "ext-only": 468,
+          "patched": 180,
+          "coherent": 0
+        },
+        "failed_font_responses": 0,
+        "webfont_responses": 180
+      }
+    }
+  ],
+  "screenshots": {
+    "chromium-Nambli-Italic.png": "754e6b64b64e76c11ab545b17887d2ebc7d9e9393a91060cabfa0b73ba4bfb1b",
+    "chromium-Nambli-Regular.png": "c100f3c0ff649cb6fc78cecd4ef51831fdbda744c58fb2f751a710333c013f3a",
+    "webkit-Nambli-Italic.png": "e3f1267f703fa6bbacf9bf68ababe90a98372abf280ac3e672cb0d14f4ff3125",
+    "webkit-Nambli-Regular.png": "67e5478bcfda03fab572128d05e5d0762e05831c1123c1925c455171b4dfba34"
+  },
+  "request_count": 367
+}

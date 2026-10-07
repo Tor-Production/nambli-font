@@ -1,0 +1,30 @@
+{
+  "latin": {
+    "added": [],
+    "removed": []
+  },
+  "latin-ext": {
+    "added": [
+      8385,
+      8386,
+      8387,
+      8388,
+      42958,
+      42959,
+      42962,
+      42964,
+      42973,
+      42978,
+      42993
+    ],
+    "removed": []
+  },
+  "vietnamese": {
+    "added": [],
+    "removed": []
+  },
+  "cyrillic": {
+    "added": [],
+    "removed": []
+  }
+}
