@@ -5,11 +5,15 @@ import argparse, base64, html, json
 from pathlib import Path
 from fontTools.ttLib import TTFont
 from fontTools.pens.svgPathPen import SVGPathPen
+from fontTools.pens.boundsPen import BoundsPen
 from validate_build import point_recording
 
 def svg(font, name):
     gs = font.getGlyphSet(); pen = SVGPathPen(gs); gs[name].draw(pen)
-    return '<svg viewBox="-150 -1050 1100 1400"><path transform="scale(1 -1)" d="' + pen.getCommands() + '"/></svg>'
+    bounds=BoundsPen(gs);gs[name].draw(bounds)
+    xmin,ymin,xmax,ymax=bounds.bounds or (0,0,0,0)
+    left=min(-150,xmin-80);right=max(font['hmtx'][name][0]+150,xmax+80)
+    return f'<svg viewBox="{left} -1050 {right-left} 1400"><path transform="scale(1 -1)" d="' + pen.getCommands() + '"/></svg>'
 
 def main():
     p = argparse.ArgumentParser(description=__doc__)
