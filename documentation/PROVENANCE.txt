@@ -31,10 +31,11 @@ Yurii Tor's Google Individual CLA was verified as on file on 2026-10-07.
 Google Fonts acceptance is not confirmed.
 The original raster logo and private conversation are not included.
 
-The 1.000 technical candidate adds Nambli-derived language characters and
-mark/layout support using AI-assisted outline programming. New additions and
-the explicitly documented visual repairs are candidates for human design
-review; the earlier approvals do not imply approval of those new shapes.
+Release 1.0.0 (font version 1.000) adds Nambli-derived language characters and
+mark/layout support using AI-assisted outline programming. Yurii Tor reviewed
+the new additions and documented visual repairs, approved the final designs,
+and requested publication on 2026-10-07. This design approval does not change
+the licensing scope or imply a legal determination of copyright protection.
 Unicode reference charts informed character structure; no third-party font
 outlines were copied into the additions. Current production sources are the
 editable UFOs, compiled using Fontmake/ufo2ft and FontTools. Tool dependencies
