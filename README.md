@@ -8,9 +8,9 @@ outline programming and engineering.
 
 Six weights — Light, Regular, Medium, SemiBold, Bold and ExtraBold — each have
 an italic companion. The family is intended for branding, headings and short
-text. This development branch contains a 1.000 technical candidate for review;
-the published v0.7.4 release remains available separately.
-The candidate contains 970 encoded characters and 998 glyphs per style.
+text. Release **1.0.0** (font version 1.000) contains 970 encoded characters
+and 998 glyphs per style. Yurii Tor approved the final designs for publication
+on 2026-10-07. The earlier v0.7.4 release remains available separately.
 
 ## Download and use
 
@@ -34,7 +34,7 @@ of authorship is claimed by this repository.
 
 ## Source and build
 
-The twelve editable UFO3 masters in `sources/ufos` include the complete candidate
+The twelve editable UFO3 masters in `sources/ufos` include the complete released
 outlines, metrics, Unicode mapping, kerning and OpenType feature source. Build
 them with the pinned Fontmake toolchain:
 
@@ -59,9 +59,9 @@ master in `sources/master`.
 Individual CLA was verified on 2026-10-07. Submission and a signed CLA do not
 establish curatorial acceptance.
 
-The 1.000 candidate adds required characters and language support, corrects
+Release 1.0.0 adds required characters and language support, corrects
 layout and outline defects, and supplies a reproducible production build.
-New and changed designs still need visual review. Detailed results and remaining
+The final designs are author-approved. Detailed results and remaining
 findings are recorded in [Google Fonts status](documentation/GOOGLE-FONTS-STATUS.txt).
 
 The latest [design refinement proof](documentation/refinement/Nambli-Refinement-Review.html)

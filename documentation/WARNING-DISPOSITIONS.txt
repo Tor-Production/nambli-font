@@ -29,10 +29,11 @@ overlapping_path_segments: 4 WARN
 Small quantized-path overlap notices remain for manual inspection; they are recorded without claiming perfect outlines.
 
 rupee: 12 WARN
-The rupee sign is outside this candidate repertoire.
+The rupee sign is outside this release's repertoire.
 
 unreachable_glyphs: 12 WARN
 The retained legacy empty .null glyph is unencoded.
 
 All raw warning details are preserved in fontspector-summary.json.
-The final review pages render the actual compiled fonts. Author review remains pending.
+The review pages preserve the before/after evidence for the compiled fonts.
+Yurii Tor approved the final designs for publication on 2026-10-07.

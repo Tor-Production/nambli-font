@@ -1,7 +1,8 @@
 {
   "family": "Nambli",
   "font_version": "1.000",
-  "status": "unreleased refined candidate; visual review pending",
+  "release": "v1.0.0",
+  "status": "author-approved public release; Google Fonts onboarding pending",
   "encoded_characters": 970,
   "glyphs": 998,
   "files": [
