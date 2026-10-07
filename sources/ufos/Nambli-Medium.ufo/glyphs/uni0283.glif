@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0283" format="2">
+  <advance width="440"/>
+  <unicode hex="0283"/>
+  <outline>
+    <contour>
+      <point x="401" y="678" type="qcurve"/>
+      <point x="402" y="676"/>
+      <point x="404" y="671"/>
+      <point x="405" y="666"/>
+      <point x="406" y="661"/>
+      <point x="406" y="656"/>
+      <point x="406" y="651"/>
+      <point x="406" y="646"/>
+      <point x="404" y="641"/>
+      <point x="403" y="636"/>
+      <point x="401" y="632"/>
+      <point x="398" y="627"/>
+      <point x="395" y="623"/>
+      <point x="392" y="619"/>
+      <point x="388" y="616"/>
+      <point x="384" y="613"/>
+      <point x="380" y="610"/>
+      <point x="376" y="608"/>
+      <point x="371" y="606"/>
+      <point x="366" y="605"/>
+      <point x="361" y="604"/>
+      <point x="356" y="604"/>
+      <point x="351" y="604"/>
+      <point x="346" y="604"/>
+      <point x="341" y="606"/>
+      <point x="336" y="607"/>
+      <point x="332" y="609"/>
+      <point x="327" y="612"/>
+      <point x="323" y="615"/>
+      <point x="319" y="618"/>
+      <point x="316" y="622"/>
+      <point x="313" y="626"/>
+      <point x="310" y="630"/>
+      <point x="309" y="632" type="qcurve"/>
+      <point x="297" y="657"/>
+      <point x="279" y="666" type="qcurve"/>
+      <point x="265" y="672"/>
+      <point x="252" y="668" type="qcurve"/>
+      <point x="237" y="664"/>
+      <point x="226" y="647" type="qcurve"/>
+      <point x="211" y="624"/>
+      <point x="211" y="585" type="qcurve"/>
+      <point x="211" y="25" type="line"/>
+      <point x="211" y="-49"/>
+      <point x="188" y="-104" type="qcurve"/>
+      <point x="164" y="-161"/>
+      <point x="122" y="-186" type="qcurve"/>
+      <point x="99" y="-200"/>
+      <point x="73" y="-202" type="qcurve"/>
+      <point x="46" y="-204"/>
+      <point x="22" y="-192" type="qcurve"/>
+      <point x="-1" y="-181"/>
+      <point x="-19" y="-159" type="qcurve"/>
+      <point x="-34" y="-139"/>
+      <point x="-44" y="-111" type="qcurve"/>
+      <point x="-44" y="-109"/>
+      <point x="-46" y="-104"/>
+      <point x="-46" y="-99"/>
+      <point x="-46" y="-94"/>
+      <point x="-46" y="-89"/>
+      <point x="-45" y="-84"/>
+      <point x="-44" y="-79"/>
+      <point x="-42" y="-74"/>
+      <point x="-40" y="-70"/>
+      <point x="-37" y="-66"/>
+      <point x="-34" y="-62"/>
+      <point x="-31" y="-58"/>
+      <point x="-27" y="-55"/>
+      <point x="-23" y="-52"/>
+      <point x="-18" y="-49"/>
+      <point x="-14" y="-47"/>
+      <point x="-9" y="-46"/>
+      <point x="-4" y="-44"/>
+      <point x="1" y="-44"/>
+      <point x="6" y="-44"/>
+      <point x="11" y="-44"/>
+      <point x="16" y="-45"/>
+      <point x="21" y="-46"/>
+      <point x="26" y="-48"/>
+      <point x="30" y="-50"/>
+      <point x="34" y="-53"/>
+      <point x="38" y="-56"/>
+      <point x="42" y="-59"/>
+      <point x="45" y="-63"/>
+      <point x="48" y="-67"/>
+      <point x="51" y="-72"/>
+      <point x="53" y="-76"/>
+      <point x="54" y="-79" type="qcurve"/>
+      <point x="57" y="-90"/>
+      <point x="62" y="-96" type="qcurve"/>
+      <point x="64" y="-99"/>
+      <point x="66" y="-99" type="qcurve"/>
+      <point x="67" y="-99"/>
+      <point x="69" y="-98" type="qcurve"/>
+      <point x="83" y="-90"/>
+      <point x="93" y="-64" type="qcurve"/>
+      <point x="109" y="-28"/>
+      <point x="109" y="25" type="qcurve"/>
+      <point x="109" y="585" type="line"/>
+      <point x="109" y="653"/>
+      <point x="139" y="702" type="qcurve"/>
+      <point x="154" y="726"/>
+      <point x="176" y="743" type="qcurve"/>
+      <point x="197" y="759"/>
+      <point x="222" y="767" type="qcurve"/>
+      <point x="247" y="774"/>
+      <point x="274" y="772" type="qcurve"/>
+      <point x="300" y="769"/>
+      <point x="324" y="758" type="qcurve"/>
+      <point x="373" y="733"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.nambli.snapshot.leftSideBearing</key>
+      <integer>-46</integer>
+    </dict>
+  </lib>
+</glyph>

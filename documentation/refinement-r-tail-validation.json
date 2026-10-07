@@ -1,0 +1,928 @@
+{
+  "scope": "Read-only independent R-tail review; no font edits",
+  "glyph": "uni2C64",
+  "pair_following_codepoints": [
+    "006A",
+    "0070",
+    "0071",
+    "0067",
+    "0079",
+    "012F"
+  ],
+  "faces": [
+    {
+      "face": "Nambli-Bold",
+      "sha256": "763344f44c3113504a8b7b09334aa9d64ff47eff204b35513cd5aaa87201b54d",
+      "before": {
+        "bounds": [
+          46.0,
+          -211.06666564941406,
+          773.0,
+          740.0
+        ],
+        "advance": 767,
+        "right_sidebearing": -6.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 767
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 767
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 767
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 767
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 767
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 767
+          }
+        }
+      },
+      "candidate": {
+        "bounds": [
+          46.0,
+          -184.4545440673828,
+          737.0,
+          740.0
+        ],
+        "advance": 767,
+        "right_sidebearing": 30.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 767
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 767
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 767
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 767
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 767
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 767
+          }
+        }
+      }
+    },
+    {
+      "face": "Nambli-BoldItalic",
+      "sha256": "2d0d65d9c5e7f8ad480f6f14b1728c657fbd4bd46a2a5f6786078efe28e990f8",
+      "before": {
+        "bounds": [
+          9.0,
+          -212.06666564941406,
+          708.0,
+          740.0
+        ],
+        "advance": 765,
+        "right_sidebearing": 57.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 1.0423530973494053,
+            "first_advance": 765
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 765
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 765
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 765
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 765
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 765
+          }
+        }
+      },
+      "candidate": {
+        "bounds": [
+          9.0,
+          -185.3333282470703,
+          678.0,
+          740.0
+        ],
+        "advance": 765,
+        "right_sidebearing": 87.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 765
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 765
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 765
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 765
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 765
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 765
+          }
+        }
+      }
+    },
+    {
+      "face": "Nambli-ExtraBold",
+      "sha256": "26640be4f2467f50eb24caed6bf8f150a54cb74cea6fe4ecb74313916519bccb",
+      "before": {
+        "bounds": [
+          46.0,
+          -216.4705810546875,
+          769.0,
+          740.0
+        ],
+        "advance": 757,
+        "right_sidebearing": -12.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 278.35760011275613,
+            "first_advance": 757
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 757
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 757
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 757
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 757
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 757
+          }
+        }
+      },
+      "candidate": {
+        "bounds": [
+          46.0,
+          -192.11764526367188,
+          727.0,
+          740.0
+        ],
+        "advance": 757,
+        "right_sidebearing": 30.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 757
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 757
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 757
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 757
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 757
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 757
+          }
+        }
+      }
+    },
+    {
+      "face": "Nambli-ExtraBoldItalic",
+      "sha256": "a2e4158f79ddea7a04d34223ca52917808996b38187afa21402dfa07e98c28d7",
+      "before": {
+        "bounds": [
+          10.833333015441895,
+          -217.4705810546875,
+          703.75,
+          740.0
+        ],
+        "advance": 755,
+        "right_sidebearing": 51.25,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 367.9509613116583,
+            "first_advance": 755
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 755
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 755
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 755
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 755
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 755
+          }
+        }
+      },
+      "candidate": {
+        "bounds": [
+          10.833333015441895,
+          -193.11764526367188,
+          668.047607421875,
+          740.0
+        ],
+        "advance": 755,
+        "right_sidebearing": 86.952392578125,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 755
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 755
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 755
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 755
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 755
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 755
+          }
+        }
+      }
+    },
+    {
+      "face": "Nambli-Italic",
+      "sha256": "e56ca00f0d06ce2f82746cf4980ac0a6511ce9c70790eb16359c2524c71bd60b",
+      "before": {
+        "bounds": [
+          6.0,
+          -199.6923065185547,
+          718.0,
+          740.0
+        ],
+        "advance": 788,
+        "right_sidebearing": 70.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 788
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 788
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 788
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 788
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 788
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 788
+          }
+        }
+      },
+      "candidate": {
+        "bounds": [
+          6.0,
+          -168.57142639160156,
+          691.0,
+          740.0
+        ],
+        "advance": 788,
+        "right_sidebearing": 97.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 788
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 788
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 788
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 788
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 788
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 788
+          }
+        }
+      }
+    },
+    {
+      "face": "Nambli-Light",
+      "sha256": "d9e883196abcd796ab941c063f135300919b1a12f362b7f1d0f396b90cf72ee8",
+      "before": {
+        "bounds": [
+          46.0,
+          -192.36363220214844,
+          789.0,
+          740.0
+        ],
+        "advance": 803,
+        "right_sidebearing": 14.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 803
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 803
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 803
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 803
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 803
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 803
+          }
+        }
+      },
+      "candidate": {
+        "bounds": [
+          46.0,
+          -157.57142639160156,
+          737.0,
+          740.0
+        ],
+        "advance": 803,
+        "right_sidebearing": 66.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 803
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 803
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 803
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 803
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 803
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 803
+          }
+        }
+      }
+    },
+    {
+      "face": "Nambli-LightItalic",
+      "sha256": "bcfa1afe894536fecd2f0e6ae0c7ba4e28147fce081799544267209c52a2dce3",
+      "before": {
+        "bounds": [
+          4.833333492279053,
+          -192.36363220214844,
+          724.0,
+          740.0
+        ],
+        "advance": 802,
+        "right_sidebearing": 78.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 802
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 802
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 802
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 802
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 802
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 802
+          }
+        }
+      },
+      "candidate": {
+        "bounds": [
+          4.833333492279053,
+          -158.125,
+          680.0,
+          740.0
+        ],
+        "advance": 802,
+        "right_sidebearing": 122.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 802
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 802
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 802
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 802
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 802
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 802
+          }
+        }
+      }
+    },
+    {
+      "face": "Nambli-Medium",
+      "sha256": "7471213f2af9f73bc41160ce656863faac0fd11a32d9f2875b9222f49da64c3a",
+      "before": {
+        "bounds": [
+          46.0,
+          -204.6923065185547,
+          779.0,
+          740.0
+        ],
+        "advance": 779,
+        "right_sidebearing": 0.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 779
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 779
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 779
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 779
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 779
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 779
+          }
+        }
+      },
+      "candidate": {
+        "bounds": [
+          46.0,
+          -175.0,
+          749.0,
+          740.0
+        ],
+        "advance": 779,
+        "right_sidebearing": 30.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 779
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 779
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 779
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 779
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 779
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 779
+          }
+        }
+      }
+    },
+    {
+      "face": "Nambli-MediumItalic",
+      "sha256": "8544999b1a92b8c3301945f5c111a57bef2c47b6a7fb6075ca374cb8e3849f55",
+      "before": {
+        "bounds": [
+          7.833333492279053,
+          -205.06666564941406,
+          713.75,
+          740.0
+        ],
+        "advance": 778,
+        "right_sidebearing": 64.25,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 778
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 778
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 778
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 778
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 778
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 778
+          }
+        }
+      },
+      "candidate": {
+        "bounds": [
+          7.833333492279053,
+          -176.0,
+          691.0,
+          740.0
+        ],
+        "advance": 778,
+        "right_sidebearing": 87.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 778
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 778
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 778
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 778
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 778
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 778
+          }
+        }
+      }
+    },
+    {
+      "face": "Nambli-Regular",
+      "sha256": "cb5018684f855eddd97c6e3a4120fb9a876fc44112229811f3a28be179363151",
+      "before": {
+        "bounds": [
+          46.0,
+          -199.6923065185547,
+          783.0,
+          740.0
+        ],
+        "advance": 789,
+        "right_sidebearing": 6.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 789
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 789
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 789
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 789
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 789
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 789
+          }
+        }
+      },
+      "candidate": {
+        "bounds": [
+          46.0,
+          -168.0,
+          748.0,
+          740.0
+        ],
+        "advance": 789,
+        "right_sidebearing": 41.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 789
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 789
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 789
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 789
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 789
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 789
+          }
+        }
+      }
+    },
+    {
+      "face": "Nambli-SemiBold",
+      "sha256": "02161fe4a9b89ee11d5aaec9bb8938717f720ee0624fcc53c1b2dd6c5f1817bb",
+      "before": {
+        "bounds": [
+          46.0,
+          -208.06666564941406,
+          776.0,
+          740.0
+        ],
+        "advance": 773,
+        "right_sidebearing": -3.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 773
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 773
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 773
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 773
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 773
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 773
+          }
+        }
+      },
+      "candidate": {
+        "bounds": [
+          46.0,
+          -179.89999389648438,
+          743.0,
+          740.0
+        ],
+        "advance": 773,
+        "right_sidebearing": 30.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 773
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 773
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 773
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 773
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 773
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 773
+          }
+        }
+      }
+    },
+    {
+      "face": "Nambli-SemiBoldItalic",
+      "sha256": "c6baf24067f94e89332901ecbb45096b20a6308ebb00b7ad2725d2b0255660f1",
+      "before": {
+        "bounds": [
+          8.0,
+          -209.06666564941406,
+          711.0,
+          740.0
+        ],
+        "advance": 772,
+        "right_sidebearing": 61.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 772
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 772
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 772
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 772
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 772
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 772
+          }
+        }
+      },
+      "candidate": {
+        "bounds": [
+          8.0,
+          -180.89999389648438,
+          685.0,
+          740.0
+        ],
+        "advance": 772,
+        "right_sidebearing": 87.0,
+        "pairs": {
+          "U+006A": {
+            "intersection_area": 0.0,
+            "first_advance": 772
+          },
+          "U+0070": {
+            "intersection_area": 0.0,
+            "first_advance": 772
+          },
+          "U+0071": {
+            "intersection_area": 0.0,
+            "first_advance": 772
+          },
+          "U+0067": {
+            "intersection_area": 0.0,
+            "first_advance": 772
+          },
+          "U+0079": {
+            "intersection_area": 0.0,
+            "first_advance": 772
+          },
+          "U+012F": {
+            "intersection_area": 0.0,
+            "first_advance": 772
+          }
+        }
+      }
+    }
+  ],
+  "all_candidate_pairs_disjoint": true,
+  "visual_observation": "Updated proof: exposed cap/tooth at diagonal splice removed; no obvious new thickness step; rounded hook retained across all 12."
+}

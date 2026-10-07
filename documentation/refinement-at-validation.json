@@ -1,0 +1,1106 @@
+[
+  {
+    "native_a_bowl_center": [
+      310,
+      265
+    ],
+    "uniform_scale": 0.64,
+    "native_a_translation_before_shear": [
+      205.6,
+      175.4
+    ],
+    "inner_and_outer_center_before_shear": [
+      404.0,
+      345.0
+    ],
+    "center_error_before_quantization": 0,
+    "inner_counter_from_native_a": "retained exactly before final TTF conversion",
+    "native_a_counter_xor_area_before_quantization": 0.0,
+    "native_a_lower_right_foot": "trimmed to reflected original bowl boundary; replaced by the return",
+    "stroke_width_before_shear": 84.48,
+    "outside_radius": 339,
+    "outer_centerline_radius": 296.76,
+    "return_control_points": [
+      [
+        530.72,
+        345.0
+      ],
+      [
+        530.72,
+        280.0
+      ],
+      [
+        530.72,
+        215.0
+      ],
+      [
+        674.0287715277904,
+        185.0
+      ],
+      [
+        700.76,
+        265.0
+      ],
+      [
+        700.76,
+        345.0
+      ]
+    ],
+    "return_start_curvature": 0,
+    "return_and_outer_join_curvature": 0.0033414035590262105,
+    "return_minimum_centerline_radius": 75.24308153179628,
+    "return_cubic_approximation_max_sampled_error": 0.00011716104386446157,
+    "sampled_free_terminal_clearance": 132.43708661578233,
+    "glyph": "uni0040",
+    "alignment_shift_x": -1,
+    "old_contour_areas": [
+      -247823.2916666667,
+      22531.25
+    ],
+    "new_contour_areas": [
+      -241511.9166666665,
+      22526.25
+    ],
+    "new_contour_bounds": [
+      [
+        63.75757575757576,
+        5.88235294117647,
+        742,
+        684.0666666666667
+      ],
+      [
+        319.0,
+        260.0,
+        487,
+        430.0
+      ]
+    ],
+    "outer_outline_bounds_center_after_quantization": [
+      402.8787878787879,
+      344.9745098039216
+    ],
+    "counter_bounds_center_after_quantization": [
+      403.0,
+      345.0
+    ],
+    "center_residual_after_quantization": 0.12386334576806206,
+    "metrics_exact": true,
+    "status": "candidate, visual review required",
+    "file": "Nambli-Bold.ttf",
+    "validation": "Reloaded: all unrelated glyph geometry exact; cmap/order/all metrics exact; one closed inner counter and open outside spiral.",
+    "input_sha256": "c9f0c7f4378e67f9819323a507a063fabad0a3215a4b6b91151e19993d6d84ac",
+    "output_sha256": "65950f168ddff1d70cc7bfaca34a098283e4a8a8c982f20b3640e43a19d5b729"
+  },
+  {
+    "native_a_bowl_center": [
+      310,
+      265
+    ],
+    "uniform_scale": 0.64,
+    "native_a_translation_before_shear": [
+      205.6,
+      175.4
+    ],
+    "inner_and_outer_center_before_shear": [
+      404.0,
+      345.0
+    ],
+    "center_error_before_quantization": 0,
+    "inner_counter_from_native_a": "retained exactly before final TTF conversion",
+    "native_a_counter_xor_area_before_quantization": 0.0,
+    "native_a_lower_right_foot": "trimmed to reflected original bowl boundary; replaced by the return",
+    "stroke_width_before_shear": 85.78324017210772,
+    "outside_radius": 339,
+    "outer_centerline_radius": 296.1083799139461,
+    "return_control_points": [
+      [
+        530.0683799139462,
+        345.0
+      ],
+      [
+        530.0683799139462,
+        280.0
+      ],
+      [
+        530.0683799139462,
+        215.0
+      ],
+      [
+        673.3183263405946,
+        185.0
+      ],
+      [
+        700.1083799139461,
+        265.0
+      ],
+      [
+        700.1083799139461,
+        345.0
+      ]
+    ],
+    "return_start_curvature": 0,
+    "return_and_outer_join_curvature": 0.0033487566966689418,
+    "return_minimum_centerline_radius": 75.26855055802568,
+    "return_cubic_approximation_max_sampled_error": 0.00011709394879839766,
+    "sampled_free_terminal_clearance": 130.3173947688226,
+    "glyph": "uni0040",
+    "alignment_shift_x": -1,
+    "old_contour_areas": [
+      -249669.8333333333,
+      21998.374999999993
+    ],
+    "new_contour_areas": [
+      -243166.58333333326,
+      21996.87499999998
+    ],
+    "new_contour_bounds": [
+      [
+        73.03030303030303,
+        5.88235294117647,
+        761.0625,
+        684.0666666666667
+      ],
+      [
+        332.6666666666667,
+        261.0,
+        501.3333333333333,
+        429.0
+      ]
+    ],
+    "outer_outline_bounds_center_after_quantization": [
+      417.0464015151515,
+      344.9745098039216
+    ],
+    "counter_bounds_center_after_quantization": [
+      417.0,
+      345.0
+    ],
+    "center_residual_after_quantization": 0.05294195599400071,
+    "metrics_exact": true,
+    "status": "candidate, visual review required",
+    "file": "Nambli-BoldItalic.ttf",
+    "validation": "Reloaded: all unrelated glyph geometry exact; cmap/order/all metrics exact; one closed inner counter and open outside spiral.",
+    "input_sha256": "afb952cf1a205511630e21852c55934771888fcd74ae3238bec54bb242604b00",
+    "output_sha256": "a43a85d395e9f6f947eaae06c473977b06fab458f23175660b3662e567e527ec"
+  },
+  {
+    "native_a_bowl_center": [
+      310,
+      265
+    ],
+    "uniform_scale": 0.64,
+    "native_a_translation_before_shear": [
+      205.6,
+      175.4
+    ],
+    "inner_and_outer_center_before_shear": [
+      404.0,
+      345.0
+    ],
+    "center_error_before_quantization": 0,
+    "inner_counter_from_native_a": "retained exactly before final TTF conversion",
+    "native_a_counter_xor_area_before_quantization": 0.0,
+    "native_a_lower_right_foot": "trimmed to reflected original bowl boundary; replaced by the return",
+    "stroke_width_before_shear": 93.44,
+    "outside_radius": 339,
+    "outer_centerline_radius": 292.28,
+    "return_control_points": [
+      [
+        526.24,
+        345.0
+      ],
+      [
+        526.24,
+        280.0
+      ],
+      [
+        526.24,
+        215.0
+      ],
+      [
+        669.1390414622521,
+        185.0
+      ],
+      [
+        696.28,
+        265.0
+      ],
+      [
+        696.28,
+        345.0
+      ]
+    ],
+    "return_start_curvature": 0,
+    "return_and_outer_join_curvature": 0.003392619817218484,
+    "return_minimum_centerline_radius": 75.42039533789345,
+    "return_cubic_approximation_max_sampled_error": 0.00011669372048703511,
+    "sampled_free_terminal_clearance": 117.864848210173,
+    "glyph": "uni0040",
+    "alignment_shift_x": -1,
+    "old_contour_areas": [
+      -260754.6666666666,
+      18084.83333333333
+    ],
+    "new_contour_areas": [
+      -254912.99999999988,
+      18120.416666666653
+    ],
+    "new_contour_bounds": [
+      [
+        63.75757575757576,
+        5.88235294117647,
+        742,
+        684.0666666666667
+      ],
+      [
+        327.0,
+        269.0,
+        479,
+        421.0
+      ]
+    ],
+    "outer_outline_bounds_center_after_quantization": [
+      402.8787878787879,
+      344.9745098039216
+    ],
+    "counter_bounds_center_after_quantization": [
+      403.0,
+      345.0
+    ],
+    "center_residual_after_quantization": 0.12386334576806206,
+    "metrics_exact": true,
+    "status": "candidate, visual review required",
+    "file": "Nambli-ExtraBold.ttf",
+    "validation": "Reloaded: all unrelated glyph geometry exact; cmap/order/all metrics exact; one closed inner counter and open outside spiral.",
+    "input_sha256": "27a6482ecd196a7b3e67b622c815f340f46ccd2acc328bc11241bd48bce332b7",
+    "output_sha256": "c45a5be83e52e0b45dd4f671ae1abb0973cd4eee49328fd0d1c824568f328c31"
+  },
+  {
+    "native_a_bowl_center": [
+      310,
+      265
+    ],
+    "uniform_scale": 0.64,
+    "native_a_translation_before_shear": [
+      205.6,
+      175.4
+    ],
+    "inner_and_outer_center_before_shear": [
+      404.0,
+      345.0
+    ],
+    "center_error_before_quantization": 0,
+    "inner_counter_from_native_a": "retained exactly before final TTF conversion",
+    "native_a_counter_xor_area_before_quantization": 0.0,
+    "native_a_lower_right_foot": "trimmed to reflected original bowl boundary; replaced by the return",
+    "stroke_width_before_shear": 94.881462614604,
+    "outside_radius": 339,
+    "outer_centerline_radius": 291.55926869269797,
+    "return_control_points": [
+      [
+        525.519268692698,
+        345.0
+      ],
+      [
+        525.519268692698,
+        280.0
+      ],
+      [
+        525.519268692698,
+        215.0
+      ],
+      [
+        668.3512180037862,
+        185.0
+      ],
+      [
+        695.559268692698,
+        265.0
+      ],
+      [
+        695.559268692698,
+        345.0
+      ]
+    ],
+    "return_start_curvature": 0,
+    "return_and_outer_join_curvature": 0.0034010063361139594,
+    "return_minimum_centerline_radius": 75.44927167279934,
+    "return_cubic_approximation_max_sampled_error": 0.0001166171994646017,
+    "sampled_free_terminal_clearance": 115.52057899777736,
+    "glyph": "uni0040",
+    "alignment_shift_x": -1,
+    "old_contour_areas": [
+      -262816.4166666668,
+      17387.999999999993
+    ],
+    "new_contour_areas": [
+      -256692.0416666667,
+      17384.04166666666
+    ],
+    "new_contour_bounds": [
+      [
+        73.03030303030303,
+        5.88235294117647,
+        761.0625,
+        684.0666666666667
+      ],
+      [
+        341.6666666666667,
+        270.0,
+        492.5,
+        420.0
+      ]
+    ],
+    "outer_outline_bounds_center_after_quantization": [
+      417.0464015151515,
+      344.9745098039216
+    ],
+    "counter_bounds_center_after_quantization": [
+      417.08333333333337,
+      345.0
+    ],
+    "center_residual_after_quantization": 0.04487437231131361,
+    "metrics_exact": true,
+    "status": "candidate, visual review required",
+    "file": "Nambli-ExtraBoldItalic.ttf",
+    "validation": "Reloaded: all unrelated glyph geometry exact; cmap/order/all metrics exact; one closed inner counter and open outside spiral.",
+    "input_sha256": "8f8799bd5296598c3647f8a8568dca084715c2f1e3c93d54949aac3a07b33603",
+    "output_sha256": "a9a3cbaaf4caf7e009f555a1c2f82f26625e01a5cce83595c12b88fcbdb13043"
+  },
+  {
+    "native_a_bowl_center": [
+      310,
+      265
+    ],
+    "uniform_scale": 0.64,
+    "native_a_translation_before_shear": [
+      205.6,
+      175.4
+    ],
+    "inner_and_outer_center_before_shear": [
+      404.0,
+      345.0
+    ],
+    "center_error_before_quantization": 0,
+    "inner_counter_from_native_a": "retained exactly before final TTF conversion",
+    "native_a_counter_xor_area_before_quantization": 0.0,
+    "native_a_lower_right_foot": "trimmed to reflected original bowl boundary; replaced by the return",
+    "stroke_width_before_shear": 64.98730316068767,
+    "outside_radius": 339,
+    "outer_centerline_radius": 306.50634841965615,
+    "return_control_points": [
+      [
+        540.4663484196561,
+        345.0
+      ],
+      [
+        540.4663484196561,
+        280.0
+      ],
+      [
+        540.4663484196561,
+        215.0
+      ],
+      [
+        684.6251247441461,
+        185.0
+      ],
+      [
+        710.5063484196562,
+        265.0
+      ],
+      [
+        710.5063484196562,
+        345.0
+      ]
+    ],
+    "return_start_curvature": 0,
+    "return_and_outer_join_curvature": 0.0032351529594387596,
+    "return_minimum_centerline_radius": 74.87221593025868,
+    "return_cubic_approximation_max_sampled_error": 0.0001181305792683215,
+    "sampled_free_terminal_clearance": 164.14394420377985,
+    "glyph": "uni0040",
+    "alignment_shift_x": -1,
+    "old_contour_areas": [
+      -216849.3750000001,
+      33997.54166666666
+    ],
+    "new_contour_areas": [
+      -210252.7916666668,
+      34047.16666666668
+    ],
+    "new_contour_bounds": [
+      [
+        73.03030303030303,
+        5.88235294117647,
+        761.0625,
+        684.0666666666667
+      ],
+      [
+        311.6666666666667,
+        241,
+        522.3333333333334,
+        449
+      ]
+    ],
+    "outer_outline_bounds_center_after_quantization": [
+      417.0464015151515,
+      344.9745098039216
+    ],
+    "counter_bounds_center_after_quantization": [
+      417.0,
+      345.0
+    ],
+    "center_residual_after_quantization": 0.05294195599400071,
+    "metrics_exact": true,
+    "status": "candidate, visual review required",
+    "file": "Nambli-Italic.ttf",
+    "validation": "Reloaded: all unrelated glyph geometry exact; cmap/order/all metrics exact; one closed inner counter and open outside spiral.",
+    "input_sha256": "d974256ad78da18daeaae50530e95b908a5e8ec1b52f8dbe1cbd8a8d43783e17",
+    "output_sha256": "010d0af737abccc165cc176c25fd8b7d7b966ab9136180ae814cb1f3f9177366"
+  },
+  {
+    "native_a_bowl_center": [
+      310,
+      265
+    ],
+    "uniform_scale": 0.64,
+    "native_a_translation_before_shear": [
+      205.6,
+      175.4
+    ],
+    "inner_and_outer_center_before_shear": [
+      404.0,
+      345.0
+    ],
+    "center_error_before_quantization": 0,
+    "inner_counter_from_native_a": "retained exactly before final TTF conversion",
+    "native_a_counter_xor_area_before_quantization": 0.0,
+    "native_a_lower_right_foot": "trimmed to reflected original bowl boundary; replaced by the return",
+    "stroke_width_before_shear": 51.2,
+    "outside_radius": 339,
+    "outer_centerline_radius": 313.4,
+    "return_control_points": [
+      [
+        547.36,
+        345.0
+      ],
+      [
+        547.36,
+        280.0
+      ],
+      [
+        547.36,
+        215.0
+      ],
+      [
+        692.0880684064679,
+        185.0
+      ],
+      [
+        717.4,
+        265.0
+      ],
+      [
+        717.4,
+        345.0
+      ]
+    ],
+    "return_start_curvature": 0,
+    "return_and_outer_join_curvature": 0.003163991449191507,
+    "return_minimum_centerline_radius": 74.62191840952676,
+    "return_cubic_approximation_max_sampled_error": 0.00011877996526834248,
+    "sampled_free_terminal_clearance": 186.57354383010767,
+    "glyph": "uni0040",
+    "alignment_shift_x": -1,
+    "old_contour_areas": [
+      -194274.75,
+      43767.66666666667
+    ],
+    "new_contour_areas": [
+      -187918.91666666672,
+      43858.0
+    ],
+    "new_contour_bounds": [
+      [
+        63.75757575757576,
+        5.88235294117647,
+        742,
+        684.0666666666667
+      ],
+      [
+        285.0,
+        227.0,
+        521,
+        463.0
+      ]
+    ],
+    "outer_outline_bounds_center_after_quantization": [
+      402.8787878787879,
+      344.9745098039216
+    ],
+    "counter_bounds_center_after_quantization": [
+      403.0,
+      345.0
+    ],
+    "center_residual_after_quantization": 0.12386334576806206,
+    "metrics_exact": true,
+    "status": "candidate, visual review required",
+    "file": "Nambli-Light.ttf",
+    "validation": "Reloaded: all unrelated glyph geometry exact; cmap/order/all metrics exact; one closed inner counter and open outside spiral.",
+    "input_sha256": "47fa1648fe05e4e768497b42a15a898103ccfbb67d4e226492be027aeb58f786",
+    "output_sha256": "a5709272e1325d9136979598049b1729bc009b13f68dea392e0fd93ccca7ef46"
+  },
+  {
+    "native_a_bowl_center": [
+      310,
+      265
+    ],
+    "uniform_scale": 0.64,
+    "native_a_translation_before_shear": [
+      205.6,
+      175.4
+    ],
+    "inner_and_outer_center_before_shear": [
+      404.0,
+      345.0
+    ],
+    "center_error_before_quantization": 0,
+    "inner_counter_from_native_a": "retained exactly before final TTF conversion",
+    "native_a_counter_xor_area_before_quantization": 0.0,
+    "native_a_lower_right_foot": "trimmed to reflected original bowl boundary; replaced by the return",
+    "stroke_width_before_shear": 51.98984252855014,
+    "outside_radius": 339,
+    "outer_centerline_radius": 313.0050787357249,
+    "return_control_points": [
+      [
+        546.965078735725,
+        345.0
+      ],
+      [
+        546.965078735725,
+        280.0
+      ],
+      [
+        546.965078735725,
+        215.0
+      ],
+      [
+        691.6612108551955,
+        185.0
+      ],
+      [
+        717.005078735725,
+        265.0
+      ],
+      [
+        717.005078735725,
+        345.0
+      ]
+    ],
+    "return_start_curvature": 0,
+    "return_and_outer_join_curvature": 0.003167983485066188,
+    "return_minimum_centerline_radius": 74.63596383425484,
+    "return_cubic_approximation_max_sampled_error": 0.00011874353528908328,
+    "sampled_free_terminal_clearance": 185.2885421700979,
+    "glyph": "uni0040",
+    "alignment_shift_x": -1,
+    "old_contour_areas": [
+      -194440.7916666667,
+      43265.791666666686
+    ],
+    "new_contour_areas": [
+      -188448.54166666677,
+      43233.249999999985
+    ],
+    "new_contour_bounds": [
+      [
+        73.03030303030303,
+        5.88235294117647,
+        761.0625,
+        684.0666666666667
+      ],
+      [
+        298.0,
+        227,
+        536.3333333333334,
+        463
+      ]
+    ],
+    "outer_outline_bounds_center_after_quantization": [
+      417.0464015151515,
+      344.9745098039216
+    ],
+    "counter_bounds_center_after_quantization": [
+      417.1666666666667,
+      345.0
+    ],
+    "center_residual_after_quantization": 0.12293679988142656,
+    "metrics_exact": true,
+    "status": "candidate, visual review required",
+    "file": "Nambli-LightItalic.ttf",
+    "validation": "Reloaded: all unrelated glyph geometry exact; cmap/order/all metrics exact; one closed inner counter and open outside spiral.",
+    "input_sha256": "524b4f87a6e76f26eb1fddb4426053defed31f490ae140423fb30dfdfbac1c59",
+    "output_sha256": "ceb5ea175e63090a383f203662b57bea87e0bd05206c7ca4f13d26383e25b463"
+  },
+  {
+    "native_a_bowl_center": [
+      310,
+      265
+    ],
+    "uniform_scale": 0.64,
+    "native_a_translation_before_shear": [
+      205.6,
+      175.4
+    ],
+    "inner_and_outer_center_before_shear": [
+      404.0,
+      345.0
+    ],
+    "center_error_before_quantization": 0,
+    "inner_counter_from_native_a": "retained exactly before final TTF conversion",
+    "native_a_counter_xor_area_before_quantization": 0.0,
+    "native_a_lower_right_foot": "trimmed to reflected original bowl boundary; replaced by the return",
+    "stroke_width_before_shear": 72.96000000000001,
+    "outside_radius": 339,
+    "outer_centerline_radius": 302.52,
+    "return_control_points": [
+      [
+        536.48,
+        345.0
+      ],
+      [
+        536.48,
+        280.0
+      ],
+      [
+        536.48,
+        215.0
+      ],
+      [
+        680.2977358144487,
+        185.0
+      ],
+      [
+        706.52,
+        265.0
+      ],
+      [
+        706.52,
+        345.0
+      ]
+    ],
+    "return_start_curvature": 0,
+    "return_and_outer_join_curvature": 0.0032777830231938993,
+    "return_minimum_centerline_radius": 75.02159225456808,
+    "return_cubic_approximation_max_sampled_error": 0.00011774157211329562,
+    "sampled_free_terminal_clearance": 151.17478562197923,
+    "glyph": "uni0040",
+    "alignment_shift_x": -1,
+    "old_contour_areas": [
+      -229674.12500000003,
+      29262.00000000002
+    ],
+    "new_contour_areas": [
+      -223502.79166666672,
+      29132.66666666666
+    ],
+    "new_contour_bounds": [
+      [
+        63.75757575757576,
+        5.88235294117647,
+        742,
+        684.0666666666667
+      ],
+      [
+        307.0,
+        248.0,
+        499,
+        442.0
+      ]
+    ],
+    "outer_outline_bounds_center_after_quantization": [
+      402.8787878787879,
+      344.9745098039216
+    ],
+    "counter_bounds_center_after_quantization": [
+      403.0,
+      345.0
+    ],
+    "center_residual_after_quantization": 0.12386334576806206,
+    "metrics_exact": true,
+    "status": "candidate, visual review required",
+    "file": "Nambli-Medium.ttf",
+    "validation": "Reloaded: all unrelated glyph geometry exact; cmap/order/all metrics exact; one closed inner counter and open outside spiral.",
+    "input_sha256": "b04b7912cd6c431719af2e58f98b34e85f67c8d98fe5c0cefd28e475cd619a8a",
+    "output_sha256": "0b513bac5d431208fa33d346338466e41faadb25a10a59d3543b448fbbbec743"
+  },
+  {
+    "native_a_bowl_center": [
+      310,
+      265
+    ],
+    "uniform_scale": 0.64,
+    "native_a_translation_before_shear": [
+      205.6,
+      175.4
+    ],
+    "inner_and_outer_center_before_shear": [
+      404.0,
+      345.0
+    ],
+    "center_error_before_quantization": 0,
+    "inner_counter_from_native_a": "retained exactly before final TTF conversion",
+    "native_a_counter_xor_area_before_quantization": 0.0,
+    "native_a_lower_right_foot": "trimmed to reflected original bowl boundary; replaced by the return",
+    "stroke_width_before_shear": 74.08552560318395,
+    "outside_radius": 339,
+    "outer_centerline_radius": 301.95723719840805,
+    "return_control_points": [
+      [
+        535.9172371984081,
+        345.0
+      ],
+      [
+        535.9172371984081,
+        280.0
+      ],
+      [
+        535.9172371984081,
+        215.0
+      ],
+      [
+        679.6861021363246,
+        185.0
+      ],
+      [
+        705.957237198408,
+        265.0
+      ],
+      [
+        705.957237198408,
+        345.0
+      ]
+    ],
+    "return_start_curvature": 0,
+    "return_and_outer_join_curvature": 0.0032838918827604313,
+    "return_minimum_centerline_radius": 75.04286183667692,
+    "return_cubic_approximation_max_sampled_error": 0.00011768582852993125,
+    "sampled_free_terminal_clearance": 149.34406208696362,
+    "glyph": "uni0040",
+    "alignment_shift_x": -1,
+    "old_contour_areas": [
+      -231664.33333333326,
+      28456.375000000025
+    ],
+    "new_contour_areas": [
+      -224946.41666666663,
+      28452.249999999993
+    ],
+    "new_contour_bounds": [
+      [
+        73.03030303030303,
+        5.88235294117647,
+        761.0625,
+        684.0666666666667
+      ],
+      [
+        320.6666666666667,
+        250,
+        513.3333333333334,
+        440
+      ]
+    ],
+    "outer_outline_bounds_center_after_quantization": [
+      417.0464015151515,
+      344.9745098039216
+    ],
+    "counter_bounds_center_after_quantization": [
+      417.0,
+      345.0
+    ],
+    "center_residual_after_quantization": 0.05294195599400071,
+    "metrics_exact": true,
+    "status": "candidate, visual review required",
+    "file": "Nambli-MediumItalic.ttf",
+    "validation": "Reloaded: all unrelated glyph geometry exact; cmap/order/all metrics exact; one closed inner counter and open outside spiral.",
+    "input_sha256": "17aeb33b3858d968dd0924b017a8c0c2e6d0729c1923ceabbfcfd6a82f271af2",
+    "output_sha256": "97ac3801b34d166dd7bd7c02f1172247039c43463f42746eae96f2ad54668c82"
+  },
+  {
+    "native_a_bowl_center": [
+      310,
+      265
+    ],
+    "uniform_scale": 0.64,
+    "native_a_translation_before_shear": [
+      205.6,
+      175.4
+    ],
+    "inner_and_outer_center_before_shear": [
+      404.0,
+      345.0
+    ],
+    "center_error_before_quantization": 0,
+    "inner_counter_from_native_a": "retained exactly before final TTF conversion",
+    "native_a_counter_xor_area_before_quantization": 0.0,
+    "native_a_lower_right_foot": "trimmed to reflected original bowl boundary; replaced by the return",
+    "stroke_width_before_shear": 64.0,
+    "outside_radius": 339,
+    "outer_centerline_radius": 307.0,
+    "return_control_points": [
+      [
+        540.96,
+        345.0
+      ],
+      [
+        540.96,
+        280.0
+      ],
+      [
+        540.96,
+        215.0
+      ],
+      [
+        685.1603929595669,
+        185.0
+      ],
+      [
+        711.0,
+        265.0
+      ],
+      [
+        711.0,
+        345.0
+      ]
+    ],
+    "return_start_curvature": 0,
+    "return_and_outer_join_curvature": 0.0032299508800541312,
+    "return_minimum_centerline_radius": 74.85399950840421,
+    "return_cubic_approximation_max_sampled_error": 0.000118178049959674,
+    "sampled_free_terminal_clearance": 165.74999468936778,
+    "glyph": "uni0040",
+    "alignment_shift_x": -1,
+    "old_contour_areas": [
+      -215601.12500000006,
+      34887.33333333334
+    ],
+    "new_contour_areas": [
+      -209204.0416666666,
+      34902.000000000015
+    ],
+    "new_contour_bounds": [
+      [
+        63.75757575757576,
+        5.88235294117647,
+        742,
+        684.0666666666667
+      ],
+      [
+        298.0,
+        239.0,
+        508,
+        451.0
+      ]
+    ],
+    "outer_outline_bounds_center_after_quantization": [
+      402.8787878787879,
+      344.9745098039216
+    ],
+    "counter_bounds_center_after_quantization": [
+      403.0,
+      345.0
+    ],
+    "center_residual_after_quantization": 0.12386334576806206,
+    "metrics_exact": true,
+    "status": "candidate, visual review required",
+    "file": "Nambli-Regular.ttf",
+    "validation": "Reloaded: all unrelated glyph geometry exact; cmap/order/all metrics exact; one closed inner counter and open outside spiral.",
+    "input_sha256": "58676c8765185d9494172a6f9a38f1a808164d0b9ef4b7f672840c9830f3c081",
+    "output_sha256": "11f26a5798523521faae39524e5216da9633ebae1734960a76c5b6d7c8cff18f"
+  },
+  {
+    "native_a_bowl_center": [
+      310,
+      265
+    ],
+    "uniform_scale": 0.64,
+    "native_a_translation_before_shear": [
+      205.6,
+      175.4
+    ],
+    "inner_and_outer_center_before_shear": [
+      404.0,
+      345.0
+    ],
+    "center_error_before_quantization": 0,
+    "inner_counter_from_native_a": "retained exactly before final TTF conversion",
+    "native_a_counter_xor_area_before_quantization": 0.0,
+    "native_a_lower_right_foot": "trimmed to reflected original bowl boundary; replaced by the return",
+    "stroke_width_before_shear": 78.72,
+    "outside_radius": 339,
+    "outer_centerline_radius": 299.64,
+    "return_control_points": [
+      [
+        533.6,
+        345.0
+      ],
+      [
+        533.6,
+        280.0
+      ],
+      [
+        533.6,
+        215.0
+      ],
+      [
+        677.165699634852,
+        185.0
+      ],
+      [
+        703.64,
+        265.0
+      ],
+      [
+        703.64,
+        345.0
+      ]
+    ],
+    "return_start_curvature": 0,
+    "return_and_outer_join_curvature": 0.0033092875456435,
+    "return_minimum_centerline_radius": 75.13134523573478,
+    "return_cubic_approximation_max_sampled_error": 0.00011745409466865134,
+    "sampled_free_terminal_clearance": 141.80557191260567,
+    "glyph": "uni0040",
+    "alignment_shift_x": -1,
+    "old_contour_areas": [
+      -238779.4583333333,
+      25912.166666666653
+    ],
+    "new_contour_areas": [
+      -232575.79166666657,
+      25770.16666666666
+    ],
+    "new_contour_bounds": [
+      [
+        63.75757575757576,
+        5.88235294117647,
+        742,
+        684.0666666666667
+      ],
+      [
+        313.0,
+        254.0,
+        493,
+        436.0
+      ]
+    ],
+    "outer_outline_bounds_center_after_quantization": [
+      402.8787878787879,
+      344.9745098039216
+    ],
+    "counter_bounds_center_after_quantization": [
+      403.0,
+      345.0
+    ],
+    "center_residual_after_quantization": 0.12386334576806206,
+    "metrics_exact": true,
+    "status": "candidate, visual review required",
+    "file": "Nambli-SemiBold.ttf",
+    "validation": "Reloaded: all unrelated glyph geometry exact; cmap/order/all metrics exact; one closed inner counter and open outside spiral.",
+    "input_sha256": "da59cfb0716f3bdd571a11ed97a915e26d70f467e6db2a5746481a10527a8cbf",
+    "output_sha256": "6f8effeb091d140a460ba254251ff69284ca84bdef593356c6957d717fddbbf9"
+  },
+  {
+    "native_a_bowl_center": [
+      310,
+      265
+    ],
+    "uniform_scale": 0.64,
+    "native_a_translation_before_shear": [
+      205.6,
+      175.4
+    ],
+    "inner_and_outer_center_before_shear": [
+      404.0,
+      345.0
+    ],
+    "center_error_before_quantization": 0,
+    "inner_counter_from_native_a": "retained exactly before final TTF conversion",
+    "native_a_counter_xor_area_before_quantization": 0.0,
+    "native_a_lower_right_foot": "trimmed to reflected original bowl boundary; replaced by the return",
+    "stroke_width_before_shear": 79.93438288764584,
+    "outside_radius": 339,
+    "outer_centerline_radius": 299.0328085561771,
+    "return_control_points": [
+      [
+        532.9928085561771,
+        345.0
+      ],
+      [
+        532.9928085561771,
+        280.0
+      ],
+      [
+        532.9928085561771,
+        215.0
+      ],
+      [
+        676.504751652606,
+        185.0
+      ],
+      [
+        703.0328085561771,
+        265.0
+      ],
+      [
+        703.0328085561771,
+        345.0
+      ]
+    ],
+    "return_start_curvature": 0,
+    "return_and_outer_join_curvature": 0.0033160071129463863,
+    "return_minimum_centerline_radius": 75.15477418521897,
+    "return_cubic_approximation_max_sampled_error": 0.00011739277974226131,
+    "sampled_free_terminal_clearance": 139.830358680053,
+    "glyph": "uni0040",
+    "alignment_shift_x": -1,
+    "old_contour_areas": [
+      -240691.5,
+      25139.666666666653
+    ],
+    "new_contour_areas": [
+      -234031.58333333326,
+      25144.08333333333
+    ],
+    "new_contour_bounds": [
+      [
+        73.03030303030303,
+        5.88235294117647,
+        761.0625,
+        684.0666666666667
+      ],
+      [
+        326.6666666666667,
+        255,
+        508.0,
+        435
+      ]
+    ],
+    "outer_outline_bounds_center_after_quantization": [
+      417.0464015151515,
+      344.9745098039216
+    ],
+    "counter_bounds_center_after_quantization": [
+      417.33333333333337,
+      345.0
+    ],
+    "center_residual_after_quantization": 0.2880618308302392,
+    "metrics_exact": true,
+    "status": "candidate, visual review required",
+    "file": "Nambli-SemiBoldItalic.ttf",
+    "validation": "Reloaded: all unrelated glyph geometry exact; cmap/order/all metrics exact; one closed inner counter and open outside spiral.",
+    "input_sha256": "fc186aa5d35d8fa76bbc714a691909f22e1d0bc6378b1d1b797de81122d4ec27",
+    "output_sha256": "26eadc23d1ba6a44bfa08019207b1de2810dc412a64b9636b69dc9b9678a6ec7"
+  }
+]

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02D9" format="2">
+  <advance width="360"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="227" y="672" type="qcurve"/>
+      <point x="225" y="662"/>
+      <point x="215" y="645"/>
+      <point x="200" y="632"/>
+      <point x="181" y="625"/>
+      <point x="172" y="625" type="qcurve"/>
+      <point x="162" y="625"/>
+      <point x="146" y="632"/>
+      <point x="136" y="645"/>
+      <point x="132" y="662"/>
+      <point x="133" y="672" type="qcurve"/>
+      <point x="135" y="681"/>
+      <point x="145" y="698"/>
+      <point x="160" y="711"/>
+      <point x="179" y="718"/>
+      <point x="188" y="718" type="qcurve"/>
+      <point x="198" y="718"/>
+      <point x="214" y="711"/>
+      <point x="224" y="698"/>
+      <point x="228" y="681"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.nambli.snapshot.leftSideBearing</key>
+      <integer>132</integer>
+    </dict>
+  </lib>
+</glyph>

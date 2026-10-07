@@ -1,0 +1,174 @@
+{
+  "status": "PASS",
+  "allTwelveUprightBinariesByteIdentical": true,
+  "results": [
+    {
+      "font": "Nambli-Bold.ttf",
+      "upright": true,
+      "unchanged": true,
+      "beforeSHA256": "7163e59fc7623e669c4fef6d6871ec76c6b164d20bb7b35e53b298769f4d17d0",
+      "afterSHA256": "7163e59fc7623e669c4fef6d6871ec76c6b164d20bb7b35e53b298769f4d17d0"
+    },
+    {
+      "font": "Nambli-Bold.woff2",
+      "upright": true,
+      "unchanged": true,
+      "beforeSHA256": "8b94dcc2d6164a3c3f841581816c4a11a297f1be85c9b5b4dbac2fcd712eeca8",
+      "afterSHA256": "8b94dcc2d6164a3c3f841581816c4a11a297f1be85c9b5b4dbac2fcd712eeca8"
+    },
+    {
+      "font": "Nambli-BoldItalic.ttf",
+      "upright": false,
+      "unchanged": false,
+      "beforeSHA256": "ce580e7a1ecde0ec798689544e1e5cd9ed3f52a3bb1b194eaea4f2101c9125d3",
+      "afterSHA256": "196b13fe071e48a86348b10569f4e93b9f2d7d680bba747b0d4948b167a92f54"
+    },
+    {
+      "font": "Nambli-BoldItalic.woff2",
+      "upright": false,
+      "unchanged": false,
+      "beforeSHA256": "ff1d8dbef804b69a29bfe022846dad7c00b0eaf2e8aa1d0544a646dfaad06ba1",
+      "afterSHA256": "2ba19bdd7dc08922432517d4f5b5d404d5a022288079620bff915c425373ce97"
+    },
+    {
+      "font": "Nambli-ExtraBold.ttf",
+      "upright": true,
+      "unchanged": true,
+      "beforeSHA256": "17885ab53bef4b4d4c98de5329aaa09e0d4f404e64f993b08a55f792658c8d15",
+      "afterSHA256": "17885ab53bef4b4d4c98de5329aaa09e0d4f404e64f993b08a55f792658c8d15"
+    },
+    {
+      "font": "Nambli-ExtraBold.woff2",
+      "upright": true,
+      "unchanged": true,
+      "beforeSHA256": "320f35f972a69de323e9dc0425ce60a1faf720a2e07a6ad0bff99df71b5115ec",
+      "afterSHA256": "320f35f972a69de323e9dc0425ce60a1faf720a2e07a6ad0bff99df71b5115ec"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic.ttf",
+      "upright": false,
+      "unchanged": false,
+      "beforeSHA256": "6a048b799e5351afd97490d30e5b4b4e81c69083fbbeb34cc59f3307f23d0c92",
+      "afterSHA256": "f7700b96cec7584bde30214d60a7a92a8845c29631f9cebc1b9bc29d5afd73f3"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic.woff2",
+      "upright": false,
+      "unchanged": false,
+      "beforeSHA256": "963268f755566085dfe4bb466ee81b2c1b9cd8d1009ea243f46a2bb759b397e0",
+      "afterSHA256": "16875d560eedd5a75a40255b9ae6642512d9d4566dbd178aeeaf3ac99888bff5"
+    },
+    {
+      "font": "Nambli-Italic.ttf",
+      "upright": false,
+      "unchanged": false,
+      "beforeSHA256": "f56026c5ce28a468da63b3ff195ee400d7be2361104852b5f063f383b9bb1567",
+      "afterSHA256": "cca0ec1f6e356d4f74a304c836ec1eeb1f5945319dbc6939cf32af29d127a0e2"
+    },
+    {
+      "font": "Nambli-Italic.woff2",
+      "upright": false,
+      "unchanged": false,
+      "beforeSHA256": "7d0ace85933e3c3b24239ba1de0d180f866d36aaaac2ba59d2db9a19e37597ce",
+      "afterSHA256": "fa0ce0a9e829e36a08f6b7c7b2e5cd225ffbd7c27f75f2b1823d6a25826e2c96"
+    },
+    {
+      "font": "Nambli-Light.ttf",
+      "upright": true,
+      "unchanged": true,
+      "beforeSHA256": "3e0fda8b8b0158569aef73945b164c0d9d647d38978563575d987ca46676fa64",
+      "afterSHA256": "3e0fda8b8b0158569aef73945b164c0d9d647d38978563575d987ca46676fa64"
+    },
+    {
+      "font": "Nambli-Light.woff2",
+      "upright": true,
+      "unchanged": true,
+      "beforeSHA256": "b7073067f509a151e5d1276f7eb34c5052f6c6f1fb5a93be8da7f5831dc7fe8b",
+      "afterSHA256": "b7073067f509a151e5d1276f7eb34c5052f6c6f1fb5a93be8da7f5831dc7fe8b"
+    },
+    {
+      "font": "Nambli-LightItalic.ttf",
+      "upright": false,
+      "unchanged": false,
+      "beforeSHA256": "4763bd4d054794be659e6c6d02a2bde223977f9734073f86cd72fafc9d6da139",
+      "afterSHA256": "1392f44a367715f9c239127266d4e6b5d11b3475b86c0c5c93293adadfa84594"
+    },
+    {
+      "font": "Nambli-LightItalic.woff2",
+      "upright": false,
+      "unchanged": false,
+      "beforeSHA256": "ad743e35261968c156f644f1e58bf1cf91dcab6e771ab35a207a3723ebb2b1ff",
+      "afterSHA256": "a3043a172c7e0e210cb4aaf5d639738b297480a07e7d80ce7e72606383f1d915"
+    },
+    {
+      "font": "Nambli-Medium.ttf",
+      "upright": true,
+      "unchanged": true,
+      "beforeSHA256": "524e48a4b9139e6a09c766051b816b1a41cf5e4693bb3a55846d5c4fa00d9f39",
+      "afterSHA256": "524e48a4b9139e6a09c766051b816b1a41cf5e4693bb3a55846d5c4fa00d9f39"
+    },
+    {
+      "font": "Nambli-Medium.woff2",
+      "upright": true,
+      "unchanged": true,
+      "beforeSHA256": "96428085e1d52131c834aa607888fa690321daffcce58843a5bedc47740e9243",
+      "afterSHA256": "96428085e1d52131c834aa607888fa690321daffcce58843a5bedc47740e9243"
+    },
+    {
+      "font": "Nambli-MediumItalic.ttf",
+      "upright": false,
+      "unchanged": false,
+      "beforeSHA256": "4dffe272edc7b743e678d16760f721615e109e1af5d0359cb54b985cea5bb90e",
+      "afterSHA256": "00f109e32ce4fb55f7c7899cf287d5892ac0f20986b52c9e792bf7c2fd04a8a5"
+    },
+    {
+      "font": "Nambli-MediumItalic.woff2",
+      "upright": false,
+      "unchanged": false,
+      "beforeSHA256": "b7b2dc816148d64ec5ca1babf561b9b800305ebfd60d2bf5cd4394846d5cbd82",
+      "afterSHA256": "1367bf574f6433f524e8fec937231696ca8890378c66049c24f14d8656f7c734"
+    },
+    {
+      "font": "Nambli-Regular.ttf",
+      "upright": true,
+      "unchanged": true,
+      "beforeSHA256": "a837d0eab7a6cd27a39871fbfd7ac2a4881e7443d34391b3a55e396275470e4b",
+      "afterSHA256": "a837d0eab7a6cd27a39871fbfd7ac2a4881e7443d34391b3a55e396275470e4b"
+    },
+    {
+      "font": "Nambli-Regular.woff2",
+      "upright": true,
+      "unchanged": true,
+      "beforeSHA256": "abb05d5853e002084e0c943b18f250e8d083fa07ce60700efcbb779f5b249d4a",
+      "afterSHA256": "abb05d5853e002084e0c943b18f250e8d083fa07ce60700efcbb779f5b249d4a"
+    },
+    {
+      "font": "Nambli-SemiBold.ttf",
+      "upright": true,
+      "unchanged": true,
+      "beforeSHA256": "7aa45f61c37f3533db9bd835d47187b428255167bb3d5835a54d86059275af3d",
+      "afterSHA256": "7aa45f61c37f3533db9bd835d47187b428255167bb3d5835a54d86059275af3d"
+    },
+    {
+      "font": "Nambli-SemiBold.woff2",
+      "upright": true,
+      "unchanged": true,
+      "beforeSHA256": "6867f1a65b2f5c5724bbdd7cb696031f99614e5ea20102e2420956a47506d056",
+      "afterSHA256": "6867f1a65b2f5c5724bbdd7cb696031f99614e5ea20102e2420956a47506d056"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic.ttf",
+      "upright": false,
+      "unchanged": false,
+      "beforeSHA256": "9cece69854793a87c7fb36f853a2d5424b8495c65aec86cbc369c6813fabf3e2",
+      "afterSHA256": "6d79567bc7a84be9a535ccf8f6bd61b34aac662658b8a361f704edd521fc4583"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic.woff2",
+      "upright": false,
+      "unchanged": false,
+      "beforeSHA256": "55459d4914e98394a5c1d14af28c6ad45eb1bb3e6a6b321aa1d99bc4432c6d7a",
+      "afterSHA256": "649a85747d15e156ffa2c6670393a291aabf311bbc9576565d2470736431e312"
+    }
+  ]
+}

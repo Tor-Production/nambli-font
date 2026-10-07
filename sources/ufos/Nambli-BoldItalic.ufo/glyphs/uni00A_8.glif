@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni00A8" format="2">
+  <advance width="423"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="347" y="671" type="qcurve"/>
+      <point x="346" y="661"/>
+      <point x="336" y="645"/>
+      <point x="321" y="632"/>
+      <point x="303" y="625"/>
+      <point x="293" y="625" type="qcurve"/>
+      <point x="284" y="625"/>
+      <point x="269" y="632"/>
+      <point x="258" y="645"/>
+      <point x="254" y="661"/>
+      <point x="256" y="671" type="qcurve"/>
+      <point x="257" y="680"/>
+      <point x="267" y="697"/>
+      <point x="282" y="709"/>
+      <point x="300" y="716"/>
+      <point x="310" y="716" type="qcurve"/>
+      <point x="319" y="716"/>
+      <point x="334" y="709"/>
+      <point x="345" y="697"/>
+      <point x="349" y="680"/>
+    </contour>
+    <contour>
+      <point x="167" y="671" type="qcurve"/>
+      <point x="166" y="661"/>
+      <point x="156" y="645"/>
+      <point x="141" y="632"/>
+      <point x="123" y="625"/>
+      <point x="113" y="625" type="qcurve"/>
+      <point x="104" y="625"/>
+      <point x="89" y="632"/>
+      <point x="78" y="645"/>
+      <point x="74" y="661"/>
+      <point x="76" y="671" type="qcurve"/>
+      <point x="77" y="680"/>
+      <point x="87" y="697"/>
+      <point x="102" y="709"/>
+      <point x="120" y="716"/>
+      <point x="130" y="716" type="qcurve"/>
+      <point x="139" y="716"/>
+      <point x="154" y="709"/>
+      <point x="165" y="697"/>
+      <point x="169" y="680"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.nambli.snapshot.leftSideBearing</key>
+      <integer>74</integer>
+    </dict>
+  </lib>
+</glyph>

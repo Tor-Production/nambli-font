@@ -7,8 +7,10 @@ outline programming and engineering.
 ![Nambli family specimen](documentation/specimen.png)
 
 Six weights — Light, Regular, Medium, SemiBold, Bold and ExtraBold — each have
-an italic companion. Each of the 12 styles has 872 encoded characters and
-887 glyphs. The family is intended for branding, headings and short text.
+an italic companion. The family is intended for branding, headings and short
+text. This development branch contains a 1.000 technical candidate for review;
+the published v0.7.4 release remains available separately.
+The candidate contains 970 encoded characters and 998 glyphs per style.
 
 ## Download and use
 
@@ -32,32 +34,38 @@ of authorship is claimed by this repository.
 
 ## Source and build
 
-The original parametric sources are in `sources/`, with the historical approved
-master in `sources/master`. The 12 approved faces also have editable UFO3
-snapshots in `sources/ufos`, including OpenType feature source. Their outline,
-metric, Unicode and shaping round trips have been validated; see
-[the validation report](documentation/ufo-validation.json).
+The twelve editable UFO3 masters in `sources/ufos` include the complete candidate
+outlines, metrics, Unicode mapping, kerning and OpenType feature source. Build
+them with the pinned Fontmake toolchain:
 
 Install Python and the packages in `requirements.txt`, then run:
 
 ```sh
 python -m pip install -r requirements.txt
-bash sources/build.sh
+python sources/build_fontmake.py
 ```
 
-The historical design generator writes into `build-fonts/`, and its UFO export
-and validation write into `build-ufos/`, keeping the shipping files separate.
-On Windows without Bash, run `python sources/build_family.py` and then
-`python sources/export_ufo.py --fonts build-fonts --output build-ufos`.
-The Regular TTF/OTF rebuild exactly preserves the approved outlines, metrics,
-Unicode mapping and shaping tables, with 130,608 shaping comparisons and no
-differences. See [the scoped build audit](documentation/regular-build-validation.json).
-The full 12-style production rebuild remains to be revalidated. The committed
-UFO snapshots preserve the shipping design; a fontmake pipeline is not claimed.
+The build writes TTF and WOFF2 files into `build-fonts/`, validates them against
+their editable sources, and leaves committed font files untouched. See
+[building and validation instructions](sources/BUILDING.md) for the repeat-build
+check and the distinction between the current production pipeline and historical
+construction scripts. The latter remain in `sources/`, with the historical
+master in `sources/master`.
 
 ## Google Fonts status
 
-**Not yet included in Google Fonts.** This first public OFL package preserves
-the approved 0.7.3 design and adds licensing metadata as version 0.704.
-Google Fonts preparation is tracked in [known issues](documentation/GOOGLE-FONTS-STATUS.txt).
-No claim is made that the Google Fonts profile currently passes.
+**Not yet included in Google Fonts.** The family was submitted in
+[google/fonts#11082](https://github.com/google/fonts/issues/11082). Yurii Tor's
+Individual CLA was verified on 2026-10-07. Submission and a signed CLA do not
+establish curatorial acceptance.
+
+The 1.000 candidate adds required characters and language support, corrects
+layout and outline defects, and supplies a reproducible production build.
+New and changed designs still need visual review. Detailed results and remaining
+findings are recorded in [Google Fonts status](documentation/GOOGLE-FONTS-STATUS.txt).
+
+The latest [design refinement proof](documentation/refinement/Nambli-Refinement-Review.html)
+compares the previous candidate with the centered `@`, smoother hooks, circular
+crossed-tail loops and reused rounded ƹ. It contains all twelve styles and is
+self-contained. The [complete technical proof](documentation/review/Nambli-Technical-Review.html)
+also includes the full set of additions against v0.7.4.

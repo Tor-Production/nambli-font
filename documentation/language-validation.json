@@ -1,0 +1,2360 @@
+{
+  "status": "PASS",
+  "faces": 12,
+  "shaping_probes": 216,
+  "counter_topology_checks": 60,
+  "results": [
+    {
+      "font": "Nambli-Bold.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
+      "tests": [
+        {
+          "text": "i̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "j̍",
+          "language": "en",
+          "glyphs": [
+            "uni0237",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "i̩̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni0329",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į̍",
+          "language": "en",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ḭ̍",
+          "language": "en",
+          "glyphs": [
+            "uni1E2D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ị̍",
+          "language": "en",
+          "glyphs": [
+            "uni1ECB.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ɨ̍",
+          "language": "en",
+          "glyphs": [
+            "uni0268.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ј̍",
+          "language": "sr",
+          "glyphs": [
+            "uni0458.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "l·l",
+          "language": "ca",
+          "glyphs": [
+            "l",
+            "periodcentered.loclCAT",
+            "l"
+          ]
+        },
+        {
+          "text": "L·L",
+          "language": "ca",
+          "glyphs": [
+            "L",
+            "periodcentered.loclCAT.case",
+            "L"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "tr",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "az",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "a̍̍",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -310,
+              558
+            ],
+            [
+              0,
+              -310,
+              802
+            ]
+          ]
+        },
+        {
+          "text": "a̩̩",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -310,
+              28
+            ],
+            [
+              0,
+              -310,
+              -216
+            ]
+          ]
+        },
+        {
+          "text": "◌̍",
+          "positions": [
+            [
+              700,
+              0,
+              0
+            ],
+            [
+              0,
+              -350,
+              706
+            ]
+          ]
+        },
+        {
+          "text": "ɤ̩̍",
+          "positions": [
+            [
+              570,
+              0,
+              0
+            ],
+            [
+              0,
+              -285,
+              -50
+            ],
+            [
+              0,
+              -285,
+              595
+            ]
+          ]
+        }
+      ],
+      "open_counter_contours_verified": 5
+    },
+    {
+      "font": "Nambli-BoldItalic.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
+      "tests": [
+        {
+          "text": "i̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "j̍",
+          "language": "en",
+          "glyphs": [
+            "uni0237",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "i̩̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni0329",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į̍",
+          "language": "en",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ḭ̍",
+          "language": "en",
+          "glyphs": [
+            "uni1E2D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ị̍",
+          "language": "en",
+          "glyphs": [
+            "uni1ECB.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ɨ̍",
+          "language": "en",
+          "glyphs": [
+            "uni0268.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ј̍",
+          "language": "sr",
+          "glyphs": [
+            "uni0458.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "l·l",
+          "language": "ca",
+          "glyphs": [
+            "l",
+            "periodcentered.loclCAT",
+            "l"
+          ]
+        },
+        {
+          "text": "L·L",
+          "language": "ca",
+          "glyphs": [
+            "L",
+            "periodcentered.loclCAT.case",
+            "L"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "tr",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "az",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "a̍̍",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -211,
+              558
+            ],
+            [
+              0,
+              -168,
+              803
+            ]
+          ]
+        },
+        {
+          "text": "a̩̩",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -305,
+              28
+            ],
+            [
+              0,
+              -348,
+              -217
+            ]
+          ]
+        },
+        {
+          "text": "◌̍",
+          "positions": [
+            [
+              700,
+              0,
+              0
+            ],
+            [
+              0,
+              -225,
+              706
+            ]
+          ]
+        },
+        {
+          "text": "ɤ̩̍",
+          "positions": [
+            [
+              570,
+              0,
+              0
+            ],
+            [
+              0,
+              -294,
+              -50
+            ],
+            [
+              0,
+              -180,
+              595
+            ]
+          ]
+        }
+      ],
+      "open_counter_contours_verified": 5
+    },
+    {
+      "font": "Nambli-ExtraBold.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
+      "tests": [
+        {
+          "text": "i̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "j̍",
+          "language": "en",
+          "glyphs": [
+            "uni0237",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "i̩̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni0329",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į̍",
+          "language": "en",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ḭ̍",
+          "language": "en",
+          "glyphs": [
+            "uni1E2D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ị̍",
+          "language": "en",
+          "glyphs": [
+            "uni1ECB.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ɨ̍",
+          "language": "en",
+          "glyphs": [
+            "uni0268.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ј̍",
+          "language": "sr",
+          "glyphs": [
+            "uni0458.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "l·l",
+          "language": "ca",
+          "glyphs": [
+            "l",
+            "periodcentered.loclCAT",
+            "l"
+          ]
+        },
+        {
+          "text": "L·L",
+          "language": "ca",
+          "glyphs": [
+            "L",
+            "periodcentered.loclCAT.case",
+            "L"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "tr",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "az",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "a̍̍",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -310,
+              558
+            ],
+            [
+              0,
+              -310,
+              806
+            ]
+          ]
+        },
+        {
+          "text": "a̩̩",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -310,
+              28
+            ],
+            [
+              0,
+              -310,
+              -220
+            ]
+          ]
+        },
+        {
+          "text": "◌̍",
+          "positions": [
+            [
+              700,
+              0,
+              0
+            ],
+            [
+              0,
+              -350,
+              709
+            ]
+          ]
+        },
+        {
+          "text": "ɤ̩̍",
+          "positions": [
+            [
+              570,
+              0,
+              0
+            ],
+            [
+              0,
+              -285,
+              -50
+            ],
+            [
+              0,
+              -285,
+              595
+            ]
+          ]
+        }
+      ],
+      "open_counter_contours_verified": 5
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
+      "tests": [
+        {
+          "text": "i̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "j̍",
+          "language": "en",
+          "glyphs": [
+            "uni0237",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "i̩̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni0329",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į̍",
+          "language": "en",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ḭ̍",
+          "language": "en",
+          "glyphs": [
+            "uni1E2D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ị̍",
+          "language": "en",
+          "glyphs": [
+            "uni1ECB.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ɨ̍",
+          "language": "en",
+          "glyphs": [
+            "uni0268.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ј̍",
+          "language": "sr",
+          "glyphs": [
+            "uni0458.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "l·l",
+          "language": "ca",
+          "glyphs": [
+            "l",
+            "periodcentered.loclCAT",
+            "l"
+          ]
+        },
+        {
+          "text": "L·L",
+          "language": "ca",
+          "glyphs": [
+            "L",
+            "periodcentered.loclCAT.case",
+            "L"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "tr",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "az",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "a̍̍",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -211,
+              558
+            ],
+            [
+              0,
+              -167,
+              807
+            ]
+          ]
+        },
+        {
+          "text": "a̩̩",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -305,
+              28
+            ],
+            [
+              0,
+              -349,
+              -221
+            ]
+          ]
+        },
+        {
+          "text": "◌̍",
+          "positions": [
+            [
+              700,
+              0,
+              0
+            ],
+            [
+              0,
+              -225,
+              710
+            ]
+          ]
+        },
+        {
+          "text": "ɤ̩̍",
+          "positions": [
+            [
+              570,
+              0,
+              0
+            ],
+            [
+              0,
+              -294,
+              -50
+            ],
+            [
+              0,
+              -180,
+              595
+            ]
+          ]
+        }
+      ],
+      "open_counter_contours_verified": 5
+    },
+    {
+      "font": "Nambli-Italic.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
+      "tests": [
+        {
+          "text": "i̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "j̍",
+          "language": "en",
+          "glyphs": [
+            "uni0237",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "i̩̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni0329",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į̍",
+          "language": "en",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ḭ̍",
+          "language": "en",
+          "glyphs": [
+            "uni1E2D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ị̍",
+          "language": "en",
+          "glyphs": [
+            "uni1ECB.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ɨ̍",
+          "language": "en",
+          "glyphs": [
+            "uni0268.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ј̍",
+          "language": "sr",
+          "glyphs": [
+            "uni0458.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "l·l",
+          "language": "ca",
+          "glyphs": [
+            "l",
+            "periodcentered.loclCAT",
+            "l"
+          ]
+        },
+        {
+          "text": "L·L",
+          "language": "ca",
+          "glyphs": [
+            "L",
+            "periodcentered.loclCAT.case",
+            "L"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "tr",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "az",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "a̍̍",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -211,
+              558
+            ],
+            [
+              0,
+              -169,
+              794
+            ]
+          ]
+        },
+        {
+          "text": "a̩̩",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -305,
+              28
+            ],
+            [
+              0,
+              -346,
+              -208
+            ]
+          ]
+        },
+        {
+          "text": "◌̍",
+          "positions": [
+            [
+              700,
+              0,
+              0
+            ],
+            [
+              0,
+              -227,
+              697
+            ]
+          ]
+        },
+        {
+          "text": "ɤ̩̍",
+          "positions": [
+            [
+              570,
+              0,
+              0
+            ],
+            [
+              0,
+              -294,
+              -50
+            ],
+            [
+              0,
+              -180,
+              595
+            ]
+          ]
+        }
+      ],
+      "open_counter_contours_verified": 5
+    },
+    {
+      "font": "Nambli-Light.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
+      "tests": [
+        {
+          "text": "i̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "j̍",
+          "language": "en",
+          "glyphs": [
+            "uni0237",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "i̩̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni0329",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į̍",
+          "language": "en",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ḭ̍",
+          "language": "en",
+          "glyphs": [
+            "uni1E2D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ị̍",
+          "language": "en",
+          "glyphs": [
+            "uni1ECB.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ɨ̍",
+          "language": "en",
+          "glyphs": [
+            "uni0268.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ј̍",
+          "language": "sr",
+          "glyphs": [
+            "uni0458.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "l·l",
+          "language": "ca",
+          "glyphs": [
+            "l",
+            "periodcentered.loclCAT",
+            "l"
+          ]
+        },
+        {
+          "text": "L·L",
+          "language": "ca",
+          "glyphs": [
+            "L",
+            "periodcentered.loclCAT.case",
+            "L"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "tr",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "az",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "a̍̍",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -310,
+              558
+            ],
+            [
+              0,
+              -310,
+              789
+            ]
+          ]
+        },
+        {
+          "text": "a̩̩",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -310,
+              28
+            ],
+            [
+              0,
+              -310,
+              -203
+            ]
+          ]
+        },
+        {
+          "text": "◌̍",
+          "positions": [
+            [
+              700,
+              0,
+              0
+            ],
+            [
+              0,
+              -350,
+              692
+            ]
+          ]
+        },
+        {
+          "text": "ɤ̩̍",
+          "positions": [
+            [
+              570,
+              0,
+              0
+            ],
+            [
+              0,
+              -285,
+              -50
+            ],
+            [
+              0,
+              -285,
+              595
+            ]
+          ]
+        }
+      ],
+      "open_counter_contours_verified": 5
+    },
+    {
+      "font": "Nambli-LightItalic.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
+      "tests": [
+        {
+          "text": "i̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "j̍",
+          "language": "en",
+          "glyphs": [
+            "uni0237",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "i̩̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni0329",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į̍",
+          "language": "en",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ḭ̍",
+          "language": "en",
+          "glyphs": [
+            "uni1E2D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ị̍",
+          "language": "en",
+          "glyphs": [
+            "uni1ECB.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ɨ̍",
+          "language": "en",
+          "glyphs": [
+            "uni0268.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ј̍",
+          "language": "sr",
+          "glyphs": [
+            "uni0458.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "l·l",
+          "language": "ca",
+          "glyphs": [
+            "l",
+            "periodcentered.loclCAT",
+            "l"
+          ]
+        },
+        {
+          "text": "L·L",
+          "language": "ca",
+          "glyphs": [
+            "L",
+            "periodcentered.loclCAT.case",
+            "L"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "tr",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "az",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "a̍̍",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -211,
+              558
+            ],
+            [
+              0,
+              -170,
+              789
+            ]
+          ]
+        },
+        {
+          "text": "a̩̩",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -305,
+              28
+            ],
+            [
+              0,
+              -345,
+              -203
+            ]
+          ]
+        },
+        {
+          "text": "◌̍",
+          "positions": [
+            [
+              700,
+              0,
+              0
+            ],
+            [
+              0,
+              -228,
+              692
+            ]
+          ]
+        },
+        {
+          "text": "ɤ̩̍",
+          "positions": [
+            [
+              570,
+              0,
+              0
+            ],
+            [
+              0,
+              -294,
+              -50
+            ],
+            [
+              0,
+              -180,
+              595
+            ]
+          ]
+        }
+      ],
+      "open_counter_contours_verified": 5
+    },
+    {
+      "font": "Nambli-Medium.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
+      "tests": [
+        {
+          "text": "i̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "j̍",
+          "language": "en",
+          "glyphs": [
+            "uni0237",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "i̩̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni0329",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į̍",
+          "language": "en",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ḭ̍",
+          "language": "en",
+          "glyphs": [
+            "uni1E2D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ị̍",
+          "language": "en",
+          "glyphs": [
+            "uni1ECB.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ɨ̍",
+          "language": "en",
+          "glyphs": [
+            "uni0268.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ј̍",
+          "language": "sr",
+          "glyphs": [
+            "uni0458.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "l·l",
+          "language": "ca",
+          "glyphs": [
+            "l",
+            "periodcentered.loclCAT",
+            "l"
+          ]
+        },
+        {
+          "text": "L·L",
+          "language": "ca",
+          "glyphs": [
+            "L",
+            "periodcentered.loclCAT.case",
+            "L"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "tr",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "az",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "a̍̍",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -310,
+              558
+            ],
+            [
+              0,
+              -310,
+              798
+            ]
+          ]
+        },
+        {
+          "text": "a̩̩",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -310,
+              28
+            ],
+            [
+              0,
+              -310,
+              -212
+            ]
+          ]
+        },
+        {
+          "text": "◌̍",
+          "positions": [
+            [
+              700,
+              0,
+              0
+            ],
+            [
+              0,
+              -350,
+              701
+            ]
+          ]
+        },
+        {
+          "text": "ɤ̩̍",
+          "positions": [
+            [
+              570,
+              0,
+              0
+            ],
+            [
+              0,
+              -285,
+              -50
+            ],
+            [
+              0,
+              -285,
+              595
+            ]
+          ]
+        }
+      ],
+      "open_counter_contours_verified": 5
+    },
+    {
+      "font": "Nambli-MediumItalic.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
+      "tests": [
+        {
+          "text": "i̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "j̍",
+          "language": "en",
+          "glyphs": [
+            "uni0237",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "i̩̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni0329",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į̍",
+          "language": "en",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ḭ̍",
+          "language": "en",
+          "glyphs": [
+            "uni1E2D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ị̍",
+          "language": "en",
+          "glyphs": [
+            "uni1ECB.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ɨ̍",
+          "language": "en",
+          "glyphs": [
+            "uni0268.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ј̍",
+          "language": "sr",
+          "glyphs": [
+            "uni0458.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "l·l",
+          "language": "ca",
+          "glyphs": [
+            "l",
+            "periodcentered.loclCAT",
+            "l"
+          ]
+        },
+        {
+          "text": "L·L",
+          "language": "ca",
+          "glyphs": [
+            "L",
+            "periodcentered.loclCAT.case",
+            "L"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "tr",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "az",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "a̍̍",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -211,
+              558
+            ],
+            [
+              0,
+              -168,
+              798
+            ]
+          ]
+        },
+        {
+          "text": "a̩̩",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -305,
+              28
+            ],
+            [
+              0,
+              -347,
+              -212
+            ]
+          ]
+        },
+        {
+          "text": "◌̍",
+          "positions": [
+            [
+              700,
+              0,
+              0
+            ],
+            [
+              0,
+              -226,
+              701
+            ]
+          ]
+        },
+        {
+          "text": "ɤ̩̍",
+          "positions": [
+            [
+              570,
+              0,
+              0
+            ],
+            [
+              0,
+              -294,
+              -50
+            ],
+            [
+              0,
+              -180,
+              595
+            ]
+          ]
+        }
+      ],
+      "open_counter_contours_verified": 5
+    },
+    {
+      "font": "Nambli-Regular.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
+      "tests": [
+        {
+          "text": "i̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "j̍",
+          "language": "en",
+          "glyphs": [
+            "uni0237",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "i̩̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni0329",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į̍",
+          "language": "en",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ḭ̍",
+          "language": "en",
+          "glyphs": [
+            "uni1E2D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ị̍",
+          "language": "en",
+          "glyphs": [
+            "uni1ECB.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ɨ̍",
+          "language": "en",
+          "glyphs": [
+            "uni0268.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ј̍",
+          "language": "sr",
+          "glyphs": [
+            "uni0458.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "l·l",
+          "language": "ca",
+          "glyphs": [
+            "l",
+            "periodcentered.loclCAT",
+            "l"
+          ]
+        },
+        {
+          "text": "L·L",
+          "language": "ca",
+          "glyphs": [
+            "L",
+            "periodcentered.loclCAT.case",
+            "L"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "tr",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "az",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "a̍̍",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -310,
+              558
+            ],
+            [
+              0,
+              -310,
+              794
+            ]
+          ]
+        },
+        {
+          "text": "a̩̩",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -310,
+              28
+            ],
+            [
+              0,
+              -310,
+              -208
+            ]
+          ]
+        },
+        {
+          "text": "◌̍",
+          "positions": [
+            [
+              700,
+              0,
+              0
+            ],
+            [
+              0,
+              -350,
+              697
+            ]
+          ]
+        },
+        {
+          "text": "ɤ̩̍",
+          "positions": [
+            [
+              570,
+              0,
+              0
+            ],
+            [
+              0,
+              -285,
+              -50
+            ],
+            [
+              0,
+              -285,
+              595
+            ]
+          ]
+        }
+      ],
+      "open_counter_contours_verified": 5
+    },
+    {
+      "font": "Nambli-SemiBold.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
+      "tests": [
+        {
+          "text": "i̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "j̍",
+          "language": "en",
+          "glyphs": [
+            "uni0237",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "i̩̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni0329",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į̍",
+          "language": "en",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ḭ̍",
+          "language": "en",
+          "glyphs": [
+            "uni1E2D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ị̍",
+          "language": "en",
+          "glyphs": [
+            "uni1ECB.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ɨ̍",
+          "language": "en",
+          "glyphs": [
+            "uni0268.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ј̍",
+          "language": "sr",
+          "glyphs": [
+            "uni0458.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "l·l",
+          "language": "ca",
+          "glyphs": [
+            "l",
+            "periodcentered.loclCAT",
+            "l"
+          ]
+        },
+        {
+          "text": "L·L",
+          "language": "ca",
+          "glyphs": [
+            "L",
+            "periodcentered.loclCAT.case",
+            "L"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "tr",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "az",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "a̍̍",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -310,
+              558
+            ],
+            [
+              0,
+              -310,
+              800
+            ]
+          ]
+        },
+        {
+          "text": "a̩̩",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -310,
+              28
+            ],
+            [
+              0,
+              -310,
+              -214
+            ]
+          ]
+        },
+        {
+          "text": "◌̍",
+          "positions": [
+            [
+              700,
+              0,
+              0
+            ],
+            [
+              0,
+              -350,
+              703
+            ]
+          ]
+        },
+        {
+          "text": "ɤ̩̍",
+          "positions": [
+            [
+              570,
+              0,
+              0
+            ],
+            [
+              0,
+              -285,
+              -50
+            ],
+            [
+              0,
+              -285,
+              595
+            ]
+          ]
+        }
+      ],
+      "open_counter_contours_verified": 5
+    },
+    {
+      "font": "Nambli-SemiBoldItalic.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
+      "tests": [
+        {
+          "text": "i̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "j̍",
+          "language": "en",
+          "glyphs": [
+            "uni0237",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "i̩̍",
+          "language": "en",
+          "glyphs": [
+            "idotless.alt",
+            "uni0329",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į̍",
+          "language": "en",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ḭ̍",
+          "language": "en",
+          "glyphs": [
+            "uni1E2D.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ị̍",
+          "language": "en",
+          "glyphs": [
+            "uni1ECB.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ɨ̍",
+          "language": "en",
+          "glyphs": [
+            "uni0268.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "ј̍",
+          "language": "sr",
+          "glyphs": [
+            "uni0458.dotless",
+            "uni030D"
+          ]
+        },
+        {
+          "text": "l·l",
+          "language": "ca",
+          "glyphs": [
+            "l",
+            "periodcentered.loclCAT",
+            "l"
+          ]
+        },
+        {
+          "text": "L·L",
+          "language": "ca",
+          "glyphs": [
+            "L",
+            "periodcentered.loclCAT.case",
+            "L"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "tr",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "i",
+          "language": "az",
+          "glyphs": [
+            "i.loclTRK"
+          ]
+        },
+        {
+          "text": "a̍̍",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -211,
+              558
+            ],
+            [
+              0,
+              -168,
+              800
+            ]
+          ]
+        },
+        {
+          "text": "a̩̩",
+          "positions": [
+            [
+              620,
+              0,
+              0
+            ],
+            [
+              0,
+              -305,
+              28
+            ],
+            [
+              0,
+              -347,
+              -214
+            ]
+          ]
+        },
+        {
+          "text": "◌̍",
+          "positions": [
+            [
+              700,
+              0,
+              0
+            ],
+            [
+              0,
+              -226,
+              704
+            ]
+          ]
+        },
+        {
+          "text": "ɤ̩̍",
+          "positions": [
+            [
+              570,
+              0,
+              0
+            ],
+            [
+              0,
+              -294,
+              -50
+            ],
+            [
+              0,
+              -180,
+              595
+            ]
+          ]
+        }
+      ],
+      "open_counter_contours_verified": 5
+    }
+  ]
+}

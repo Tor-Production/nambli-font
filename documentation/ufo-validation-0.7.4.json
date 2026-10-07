@@ -1,0 +1,726 @@
+{
+  "status": "PASS",
+  "sourceVersion": "0.7.3",
+  "fontToolsVersion": "4.66.1",
+  "sourceFeaturesSHA256": "b3e31a3dc426faf347b46aacd317bb95ffa25e0ffd4ec2aeabd630d7f2b2cab6",
+  "faces": 12,
+  "glyphChecks": 10644,
+  "unicodeChecks": 10464,
+  "featureTableChecks": 36,
+  "scope": "Editable quadratic source snapshots exported from approved TTFs, with original feature source and exact italic anchor transformation.",
+  "verified": [
+    "UFO3 read/write validation",
+    "exact saved UFO point instructions",
+    "exact normalized quadratic path round-trip UFO to TTF",
+    "advances and left sidebearings",
+    "Unicode maps",
+    "glyph order",
+    "fontinfo fields",
+    "legacy kern pairs",
+    "GDEF/GSUB/GPOS byte equivalence after compiling saved features.fea"
+  ],
+  "notClaimed": [
+    "Historical design sources replaced",
+    "Independent fontmake/gftools build",
+    "Complete binary font round-trip including metadata, STAT and hinting",
+    "Google Fonts acceptance",
+    "Legal authorship or licensing clearance"
+  ],
+  "results": [
+    {
+      "face": "Nambli-Bold",
+      "inputSHA256": "9bec4221ae8fd467c69165e42927800845ffd1a237a687ffd1a4b27e1b025816",
+      "ufo": "Nambli-Bold.ufo",
+      "ufoFormat": 3,
+      "glyphs": 887,
+      "encodedCharacters": 872,
+      "quadraticPointOperations": 130494,
+      "contours": 1931,
+      "exactUFOPointRecordings": 887,
+      "exactTTFPathRoundTrips": 887,
+      "exactBinaryGlyphCoordinates": 887,
+      "exactAdvanceAndLeftSideBearings": 887,
+      "exactUnicodeMappings": 872,
+      "fontInfoAttributesPreserved": 59,
+      "legacyKerningPairsPreserved": 267,
+      "featureTablesRecompiled": {
+        "GDEF": {
+          "byteIdentical": true,
+          "bytes": 46,
+          "sha256": "45542237e2c6f909e6ca7b8a4cffc0ee1b987f9df4df40c10383116be71c79f3"
+        },
+        "GSUB": {
+          "byteIdentical": true,
+          "bytes": 5424,
+          "sha256": "0ba08dba098649d13d27829621225a1f40bdcccfd2eea260a09030bdbac1fee3"
+        },
+        "GPOS": {
+          "byteIdentical": true,
+          "bytes": 17430,
+          "sha256": "e3c15feeebf3d511140dd2729affb04a33e8865bce5fd642a91b14712f44cc4d"
+        }
+      },
+      "italicAnchorsTransformed": false,
+      "sourceHintingInstructions": 0,
+      "status": "PASS",
+      "binaryRepresentationNormalization": []
+    },
+    {
+      "face": "Nambli-BoldItalic",
+      "inputSHA256": "b8f55a5125371b209d71c975868f688d3bd96782bea1e2eef72afe1521daf669",
+      "ufo": "Nambli-BoldItalic.ufo",
+      "ufoFormat": 3,
+      "glyphs": 887,
+      "encodedCharacters": 872,
+      "quadraticPointOperations": 130860,
+      "contours": 1931,
+      "exactUFOPointRecordings": 887,
+      "exactTTFPathRoundTrips": 887,
+      "exactBinaryGlyphCoordinates": 887,
+      "exactAdvanceAndLeftSideBearings": 887,
+      "exactUnicodeMappings": 872,
+      "fontInfoAttributesPreserved": 59,
+      "legacyKerningPairsPreserved": 267,
+      "featureTablesRecompiled": {
+        "GDEF": {
+          "byteIdentical": true,
+          "bytes": 46,
+          "sha256": "45542237e2c6f909e6ca7b8a4cffc0ee1b987f9df4df40c10383116be71c79f3"
+        },
+        "GSUB": {
+          "byteIdentical": true,
+          "bytes": 5424,
+          "sha256": "0ba08dba098649d13d27829621225a1f40bdcccfd2eea260a09030bdbac1fee3"
+        },
+        "GPOS": {
+          "byteIdentical": true,
+          "bytes": 17430,
+          "sha256": "71fd6ad3e4c82dd7b00603f22f855d5aceafcfbcce79c75f5b72e802188c47c0"
+        }
+      },
+      "italicAnchorsTransformed": true,
+      "sourceHintingInstructions": 0,
+      "status": "PASS",
+      "binaryRepresentationNormalization": []
+    },
+    {
+      "face": "Nambli-ExtraBold",
+      "inputSHA256": "32596a9bedceb10cda0f7258de303e2b191bfa2fe47f971aba85416d0def2ea8",
+      "ufo": "Nambli-ExtraBold.ufo",
+      "ufoFormat": 3,
+      "glyphs": 887,
+      "encodedCharacters": 872,
+      "quadraticPointOperations": 125897,
+      "contours": 1931,
+      "exactUFOPointRecordings": 887,
+      "exactTTFPathRoundTrips": 887,
+      "exactBinaryGlyphCoordinates": 887,
+      "exactAdvanceAndLeftSideBearings": 887,
+      "exactUnicodeMappings": 872,
+      "fontInfoAttributesPreserved": 59,
+      "legacyKerningPairsPreserved": 267,
+      "featureTablesRecompiled": {
+        "GDEF": {
+          "byteIdentical": true,
+          "bytes": 46,
+          "sha256": "45542237e2c6f909e6ca7b8a4cffc0ee1b987f9df4df40c10383116be71c79f3"
+        },
+        "GSUB": {
+          "byteIdentical": true,
+          "bytes": 5424,
+          "sha256": "0ba08dba098649d13d27829621225a1f40bdcccfd2eea260a09030bdbac1fee3"
+        },
+        "GPOS": {
+          "byteIdentical": true,
+          "bytes": 17430,
+          "sha256": "e3c15feeebf3d511140dd2729affb04a33e8865bce5fd642a91b14712f44cc4d"
+        }
+      },
+      "italicAnchorsTransformed": false,
+      "sourceHintingInstructions": 0,
+      "status": "PASS",
+      "binaryRepresentationNormalization": []
+    },
+    {
+      "face": "Nambli-ExtraBoldItalic",
+      "inputSHA256": "614539cd0c93b1cd4e8b05cabdb64f1d8e632f204a635a0c488fa5e4d90a02bd",
+      "ufo": "Nambli-ExtraBoldItalic.ufo",
+      "ufoFormat": 3,
+      "glyphs": 887,
+      "encodedCharacters": 872,
+      "quadraticPointOperations": 129541,
+      "contours": 1929,
+      "exactUFOPointRecordings": 887,
+      "exactTTFPathRoundTrips": 887,
+      "exactBinaryGlyphCoordinates": 887,
+      "exactAdvanceAndLeftSideBearings": 887,
+      "exactUnicodeMappings": 872,
+      "fontInfoAttributesPreserved": 59,
+      "legacyKerningPairsPreserved": 267,
+      "featureTablesRecompiled": {
+        "GDEF": {
+          "byteIdentical": true,
+          "bytes": 46,
+          "sha256": "45542237e2c6f909e6ca7b8a4cffc0ee1b987f9df4df40c10383116be71c79f3"
+        },
+        "GSUB": {
+          "byteIdentical": true,
+          "bytes": 5424,
+          "sha256": "0ba08dba098649d13d27829621225a1f40bdcccfd2eea260a09030bdbac1fee3"
+        },
+        "GPOS": {
+          "byteIdentical": true,
+          "bytes": 17430,
+          "sha256": "71fd6ad3e4c82dd7b00603f22f855d5aceafcfbcce79c75f5b72e802188c47c0"
+        }
+      },
+      "italicAnchorsTransformed": true,
+      "sourceHintingInstructions": 0,
+      "status": "PASS",
+      "binaryRepresentationNormalization": []
+    },
+    {
+      "face": "Nambli-Italic",
+      "inputSHA256": "e0102300b1feaba8ee3caf843aad07963ecdd89058cacf77f63e081c08a64fef",
+      "ufo": "Nambli-Italic.ufo",
+      "ufoFormat": 3,
+      "glyphs": 887,
+      "encodedCharacters": 872,
+      "quadraticPointOperations": 131900,
+      "contours": 1931,
+      "exactUFOPointRecordings": 887,
+      "exactTTFPathRoundTrips": 887,
+      "exactBinaryGlyphCoordinates": 887,
+      "exactAdvanceAndLeftSideBearings": 887,
+      "exactUnicodeMappings": 872,
+      "fontInfoAttributesPreserved": 59,
+      "legacyKerningPairsPreserved": 267,
+      "featureTablesRecompiled": {
+        "GDEF": {
+          "byteIdentical": true,
+          "bytes": 46,
+          "sha256": "45542237e2c6f909e6ca7b8a4cffc0ee1b987f9df4df40c10383116be71c79f3"
+        },
+        "GSUB": {
+          "byteIdentical": true,
+          "bytes": 5424,
+          "sha256": "0ba08dba098649d13d27829621225a1f40bdcccfd2eea260a09030bdbac1fee3"
+        },
+        "GPOS": {
+          "byteIdentical": true,
+          "bytes": 17430,
+          "sha256": "71fd6ad3e4c82dd7b00603f22f855d5aceafcfbcce79c75f5b72e802188c47c0"
+        }
+      },
+      "italicAnchorsTransformed": true,
+      "sourceHintingInstructions": 0,
+      "status": "PASS",
+      "binaryRepresentationNormalization": []
+    },
+    {
+      "face": "Nambli-Light",
+      "inputSHA256": "1281102983fd5ee8f0f5e85f71f7947b0373745a8b2b53c8bfb7e8b22268a788",
+      "ufo": "Nambli-Light.ufo",
+      "ufoFormat": 3,
+      "glyphs": 887,
+      "encodedCharacters": 872,
+      "quadraticPointOperations": 128751,
+      "contours": 1932,
+      "exactUFOPointRecordings": 887,
+      "exactTTFPathRoundTrips": 887,
+      "exactBinaryGlyphCoordinates": 887,
+      "exactAdvanceAndLeftSideBearings": 887,
+      "exactUnicodeMappings": 872,
+      "fontInfoAttributesPreserved": 59,
+      "legacyKerningPairsPreserved": 267,
+      "featureTablesRecompiled": {
+        "GDEF": {
+          "byteIdentical": true,
+          "bytes": 46,
+          "sha256": "45542237e2c6f909e6ca7b8a4cffc0ee1b987f9df4df40c10383116be71c79f3"
+        },
+        "GSUB": {
+          "byteIdentical": true,
+          "bytes": 5424,
+          "sha256": "0ba08dba098649d13d27829621225a1f40bdcccfd2eea260a09030bdbac1fee3"
+        },
+        "GPOS": {
+          "byteIdentical": true,
+          "bytes": 17430,
+          "sha256": "e3c15feeebf3d511140dd2729affb04a33e8865bce5fd642a91b14712f44cc4d"
+        }
+      },
+      "italicAnchorsTransformed": false,
+      "sourceHintingInstructions": 0,
+      "status": "PASS",
+      "binaryRepresentationNormalization": []
+    },
+    {
+      "face": "Nambli-LightItalic",
+      "inputSHA256": "e8ef18169071bd343e554bd54a246a0a60b084de29673c84168b9e2f787df14b",
+      "ufo": "Nambli-LightItalic.ufo",
+      "ufoFormat": 3,
+      "glyphs": 887,
+      "encodedCharacters": 872,
+      "quadraticPointOperations": 132917,
+      "contours": 1932,
+      "exactUFOPointRecordings": 887,
+      "exactTTFPathRoundTrips": 887,
+      "exactBinaryGlyphCoordinates": 887,
+      "exactAdvanceAndLeftSideBearings": 887,
+      "exactUnicodeMappings": 872,
+      "fontInfoAttributesPreserved": 59,
+      "legacyKerningPairsPreserved": 267,
+      "featureTablesRecompiled": {
+        "GDEF": {
+          "byteIdentical": true,
+          "bytes": 46,
+          "sha256": "45542237e2c6f909e6ca7b8a4cffc0ee1b987f9df4df40c10383116be71c79f3"
+        },
+        "GSUB": {
+          "byteIdentical": true,
+          "bytes": 5424,
+          "sha256": "0ba08dba098649d13d27829621225a1f40bdcccfd2eea260a09030bdbac1fee3"
+        },
+        "GPOS": {
+          "byteIdentical": true,
+          "bytes": 17430,
+          "sha256": "71fd6ad3e4c82dd7b00603f22f855d5aceafcfbcce79c75f5b72e802188c47c0"
+        }
+      },
+      "italicAnchorsTransformed": true,
+      "sourceHintingInstructions": 0,
+      "status": "PASS",
+      "binaryRepresentationNormalization": []
+    },
+    {
+      "face": "Nambli-Medium",
+      "inputSHA256": "5e1439f03fd06770715be0660ae5cf64cf22b50393bc611d9f8f3d070ee82d71",
+      "ufo": "Nambli-Medium.ufo",
+      "ufoFormat": 3,
+      "glyphs": 887,
+      "encodedCharacters": 872,
+      "quadraticPointOperations": 127502,
+      "contours": 1932,
+      "exactUFOPointRecordings": 887,
+      "exactTTFPathRoundTrips": 887,
+      "exactBinaryGlyphCoordinates": 887,
+      "exactAdvanceAndLeftSideBearings": 887,
+      "exactUnicodeMappings": 872,
+      "fontInfoAttributesPreserved": 59,
+      "legacyKerningPairsPreserved": 267,
+      "featureTablesRecompiled": {
+        "GDEF": {
+          "byteIdentical": true,
+          "bytes": 46,
+          "sha256": "45542237e2c6f909e6ca7b8a4cffc0ee1b987f9df4df40c10383116be71c79f3"
+        },
+        "GSUB": {
+          "byteIdentical": true,
+          "bytes": 5424,
+          "sha256": "0ba08dba098649d13d27829621225a1f40bdcccfd2eea260a09030bdbac1fee3"
+        },
+        "GPOS": {
+          "byteIdentical": true,
+          "bytes": 17430,
+          "sha256": "e3c15feeebf3d511140dd2729affb04a33e8865bce5fd642a91b14712f44cc4d"
+        }
+      },
+      "italicAnchorsTransformed": false,
+      "sourceHintingInstructions": 0,
+      "status": "PASS",
+      "binaryRepresentationNormalization": []
+    },
+    {
+      "face": "Nambli-MediumItalic",
+      "inputSHA256": "02cc9d36452e9bfa1b0a18d93e310d689d3b5c3b4e901e58ed0d1a259e4d2dec",
+      "ufo": "Nambli-MediumItalic.ufo",
+      "ufoFormat": 3,
+      "glyphs": 887,
+      "encodedCharacters": 872,
+      "quadraticPointOperations": 131634,
+      "contours": 1931,
+      "exactUFOPointRecordings": 887,
+      "exactTTFPathRoundTrips": 887,
+      "exactBinaryGlyphCoordinates": 853,
+      "exactAdvanceAndLeftSideBearings": 887,
+      "exactUnicodeMappings": 872,
+      "fontInfoAttributesPreserved": 59,
+      "legacyKerningPairsPreserved": 267,
+      "featureTablesRecompiled": {
+        "GDEF": {
+          "byteIdentical": true,
+          "bytes": 46,
+          "sha256": "45542237e2c6f909e6ca7b8a4cffc0ee1b987f9df4df40c10383116be71c79f3"
+        },
+        "GSUB": {
+          "byteIdentical": true,
+          "bytes": 5424,
+          "sha256": "0ba08dba098649d13d27829621225a1f40bdcccfd2eea260a09030bdbac1fee3"
+        },
+        "GPOS": {
+          "byteIdentical": true,
+          "bytes": 17430,
+          "sha256": "71fd6ad3e4c82dd7b00603f22f855d5aceafcfbcce79c75f5b72e802188c47c0"
+        }
+      },
+      "italicAnchorsTransformed": true,
+      "sourceHintingInstructions": 0,
+      "status": "PASS",
+      "binaryRepresentationNormalization": [
+        {
+          "glyph": "a",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 169,
+          "roundTripPoints": 168,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni0430",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 169,
+          "roundTripPoints": 168,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni00E0",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 235,
+          "roundTripPoints": 234,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni00E1",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 235,
+          "roundTripPoints": 234,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni00E2",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 257,
+          "roundTripPoints": 256,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni00E3",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 257,
+          "roundTripPoints": 256,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni00E4",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 209,
+          "roundTripPoints": 208,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni00E5",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 201,
+          "roundTripPoints": 200,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni0101",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 195,
+          "roundTripPoints": 194,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni0103",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 253,
+          "roundTripPoints": 252,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni00E6",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 286,
+          "roundTripPoints": 285,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni0105",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 234,
+          "roundTripPoints": 233,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni01CE",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 257,
+          "roundTripPoints": 256,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni01DF",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 235,
+          "roundTripPoints": 234,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni01E1",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 215,
+          "roundTripPoints": 214,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni01E3",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 312,
+          "roundTripPoints": 311,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni01FB",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 267,
+          "roundTripPoints": 266,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni01FD",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 352,
+          "roundTripPoints": 351,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni0201",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 301,
+          "roundTripPoints": 300,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni0203",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 249,
+          "roundTripPoints": 248,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni0227",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 189,
+          "roundTripPoints": 188,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni1E01",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 201,
+          "roundTripPoints": 200,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni1EA1",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 189,
+          "roundTripPoints": 188,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni1EA3",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 253,
+          "roundTripPoints": 252,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni1EA5",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 323,
+          "roundTripPoints": 322,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni1EA7",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 323,
+          "roundTripPoints": 322,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni1EA9",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 341,
+          "roundTripPoints": 340,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni1EAB",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 345,
+          "roundTripPoints": 344,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni1EAD",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 277,
+          "roundTripPoints": 276,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni1EAF",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 319,
+          "roundTripPoints": 318,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni1EB1",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 319,
+          "roundTripPoints": 318,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni1EB3",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 337,
+          "roundTripPoints": 336,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni1EB5",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 341,
+          "roundTripPoints": 340,
+          "duplicateClosingPointsRemoved": 1
+        },
+        {
+          "glyph": "uni1EB7",
+          "kind": "redundant explicit closing on-curve point",
+          "sourcePoints": 273,
+          "roundTripPoints": 272,
+          "duplicateClosingPointsRemoved": 1
+        }
+      ]
+    },
+    {
+      "face": "Nambli-Regular",
+      "inputSHA256": "1a1c53d4ec752e8358401b266efcce6695dac2c94c31ad1e9290d1ad0d3efa99",
+      "ufo": "Nambli-Regular.ufo",
+      "ufoFormat": 3,
+      "glyphs": 887,
+      "encodedCharacters": 872,
+      "quadraticPointOperations": 127910,
+      "contours": 1931,
+      "exactUFOPointRecordings": 887,
+      "exactTTFPathRoundTrips": 887,
+      "exactBinaryGlyphCoordinates": 887,
+      "exactAdvanceAndLeftSideBearings": 887,
+      "exactUnicodeMappings": 872,
+      "fontInfoAttributesPreserved": 59,
+      "legacyKerningPairsPreserved": 267,
+      "featureTablesRecompiled": {
+        "GDEF": {
+          "byteIdentical": true,
+          "bytes": 46,
+          "sha256": "45542237e2c6f909e6ca7b8a4cffc0ee1b987f9df4df40c10383116be71c79f3"
+        },
+        "GSUB": {
+          "byteIdentical": true,
+          "bytes": 5424,
+          "sha256": "0ba08dba098649d13d27829621225a1f40bdcccfd2eea260a09030bdbac1fee3"
+        },
+        "GPOS": {
+          "byteIdentical": true,
+          "bytes": 17430,
+          "sha256": "e3c15feeebf3d511140dd2729affb04a33e8865bce5fd642a91b14712f44cc4d"
+        }
+      },
+      "italicAnchorsTransformed": false,
+      "sourceHintingInstructions": 0,
+      "status": "PASS",
+      "binaryRepresentationNormalization": []
+    },
+    {
+      "face": "Nambli-SemiBold",
+      "inputSHA256": "9419ee82ba8ad36835be51a0e13b8df76919b55218ad238976c23454a4f59849",
+      "ufo": "Nambli-SemiBold.ufo",
+      "ufoFormat": 3,
+      "glyphs": 887,
+      "encodedCharacters": 872,
+      "quadraticPointOperations": 126975,
+      "contours": 1931,
+      "exactUFOPointRecordings": 887,
+      "exactTTFPathRoundTrips": 887,
+      "exactBinaryGlyphCoordinates": 887,
+      "exactAdvanceAndLeftSideBearings": 887,
+      "exactUnicodeMappings": 872,
+      "fontInfoAttributesPreserved": 59,
+      "legacyKerningPairsPreserved": 267,
+      "featureTablesRecompiled": {
+        "GDEF": {
+          "byteIdentical": true,
+          "bytes": 46,
+          "sha256": "45542237e2c6f909e6ca7b8a4cffc0ee1b987f9df4df40c10383116be71c79f3"
+        },
+        "GSUB": {
+          "byteIdentical": true,
+          "bytes": 5424,
+          "sha256": "0ba08dba098649d13d27829621225a1f40bdcccfd2eea260a09030bdbac1fee3"
+        },
+        "GPOS": {
+          "byteIdentical": true,
+          "bytes": 17430,
+          "sha256": "e3c15feeebf3d511140dd2729affb04a33e8865bce5fd642a91b14712f44cc4d"
+        }
+      },
+      "italicAnchorsTransformed": false,
+      "sourceHintingInstructions": 0,
+      "status": "PASS",
+      "binaryRepresentationNormalization": []
+    },
+    {
+      "face": "Nambli-SemiBoldItalic",
+      "inputSHA256": "90223517f68075edc0eafc2514c3bfa31eb7a300864ecc9dd49a18d22fc1adcf",
+      "ufo": "Nambli-SemiBoldItalic.ufo",
+      "ufoFormat": 3,
+      "glyphs": 887,
+      "encodedCharacters": 872,
+      "quadraticPointOperations": 130856,
+      "contours": 1931,
+      "exactUFOPointRecordings": 887,
+      "exactTTFPathRoundTrips": 887,
+      "exactBinaryGlyphCoordinates": 887,
+      "exactAdvanceAndLeftSideBearings": 887,
+      "exactUnicodeMappings": 872,
+      "fontInfoAttributesPreserved": 59,
+      "legacyKerningPairsPreserved": 267,
+      "featureTablesRecompiled": {
+        "GDEF": {
+          "byteIdentical": true,
+          "bytes": 46,
+          "sha256": "45542237e2c6f909e6ca7b8a4cffc0ee1b987f9df4df40c10383116be71c79f3"
+        },
+        "GSUB": {
+          "byteIdentical": true,
+          "bytes": 5424,
+          "sha256": "0ba08dba098649d13d27829621225a1f40bdcccfd2eea260a09030bdbac1fee3"
+        },
+        "GPOS": {
+          "byteIdentical": true,
+          "bytes": 17430,
+          "sha256": "71fd6ad3e4c82dd7b00603f22f855d5aceafcfbcce79c75f5b72e802188c47c0"
+        }
+      },
+      "italicAnchorsTransformed": true,
+      "sourceHintingInstructions": 0,
+      "status": "PASS",
+      "binaryRepresentationNormalization": []
+    }
+  ]
+}

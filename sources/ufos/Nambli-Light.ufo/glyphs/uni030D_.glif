@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030D" format="2">
+  <unicode hex="030D"/>
+  <outline>
+    <contour>
+      <point x="21" y="20" type="line"/>
+      <point x="21" y="18"/>
+      <point x="20" y="14"/>
+      <point x="18" y="10"/>
+      <point x="16" y="7"/>
+      <point x="13" y="4"/>
+      <point x="10" y="2"/>
+      <point x="6" y="0"/>
+      <point x="2" y="-1"/>
+      <point x="-2" y="-1"/>
+      <point x="-6" y="0"/>
+      <point x="-10" y="2"/>
+      <point x="-13" y="4"/>
+      <point x="-16" y="7"/>
+      <point x="-18" y="10"/>
+      <point x="-20" y="14"/>
+      <point x="-21" y="18"/>
+      <point x="-21" y="20" type="qcurve"/>
+      <point x="-21" y="155" type="line"/>
+      <point x="-21" y="157"/>
+      <point x="-20" y="161"/>
+      <point x="-18" y="165"/>
+      <point x="-16" y="168"/>
+      <point x="-13" y="171"/>
+      <point x="-10" y="173"/>
+      <point x="-6" y="175"/>
+      <point x="-2" y="176"/>
+      <point x="2" y="176"/>
+      <point x="6" y="175"/>
+      <point x="10" y="173"/>
+      <point x="13" y="171"/>
+      <point x="16" y="168"/>
+      <point x="18" y="165"/>
+      <point x="20" y="161"/>
+      <point x="21" y="157"/>
+      <point x="21" y="155" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.nambli.snapshot.leftSideBearing</key>
+      <integer>-21</integer>
+    </dict>
+  </lib>
+</glyph>

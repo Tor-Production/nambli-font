@@ -1,0 +1,1844 @@
+{
+  "tool": "Fontspector 1.8.0",
+  "profile": "googlefonts",
+  "mode": "offline",
+  "generated_utc": "2026-10-07T13:59:17.695433+00:00",
+  "network_timeout_seconds": 10,
+  "check_exclusions": [],
+  "exit_code": 0,
+  "font_files_unchanged": true,
+  "hash_scope": "All 12 canonical TTF inputs and OFL.txt; supplementary formats are validated by the build pipeline.",
+  "all_input_files_sha256": {
+    "Nambli-Bold.ttf": "7163e59fc7623e669c4fef6d6871ec76c6b164d20bb7b35e53b298769f4d17d0",
+    "Nambli-BoldItalic.ttf": "196b13fe071e48a86348b10569f4e93b9f2d7d680bba747b0d4948b167a92f54",
+    "Nambli-ExtraBold.ttf": "17885ab53bef4b4d4c98de5329aaa09e0d4f404e64f993b08a55f792658c8d15",
+    "Nambli-ExtraBoldItalic.ttf": "f7700b96cec7584bde30214d60a7a92a8845c29631f9cebc1b9bc29d5afd73f3",
+    "Nambli-Italic.ttf": "cca0ec1f6e356d4f74a304c836ec1eeb1f5945319dbc6939cf32af29d127a0e2",
+    "Nambli-Light.ttf": "3e0fda8b8b0158569aef73945b164c0d9d647d38978563575d987ca46676fa64",
+    "Nambli-LightItalic.ttf": "1392f44a367715f9c239127266d4e6b5d11b3475b86c0c5c93293adadfa84594",
+    "Nambli-Medium.ttf": "524e48a4b9139e6a09c766051b816b1a41cf5e4693bb3a55846d5c4fa00d9f39",
+    "Nambli-MediumItalic.ttf": "00f109e32ce4fb55f7c7899cf287d5892ac0f20986b52c9e792bf7c2fd04a8a5",
+    "Nambli-Regular.ttf": "a837d0eab7a6cd27a39871fbfd7ac2a4881e7443d34391b3a55e396275470e4b",
+    "Nambli-SemiBold.ttf": "7aa45f61c37f3533db9bd835d47187b428255167bb3d5835a54d86059275af3d",
+    "Nambli-SemiBoldItalic.ttf": "6d79567bc7a84be9a535ccf8f6bd61b34aac662658b8a361f704edd521fc4583",
+    "OFL.txt": "64839c62885a8cb1fb22c54b4aa373e8582613c087ed36d0b412faadb8c2a7ea"
+  },
+  "font_count": 12,
+  "raw_report": "offline-fontspector.json",
+  "summary": {
+    "SKIP": 716,
+    "PASS": 1115,
+    "INFO": 80,
+    "WARN": 134
+  },
+  "by_check": {
+    "STAT_in_statics": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "STAT_strings": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "alt_caron": {
+      "check_outcomes": {
+        "WARN": 12
+      },
+      "subresult_severities": {
+        "WARN": 48
+      }
+    },
+    "arabic_high_hamza": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "arabic_spacing_symbols": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "base_has_width": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "case_mapping": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "cjk_chws_feature": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "cjk_not_enough_glyphs": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "color_cpal_brightness": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "colr_glyph_entry_with_no_layers": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "contour_count": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "control_chars": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "dotted_circle": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "dsig": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "empty_glyph_on_gid1_for_colrv0": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "family/uniqueness_first_31_characters": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "family/vertical_metrics": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "family/win_ascent_and_descent": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "field_values": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "file_size": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "fontdata_namecheck": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "freetype_rasterizer": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "fvar_instance_ps_names": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "fvar_name_entries": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "googlefonts/STAT/axis_order": {
+      "check_outcomes": {
+        "INFO": 1
+      },
+      "subresult_severities": {
+        "INFO": 1
+      }
+    },
+    "googlefonts/STAT/axisregistry": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "googlefonts/STAT/compulsory_axis_values": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "googlefonts/STAT/opsz_not_elided": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "googlefonts/article/images": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/axes_match": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/axisregistry/fvar_axis_defaults": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "googlefonts/axisregistry/fvar_axis_ranges": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "googlefonts/canonical_filename": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/cjk_vertical_metrics": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "googlefonts/cjk_vertical_metrics_regressions": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "googlefonts/color_fonts": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/description/has_article": {
+      "check_outcomes": {
+        "INFO": 1
+      },
+      "subresult_severities": {
+        "INFO": 1
+      }
+    },
+    "googlefonts/family/equal_codepoint_coverage": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "googlefonts/family/file_size": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "googlefonts/family/has_license": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/family/italics_have_roman_counterparts": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "googlefonts/family/tnum_horizontal_metrics": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "googlefonts/family_name_compliance": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/font_copyright": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "googlefonts/font_names": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/fstype": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/fvar_instances": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "googlefonts/gasp": {
+      "check_outcomes": {
+        "INFO": 12
+      },
+      "subresult_severities": {
+        "INFO": 12
+      }
+    },
+    "googlefonts/glyph_coverage": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "googlefonts/glyphsets/shape_languages": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/has_ttfautohint_params": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 24
+      }
+    },
+    "googlefonts/meta/script_lang_tags": {
+      "check_outcomes": {
+        "INFO": 12
+      },
+      "subresult_severities": {
+        "INFO": 24
+      }
+    },
+    "googlefonts/metadata/axes": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/metadata/can_render_samples": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/metadata/category": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/metadata/consistent_repo_urls": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/metadata/consistent_with_fonts": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/metadata/escaped_strings": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/metadata/familyname": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/metadata/has_regular": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/metadata/license": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/metadata/primary_script": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/metadata/regular_is_400": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/metadata/reserved_font_name": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/metadata/subsets_correct": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/metadata/unreachable_subsetting": {
+      "check_outcomes": {
+        "WARN": 1
+      },
+      "subresult_severities": {
+        "WARN": 12
+      }
+    },
+    "googlefonts/metadata/valid_nameid25": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "googlefonts/metadata/weightclass": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/name/description_max_length": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/name/familyname_first_char": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/name/illegal_particles": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/name/license": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/name/license_url": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/name/line_breaks": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/name/mandatory_entries": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/name/rfn": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/name/version_format": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/no_oblique_bit": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/old_ttfautohint": {
+      "check_outcomes": {
+        "INFO": 24
+      },
+      "subresult_severities": {
+        "INFO": 24
+      }
+    },
+    "googlefonts/parametric_axes_hidden": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "googlefonts/render_own_name": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/repo/ascii_filenames": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "googlefonts/repo/dirname_matches_nameid_1": {
+      "check_outcomes": {
+        "SKIP": 11,
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "SKIP": 11,
+        "PASS": 1
+      }
+    },
+    "googlefonts/repo/vf_has_static_fonts": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "googlefonts/separator_glyphs": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/tofu": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "googlefonts/unitsperem": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/use_typo_metrics": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "googlefonts/varfont/has_HVAR": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "googlefonts/varfont/slnt_needs_italic": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "googlefonts/vendor_id": {
+      "check_outcomes": {
+        "WARN": 12
+      },
+      "subresult_severities": {
+        "WARN": 12
+      }
+    },
+    "googlefonts/version_bump": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "googlefonts/vertical_metrics": {
+      "check_outcomes": {
+        "WARN": 12
+      },
+      "subresult_severities": {
+        "WARN": 12
+      }
+    },
+    "googlefonts/vertical_metrics_regressions": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "googlefonts/weightclass": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "gpos7": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "gpos_kerning_info": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "has_features": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "has_glyphs": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "has_unicodes": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "hinting_impact": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "integer_ppem_if_hinted": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "interpolation_issues": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "legacy_accents": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "ligature_carets": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "linegaps": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "mandatory_avar_table": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "mandatory_glyphs": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "math_signs_width": {
+      "check_outcomes": {
+        "WARN": 12
+      },
+      "subresult_severities": {
+        "WARN": 12
+      }
+    },
+    "missing_small_caps_glyphs": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "name/char_restrictions": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "name/family_and_style_max_length": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "name/italic_names": {
+      "check_outcomes": {
+        "PASS": 6,
+        "SKIP": 6
+      },
+      "subresult_severities": {
+        "PASS": 6,
+        "SKIP": 6
+      }
+    },
+    "name/no_copyright_on_description": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "name/trailing_spaces": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "nested_components": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "no_vert_and_vrt2": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/GDEF_mark_chars": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/GDEF_non_mark_chars": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/GDEF_spacing_marks": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/STAT/ital_axis": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "opentype/caret_slope": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/code_pages": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/family/bold_italic_unique_for_nameid1": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "opentype/family/consistent_family_name": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "opentype/family/equal_font_versions": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "opentype/family/max_4_fonts_per_family_name": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "opentype/family/panose_familytype": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "opentype/family/underline_thickness": {
+      "check_outcomes": {
+        "PASS": 1
+      },
+      "subresult_severities": {
+        "PASS": 1
+      }
+    },
+    "opentype/family_naming_recommendations": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/font_version": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/fsselection": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/fsselection_wws": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/fvar/axis_ranges_correct": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "opentype/fvar/regular_coords_correct": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "opentype/fvar/valid_range": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "opentype/glyf_non_transformed_duplicate_components": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/glyf_unused_data": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/italic_angle": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/layout_valid_feature_tags": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/layout_valid_language_tags": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/layout_valid_script_tags": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/loca/maxp_num_glyphs": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/mac_style": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/maxadvancewidth": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/maxp_version": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/monospace": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/name/empty_records": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/name/match_familyname_fullfont": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/name/postscript_name_consistency": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/name/postscript_vs_cff": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "opentype/points_out_of_bounds": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/post_table_version": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/postscript_name": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/slant_direction": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "opentype/unitsperem": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "opentype/varfont/STAT_axis_record_for_each_axis": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "opentype/varfont/distinct_instance_records": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "opentype/varfont/family_axis_ranges": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "opentype/varfont/foundry_defined_tag_name": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "opentype/varfont/same_size_instance_records": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "opentype/varfont/valid_default_instance_nameids": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "opentype/varfont/valid_nameids": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "opentype/vendor_id": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "opentype/weight_class_fvar": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "opentype/xavgcharwidth": {
+      "check_outcomes": {
+        "INFO": 6,
+        "PASS": 6
+      },
+      "subresult_severities": {
+        "INFO": 6,
+        "PASS": 6
+      }
+    },
+    "os2_metrics_match_hhea": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "outline_alignment_miss": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "outline_colinear_vectors": {
+      "check_outcomes": {
+        "PASS": 6,
+        "WARN": 6
+      },
+      "subresult_severities": {
+        "PASS": 6,
+        "WARN": 6
+      }
+    },
+    "outline_direction": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "outline_jaggy_segments": {
+      "check_outcomes": {
+        "WARN": 4,
+        "PASS": 8
+      },
+      "subresult_severities": {
+        "WARN": 4,
+        "PASS": 8
+      }
+    },
+    "outline_semi_vertical": {
+      "check_outcomes": {
+        "SKIP": 6,
+        "PASS": 6
+      },
+      "subresult_severities": {
+        "SKIP": 6,
+        "PASS": 6
+      }
+    },
+    "outline_short_segments": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "overlapping_path_segments": {
+      "check_outcomes": {
+        "PASS": 8,
+        "WARN": 4
+      },
+      "subresult_severities": {
+        "PASS": 8,
+        "WARN": 4
+      }
+    },
+    "required_tables": {
+      "check_outcomes": {
+        "INFO": 12
+      },
+      "subresult_severities": {
+        "INFO": 12
+      }
+    },
+    "rupee": {
+      "check_outcomes": {
+        "WARN": 12
+      },
+      "subresult_severities": {
+        "WARN": 12
+      }
+    },
+    "sfnt_version": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "shaping/forbidden": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "shaping/regression": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "smallcaps_before_ligatures": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "smart_dropout": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "soft_dotted": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "soft_hyphen": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "stylisticset_description": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "suspicious_sidebearings": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "tabular_kerning": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "transformed_components": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "typoascender_exceeds_Agrave": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "unique_glyphnames": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "universal/required_name_ids": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "unreachable_glyphs": {
+      "check_outcomes": {
+        "WARN": 12
+      },
+      "subresult_severities": {
+        "WARN": 12
+      }
+    },
+    "unwanted_aat_tables": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "unwanted_tables": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "valid_glyphnames": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "varfont/consistent_axes": {
+      "check_outcomes": {
+        "SKIP": 1
+      },
+      "subresult_severities": {
+        "SKIP": 1
+      }
+    },
+    "varfont/duplexed_axis_reflow": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "varfont/instances_in_order": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "varfont/unsupported_axes": {
+      "check_outcomes": {
+        "SKIP": 12
+      },
+      "subresult_severities": {
+        "SKIP": 12
+      }
+    },
+    "whitespace_glyphs": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "whitespace_ink": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    },
+    "whitespace_widths": {
+      "check_outcomes": {
+        "PASS": 12
+      },
+      "subresult_severities": {
+        "PASS": 12
+      }
+    }
+  },
+  "failures_and_execution_errors": [],
+  "network_related_results": [
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "check_id": "googlefonts/version_bump",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "check_id": "fontdata_namecheck",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "check_id": "googlefonts/version_bump",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "check_id": "fontdata_namecheck",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "check_id": "googlefonts/version_bump",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "check_id": "fontdata_namecheck",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-Italic.ttf",
+      "check_id": "fontdata_namecheck",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-Italic.ttf",
+      "check_id": "googlefonts/version_bump",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "check_id": "googlefonts/version_bump",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "check_id": "fontdata_namecheck",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "check_id": "fontdata_namecheck",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "check_id": "googlefonts/version_bump",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-ExtraBoldItalic.ttf",
+      "check_id": "fontdata_namecheck",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-ExtraBoldItalic.ttf",
+      "check_id": "googlefonts/version_bump",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "check_id": "googlefonts/version_bump",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "check_id": "fontdata_namecheck",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "check_id": "googlefonts/version_bump",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "check_id": "fontdata_namecheck",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "check_id": "fontdata_namecheck",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "check_id": "googlefonts/version_bump",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "check_id": "googlefonts/version_bump",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "check_id": "fontdata_namecheck",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "check_id": "fontdata_namecheck",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "check_id": "googlefonts/version_bump",
+      "severity": "SKIP",
+      "code": "network-check",
+      "message": "Skipping network check"
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "check_id": "googlefonts/vertical_metrics_regressions",
+      "severity": "SKIP",
+      "code": "network-disabled",
+      "message": "Network access disabled"
+    }
+  ]
+}
