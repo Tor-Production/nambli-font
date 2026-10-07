@@ -7,6 +7,10 @@ the existing QA branch. Candidate binaries are isolated under
 fonts/candidates/1.001; release font directories and supplementary OTFs
 remain version 1.000. See google-fonts-qa/2026-10-08/adoption-1.001/REPORT.md
 for the current package source mapping, build and stock/patched validation.
+Final full-network package: stock 16 FAIL / 145 WARN; local patched 0 FAIL,
+ERROR or FATAL / 145 WARN, with executed tofu in both. The source commit is
+eafe6884f5c75aaa395479cc0176b54b7ed9b6d5 and Google import commit is
+44b736f59ad3f24845e39a025eb380149e1a9fff. All nineteen import files match tested bytes.
 
 The owner reports submitting the GF Designer Profile form on 2026-10-08.
 The yuriitor catalog path was still absent at the follow-up check; actual

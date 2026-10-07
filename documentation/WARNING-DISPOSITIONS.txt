@@ -2,8 +2,9 @@ Nambli package warning dispositions — updated after owner review 2026-10-08
 
 Original full-package stock: 152 WARN, 16 FAIL.
 Historical 1.000 full-package stock/patched: 151 WARN, respectively 16/0 FAIL.
-Current 1.001 package results are recorded in the adoption report; historical
-raw results below remain unchanged and no warning is waived by this document.
+Current approved 1.001 full package: 145 WARN, respectively 16/0 FAIL in the
+stock/patched runs. Historical raw results below remain unchanged and no
+warning is waived by this document. See the adoption report for the new runs.
 Approved binary-only stock: 134 WARN, 0 FAIL.
 Separate 1.001 binary-only candidate: 128 WARN, 0 FAIL.
 These are unsuppressed native results; every ERROR/FATAL in the final network

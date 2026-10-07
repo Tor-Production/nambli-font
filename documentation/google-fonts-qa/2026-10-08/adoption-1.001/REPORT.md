@@ -44,11 +44,31 @@ approval is recorded above instead of changing historical native reports.
 
 ## Final package validation
 
-The new source/binary commit must be pinned in Google `METADATA.pb`, with all
-twelve font mappings pointing into `fonts/candidates/1.001/ttf`. The final
-Git-index package will then be audited and tested in separate stock and
-patched-data runs. Results will be appended in the evidence follow-up commit.
-No full-package PASS is claimed by the build results above.
+The source/binary commit is `eafe6884f5c75aaa395479cc0176b54b7ed9b6d5`.
+Google import commit `44b736f59ad3f24845e39a025eb380149e1a9fff` pins it in
+`METADATA.pb`, with all twelve font mappings pointing into
+`fonts/candidates/1.001/ttf`. All 18 metadata source mappings are byte-identical
+to the files at that real committed source revision. All 19 committed family
+files match the exact Git-index bytes used in both full-profile runs.
+
+| Full network profile, 18 explicit inputs | PASS | WARN | FAIL | ERROR / FATAL | SKIP | INFO | Exit |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Official stock Fontspector 1.8.0 | 1161 | 145 | 16 | 0 / 0 | 688 | 81 | 1 |
+| Same CLI with locally patched NAM data | 1162 | 145 | 0 | 0 / 0 | 688 | 81 | 0 |
+
+Both runs execute `googlefonts/tofu`, use no exclusions, preserve all inputs,
+and record executable SHA-256, full commands, exact inputs and native status.
+The stock run remains a FAIL. The patched run is a local candidate PASS;
+upstream acceptance, an official corrected dependency and serving rollout are
+not established by it. Four overlap and two jaggy-join WARN disappear compared
+with the previous 151-WARN full package. The two remaining jaggy-join warnings
+are retained in the owner's reviewed geometry rather than declared fixed.
+
+See [package-manifest.json](package-manifest.json), [stock summary](reports/stock/summary.redacted.json),
+[patched summary](reports/patched/summary.redacted.json) and [evidence-manifest.json](evidence-manifest.json).
+Native local reports/logs remain untouched. Public copies are explicitly
+path-redacted and compressed where appropriate, with original/public hashes;
+JSON redaction reserializes the copies without changing check results.
 
 The official serving-data blocker remains tracked in
 [NAM #31](https://github.com/googlefonts/nam-files/pull/31) and
@@ -65,7 +85,14 @@ output directories:
 python sources/build_fontmake.py --output build-adoption --verify-reproducible
 python sources/validate_outline_candidate.py --baseline fonts/ttf --candidate build-adoption --output adoption-audit.json
 python -m unittest discover -s sources -p test_run_qa.py -v
+python sources/run_qa.py --scope package --family GOOGLE_CHECKOUT/ofl/nambli --executable STOCK_EXECUTABLE --output qa-adoption-stock --mode network --tool-kind stock
+python sources/run_qa.py --scope package --family GOOGLE_CHECKOUT/ofl/nambli --executable PATCHED_EXECUTABLE --output qa-adoption-patched --mode network --tool-kind patched-candidate
 ```
+
+Use the exact source and Google import commits above. Resolve tool placeholders
+using the pinned setup in [REPRODUCE.md](../../2026-10-07/REPRODUCE.md).
+Stock is expected to exit 1 with sixteen subset-data failures; the separately
+identified local patched executable exits 0. Neither result is relabeled.
 
 The historical dated reports and proof remain unchanged. No new browser or OTF
 test is implied by these source/build checks. Since the candidate bytes match
