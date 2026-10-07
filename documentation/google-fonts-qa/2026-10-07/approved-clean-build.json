@@ -1,0 +1,1627 @@
+{
+  "status": "PASS",
+  "faces": 12,
+  "glyphsCompared": 11976,
+  "shapingComparisons": 105696,
+  "scope": "Self-contained editable UFO to Fontmake TTF build, verified directly against the UFO source.",
+  "referenceComparison": {
+    "status": "PASS",
+    "faces": 12,
+    "glyphsCompared": 11976,
+    "shapingComparisons": 105696,
+    "scope": "Editable UFO to independent Fontmake/ufo2ft TTF build; no source binary outlines or tables copied during compilation.",
+    "notClaimed": [
+      "Google Fonts acceptance or all Fontspector checks passed",
+      "New repertoire or visual design approval",
+      "A variable font or interpolation-compatible masters",
+      "Complete parametric Python design pipeline reproduction"
+    ],
+    "results": [
+      {
+        "face": "Nambli-Bold",
+        "sourceSHA256": "7163e59fc7623e669c4fef6d6871ec76c6b164d20bb7b35e53b298769f4d17d0",
+        "builtSHA256": "7163e59fc7623e669c4fef6d6871ec76c6b164d20bb7b35e53b298769f4d17d0",
+        "sourceGlyphs": 998,
+        "outputGlyphs": 998,
+        "encodedCharacters": 970,
+        "exactGlyphOrder": true,
+        "exactUnicodeMapping": true,
+        "exactNameTable": true,
+        "missingGlyphs": [],
+        "addedGlyphs": [],
+        "outlineChanges": [],
+        "maxCoordinateDifferenceUnits": 0,
+        "metricChanges": [],
+        "exactNormalizedQuadraticOutlines": 998,
+        "representationOnlyNormalizedGlyphs": [],
+        "layoutTables": {
+          "GDEF": {
+            "byteIdentical": true,
+            "beforeBytes": 132,
+            "afterBytes": 132,
+            "beforeSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a",
+            "afterSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "beforeBytes": 5954,
+            "afterBytes": 5954,
+            "beforeSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3",
+            "afterSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "beforeBytes": 22488,
+            "afterBytes": 22488,
+            "beforeSHA256": "090efb273f86a0730cfa3850385ae5cd2c03ba18a4db1c3945fe7363cba2221b",
+            "afterSHA256": "090efb273f86a0730cfa3850385ae5cd2c03ba18a4db1c3945fe7363cba2221b"
+          },
+          "kern": {
+            "byteIdentical": true,
+            "beforeBytes": 1620,
+            "afterBytes": 1620,
+            "beforeSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf",
+            "afterSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf"
+          },
+          "STAT": {
+            "byteIdentical": true,
+            "beforeBytes": 64,
+            "afterBytes": 64,
+            "beforeSHA256": "a8c51e32b17b99e4c5a87c1a209867e88f2e0d46fd48ac8367f94e74c099775c",
+            "afterSHA256": "a8c51e32b17b99e4c5a87c1a209867e88f2e0d46fd48ac8367f94e74c099775c"
+          },
+          "meta": {
+            "byteIdentical": true,
+            "beforeBytes": 58,
+            "afterBytes": 58,
+            "beforeSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2",
+            "afterSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2"
+          }
+        },
+        "shapingComparisons": 8808,
+        "shapingMismatchExamples": [],
+        "metadataChanges": {},
+        "sourceTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "outputTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "status": "PASS"
+      },
+      {
+        "face": "Nambli-BoldItalic",
+        "sourceSHA256": "196b13fe071e48a86348b10569f4e93b9f2d7d680bba747b0d4948b167a92f54",
+        "builtSHA256": "196b13fe071e48a86348b10569f4e93b9f2d7d680bba747b0d4948b167a92f54",
+        "sourceGlyphs": 998,
+        "outputGlyphs": 998,
+        "encodedCharacters": 970,
+        "exactGlyphOrder": true,
+        "exactUnicodeMapping": true,
+        "exactNameTable": true,
+        "missingGlyphs": [],
+        "addedGlyphs": [],
+        "outlineChanges": [],
+        "maxCoordinateDifferenceUnits": 0,
+        "metricChanges": [],
+        "exactNormalizedQuadraticOutlines": 998,
+        "representationOnlyNormalizedGlyphs": [],
+        "layoutTables": {
+          "GDEF": {
+            "byteIdentical": true,
+            "beforeBytes": 132,
+            "afterBytes": 132,
+            "beforeSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a",
+            "afterSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "beforeBytes": 5954,
+            "afterBytes": 5954,
+            "beforeSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3",
+            "afterSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "beforeBytes": 22566,
+            "afterBytes": 22566,
+            "beforeSHA256": "4532f1d172f46653a03941030b5ee1f9fd73964ffc9f4a3b412f730999dd69df",
+            "afterSHA256": "4532f1d172f46653a03941030b5ee1f9fd73964ffc9f4a3b412f730999dd69df"
+          },
+          "kern": {
+            "byteIdentical": true,
+            "beforeBytes": 1620,
+            "afterBytes": 1620,
+            "beforeSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf",
+            "afterSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf"
+          },
+          "STAT": {
+            "byteIdentical": true,
+            "beforeBytes": 64,
+            "afterBytes": 64,
+            "beforeSHA256": "c0d64911b400467d89d5190dde772d7071bbe9fa21d52417305dbe32da39f762",
+            "afterSHA256": "c0d64911b400467d89d5190dde772d7071bbe9fa21d52417305dbe32da39f762"
+          },
+          "meta": {
+            "byteIdentical": true,
+            "beforeBytes": 58,
+            "afterBytes": 58,
+            "beforeSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2",
+            "afterSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2"
+          }
+        },
+        "shapingComparisons": 8808,
+        "shapingMismatchExamples": [],
+        "metadataChanges": {},
+        "sourceTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "outputTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "status": "PASS"
+      },
+      {
+        "face": "Nambli-ExtraBold",
+        "sourceSHA256": "17885ab53bef4b4d4c98de5329aaa09e0d4f404e64f993b08a55f792658c8d15",
+        "builtSHA256": "17885ab53bef4b4d4c98de5329aaa09e0d4f404e64f993b08a55f792658c8d15",
+        "sourceGlyphs": 998,
+        "outputGlyphs": 998,
+        "encodedCharacters": 970,
+        "exactGlyphOrder": true,
+        "exactUnicodeMapping": true,
+        "exactNameTable": true,
+        "missingGlyphs": [],
+        "addedGlyphs": [],
+        "outlineChanges": [],
+        "maxCoordinateDifferenceUnits": 0,
+        "metricChanges": [],
+        "exactNormalizedQuadraticOutlines": 998,
+        "representationOnlyNormalizedGlyphs": [],
+        "layoutTables": {
+          "GDEF": {
+            "byteIdentical": true,
+            "beforeBytes": 132,
+            "afterBytes": 132,
+            "beforeSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a",
+            "afterSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "beforeBytes": 5954,
+            "afterBytes": 5954,
+            "beforeSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3",
+            "afterSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "beforeBytes": 22470,
+            "afterBytes": 22470,
+            "beforeSHA256": "dfa0987ca0de59b790ea268fc290c4a07771e3960ae96298aedd427fe011740f",
+            "afterSHA256": "dfa0987ca0de59b790ea268fc290c4a07771e3960ae96298aedd427fe011740f"
+          },
+          "kern": {
+            "byteIdentical": true,
+            "beforeBytes": 1620,
+            "afterBytes": 1620,
+            "beforeSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf",
+            "afterSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf"
+          },
+          "STAT": {
+            "byteIdentical": true,
+            "beforeBytes": 64,
+            "afterBytes": 64,
+            "beforeSHA256": "261987fa03603379dcaac99fc622508db51cac6bded82549b1a08eb4f4aace21",
+            "afterSHA256": "261987fa03603379dcaac99fc622508db51cac6bded82549b1a08eb4f4aace21"
+          },
+          "meta": {
+            "byteIdentical": true,
+            "beforeBytes": 58,
+            "afterBytes": 58,
+            "beforeSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2",
+            "afterSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2"
+          }
+        },
+        "shapingComparisons": 8808,
+        "shapingMismatchExamples": [],
+        "metadataChanges": {},
+        "sourceTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "outputTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "status": "PASS"
+      },
+      {
+        "face": "Nambli-ExtraBoldItalic",
+        "sourceSHA256": "f7700b96cec7584bde30214d60a7a92a8845c29631f9cebc1b9bc29d5afd73f3",
+        "builtSHA256": "f7700b96cec7584bde30214d60a7a92a8845c29631f9cebc1b9bc29d5afd73f3",
+        "sourceGlyphs": 998,
+        "outputGlyphs": 998,
+        "encodedCharacters": 970,
+        "exactGlyphOrder": true,
+        "exactUnicodeMapping": true,
+        "exactNameTable": true,
+        "missingGlyphs": [],
+        "addedGlyphs": [],
+        "outlineChanges": [],
+        "maxCoordinateDifferenceUnits": 0,
+        "metricChanges": [],
+        "exactNormalizedQuadraticOutlines": 998,
+        "representationOnlyNormalizedGlyphs": [],
+        "layoutTables": {
+          "GDEF": {
+            "byteIdentical": true,
+            "beforeBytes": 132,
+            "afterBytes": 132,
+            "beforeSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a",
+            "afterSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "beforeBytes": 5954,
+            "afterBytes": 5954,
+            "beforeSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3",
+            "afterSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "beforeBytes": 22596,
+            "afterBytes": 22596,
+            "beforeSHA256": "828b3a496d78fa603ece3b5f82e4dd105c9e0f7f09cdca2f0d8b160a0c2b7e8d",
+            "afterSHA256": "828b3a496d78fa603ece3b5f82e4dd105c9e0f7f09cdca2f0d8b160a0c2b7e8d"
+          },
+          "kern": {
+            "byteIdentical": true,
+            "beforeBytes": 1620,
+            "afterBytes": 1620,
+            "beforeSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf",
+            "afterSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf"
+          },
+          "STAT": {
+            "byteIdentical": true,
+            "beforeBytes": 64,
+            "afterBytes": 64,
+            "beforeSHA256": "96c5c7e3cedeb29ab8d43c36bb3f7d278d0bd5d1d9fadf476984db8187b6a2c3",
+            "afterSHA256": "96c5c7e3cedeb29ab8d43c36bb3f7d278d0bd5d1d9fadf476984db8187b6a2c3"
+          },
+          "meta": {
+            "byteIdentical": true,
+            "beforeBytes": 58,
+            "afterBytes": 58,
+            "beforeSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2",
+            "afterSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2"
+          }
+        },
+        "shapingComparisons": 8808,
+        "shapingMismatchExamples": [],
+        "metadataChanges": {},
+        "sourceTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "outputTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "status": "PASS"
+      },
+      {
+        "face": "Nambli-Italic",
+        "sourceSHA256": "cca0ec1f6e356d4f74a304c836ec1eeb1f5945319dbc6939cf32af29d127a0e2",
+        "builtSHA256": "cca0ec1f6e356d4f74a304c836ec1eeb1f5945319dbc6939cf32af29d127a0e2",
+        "sourceGlyphs": 998,
+        "outputGlyphs": 998,
+        "encodedCharacters": 970,
+        "exactGlyphOrder": true,
+        "exactUnicodeMapping": true,
+        "exactNameTable": true,
+        "missingGlyphs": [],
+        "addedGlyphs": [],
+        "outlineChanges": [],
+        "maxCoordinateDifferenceUnits": 0,
+        "metricChanges": [],
+        "exactNormalizedQuadraticOutlines": 998,
+        "representationOnlyNormalizedGlyphs": [],
+        "layoutTables": {
+          "GDEF": {
+            "byteIdentical": true,
+            "beforeBytes": 132,
+            "afterBytes": 132,
+            "beforeSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a",
+            "afterSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "beforeBytes": 5954,
+            "afterBytes": 5954,
+            "beforeSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3",
+            "afterSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "beforeBytes": 22566,
+            "afterBytes": 22566,
+            "beforeSHA256": "394dbc7342c473c1483418b48875a6468057ecb15b819deb25b6ab44dfdc31bb",
+            "afterSHA256": "394dbc7342c473c1483418b48875a6468057ecb15b819deb25b6ab44dfdc31bb"
+          },
+          "kern": {
+            "byteIdentical": true,
+            "beforeBytes": 1620,
+            "afterBytes": 1620,
+            "beforeSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf",
+            "afterSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf"
+          },
+          "STAT": {
+            "byteIdentical": true,
+            "beforeBytes": 64,
+            "afterBytes": 64,
+            "beforeSHA256": "3f86d368254a652dc3844382dcbaa898883f0c5b53bd9464e3cfe1eed3b5ac49",
+            "afterSHA256": "3f86d368254a652dc3844382dcbaa898883f0c5b53bd9464e3cfe1eed3b5ac49"
+          },
+          "meta": {
+            "byteIdentical": true,
+            "beforeBytes": 58,
+            "afterBytes": 58,
+            "beforeSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2",
+            "afterSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2"
+          }
+        },
+        "shapingComparisons": 8808,
+        "shapingMismatchExamples": [],
+        "metadataChanges": {},
+        "sourceTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "outputTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "status": "PASS"
+      },
+      {
+        "face": "Nambli-Light",
+        "sourceSHA256": "3e0fda8b8b0158569aef73945b164c0d9d647d38978563575d987ca46676fa64",
+        "builtSHA256": "3e0fda8b8b0158569aef73945b164c0d9d647d38978563575d987ca46676fa64",
+        "sourceGlyphs": 998,
+        "outputGlyphs": 998,
+        "encodedCharacters": 970,
+        "exactGlyphOrder": true,
+        "exactUnicodeMapping": true,
+        "exactNameTable": true,
+        "missingGlyphs": [],
+        "addedGlyphs": [],
+        "outlineChanges": [],
+        "maxCoordinateDifferenceUnits": 0,
+        "metricChanges": [],
+        "exactNormalizedQuadraticOutlines": 998,
+        "representationOnlyNormalizedGlyphs": [],
+        "layoutTables": {
+          "GDEF": {
+            "byteIdentical": true,
+            "beforeBytes": 132,
+            "afterBytes": 132,
+            "beforeSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a",
+            "afterSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "beforeBytes": 5954,
+            "afterBytes": 5954,
+            "beforeSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3",
+            "afterSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "beforeBytes": 22452,
+            "afterBytes": 22452,
+            "beforeSHA256": "2d1c6908c6be7c7a70fed082c097761df931318c96e57dd8aa7a71fb16527946",
+            "afterSHA256": "2d1c6908c6be7c7a70fed082c097761df931318c96e57dd8aa7a71fb16527946"
+          },
+          "kern": {
+            "byteIdentical": true,
+            "beforeBytes": 1620,
+            "afterBytes": 1620,
+            "beforeSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf",
+            "afterSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf"
+          },
+          "STAT": {
+            "byteIdentical": true,
+            "beforeBytes": 64,
+            "afterBytes": 64,
+            "beforeSHA256": "08f61821a9c6d0a1d43fd56d39af5cacbd5e2c9c0874c3171e9f54d2dd484cc8",
+            "afterSHA256": "08f61821a9c6d0a1d43fd56d39af5cacbd5e2c9c0874c3171e9f54d2dd484cc8"
+          },
+          "meta": {
+            "byteIdentical": true,
+            "beforeBytes": 58,
+            "afterBytes": 58,
+            "beforeSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2",
+            "afterSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2"
+          }
+        },
+        "shapingComparisons": 8808,
+        "shapingMismatchExamples": [],
+        "metadataChanges": {},
+        "sourceTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "outputTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "status": "PASS"
+      },
+      {
+        "face": "Nambli-LightItalic",
+        "sourceSHA256": "1392f44a367715f9c239127266d4e6b5d11b3475b86c0c5c93293adadfa84594",
+        "builtSHA256": "1392f44a367715f9c239127266d4e6b5d11b3475b86c0c5c93293adadfa84594",
+        "sourceGlyphs": 998,
+        "outputGlyphs": 998,
+        "encodedCharacters": 970,
+        "exactGlyphOrder": true,
+        "exactUnicodeMapping": true,
+        "exactNameTable": true,
+        "missingGlyphs": [],
+        "addedGlyphs": [],
+        "outlineChanges": [],
+        "maxCoordinateDifferenceUnits": 0,
+        "metricChanges": [],
+        "exactNormalizedQuadraticOutlines": 998,
+        "representationOnlyNormalizedGlyphs": [],
+        "layoutTables": {
+          "GDEF": {
+            "byteIdentical": true,
+            "beforeBytes": 132,
+            "afterBytes": 132,
+            "beforeSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a",
+            "afterSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "beforeBytes": 5954,
+            "afterBytes": 5954,
+            "beforeSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3",
+            "afterSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "beforeBytes": 22524,
+            "afterBytes": 22524,
+            "beforeSHA256": "c684a99ed10184534b4565ee301d0b96859d4076d02c365ee4d82d9ab5ef4188",
+            "afterSHA256": "c684a99ed10184534b4565ee301d0b96859d4076d02c365ee4d82d9ab5ef4188"
+          },
+          "kern": {
+            "byteIdentical": true,
+            "beforeBytes": 1620,
+            "afterBytes": 1620,
+            "beforeSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf",
+            "afterSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf"
+          },
+          "STAT": {
+            "byteIdentical": true,
+            "beforeBytes": 64,
+            "afterBytes": 64,
+            "beforeSHA256": "6e06d59d810b41f5cb12eaf36919600a03611dd3aec4d31ac65dfbb289c585d4",
+            "afterSHA256": "6e06d59d810b41f5cb12eaf36919600a03611dd3aec4d31ac65dfbb289c585d4"
+          },
+          "meta": {
+            "byteIdentical": true,
+            "beforeBytes": 58,
+            "afterBytes": 58,
+            "beforeSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2",
+            "afterSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2"
+          }
+        },
+        "shapingComparisons": 8808,
+        "shapingMismatchExamples": [],
+        "metadataChanges": {},
+        "sourceTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "outputTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "status": "PASS"
+      },
+      {
+        "face": "Nambli-Medium",
+        "sourceSHA256": "524e48a4b9139e6a09c766051b816b1a41cf5e4693bb3a55846d5c4fa00d9f39",
+        "builtSHA256": "524e48a4b9139e6a09c766051b816b1a41cf5e4693bb3a55846d5c4fa00d9f39",
+        "sourceGlyphs": 998,
+        "outputGlyphs": 998,
+        "encodedCharacters": 970,
+        "exactGlyphOrder": true,
+        "exactUnicodeMapping": true,
+        "exactNameTable": true,
+        "missingGlyphs": [],
+        "addedGlyphs": [],
+        "outlineChanges": [],
+        "maxCoordinateDifferenceUnits": 0,
+        "metricChanges": [],
+        "exactNormalizedQuadraticOutlines": 998,
+        "representationOnlyNormalizedGlyphs": [],
+        "layoutTables": {
+          "GDEF": {
+            "byteIdentical": true,
+            "beforeBytes": 132,
+            "afterBytes": 132,
+            "beforeSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a",
+            "afterSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "beforeBytes": 5954,
+            "afterBytes": 5954,
+            "beforeSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3",
+            "afterSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "beforeBytes": 22452,
+            "afterBytes": 22452,
+            "beforeSHA256": "7a128ac63db464385c9e8ebda845cb1ef39b5f7e49802418cc4ab2b6c9fbcce2",
+            "afterSHA256": "7a128ac63db464385c9e8ebda845cb1ef39b5f7e49802418cc4ab2b6c9fbcce2"
+          },
+          "kern": {
+            "byteIdentical": true,
+            "beforeBytes": 1620,
+            "afterBytes": 1620,
+            "beforeSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf",
+            "afterSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf"
+          },
+          "STAT": {
+            "byteIdentical": true,
+            "beforeBytes": 64,
+            "afterBytes": 64,
+            "beforeSHA256": "0ee761eb1ee0ff19056857e0516db402d8378adc384e84d9ca9319b69e0cabe1",
+            "afterSHA256": "0ee761eb1ee0ff19056857e0516db402d8378adc384e84d9ca9319b69e0cabe1"
+          },
+          "meta": {
+            "byteIdentical": true,
+            "beforeBytes": 58,
+            "afterBytes": 58,
+            "beforeSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2",
+            "afterSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2"
+          }
+        },
+        "shapingComparisons": 8808,
+        "shapingMismatchExamples": [],
+        "metadataChanges": {},
+        "sourceTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "outputTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "status": "PASS"
+      },
+      {
+        "face": "Nambli-MediumItalic",
+        "sourceSHA256": "00f109e32ce4fb55f7c7899cf287d5892ac0f20986b52c9e792bf7c2fd04a8a5",
+        "builtSHA256": "00f109e32ce4fb55f7c7899cf287d5892ac0f20986b52c9e792bf7c2fd04a8a5",
+        "sourceGlyphs": 998,
+        "outputGlyphs": 998,
+        "encodedCharacters": 970,
+        "exactGlyphOrder": true,
+        "exactUnicodeMapping": true,
+        "exactNameTable": true,
+        "missingGlyphs": [],
+        "addedGlyphs": [],
+        "outlineChanges": [],
+        "maxCoordinateDifferenceUnits": 0,
+        "metricChanges": [],
+        "exactNormalizedQuadraticOutlines": 998,
+        "representationOnlyNormalizedGlyphs": [],
+        "layoutTables": {
+          "GDEF": {
+            "byteIdentical": true,
+            "beforeBytes": 132,
+            "afterBytes": 132,
+            "beforeSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a",
+            "afterSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "beforeBytes": 5954,
+            "afterBytes": 5954,
+            "beforeSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3",
+            "afterSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "beforeBytes": 22566,
+            "afterBytes": 22566,
+            "beforeSHA256": "cdb99edd3b2f7b325b4f9a22a800cb8aad858aff3969b35d8935ef3e218c9c07",
+            "afterSHA256": "cdb99edd3b2f7b325b4f9a22a800cb8aad858aff3969b35d8935ef3e218c9c07"
+          },
+          "kern": {
+            "byteIdentical": true,
+            "beforeBytes": 1620,
+            "afterBytes": 1620,
+            "beforeSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf",
+            "afterSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf"
+          },
+          "STAT": {
+            "byteIdentical": true,
+            "beforeBytes": 64,
+            "afterBytes": 64,
+            "beforeSHA256": "15b529e023476cda18f3b1ed01c3a52dc5be0683b05500dd2d5c964042a0d6cb",
+            "afterSHA256": "15b529e023476cda18f3b1ed01c3a52dc5be0683b05500dd2d5c964042a0d6cb"
+          },
+          "meta": {
+            "byteIdentical": true,
+            "beforeBytes": 58,
+            "afterBytes": 58,
+            "beforeSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2",
+            "afterSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2"
+          }
+        },
+        "shapingComparisons": 8808,
+        "shapingMismatchExamples": [],
+        "metadataChanges": {},
+        "sourceTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "outputTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "status": "PASS"
+      },
+      {
+        "face": "Nambli-Regular",
+        "sourceSHA256": "a837d0eab7a6cd27a39871fbfd7ac2a4881e7443d34391b3a55e396275470e4b",
+        "builtSHA256": "a837d0eab7a6cd27a39871fbfd7ac2a4881e7443d34391b3a55e396275470e4b",
+        "sourceGlyphs": 998,
+        "outputGlyphs": 998,
+        "encodedCharacters": 970,
+        "exactGlyphOrder": true,
+        "exactUnicodeMapping": true,
+        "exactNameTable": true,
+        "missingGlyphs": [],
+        "addedGlyphs": [],
+        "outlineChanges": [],
+        "maxCoordinateDifferenceUnits": 0,
+        "metricChanges": [],
+        "exactNormalizedQuadraticOutlines": 998,
+        "representationOnlyNormalizedGlyphs": [],
+        "layoutTables": {
+          "GDEF": {
+            "byteIdentical": true,
+            "beforeBytes": 132,
+            "afterBytes": 132,
+            "beforeSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a",
+            "afterSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "beforeBytes": 5954,
+            "afterBytes": 5954,
+            "beforeSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3",
+            "afterSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "beforeBytes": 22440,
+            "afterBytes": 22440,
+            "beforeSHA256": "afc7d3e818a8667c305d9eafd592db37c2079249d686c99bddbd37fae4a99cc3",
+            "afterSHA256": "afc7d3e818a8667c305d9eafd592db37c2079249d686c99bddbd37fae4a99cc3"
+          },
+          "kern": {
+            "byteIdentical": true,
+            "beforeBytes": 1620,
+            "afterBytes": 1620,
+            "beforeSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf",
+            "afterSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf"
+          },
+          "STAT": {
+            "byteIdentical": true,
+            "beforeBytes": 64,
+            "afterBytes": 64,
+            "beforeSHA256": "f8b283e74d4fb7c367635d5161dc2d4b36e5b2fa8c4351e23450eb457b2f01d7",
+            "afterSHA256": "f8b283e74d4fb7c367635d5161dc2d4b36e5b2fa8c4351e23450eb457b2f01d7"
+          },
+          "meta": {
+            "byteIdentical": true,
+            "beforeBytes": 58,
+            "afterBytes": 58,
+            "beforeSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2",
+            "afterSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2"
+          }
+        },
+        "shapingComparisons": 8808,
+        "shapingMismatchExamples": [],
+        "metadataChanges": {},
+        "sourceTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "outputTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "status": "PASS"
+      },
+      {
+        "face": "Nambli-SemiBold",
+        "sourceSHA256": "7aa45f61c37f3533db9bd835d47187b428255167bb3d5835a54d86059275af3d",
+        "builtSHA256": "7aa45f61c37f3533db9bd835d47187b428255167bb3d5835a54d86059275af3d",
+        "sourceGlyphs": 998,
+        "outputGlyphs": 998,
+        "encodedCharacters": 970,
+        "exactGlyphOrder": true,
+        "exactUnicodeMapping": true,
+        "exactNameTable": true,
+        "missingGlyphs": [],
+        "addedGlyphs": [],
+        "outlineChanges": [],
+        "maxCoordinateDifferenceUnits": 0,
+        "metricChanges": [],
+        "exactNormalizedQuadraticOutlines": 998,
+        "representationOnlyNormalizedGlyphs": [],
+        "layoutTables": {
+          "GDEF": {
+            "byteIdentical": true,
+            "beforeBytes": 132,
+            "afterBytes": 132,
+            "beforeSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a",
+            "afterSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "beforeBytes": 5954,
+            "afterBytes": 5954,
+            "beforeSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3",
+            "afterSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "beforeBytes": 22488,
+            "afterBytes": 22488,
+            "beforeSHA256": "48e465a66fae34e8bf547bd5f97fc0f12ec6d82ec398a3322464630c6d05a8cf",
+            "afterSHA256": "48e465a66fae34e8bf547bd5f97fc0f12ec6d82ec398a3322464630c6d05a8cf"
+          },
+          "kern": {
+            "byteIdentical": true,
+            "beforeBytes": 1620,
+            "afterBytes": 1620,
+            "beforeSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf",
+            "afterSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf"
+          },
+          "STAT": {
+            "byteIdentical": true,
+            "beforeBytes": 64,
+            "afterBytes": 64,
+            "beforeSHA256": "897e7e6f7d19ffa7a8737dec8b30c7ab0a40ca9292af8a262d49d865547207c0",
+            "afterSHA256": "897e7e6f7d19ffa7a8737dec8b30c7ab0a40ca9292af8a262d49d865547207c0"
+          },
+          "meta": {
+            "byteIdentical": true,
+            "beforeBytes": 58,
+            "afterBytes": 58,
+            "beforeSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2",
+            "afterSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2"
+          }
+        },
+        "shapingComparisons": 8808,
+        "shapingMismatchExamples": [],
+        "metadataChanges": {},
+        "sourceTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "outputTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "status": "PASS"
+      },
+      {
+        "face": "Nambli-SemiBoldItalic",
+        "sourceSHA256": "6d79567bc7a84be9a535ccf8f6bd61b34aac662658b8a361f704edd521fc4583",
+        "builtSHA256": "6d79567bc7a84be9a535ccf8f6bd61b34aac662658b8a361f704edd521fc4583",
+        "sourceGlyphs": 998,
+        "outputGlyphs": 998,
+        "encodedCharacters": 970,
+        "exactGlyphOrder": true,
+        "exactUnicodeMapping": true,
+        "exactNameTable": true,
+        "missingGlyphs": [],
+        "addedGlyphs": [],
+        "outlineChanges": [],
+        "maxCoordinateDifferenceUnits": 0,
+        "metricChanges": [],
+        "exactNormalizedQuadraticOutlines": 998,
+        "representationOnlyNormalizedGlyphs": [],
+        "layoutTables": {
+          "GDEF": {
+            "byteIdentical": true,
+            "beforeBytes": 132,
+            "afterBytes": 132,
+            "beforeSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a",
+            "afterSHA256": "0af7f37c8de03e4d22e46313421a6dd7e1fdd99e1a1d11779a5119188418382a"
+          },
+          "GSUB": {
+            "byteIdentical": true,
+            "beforeBytes": 5954,
+            "afterBytes": 5954,
+            "beforeSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3",
+            "afterSHA256": "d233d21027d62b4187ce6c9049f6ca1565b038597b094d306056c7b92c7814d3"
+          },
+          "GPOS": {
+            "byteIdentical": true,
+            "beforeBytes": 22578,
+            "afterBytes": 22578,
+            "beforeSHA256": "b180df37a78c8600516d386bf055cf101ab246ed6fcea319a74f1f5d65fcfbd2",
+            "afterSHA256": "b180df37a78c8600516d386bf055cf101ab246ed6fcea319a74f1f5d65fcfbd2"
+          },
+          "kern": {
+            "byteIdentical": true,
+            "beforeBytes": 1620,
+            "afterBytes": 1620,
+            "beforeSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf",
+            "afterSHA256": "2d415c165ebbfe3d34f1076d5064394f99fe54f6f12f39fb6934a9bf144abedf"
+          },
+          "STAT": {
+            "byteIdentical": true,
+            "beforeBytes": 64,
+            "afterBytes": 64,
+            "beforeSHA256": "34322eed975f1578d51cf935b1cf4930ef7ce98c72e98faa6f1121a75baa91df",
+            "afterSHA256": "34322eed975f1578d51cf935b1cf4930ef7ce98c72e98faa6f1121a75baa91df"
+          },
+          "meta": {
+            "byteIdentical": true,
+            "beforeBytes": 58,
+            "afterBytes": 58,
+            "beforeSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2",
+            "afterSHA256": "cad8c4d3315d66c0f6f44f86734781a4c2dcc7bb04d0b9d8e7b760dec7b8fcb2"
+          }
+        },
+        "shapingComparisons": 8808,
+        "shapingMismatchExamples": [],
+        "metadataChanges": {},
+        "sourceTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "outputTables": [
+          "head",
+          "hhea",
+          "maxp",
+          "OS/2",
+          "hmtx",
+          "cmap",
+          "loca",
+          "glyf",
+          "kern",
+          "name",
+          "post",
+          "gasp",
+          "GDEF",
+          "GPOS",
+          "GSUB",
+          "STAT",
+          "meta"
+        ],
+        "status": "PASS"
+      }
+    ]
+  },
+  "results": [
+    {
+      "face": "Nambli-Bold",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "7163e59fc7623e669c4fef6d6871ec76c6b164d20bb7b35e53b298769f4d17d0"
+    },
+    {
+      "face": "Nambli-BoldItalic",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "196b13fe071e48a86348b10569f4e93b9f2d7d680bba747b0d4948b167a92f54"
+    },
+    {
+      "face": "Nambli-ExtraBold",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "17885ab53bef4b4d4c98de5329aaa09e0d4f404e64f993b08a55f792658c8d15"
+    },
+    {
+      "face": "Nambli-ExtraBoldItalic",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "f7700b96cec7584bde30214d60a7a92a8845c29631f9cebc1b9bc29d5afd73f3"
+    },
+    {
+      "face": "Nambli-Italic",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "cca0ec1f6e356d4f74a304c836ec1eeb1f5945319dbc6939cf32af29d127a0e2"
+    },
+    {
+      "face": "Nambli-Light",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "3e0fda8b8b0158569aef73945b164c0d9d647d38978563575d987ca46676fa64"
+    },
+    {
+      "face": "Nambli-LightItalic",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "1392f44a367715f9c239127266d4e6b5d11b3475b86c0c5c93293adadfa84594"
+    },
+    {
+      "face": "Nambli-Medium",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "524e48a4b9139e6a09c766051b816b1a41cf5e4693bb3a55846d5c4fa00d9f39"
+    },
+    {
+      "face": "Nambli-MediumItalic",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "00f109e32ce4fb55f7c7899cf287d5892ac0f20986b52c9e792bf7c2fd04a8a5"
+    },
+    {
+      "face": "Nambli-Regular",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "a837d0eab7a6cd27a39871fbfd7ac2a4881e7443d34391b3a55e396275470e4b"
+    },
+    {
+      "face": "Nambli-SemiBold",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "7aa45f61c37f3533db9bd835d47187b428255167bb3d5835a54d86059275af3d"
+    },
+    {
+      "face": "Nambli-SemiBoldItalic",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "6d79567bc7a84be9a535ccf8f6bd61b34aac662658b8a361f704edd521fc4583"
+    }
+  ],
+  "notClaimed": [
+    "Google Fonts acceptance or all Fontspector checks passed",
+    "Previous-release binary equivalence unless a reference comparison is included",
+    "Visual design approval",
+    "A variable font or interpolation-compatible masters",
+    "Complete parametric Python design pipeline reproduction"
+  ],
+  "licenseFile": {
+    "name": "OFL.txt",
+    "sha256": "64839c62885a8cb1fb22c54b4aa373e8582613c087ed36d0b412faadb8c2a7ea"
+  },
+  "woff2": [
+    {
+      "font": "Nambli-Bold.woff2",
+      "sha256": "8b94dcc2d6164a3c3f841581816c4a11a297f1be85c9b5b4dbac2fcd712eeca8",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-BoldItalic.woff2",
+      "sha256": "2ba19bdd7dc08922432517d4f5b5d404d5a022288079620bff915c425373ce97",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-ExtraBold.woff2",
+      "sha256": "320f35f972a69de323e9dc0425ce60a1faf720a2e07a6ad0bff99df71b5115ec",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic.woff2",
+      "sha256": "16875d560eedd5a75a40255b9ae6642512d9d4566dbd178aeeaf3ac99888bff5",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-Italic.woff2",
+      "sha256": "fa0ce0a9e829e36a08f6b7c7b2e5cd225ffbd7c27f75f2b1823d6a25826e2c96",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-Light.woff2",
+      "sha256": "b7073067f509a151e5d1276f7eb34c5052f6c6f1fb5a93be8da7f5831dc7fe8b",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-LightItalic.woff2",
+      "sha256": "a3043a172c7e0e210cb4aaf5d639738b297480a07e7d80ce7e72606383f1d915",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-Medium.woff2",
+      "sha256": "96428085e1d52131c834aa607888fa690321daffcce58843a5bedc47740e9243",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-MediumItalic.woff2",
+      "sha256": "1367bf574f6433f524e8fec937231696ca8890378c66049c24f14d8656f7c734",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-Regular.woff2",
+      "sha256": "abb05d5853e002084e0c943b18f250e8d083fa07ce60700efcbb779f5b249d4a",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-SemiBold.woff2",
+      "sha256": "6867f1a65b2f5c5724bbdd7cb696031f99614e5ea20102e2420956a47506d056",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic.woff2",
+      "sha256": "649a85747d15e156ffa2c6670393a291aabf311bbc9576565d2470736431e312",
+      "status": "PASS"
+    }
+  ],
+  "toolVersions": {
+    "fontmake": "3.12.1",
+    "ufo2ft": "3.9.1",
+    "fonttools": "4.66.1",
+    "uharfbuzz": "0.56.3",
+    "brotli": "1.2.0"
+  },
+  "sourceDateEpoch": 1791331200,
+  "sourceImportValidation": [],
+  "buildFlags": [
+    "-o",
+    "ttf",
+    "--output-dir",
+    "[output-directory]",
+    "--keep-overlaps",
+    "--keep-direction",
+    "--ttf-curves",
+    "keep-quad",
+    "--no-production-names",
+    "--no-autohint",
+    "--no-generate-GDEF",
+    "--feature-writer",
+    "None",
+    "--validate-ufo"
+  ],
+  "reproducibility": {
+    "status": "PASS",
+    "fonts": [
+      {
+        "font": "Nambli-Bold.ttf",
+        "sha256": "7163e59fc7623e669c4fef6d6871ec76c6b164d20bb7b35e53b298769f4d17d0",
+        "repeatSHA256": "7163e59fc7623e669c4fef6d6871ec76c6b164d20bb7b35e53b298769f4d17d0"
+      },
+      {
+        "font": "Nambli-Bold.woff2",
+        "sha256": "8b94dcc2d6164a3c3f841581816c4a11a297f1be85c9b5b4dbac2fcd712eeca8",
+        "repeatSHA256": "8b94dcc2d6164a3c3f841581816c4a11a297f1be85c9b5b4dbac2fcd712eeca8"
+      },
+      {
+        "font": "Nambli-BoldItalic.ttf",
+        "sha256": "196b13fe071e48a86348b10569f4e93b9f2d7d680bba747b0d4948b167a92f54",
+        "repeatSHA256": "196b13fe071e48a86348b10569f4e93b9f2d7d680bba747b0d4948b167a92f54"
+      },
+      {
+        "font": "Nambli-BoldItalic.woff2",
+        "sha256": "2ba19bdd7dc08922432517d4f5b5d404d5a022288079620bff915c425373ce97",
+        "repeatSHA256": "2ba19bdd7dc08922432517d4f5b5d404d5a022288079620bff915c425373ce97"
+      },
+      {
+        "font": "Nambli-ExtraBold.ttf",
+        "sha256": "17885ab53bef4b4d4c98de5329aaa09e0d4f404e64f993b08a55f792658c8d15",
+        "repeatSHA256": "17885ab53bef4b4d4c98de5329aaa09e0d4f404e64f993b08a55f792658c8d15"
+      },
+      {
+        "font": "Nambli-ExtraBold.woff2",
+        "sha256": "320f35f972a69de323e9dc0425ce60a1faf720a2e07a6ad0bff99df71b5115ec",
+        "repeatSHA256": "320f35f972a69de323e9dc0425ce60a1faf720a2e07a6ad0bff99df71b5115ec"
+      },
+      {
+        "font": "Nambli-ExtraBoldItalic.ttf",
+        "sha256": "f7700b96cec7584bde30214d60a7a92a8845c29631f9cebc1b9bc29d5afd73f3",
+        "repeatSHA256": "f7700b96cec7584bde30214d60a7a92a8845c29631f9cebc1b9bc29d5afd73f3"
+      },
+      {
+        "font": "Nambli-ExtraBoldItalic.woff2",
+        "sha256": "16875d560eedd5a75a40255b9ae6642512d9d4566dbd178aeeaf3ac99888bff5",
+        "repeatSHA256": "16875d560eedd5a75a40255b9ae6642512d9d4566dbd178aeeaf3ac99888bff5"
+      },
+      {
+        "font": "Nambli-Italic.ttf",
+        "sha256": "cca0ec1f6e356d4f74a304c836ec1eeb1f5945319dbc6939cf32af29d127a0e2",
+        "repeatSHA256": "cca0ec1f6e356d4f74a304c836ec1eeb1f5945319dbc6939cf32af29d127a0e2"
+      },
+      {
+        "font": "Nambli-Italic.woff2",
+        "sha256": "fa0ce0a9e829e36a08f6b7c7b2e5cd225ffbd7c27f75f2b1823d6a25826e2c96",
+        "repeatSHA256": "fa0ce0a9e829e36a08f6b7c7b2e5cd225ffbd7c27f75f2b1823d6a25826e2c96"
+      },
+      {
+        "font": "Nambli-Light.ttf",
+        "sha256": "3e0fda8b8b0158569aef73945b164c0d9d647d38978563575d987ca46676fa64",
+        "repeatSHA256": "3e0fda8b8b0158569aef73945b164c0d9d647d38978563575d987ca46676fa64"
+      },
+      {
+        "font": "Nambli-Light.woff2",
+        "sha256": "b7073067f509a151e5d1276f7eb34c5052f6c6f1fb5a93be8da7f5831dc7fe8b",
+        "repeatSHA256": "b7073067f509a151e5d1276f7eb34c5052f6c6f1fb5a93be8da7f5831dc7fe8b"
+      },
+      {
+        "font": "Nambli-LightItalic.ttf",
+        "sha256": "1392f44a367715f9c239127266d4e6b5d11b3475b86c0c5c93293adadfa84594",
+        "repeatSHA256": "1392f44a367715f9c239127266d4e6b5d11b3475b86c0c5c93293adadfa84594"
+      },
+      {
+        "font": "Nambli-LightItalic.woff2",
+        "sha256": "a3043a172c7e0e210cb4aaf5d639738b297480a07e7d80ce7e72606383f1d915",
+        "repeatSHA256": "a3043a172c7e0e210cb4aaf5d639738b297480a07e7d80ce7e72606383f1d915"
+      },
+      {
+        "font": "Nambli-Medium.ttf",
+        "sha256": "524e48a4b9139e6a09c766051b816b1a41cf5e4693bb3a55846d5c4fa00d9f39",
+        "repeatSHA256": "524e48a4b9139e6a09c766051b816b1a41cf5e4693bb3a55846d5c4fa00d9f39"
+      },
+      {
+        "font": "Nambli-Medium.woff2",
+        "sha256": "96428085e1d52131c834aa607888fa690321daffcce58843a5bedc47740e9243",
+        "repeatSHA256": "96428085e1d52131c834aa607888fa690321daffcce58843a5bedc47740e9243"
+      },
+      {
+        "font": "Nambli-MediumItalic.ttf",
+        "sha256": "00f109e32ce4fb55f7c7899cf287d5892ac0f20986b52c9e792bf7c2fd04a8a5",
+        "repeatSHA256": "00f109e32ce4fb55f7c7899cf287d5892ac0f20986b52c9e792bf7c2fd04a8a5"
+      },
+      {
+        "font": "Nambli-MediumItalic.woff2",
+        "sha256": "1367bf574f6433f524e8fec937231696ca8890378c66049c24f14d8656f7c734",
+        "repeatSHA256": "1367bf574f6433f524e8fec937231696ca8890378c66049c24f14d8656f7c734"
+      },
+      {
+        "font": "Nambli-Regular.ttf",
+        "sha256": "a837d0eab7a6cd27a39871fbfd7ac2a4881e7443d34391b3a55e396275470e4b",
+        "repeatSHA256": "a837d0eab7a6cd27a39871fbfd7ac2a4881e7443d34391b3a55e396275470e4b"
+      },
+      {
+        "font": "Nambli-Regular.woff2",
+        "sha256": "abb05d5853e002084e0c943b18f250e8d083fa07ce60700efcbb779f5b249d4a",
+        "repeatSHA256": "abb05d5853e002084e0c943b18f250e8d083fa07ce60700efcbb779f5b249d4a"
+      },
+      {
+        "font": "Nambli-SemiBold.ttf",
+        "sha256": "7aa45f61c37f3533db9bd835d47187b428255167bb3d5835a54d86059275af3d",
+        "repeatSHA256": "7aa45f61c37f3533db9bd835d47187b428255167bb3d5835a54d86059275af3d"
+      },
+      {
+        "font": "Nambli-SemiBold.woff2",
+        "sha256": "6867f1a65b2f5c5724bbdd7cb696031f99614e5ea20102e2420956a47506d056",
+        "repeatSHA256": "6867f1a65b2f5c5724bbdd7cb696031f99614e5ea20102e2420956a47506d056"
+      },
+      {
+        "font": "Nambli-SemiBoldItalic.ttf",
+        "sha256": "6d79567bc7a84be9a535ccf8f6bd61b34aac662658b8a361f704edd521fc4583",
+        "repeatSHA256": "6d79567bc7a84be9a535ccf8f6bd61b34aac662658b8a361f704edd521fc4583"
+      },
+      {
+        "font": "Nambli-SemiBoldItalic.woff2",
+        "sha256": "649a85747d15e156ffa2c6670393a291aabf311bbc9576565d2470736431e312",
+        "repeatSHA256": "649a85747d15e156ffa2c6670393a291aabf311bbc9576565d2470736431e312"
+      }
+    ]
+  }
+}

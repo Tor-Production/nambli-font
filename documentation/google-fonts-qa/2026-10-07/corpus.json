@@ -1,0 +1,298 @@
+{
+  "data_versions": {
+    "languages": "0.7.11",
+    "subsets": "0.202602.1",
+    "python_unicode": "16.0.0"
+  },
+  "language_samples_license": "Apache-2.0; Copyright Google Fonts Tools Authors / Google LLC; see https://github.com/googlefonts/lang",
+  "samples": [
+    {
+      "id": "agq_Latn-specimen_16-NFC",
+      "language": "agq",
+      "text": "A fɨ̀ bugho an tì li kō, ghùw ù lì ghe fɨ̀ tɔɔŋ tsɨ̀ghà enyɨa Kɨ̀zɨ̀ŋè. Kɨ̀zɨ̀ŋè fɨ̀ lo êzɨ̀, ghe fɨ̀ tɔŋɔ wɨ̄n enyɨa kɨ̀zɨ̀ŋè bòʼ enyɨa ufʉghà ù dzɨ̀m u fɨ̀ lo àzɨ̀ŋo wɨ̄n. A fɨ̀ lo tsɨgha ko nû, tɔ̀lɔki m bwìi ùfwɨn ghèe mbùʼù kò. Mbùʼù kɨ̀ m mgbɛɛ bùghòo bwìin kòʼò tsɨ̀ghà ko wɨ̄n. Ù mo᷇, “ŋ ghûw fɨ̀n, N sô mgbɛɛ bùghoo bwìin kôʼò ko. Ghù lô mùghò bùgho bwìin kòʼò zɨn a?” Tɔ̀lɔ̀ki n dzɛ̀ â mbùʼù kò enyɨa kǎ ghee lûum, è kê tsǒo bùghò gbɨ̀là ghù, tō. E kê bùghò gbɨ̀ɨn ghù, E ndôʼò dzàa zìi yò tsuʼ fɨla e kê bughoo a te alô ghù. A fɨ̀ lo alo enaʼ ghɨa ghɨ ntsòʼ ghɨ̌ n tughuu fughu, ghe n tum tɔ̀lɔki enyɨa è ndùw zue ntsòʼ a n lo mò dzì zɨ̀ ntsoʼ e te lɔ̄ʼso dàa.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "agq_Latn-specimen_16-NFD",
+      "language": "agq",
+      "text": "A fɨ̀ bugho an tì li kō, ghùw ù lì ghe fɨ̀ tɔɔŋ tsɨ̀ghà enyɨa Kɨ̀zɨ̀ŋè. Kɨ̀zɨ̀ŋè fɨ̀ lo êzɨ̀, ghe fɨ̀ tɔŋɔ wɨ̄n enyɨa kɨ̀zɨ̀ŋè bòʼ enyɨa ufʉghà ù dzɨ̀m u fɨ̀ lo àzɨ̀ŋo wɨ̄n. A fɨ̀ lo tsɨgha ko nû, tɔ̀lɔki m bwìi ùfwɨn ghèe mbùʼù kò. Mbùʼù kɨ̀ m mgbɛɛ bùghòo bwìin kòʼò tsɨ̀ghà ko wɨ̄n. Ù mo᷇, “ŋ ghûw fɨ̀n, N sô mgbɛɛ bùghoo bwìin kôʼò ko. Ghù lô mùghò bùgho bwìin kòʼò zɨn a?” Tɔ̀lɔ̀ki n dzɛ̀ â mbùʼù kò enyɨa kǎ ghee lûum, è kê tsǒo bùghò gbɨ̀là ghù, tō. E kê bùghò gbɨ̀ɨn ghù, E ndôʼò dzàa zìi yò tsuʼ fɨla e kê bughoo a te alô ghù. A fɨ̀ lo alo enaʼ ghɨa ghɨ ntsòʼ ghɨ̌ n tughuu fughu, ghe n tum tɔ̀lɔki enyɨa è ndùw zue ntsòʼ a n lo mò dzì zɨ̀ ntsoʼ e te lɔ̄ʼso dàa.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "ale_Latn-specimen_16-NFC",
+      "language": "ale",
+      "text": "Anĝaĝinam huzungis agaxtakuu ingisxigikux̂ ama liidax̂ nagan sahnganaxtada. Txin sakaaĝatal anagis mataxchx̂ida inaqamchix̂ agangudaganasaaĝiiĝutakus ludaangan huzuu ngaan quĝasaatakus.\nAnĝaĝinam huzungis agaxtakuu ingisxigikux̂ ama liidax̂ nagan sahnganaxtada. Txin sakaaĝatal anagis mataxchx̂ida inaqamchix̂ agangudaganasaaĝiiĝutakus ludaangan huzuu ngaan quĝasaatakus.\nAnĝaĝinam huzungis agaxtakuu ingisxigikux̂ ama liidax̂ nagan sahnganaxtada. Txin sakaaĝatal anagis mataxchx̂ida inaqamchix̂ agangudaganasaaĝiiĝutakus ludaangan huzuu ngaan quĝasaatakus.\nAnĝaĝinam huzungis agaxtakuu ingisxigikux̂ ama liidax̂ nagan sahnganaxtada. Txin sakaaĝatal anagis mataxchx̂ida inaqamchix̂ agangudaganasaaĝiiĝutakus ludaangan huzuu ngaan quĝasaatakus.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "ale_Latn-specimen_16-NFD",
+      "language": "ale",
+      "text": "Anĝaĝinam huzungis agaxtakuu ingisxigikux̂ ama liidax̂ nagan sahnganaxtada. Txin sakaaĝatal anagis mataxchx̂ida inaqamchix̂ agangudaganasaaĝiiĝutakus ludaangan huzuu ngaan quĝasaatakus.\nAnĝaĝinam huzungis agaxtakuu ingisxigikux̂ ama liidax̂ nagan sahnganaxtada. Txin sakaaĝatal anagis mataxchx̂ida inaqamchix̂ agangudaganasaaĝiiĝutakus ludaangan huzuu ngaan quĝasaatakus.\nAnĝaĝinam huzungis agaxtakuu ingisxigikux̂ ama liidax̂ nagan sahnganaxtada. Txin sakaaĝatal anagis mataxchx̂ida inaqamchix̂ agangudaganasaaĝiiĝutakus ludaangan huzuu ngaan quĝasaatakus.\nAnĝaĝinam huzungis agaxtakuu ingisxigikux̂ ama liidax̂ nagan sahnganaxtada. Txin sakaaĝatal anagis mataxchx̂ida inaqamchix̂ agangudaganasaaĝiiĝutakus ludaangan huzuu ngaan quĝasaatakus.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "amr_Latn-specimen_16-NFC",
+      "language": "amr",
+      "text": "Aya'da aratbut katepi' eka'ta' on'pakpo ka'dik o̱'ne. Nog aratbut huadak o̱'nepo ko̱nigti opudo̱mey huadak mo'e̱. Aya'da huadak eka' nopoe̱'dik o̱'ne kenpa'ti dakhuea' eka' nopoe̱'dik o̱'ne kenpa'ti ko̱nig huama'buytaj o 'tihuapokika' ko̱nigti nogo̱meytaj tihuapokika 'dik o̱'ne.\nAya'da aratbut katepi' eka'ta' on'pakpo ka'dik o̱'ne. Nog aratbut huadak o̱'nepo ko̱nigti opudo̱mey huadak mo'e̱. Aya'da huadak eka' nopoe̱'dik o̱'ne kenpa'ti dakhuea' eka' nopoe̱'dik o̱'ne kenpa'ti ko̱nig huama'buytaj o 'tihuapokika' ko̱nigti nogo̱meytaj tihuapokika 'dik o̱'ne.\nAya'da aratbut katepi' eka'ta' on'pakpo ka'dik o̱'ne. Nog aratbut huadak o̱'nepo ko̱nigti opudo̱mey huadak mo'e̱. Aya'da huadak eka' nopoe̱'dik o̱'ne kenpa'ti dakhuea' eka' nopoe̱'dik o̱'ne kenpa'ti ko̱nig huama'buytaj o 'tihuapokika' ko̱nigti nogo̱meytaj tihuapokika 'dik o̱'ne.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "amr_Latn-specimen_16-NFD",
+      "language": "amr",
+      "text": "Aya'da aratbut katepi' eka'ta' on'pakpo ka'dik o̱'ne. Nog aratbut huadak o̱'nepo ko̱nigti opudo̱mey huadak mo'e̱. Aya'da huadak eka' nopoe̱'dik o̱'ne kenpa'ti dakhuea' eka' nopoe̱'dik o̱'ne kenpa'ti ko̱nig huama'buytaj o 'tihuapokika' ko̱nigti nogo̱meytaj tihuapokika 'dik o̱'ne.\nAya'da aratbut katepi' eka'ta' on'pakpo ka'dik o̱'ne. Nog aratbut huadak o̱'nepo ko̱nigti opudo̱mey huadak mo'e̱. Aya'da huadak eka' nopoe̱'dik o̱'ne kenpa'ti dakhuea' eka' nopoe̱'dik o̱'ne kenpa'ti ko̱nig huama'buytaj o 'tihuapokika' ko̱nigti nogo̱meytaj tihuapokika 'dik o̱'ne.\nAya'da aratbut katepi' eka'ta' on'pakpo ka'dik o̱'ne. Nog aratbut huadak o̱'nepo ko̱nigti opudo̱mey huadak mo'e̱. Aya'da huadak eka' nopoe̱'dik o̱'ne kenpa'ti dakhuea' eka' nopoe̱'dik o̱'ne kenpa'ti ko̱nig huama'buytaj o 'tihuapokika' ko̱nigti nogo̱meytaj tihuapokika 'dik o̱'ne.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "cic_Latn-poster_md-NFC",
+      "language": "cic",
+      "text": "Nanna mó̱maka̱",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "cic_Latn-poster_md-NFD",
+      "language": "cic",
+      "text": "Nanna mó̱maka̱",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "csa_Latn-specimen_16-NFC",
+      "language": "csa",
+      "text": "Lejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.\nLejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.\nLejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.\nLejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.\nLejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.\nLejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "csa_Latn-specimen_16-NFD",
+      "language": "csa",
+      "text": "Lejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.\nLejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.\nLejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.\nLejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.\nLejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.\nLejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "djc_Latn-masthead_partial-NFC",
+      "language": "djc",
+      "text": "N̰j",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "djc_Latn-masthead_partial-NFD",
+      "language": "djc",
+      "text": "N̰j",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "fvr_Latn-masthead_partial-NFC",
+      "language": "fvr",
+      "text": "A̱a̱",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "fvr_Latn-masthead_partial-NFD",
+      "language": "fvr",
+      "text": "A̱a̱",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "jra_Latn-specimen_16-NFC",
+      "language": "jra",
+      "text": "Abih bang mơnuih-mơnam tơkeng rai rơngai laih anŭn mơdơ̆-mơđơr amăng tơlơi pơpŭ-pơyôm hăng tơlơi dưi. Ƀing gơñu tŭ hơmâo tơlơi pơmĭn hăng tơlơi thâo djơ̆-glaĭ laih anŭn brơi ngă kơ tơdruă amăng tơlơi khăp ayŏng adơi.\nAbih bang mơnuih-mơnam tơkeng rai rơngai laih anŭn mơdơ̆-mơđơr amăng tơlơi pơpŭ-pơyôm hăng tơlơi dưi. Ƀing gơñu tŭ hơmâo tơlơi pơmĭn hăng tơlơi thâo djơ̆-glaĭ laih anŭn brơi ngă kơ tơdruă amăng tơlơi khăp ayŏng adơi.\nAbih bang mơnuih-mơnam tơkeng rai rơngai laih anŭn mơdơ̆-mơđơr amăng tơlơi pơpŭ-pơyôm hăng tơlơi dưi. Ƀing gơñu tŭ hơmâo tơlơi pơmĭn hăng tơlơi thâo djơ̆-glaĭ laih anŭn brơi ngă kơ tơdruă amăng tơlơi khăp ayŏng adơi.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "jra_Latn-specimen_16-NFD",
+      "language": "jra",
+      "text": "Abih bang mơnuih-mơnam tơkeng rai rơngai laih anŭn mơdơ̆-mơđơr amăng tơlơi pơpŭ-pơyôm hăng tơlơi dưi. Ƀing gơñu tŭ hơmâo tơlơi pơmĭn hăng tơlơi thâo djơ̆-glaĭ laih anŭn brơi ngă kơ tơdruă amăng tơlơi khăp ayŏng adơi.\nAbih bang mơnuih-mơnam tơkeng rai rơngai laih anŭn mơdơ̆-mơđơr amăng tơlơi pơpŭ-pơyôm hăng tơlơi dưi. Ƀing gơñu tŭ hơmâo tơlơi pơmĭn hăng tơlơi thâo djơ̆-glaĭ laih anŭn brơi ngă kơ tơdruă amăng tơlơi khăp ayŏng adơi.\nAbih bang mơnuih-mơnam tơkeng rai rơngai laih anŭn mơdơ̆-mơđơr amăng tơlơi pơpŭ-pơyôm hăng tơlơi dưi. Ƀing gơñu tŭ hơmâo tơlơi pơmĭn hăng tơlơi thâo djơ̆-glaĭ laih anŭn brơi ngă kơ tơdruă amăng tơlơi khăp ayŏng adơi.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "ln_Latn-specimen_16-NFC",
+      "language": "ln",
+      "text": "Na botáláká ’te kondima limɛmya ya bato nyɔ́nsɔ ya molɔ́ngɔ́ mpé makokí ma bangó óyo ezalí ndéngé mɔ̌kɔ́ mpé bakokí kopímela moto tɛ́ ezalí ntína ya bonsɔ́mí, bosémbo mpé kímyá káti ya molɔ́ngɔ́. Na botáláká ’te komɔ́na mpámba mpé kobóya kotósa esengeli ya moto ebátelama na bokonzi ya bosémbo mpɔ̂ ’te, na sima yangó, moto ákóma na botɔmbɔki esóngó na minyɔ́kɔli tɛ́,\nNa botáláká ’te esengélí koléndisa boyókani na káti ya bikólo,\nNa botáláká ’te kozala bato nyɔ́nsɔ na makanisi ndéngé mɔ̌kɔ́ mpɔ̂ na makokí mpé bonsɔ́mí yangó, ezalí na ntína monɛ́nɛ mpɔ̂ ’te óyo bakáni elónga,\nBato nyɔ́nsɔ na mbótama bazalí nsɔ́mí mpé bakókání na limɛmya mpé makokí. Bazalí na mayɛ́lɛ mpé basengélí kovánda na bondeko o káti na bangó.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "ln_Latn-specimen_16-NFD",
+      "language": "ln",
+      "text": "Na botáláká ’te kondima limɛmya ya bato nyɔ́nsɔ ya molɔ́ngɔ́ mpé makokí ma bangó óyo ezalí ndéngé mɔ̌kɔ́ mpé bakokí kopímela moto tɛ́ ezalí ntína ya bonsɔ́mí, bosémbo mpé kímyá káti ya molɔ́ngɔ́. Na botáláká ’te komɔ́na mpámba mpé kobóya kotósa esengeli ya moto ebátelama na bokonzi ya bosémbo mpɔ̂ ’te, na sima yangó, moto ákóma na botɔmbɔki esóngó na minyɔ́kɔli tɛ́,\nNa botáláká ’te esengélí koléndisa boyókani na káti ya bikólo,\nNa botáláká ’te kozala bato nyɔ́nsɔ na makanisi ndéngé mɔ̌kɔ́ mpɔ̂ na makokí mpé bonsɔ́mí yangó, ezalí na ntína monɛ́nɛ mpɔ̂ ’te óyo bakáni elónga,\nBato nyɔ́nsɔ na mbótama bazalí nsɔ́mí mpé bakókání na limɛmya mpé makokí. Bazalí na mayɛ́lɛ mpé basengélí kovánda na bondeko o káti na bangó.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "mfd_Latn-specimen_16-NFC",
+      "language": "mfd",
+      "text": "Bamə nə ghəghənə nə njinjìɂì bə̌ bə̀səɂə. Tòɂòrə̀ bikakə seŋe bə. Dədoɂo bwo ǹnà-mə̀karə nə forə nə tòɂòrə̀ bə̌ mə̀nà. Chɛ̀kə̀rə̀ nə àkə̀ɂətə nə fəkəbə nə mə̀saŋə àshìshì nə àzarə nə ǹzhà bə̌ ə̀dzuŋə məmə̀ ndyâ. Àbàà nə fɛrə nə yɛ̀rə̀ bə̌ ə̀dzuŋə nyèsə nnu. Ŋorə nə nùŋə̀ nə ndə̀-fə̀ɂə̀ bə̌ ədzuŋə də̀sə fəɂə̀. Lamshì nə ə̀boɂo bə̌ əduŋə ma ə̀boo nə njyə. Boŋə ò nyesə̀ ndyâ zhə̀ nə mə̀ngòɂò bwo waŋsə-nshye. Sama, a zhi wwo ghə̀rə a waŋsə-nshye ku nəli wwò. Talà zhwe àbaɂatə-kaŋə atyə àkəɂətə̀.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "mfd_Latn-specimen_16-NFD",
+      "language": "mfd",
+      "text": "Bamə nə ghəghənə nə njinjìɂì bə̌ bə̀səɂə. Tòɂòrə̀ bikakə seŋe bə. Dədoɂo bwo ǹnà-mə̀karə nə forə nə tòɂòrə̀ bə̌ mə̀nà. Chɛ̀kə̀rə̀ nə àkə̀ɂətə nə fəkəbə nə mə̀saŋə àshìshì nə àzarə nə ǹzhà bə̌ ə̀dzuŋə məmə̀ ndyâ. Àbàà nə fɛrə nə yɛ̀rə̀ bə̌ ə̀dzuŋə nyèsə nnu. Ŋorə nə nùŋə̀ nə ndə̀-fə̀ɂə̀ bə̌ ədzuŋə də̀sə fəɂə̀. Lamshì nə ə̀boɂo bə̌ əduŋə ma ə̀boo nə njyə. Boŋə ò nyesə̀ ndyâ zhə̀ nə mə̀ngòɂò bwo waŋsə-nshye. Sama, a zhi wwo ghə̀rə a waŋsə-nshye ku nəli wwò. Talà zhwe àbaɂatə-kaŋə atyə àkəɂətə̀.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "nus_Latn-masthead_full-NFC",
+      "language": "nus",
+      "text": "Ɛ̱̈ɛ̱̈Ɣɣ",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "nus_Latn-masthead_full-NFD",
+      "language": "nus",
+      "text": "Ɛ̱̈ɛ̱̈Ɣɣ",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "ote_Latn-specimen_16-NFC",
+      "language": "ote",
+      "text": "Gotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.\nGotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.\nGotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.\nGotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.\nGotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "ote_Latn-specimen_16-NFD",
+      "language": "ote",
+      "text": "Gotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.\nGotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.\nGotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.\nGotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.\nGotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "sey_Latn-specimen_16-NFC",
+      "language": "sey",
+      "text": "Si'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.\nSi'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.\nSi'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.\nSi'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "sey_Latn-specimen_16-NFD",
+      "language": "sey",
+      "text": "Si'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.\nSi'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.\nSi'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.\nSi'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "snn_Latn-poster_lg-NFC",
+      "language": "snn",
+      "text": "Sia'bai̱",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "snn_Latn-poster_lg-NFD",
+      "language": "snn",
+      "text": "Sia'bai̱",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "tca_Latn-specimen_16-NFC",
+      "language": "tca",
+      "text": "Ngẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.\nNgẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.\nNgẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.\nNgẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "tca_Latn-specimen_16-NFD",
+      "language": "tca",
+      "text": "Ngẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.\nNgẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.\nNgẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.\nNgẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "udu_Latn-specimen_16-NFC",
+      "language": "udu",
+      "text": "Aris ’kwaniny’ceshi ’baar mo dho’thkunu ’baḵany mo dhali mmomiiya ṯu’c imonṯal ’de/ mo dhali mii ma ḵar/e mo. Uni mini ta gi gwo mo dhali mii mo dhali uni mini mii ka karambuye/ ’kup̱ ki cin tiya mo e shi/in mo dhali mii kun tanu ikam mo.\nAris ’kwaniny’ceshi ’baar mo dho’thkunu ’baḵany mo dhali mmomiiya ṯu’c imonṯal ’de/ mo dhali mii ma ḵar/e mo. Uni mini ta gi gwo mo dhali mii mo dhali uni mini mii ka karambuye/ ’kup̱ ki cin tiya mo e shi/in mo dhali mii kun tanu ikam mo.\nAris ’kwaniny’ceshi ’baar mo dho’thkunu ’baḵany mo dhali mmomiiya ṯu’c imonṯal ’de/ mo dhali mii ma ḵar/e mo. Uni mini ta gi gwo mo dhali mii mo dhali uni mini mii ka karambuye/ ’kup̱ ki cin tiya mo e shi/in mo dhali mii kun tanu ikam mo.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "udu_Latn-specimen_16-NFD",
+      "language": "udu",
+      "text": "Aris ’kwaniny’ceshi ’baar mo dho’thkunu ’baḵany mo dhali mmomiiya ṯu’c imonṯal ’de/ mo dhali mii ma ḵar/e mo. Uni mini ta gi gwo mo dhali mii mo dhali uni mini mii ka karambuye/ ’kup̱ ki cin tiya mo e shi/in mo dhali mii kun tanu ikam mo.\nAris ’kwaniny’ceshi ’baar mo dho’thkunu ’baḵany mo dhali mmomiiya ṯu’c imonṯal ’de/ mo dhali mii ma ḵar/e mo. Uni mini ta gi gwo mo dhali mii mo dhali uni mini mii ka karambuye/ ’kup̱ ki cin tiya mo e shi/in mo dhali mii kun tanu ikam mo.\nAris ’kwaniny’ceshi ’baar mo dho’thkunu ’baḵany mo dhali mmomiiya ṯu’c imonṯal ’de/ mo dhali mii ma ḵar/e mo. Uni mini ta gi gwo mo dhali mii mo dhali uni mini mii ka karambuye/ ’kup̱ ki cin tiya mo e shi/in mo dhali mii kun tanu ikam mo.",
+      "source": "google-fonts-languages 0.7.11 (Apache-2.0)"
+    },
+    {
+      "id": "six-marks-latin-NFC",
+      "text": "x̂ ŏ x̌ N̰ p̱ o᷇",
+      "language": "en",
+      "display": false
+    },
+    {
+      "id": "six-marks-latin-NFD",
+      "text": "x̂ ŏ x̌ N̰ p̱ o᷇",
+      "language": "en",
+      "display": true
+    },
+    {
+      "id": "six-marks-extended-NFC",
+      "text": "ɔ̂ ơ̆ ɨ̌ ɛ̰ Ɛ̱ ɛ᷇",
+      "language": "en",
+      "display": false
+    },
+    {
+      "id": "six-marks-extended-NFD",
+      "text": "ɔ̂ ơ̆ ɨ̌ ɛ̰ Ɛ̱ ɛ᷇",
+      "language": "en",
+      "display": true
+    },
+    {
+      "id": "stacked-marks-NFC",
+      "text": "Ɛ̱̈ ɛ̱̈ ấ",
+      "language": "en",
+      "display": false
+    },
+    {
+      "id": "stacked-marks-NFD",
+      "text": "Ɛ̱̈ ɛ̱̈ ấ",
+      "language": "en",
+      "display": true
+    },
+    {
+      "id": "latin-controls-NFC",
+      "text": "AVATAR To Wa ă â č ñ å ö ā ə̌ ɔ̂",
+      "language": "en",
+      "display": false
+    },
+    {
+      "id": "latin-controls-NFD",
+      "text": "AVATAR To Wa ă â č ñ å ö ā ə̌ ɔ̂",
+      "language": "en",
+      "display": true
+    },
+    {
+      "id": "ukrainian-controls-NFC",
+      "text": "Україна Ґґ Єє Іі Її Йй Щщ Яя і́",
+      "language": "uk",
+      "display": false
+    },
+    {
+      "id": "ukrainian-controls-NFD",
+      "text": "Україна Ґґ Єє Іі Її Йй Щщ Яя і́",
+      "language": "uk",
+      "display": true
+    },
+    {
+      "id": "vietnamese-controls-NFC",
+      "text": "ị ĩ ỉ ắ ẫ ụ ử ử",
+      "language": "vi",
+      "display": false
+    },
+    {
+      "id": "vietnamese-controls-NFD",
+      "text": "ị ĩ ỉ ắ ẫ ụ ử ử",
+      "language": "vi",
+      "display": true
+    },
+    {
+      "id": "latn-ext-placement-control-NFC",
+      "text": "m̧ ə̧",
+      "language": "en",
+      "display": false
+    },
+    {
+      "id": "latn-ext-placement-control-NFD",
+      "text": "m̧ ə̧",
+      "language": "en",
+      "display": true
+    },
+    {
+      "id": "modern-latin-nfd-controls-NFC",
+      "text": "Å å İ ė Ő ő Ű ű Ș ș Ț ț Ą ą Ę ę į Ǻ ǻ",
+      "language": "en",
+      "display": false
+    },
+    {
+      "id": "modern-latin-nfd-controls-NFD",
+      "text": "Å å İ ė Ő ő Ű ű Ș ș Ț ț Ą ą Ę ę į Ǻ ǻ",
+      "language": "en",
+      "display": true
+    }
+  ]
+}

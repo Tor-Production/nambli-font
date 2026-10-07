@@ -1,0 +1,186 @@
+{
+  "all_stock_subsets_scanned": 187,
+  "declared": [
+    "cyrillic",
+    "latin",
+    "latin-ext",
+    "menu",
+    "vietnamese"
+  ],
+  "font_codepoints": 970,
+  "six_marks_in_font": {
+    "U+0302": true,
+    "U+0306": true,
+    "U+030C": true,
+    "U+0330": true,
+    "U+0331": true,
+    "U+1DC7": true
+  },
+  "mark_membership_in_ALL_stock_subsets": {
+    "U+0302": [
+      "cherokee",
+      "coptic",
+      "math",
+      "tifinagh"
+    ],
+    "U+0306": [
+      "old-permic",
+      "tifinagh"
+    ],
+    "U+030C": [
+      "cherokee",
+      "tai-le"
+    ],
+    "U+0330": [
+      "cherokee",
+      "math",
+      "syriac"
+    ],
+    "U+0331": [
+      "caucasian-albanian",
+      "cherokee",
+      "gothic",
+      "sunuwar",
+      "syriac",
+      "thai",
+      "tifinagh"
+    ],
+    "U+1DC7": []
+  },
+  "alternative_subset_coverage": [
+    {
+      "subset": "caucasian-albanian",
+      "supported": 5,
+      "subset_size": 77,
+      "fraction": 0.06493506493506493,
+      "required_fraction": 0.5,
+      "qualifies": false,
+      "marks": [
+        "U+0331"
+      ]
+    },
+    {
+      "subset": "cherokee",
+      "supported": 12,
+      "subset_size": 186,
+      "fraction": 0.06451612903225806,
+      "required_fraction": 0.5,
+      "qualifies": false,
+      "marks": [
+        "U+0302",
+        "U+030C",
+        "U+0330",
+        "U+0331"
+      ]
+    },
+    {
+      "subset": "coptic",
+      "supported": 18,
+      "subset_size": 202,
+      "fraction": 0.0891089108910891,
+      "required_fraction": 0.5,
+      "qualifies": false,
+      "marks": [
+        "U+0302"
+      ]
+    },
+    {
+      "subset": "gothic",
+      "supported": 7,
+      "subset_size": 36,
+      "fraction": 0.19444444444444445,
+      "required_fraction": 0.5,
+      "qualifies": false,
+      "marks": [
+        "U+0331"
+      ]
+    },
+    {
+      "subset": "math",
+      "supported": 119,
+      "subset_size": 2578,
+      "fraction": 0.04615981380915438,
+      "required_fraction": 0.5,
+      "qualifies": false,
+      "marks": [
+        "U+0302",
+        "U+0330"
+      ]
+    },
+    {
+      "subset": "old-permic",
+      "supported": 9,
+      "subset_size": 56,
+      "fraction": 0.16071428571428573,
+      "required_fraction": 0.5,
+      "qualifies": false,
+      "marks": [
+        "U+0306"
+      ]
+    },
+    {
+      "subset": "sunuwar",
+      "supported": 8,
+      "subset_size": 55,
+      "fraction": 0.14545454545454545,
+      "required_fraction": 0.5,
+      "qualifies": false,
+      "marks": [
+        "U+0331"
+      ]
+    },
+    {
+      "subset": "syriac",
+      "supported": 34,
+      "subset_size": 165,
+      "fraction": 0.20606060606060606,
+      "required_fraction": 0.5,
+      "qualifies": false,
+      "marks": [
+        "U+0330",
+        "U+0331"
+      ]
+    },
+    {
+      "subset": "tai-le",
+      "supported": 9,
+      "subset_size": 64,
+      "fraction": 0.140625,
+      "required_fraction": 0.5,
+      "qualifies": false,
+      "marks": [
+        "U+030C"
+      ]
+    },
+    {
+      "subset": "thai",
+      "supported": 8,
+      "subset_size": 99,
+      "fraction": 0.08080808080808081,
+      "required_fraction": 0.5,
+      "qualifies": false,
+      "marks": [
+        "U+0331"
+      ]
+    },
+    {
+      "subset": "tifinagh",
+      "supported": 13,
+      "subset_size": 77,
+      "fraction": 0.16883116883116883,
+      "required_fraction": 0.5,
+      "qualifies": false,
+      "marks": [
+        "U+0302",
+        "U+0306",
+        "U+0331"
+      ]
+    }
+  ],
+  "all_stock_subsets_with_qualifying_coverage": [
+    "cyrillic",
+    "latin",
+    "latin-ext",
+    "vietnamese"
+  ]
+}

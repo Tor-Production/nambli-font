@@ -111,7 +111,7 @@
         <key>platformID</key>
         <integer>1</integer>
         <key>string</key>
-        <string>1.000;NAMB;Nambli-BoldItalic</string>
+        <string>1.001;NAMB;Nambli-BoldItalic</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -135,7 +135,7 @@
         <key>platformID</key>
         <integer>1</integer>
         <key>string</key>
-        <string>Version 1.000</string>
+        <string>Version 1.001</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -327,7 +327,7 @@
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>1.000;NAMB;Nambli-BoldItalic</string>
+        <string>1.001;NAMB;Nambli-BoldItalic</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -351,7 +351,7 @@
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>Version 1.000</string>
+        <string>Version 1.001</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -499,9 +499,9 @@
       </dict>
     </array>
     <key>openTypeNameUniqueID</key>
-    <string>1.000;NAMB;Nambli-BoldItalic</string>
+    <string>1.001;NAMB;Nambli-BoldItalic</string>
     <key>openTypeNameVersion</key>
-    <string>Version 1.000</string>
+    <string>Version 1.001</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -612,7 +612,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>0</integer>
+    <integer>1</integer>
     <key>xHeight</key>
     <integer>530</integer>
   </dict>

@@ -1,4 +1,25 @@
-Nambli 1.0.0 — approved upstream release, 2026-10-07
+Nambli — current candidate 1.001; public release v1.0.0 remains unchanged
+
+CURRENT FOLLOW-UP — 2026-10-08
+The owner reviewed the final eight-contour/48-side-caron proof and instructed
+continuation. The exact approved 1.001 UFO sources have been adopted into
+the existing QA branch. Candidate binaries are isolated under
+fonts/candidates/1.001; release font directories and supplementary OTFs
+remain version 1.000. See google-fonts-qa/2026-10-08/adoption-1.001/REPORT.md
+for the current package source mapping, build and stock/patched validation.
+Final full-network package: stock 16 FAIL / 145 WARN; local patched 0 FAIL,
+ERROR or FATAL / 145 WARN, with executed tofu in both. The source commit is
+eafe6884f5c75aaa395479cc0176b54b7ed9b6d5 and Google import commit is
+44b736f59ad3f24845e39a025eb380149e1a9fff. All nineteen import files match tested bytes.
+
+The owner reports submitting the GF Designer Profile form on 2026-10-08.
+The yuriitor catalog path was still absent at the follow-up check; actual
+profile publication remains pending. This submission is not an outstanding
+request for the owner to choose a portrait or approve a biography.
+
+The following dated entries retain the historical package state and tests.
+In particular, earlier 'needs visual approval' and 'form not submitted'
+statements describe their date's state, superseded by the record above.
 
 STATUS
 Submitted: https://github.com/google/fonts/issues/11082
@@ -45,10 +66,11 @@ Supplementary OTFs carry the final repaired contours and matching layout;
 unaffected CFF contours are unchanged. The independent build still produces
 TTF/WOFF2, not OTF; see supplementary-otf-validation.json.
 
-FINAL QA
+HISTORICAL BINARY-ONLY QA
 Fontspector 1.8.0, all twelve final TTFs, complete googlefonts profile,
 network enabled, no exclusions: 1127 PASS, 134 WARN, 704 SKIP, 80 INFO, 0 FAIL, 0 ERROR, 0 FATAL.
-All TTF and OFL hashes are unchanged by QA. Offline results are recorded
+This was Binary QA, not Full Google Fonts package QA: metadata/article were
+not explicit inputs and googlefonts/tofu did not execute. All TTF and OFL hashes are unchanged by QA. Offline results are recorded
 separately; network checks are skipped only in that explicitly offline run.
 See fontspector-summary.json and fontspector-network-summary.json.
 Real HarfBuzz tests cover soft-dotted forms, language substitutions and mark
@@ -61,3 +83,61 @@ Author review is complete. Remaining Fontspector WARN/SKIP messages remain
 available in the reports; zero FAIL and upstream publication do not establish
 Google Fonts acceptance. Curatorial and specialist-language review remain
 with the Google Fonts onboarding process.
+
+FULL PACKAGE QA FOLLOW-UP — 2026-10-07–08
+The original immutable 15-input package reports 16 FAIL / 152 WARN with both
+historical stock Fontspector 1.8.0 and the latest stable CLI (also 1.8.0).
+All failures are missing-subsetted messages from googlefonts/tofu, involving
+six marks that exist correctly in all twelve source/binary fonts but are
+absent from every declared fixed serving subset. The owner confirmations are
+complete in issue #11082 and PR #11086; they are not outstanding consent items.
+
+A local NAM input/generated-data patch, four Rust tests and a proven Cargo
+path override yield native exit 0, 0 FAIL/ERROR/FATAL, 152 WARN on the exact
+same immutable package. The final 18-input package adds three genuine font
+specimen JPEGs, updated article/source mappings, and a real source.commit:
+8083e024eb3e74493b255b83f0d7b0f5e677ab23. All font/OFL bytes are unchanged.
+The final Git-index package also includes article/image-license.txt: 19 family
+files, 18 explicit checker inputs. Exact Git bytes were tested; font bytes and
+the OFL Git blob are unchanged. Text LF/CRLF distinctions are recorded in the
+dated report, and the frozen Windows baseline is preserved.
+Final stock package: 16 FAIL / 151 WARN. Final patched package: 0 FAIL/ERROR/
+FATAL / 151 WARN, tofu executed. Stock failures are not claimed fixed upstream.
+
+Literal NAM splits still differ in browser tests. A separate implemented
+coherent serving proposal preserves all 970 encoded characters and passes
+576 text + 1,284 cluster + 11,640 encoded-character checks in all twelve styles.
+Chromium and Playwright WebKit each have 576 comparisons and zero coherent
+pixel/advance differences. Firefox and real Safari/iOS are NOT TESTED.
+This local backend/CSS proposal requires upstream acceptance and rollout.
+
+The separate outline candidate uses version 1.001 and changes only eight
+glyph/face pairs. Its clean/repeat build and 105,696 reference shaping checks
+pass. Binary WARN fall from 134 to 128: four retraced-path and two jaggy-join
+warnings are removed. It still needs visual approval and is excluded from
+the Google package, published v1.0.0 fonts/assets and website.
+
+See google-fonts-qa/2026-10-07/REPORT.md, REPRODUCE.md, redacted native reports,
+the full WARN dispositions and the original upstream drafts. Designer profile
+structure/bio are prepared; owner portrait and biography/link approval remain.
+PR #11086 remains Draft. Google acceptance, API availability and actual service
+deployment are not established. No profile form was submitted, and the release
+tag/assets/site were not changed.
+
+FRESH INPUT AUDIT AND AUTHORIZED UPSTREAM SUBMISSION — 2026-10-08
+All nineteen files were downloaded again from Google PR head
+61b4ac3f08aaf42ef24aa1ad4a6a09faf3c54576 and match the previously tested Git
+package exactly. Fresh official full profile: 16 FAIL, 151 WARN, 0 ERROR/FATAL.
+The separate 1.001 candidate also produces the same sixteen tofu failures in
+an isolated targeted diagnostic. A stale font version/cache is ruled out.
+U+1DC7 is absent from all 187 stock and all 189 current NAM subset arrays;
+the latest CLI remains 1.8.0. A font-only change cannot supply absent NAM data.
+
+After explicit owner authorization, the tested patch and dependency follow-up
+were published:
+  NAM draft PR: https://github.com/googlefonts/nam-files/pull/31
+  NAM commit: feaaf382cb475029368914468eb6708cc4e4cdba
+  Fontspector issue: https://github.com/fonttools/fontspector/issues/946
+Four Rust tests pass. These submissions are not yet upstream acceptance,
+publication of a corrected official dependency, or a serving rollout.
+Google PR #11086 remains Draft. See google-fonts-qa/2026-10-08/REPORT.md.

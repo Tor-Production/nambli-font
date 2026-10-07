@@ -1,0 +1,194 @@
+{
+  "source_commit": "eafe6884f5c75aaa395479cc0176b54b7ed9b6d5",
+  "google_parent": "61b4ac3f08aaf42ef24aa1ad4a6a09faf3c54576",
+  "family_files": [
+    {
+      "path": "METADATA.pb",
+      "sha256": "0f98e71d33693783fb377285377eb8b44ac52183d94a846d6020ae0b14109551"
+    },
+    {
+      "path": "Nambli-Bold.ttf",
+      "sha256": "02725ee100e2c678ef29a45a725b158c14899942b63f8f16d4b0553e705d5d39"
+    },
+    {
+      "path": "Nambli-BoldItalic.ttf",
+      "sha256": "b95aa5dbbd9a8f8784c05be2ff6cc5138f1ec9ec550fc64409b90a08291a4ae2"
+    },
+    {
+      "path": "Nambli-ExtraBold.ttf",
+      "sha256": "c4a46dfe9c15d329dc3e6d7f9c232ee3108cebb62dbd00222491cabdc0be7a4b"
+    },
+    {
+      "path": "Nambli-ExtraBoldItalic.ttf",
+      "sha256": "018e97570a7e9fce87ec5a999de800a8536e3f8917d495583aa30bd53e35ab0c"
+    },
+    {
+      "path": "Nambli-Italic.ttf",
+      "sha256": "1072562e22392ae148c3cf0774a11b1105a9eb657bbca0944d74b281f95ff4ee"
+    },
+    {
+      "path": "Nambli-Light.ttf",
+      "sha256": "e2c52838aa4afce0ac7ef15af8113e9eb09ff6ebb3cbfca2775b7c3920f6b326"
+    },
+    {
+      "path": "Nambli-LightItalic.ttf",
+      "sha256": "b667d292e39bb3ab3ae039e9aa2b188c571c5d7251ee0afa152692e652cd5d4a"
+    },
+    {
+      "path": "Nambli-Medium.ttf",
+      "sha256": "6cf981228b5f2d84ee9e2da423b5e45965e2581c8d3e3c41540992cf06f72262"
+    },
+    {
+      "path": "Nambli-MediumItalic.ttf",
+      "sha256": "ee74673e2376a76427b5571c4dfc24aa758ae06733319bea215e2fb5029cc582"
+    },
+    {
+      "path": "Nambli-Regular.ttf",
+      "sha256": "f789a1b268a498235b27d88c134ffc8ac34158ea4bc80d6a5dc9067e3499aa41"
+    },
+    {
+      "path": "Nambli-SemiBold.ttf",
+      "sha256": "8d36f36bcb9801d0ba39d10e08b1e9d5f0d8d6d021219122954e705dd08705e6"
+    },
+    {
+      "path": "Nambli-SemiBoldItalic.ttf",
+      "sha256": "694fc523f26c6a062bee08f5eff4f1f2d20a4be216c1176360046ba97127086e"
+    },
+    {
+      "path": "OFL.txt",
+      "sha256": "64839c62885a8cb1fb22c54b4aa373e8582613c087ed36d0b412faadb8c2a7ea"
+    },
+    {
+      "path": "article/ARTICLE.en_us.html",
+      "sha256": "f096ae21a4f215a34c0399b5f8d12e6b778ba00cc8b736668d5ae7d5550ce64e"
+    },
+    {
+      "path": "article/image-license.txt",
+      "sha256": "940984f5ffd1e77488ce82e8eecdf166eafe07e67780c1c3e813e6f7460c79ec"
+    },
+    {
+      "path": "article/nambli-12-styles.jpg",
+      "sha256": "53cb32f5f60a813ccaa8bae3ff3daba451b90fc59bcf4590441e66dfcebe1559"
+    },
+    {
+      "path": "article/nambli-multilingual.jpg",
+      "sha256": "21fe44e14a93e614055a265947864af89ddc265d5faff2c6f6d361cd25040f08"
+    },
+    {
+      "path": "article/nambli-rounded.jpg",
+      "sha256": "c6630bc36344575b9d77a40a084048591fdd6c33605dbce37fd68692e80e4a51"
+    }
+  ],
+  "source_mapping_checks": [
+    {
+      "source_file": "OFL.txt",
+      "dest_file": "OFL.txt",
+      "sha256": "64839c62885a8cb1fb22c54b4aa373e8582613c087ed36d0b412faadb8c2a7ea",
+      "byte_identical": true
+    },
+    {
+      "source_file": "fonts/candidates/1.001/ttf/Nambli-Bold.ttf",
+      "dest_file": "Nambli-Bold.ttf",
+      "sha256": "02725ee100e2c678ef29a45a725b158c14899942b63f8f16d4b0553e705d5d39",
+      "byte_identical": true
+    },
+    {
+      "source_file": "fonts/candidates/1.001/ttf/Nambli-BoldItalic.ttf",
+      "dest_file": "Nambli-BoldItalic.ttf",
+      "sha256": "b95aa5dbbd9a8f8784c05be2ff6cc5138f1ec9ec550fc64409b90a08291a4ae2",
+      "byte_identical": true
+    },
+    {
+      "source_file": "fonts/candidates/1.001/ttf/Nambli-ExtraBold.ttf",
+      "dest_file": "Nambli-ExtraBold.ttf",
+      "sha256": "c4a46dfe9c15d329dc3e6d7f9c232ee3108cebb62dbd00222491cabdc0be7a4b",
+      "byte_identical": true
+    },
+    {
+      "source_file": "fonts/candidates/1.001/ttf/Nambli-ExtraBoldItalic.ttf",
+      "dest_file": "Nambli-ExtraBoldItalic.ttf",
+      "sha256": "018e97570a7e9fce87ec5a999de800a8536e3f8917d495583aa30bd53e35ab0c",
+      "byte_identical": true
+    },
+    {
+      "source_file": "fonts/candidates/1.001/ttf/Nambli-Italic.ttf",
+      "dest_file": "Nambli-Italic.ttf",
+      "sha256": "1072562e22392ae148c3cf0774a11b1105a9eb657bbca0944d74b281f95ff4ee",
+      "byte_identical": true
+    },
+    {
+      "source_file": "fonts/candidates/1.001/ttf/Nambli-Light.ttf",
+      "dest_file": "Nambli-Light.ttf",
+      "sha256": "e2c52838aa4afce0ac7ef15af8113e9eb09ff6ebb3cbfca2775b7c3920f6b326",
+      "byte_identical": true
+    },
+    {
+      "source_file": "fonts/candidates/1.001/ttf/Nambli-LightItalic.ttf",
+      "dest_file": "Nambli-LightItalic.ttf",
+      "sha256": "b667d292e39bb3ab3ae039e9aa2b188c571c5d7251ee0afa152692e652cd5d4a",
+      "byte_identical": true
+    },
+    {
+      "source_file": "fonts/candidates/1.001/ttf/Nambli-Medium.ttf",
+      "dest_file": "Nambli-Medium.ttf",
+      "sha256": "6cf981228b5f2d84ee9e2da423b5e45965e2581c8d3e3c41540992cf06f72262",
+      "byte_identical": true
+    },
+    {
+      "source_file": "fonts/candidates/1.001/ttf/Nambli-MediumItalic.ttf",
+      "dest_file": "Nambli-MediumItalic.ttf",
+      "sha256": "ee74673e2376a76427b5571c4dfc24aa758ae06733319bea215e2fb5029cc582",
+      "byte_identical": true
+    },
+    {
+      "source_file": "fonts/candidates/1.001/ttf/Nambli-Regular.ttf",
+      "dest_file": "Nambli-Regular.ttf",
+      "sha256": "f789a1b268a498235b27d88c134ffc8ac34158ea4bc80d6a5dc9067e3499aa41",
+      "byte_identical": true
+    },
+    {
+      "source_file": "fonts/candidates/1.001/ttf/Nambli-SemiBold.ttf",
+      "dest_file": "Nambli-SemiBold.ttf",
+      "sha256": "8d36f36bcb9801d0ba39d10e08b1e9d5f0d8d6d021219122954e705dd08705e6",
+      "byte_identical": true
+    },
+    {
+      "source_file": "fonts/candidates/1.001/ttf/Nambli-SemiBoldItalic.ttf",
+      "dest_file": "Nambli-SemiBoldItalic.ttf",
+      "sha256": "694fc523f26c6a062bee08f5eff4f1f2d20a4be216c1176360046ba97127086e",
+      "byte_identical": true
+    },
+    {
+      "source_file": "documentation/article/ARTICLE.en_us.html",
+      "dest_file": "article/ARTICLE.en_us.html",
+      "sha256": "f096ae21a4f215a34c0399b5f8d12e6b778ba00cc8b736668d5ae7d5550ce64e",
+      "byte_identical": true
+    },
+    {
+      "source_file": "documentation/article/nambli-rounded.jpg",
+      "dest_file": "article/nambli-rounded.jpg",
+      "sha256": "c6630bc36344575b9d77a40a084048591fdd6c33605dbce37fd68692e80e4a51",
+      "byte_identical": true
+    },
+    {
+      "source_file": "documentation/article/nambli-multilingual.jpg",
+      "dest_file": "article/nambli-multilingual.jpg",
+      "sha256": "21fe44e14a93e614055a265947864af89ddc265d5faff2c6f6d361cd25040f08",
+      "byte_identical": true
+    },
+    {
+      "source_file": "documentation/article/nambli-12-styles.jpg",
+      "dest_file": "article/nambli-12-styles.jpg",
+      "sha256": "53cb32f5f60a813ccaa8bae3ff3daba451b90fc59bcf4590441e66dfcebe1559",
+      "byte_identical": true
+    },
+    {
+      "source_file": "documentation/image-license.txt",
+      "dest_file": "article/image-license.txt",
+      "sha256": "940984f5ffd1e77488ce82e8eecdf166eafe07e67780c1c3e813e6f7460c79ec",
+      "byte_identical": true
+    }
+  ],
+  "google_commit": "44b736f59ad3f24845e39a025eb380149e1a9fff",
+  "committed_package_matches_tested_git_index_bytes": true
+}

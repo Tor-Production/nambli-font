@@ -1,0 +1,92 @@
+{
+  "checked_utc": "2026-10-07T22:02:32.535001+00:00",
+  "latest_cli_release": {
+    "tag_name": "fontspector-v1.8.0",
+    "published_at": "2026-09-18T14:34:15Z",
+    "html_url": "https://github.com/fonttools/fontspector/releases/tag/fontspector-v1.8.0",
+    "target_commitish": "main"
+  },
+  "fontspector_main": "43d6ab52a8355e18714fd035e615a0d5204cd903",
+  "nam_main": "2a68014b16056e965c18fd47de1f3fde9a5b0095",
+  "latest_googlefonts_profile_release": {
+    "tag_name": "fontspector-profile-googlefonts-v1.9.1",
+    "published_at": "2026-09-29T13:56:22Z",
+    "html_url": "https://github.com/fonttools/fontspector/releases/tag/fontspector-profile-googlefonts-v1.9.1"
+  },
+  "current-fontspector-Cargo.toml": {
+    "sha256": "02cc9d1431b6707eb07c446ca8d6d2df38691a2c9fdda7b485af9252875968d8"
+  },
+  "current-fontspector-Cargo.lock": {
+    "sha256": "7373f0eb5f90d20edf9509b16933a8f4d08610e39cf1426c3c9230d110636625"
+  },
+  "current-fontspector-profile-googlefonts-src-checks-googlefonts-tofu.rs": {
+    "sha256": "cf650da620f906534ffadee88a2d116c0ff95a7712e73b047e35630709a677ec"
+  },
+  "tofu_code_identical_to_stock_tag": true,
+  "all_current_nam_subsets_scanned": 189,
+  "six_mark_membership_in_ALL_current_nam_subsets": {
+    "U+0302": [
+      "cherokee",
+      "coptic",
+      "math",
+      "tifinagh"
+    ],
+    "U+0306": [
+      "old-permic",
+      "tifinagh"
+    ],
+    "U+030C": [
+      "cherokee",
+      "tai-le"
+    ],
+    "U+0330": [
+      "cherokee",
+      "math",
+      "syriac"
+    ],
+    "U+0331": [
+      "caucasian-albanian",
+      "cherokee",
+      "gothic",
+      "sunuwar",
+      "syriac",
+      "thai",
+      "tifinagh"
+    ],
+    "U+1DC7": []
+  },
+  "six_marks_missing_from_declared_current_subsets": {
+    "cyrillic": [
+      "U+0302",
+      "U+0306",
+      "U+030C",
+      "U+0330",
+      "U+0331",
+      "U+1DC7"
+    ],
+    "latin": [
+      "U+0302",
+      "U+0306",
+      "U+030C",
+      "U+0330",
+      "U+0331",
+      "U+1DC7"
+    ],
+    "latin-ext": [
+      "U+0302",
+      "U+0306",
+      "U+030C",
+      "U+0330",
+      "U+0331",
+      "U+1DC7"
+    ],
+    "vietnamese": [
+      "U+0302",
+      "U+0306",
+      "U+030C",
+      "U+0330",
+      "U+0331",
+      "U+1DC7"
+    ]
+  }
+}

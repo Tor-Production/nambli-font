@@ -1,0 +1,14 @@
+[
+  {
+    "name": "google-fonts-languages",
+    "version": "0.7.11",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "manifest_path": "<QA>/tools/cargo-home\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\google-fonts-languages-0.7.11\\Cargo.toml"
+  },
+  {
+    "name": "google-fonts-subsets",
+    "version": "0.202602.1",
+    "source": null,
+    "manifest_path": "<QA>\\nam-files\\Cargo.toml"
+  }
+]

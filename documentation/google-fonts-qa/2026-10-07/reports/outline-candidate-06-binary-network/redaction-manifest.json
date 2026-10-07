@@ -1,0 +1,16 @@
+{
+  "run": "outline-candidate-06-binary-network",
+  "public_report": "Explicitly path-redacted copy; severities/messages otherwise preserved.",
+  "original_files_sha256": {
+    "fontspector.json": "69a670cf68591bb3d23265604e0d03cba97d1cbc58835119cb317262ed7d160a",
+    "summary.json": "2d4fcc5c7b56b09229099eb0c6c40165c2c96ac52301819dd94f9622880dfba8",
+    "stdout.log": "de75575b1afc0488db7f05822c7d273d6730cf9a62c7f1d99ea42dd1ffe0f69c",
+    "stderr.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "redacted_json_sha256": "213430d1217815ba67d2a01b7f8d0b56808286aa22369a9f1db3ea8d296eb748",
+  "redacted_gzip_sha256": "ed198e183e05ffe6ff8d861e5ef04857b16d3fb2a7e9d9a4d85583024bfbab68",
+  "redacted_log_gzip_sha256": {
+    "stderr.log.redacted.txt.gz": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+    "stdout.log.redacted.txt.gz": "2c550c48e443d0c08c5b2b1614eea37afee75ed1d9bf10de49c28eb5cd47715e"
+  }
+}

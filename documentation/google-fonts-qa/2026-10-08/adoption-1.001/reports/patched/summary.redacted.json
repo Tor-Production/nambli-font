@@ -1,0 +1,777 @@
+{
+  "generated_utc": "2026-10-07T23:40:39.550393+00:00",
+  "scope": "package",
+  "profile": "googlefonts",
+  "mode": "network",
+  "tool_kind": "patched-candidate",
+  "tool_version": "fontspector 1.8.0\ntag:fontspector-v1.8.0\ncommit_hash:3ec1edc0\nbuild_time:2026-10-07 22:44:08 +03:00\nbuild_env:rustc 1.98.0 (88d9e12ae 2026-08-18),stable-x86_64-pc-windows-msvc",
+  "executable_sha256": "30f8e4e1d93b6605dc6babb06d5cd26599ed1144ce469449ef7d479cc1e10535",
+  "native_exit_code": 0,
+  "command": [
+    "<ORIGINAL_QA>\\tools\\fontspector-patched-final.exe",
+    "-p",
+    "googlefonts",
+    "-J",
+    "4",
+    "--timeout",
+    "10",
+    "--json",
+    "<ADOPTION_QA>\\runs\\patched\\fontspector.json",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\Nambli-Bold.ttf",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\Nambli-BoldItalic.ttf",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\Nambli-ExtraBold.ttf",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\Nambli-ExtraBoldItalic.ttf",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\Nambli-Italic.ttf",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\Nambli-Light.ttf",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\Nambli-LightItalic.ttf",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\Nambli-Medium.ttf",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\Nambli-MediumItalic.ttf",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\Nambli-Regular.ttf",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\Nambli-SemiBold.ttf",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\Nambli-SemiBoldItalic.ttf",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\METADATA.pb",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\OFL.txt",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\article\\ARTICLE.en_us.html",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\article\\nambli-rounded.jpg",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\article\\nambli-multilingual.jpg",
+    "<ADOPTION_QA>\\staged-package\\ofl\\nambli\\article\\nambli-12-styles.jpg"
+  ],
+  "check_exclusions": [],
+  "explicit_inputs": [
+    "Nambli-Bold.ttf",
+    "Nambli-BoldItalic.ttf",
+    "Nambli-ExtraBold.ttf",
+    "Nambli-ExtraBoldItalic.ttf",
+    "Nambli-Italic.ttf",
+    "Nambli-Light.ttf",
+    "Nambli-LightItalic.ttf",
+    "Nambli-Medium.ttf",
+    "Nambli-MediumItalic.ttf",
+    "Nambli-Regular.ttf",
+    "Nambli-SemiBold.ttf",
+    "Nambli-SemiBoldItalic.ttf",
+    "METADATA.pb",
+    "OFL.txt",
+    "article/ARTICLE.en_us.html",
+    "article/nambli-rounded.jpg",
+    "article/nambli-multilingual.jpg",
+    "article/nambli-12-styles.jpg"
+  ],
+  "input_sha256": {
+    "article/ARTICLE.en_us.html": "f096ae21a4f215a34c0399b5f8d12e6b778ba00cc8b736668d5ae7d5550ce64e",
+    "article/image-license.txt": "940984f5ffd1e77488ce82e8eecdf166eafe07e67780c1c3e813e6f7460c79ec",
+    "article/nambli-12-styles.jpg": "53cb32f5f60a813ccaa8bae3ff3daba451b90fc59bcf4590441e66dfcebe1559",
+    "article/nambli-multilingual.jpg": "21fe44e14a93e614055a265947864af89ddc265d5faff2c6f6d361cd25040f08",
+    "article/nambli-rounded.jpg": "c6630bc36344575b9d77a40a084048591fdd6c33605dbce37fd68692e80e4a51",
+    "METADATA.pb": "0f98e71d33693783fb377285377eb8b44ac52183d94a846d6020ae0b14109551",
+    "Nambli-Bold.ttf": "02725ee100e2c678ef29a45a725b158c14899942b63f8f16d4b0553e705d5d39",
+    "Nambli-BoldItalic.ttf": "b95aa5dbbd9a8f8784c05be2ff6cc5138f1ec9ec550fc64409b90a08291a4ae2",
+    "Nambli-ExtraBold.ttf": "c4a46dfe9c15d329dc3e6d7f9c232ee3108cebb62dbd00222491cabdc0be7a4b",
+    "Nambli-ExtraBoldItalic.ttf": "018e97570a7e9fce87ec5a999de800a8536e3f8917d495583aa30bd53e35ab0c",
+    "Nambli-Italic.ttf": "1072562e22392ae148c3cf0774a11b1105a9eb657bbca0944d74b281f95ff4ee",
+    "Nambli-Light.ttf": "e2c52838aa4afce0ac7ef15af8113e9eb09ff6ebb3cbfca2775b7c3920f6b326",
+    "Nambli-LightItalic.ttf": "b667d292e39bb3ab3ae039e9aa2b188c571c5d7251ee0afa152692e652cd5d4a",
+    "Nambli-Medium.ttf": "6cf981228b5f2d84ee9e2da423b5e45965e2581c8d3e3c41540992cf06f72262",
+    "Nambli-MediumItalic.ttf": "ee74673e2376a76427b5571c4dfc24aa758ae06733319bea215e2fb5029cc582",
+    "Nambli-Regular.ttf": "f789a1b268a498235b27d88c134ffc8ac34158ea4bc80d6a5dc9067e3499aa41",
+    "Nambli-SemiBold.ttf": "8d36f36bcb9801d0ba39d10e08b1e9d5f0d8d6d021219122954e705dd08705e6",
+    "Nambli-SemiBoldItalic.ttf": "694fc523f26c6a062bee08f5eff4f1f2d20a4be216c1176360046ba97127086e",
+    "OFL.txt": "64839c62885a8cb1fb22c54b4aa373e8582613c087ed36d0b412faadb8c2a7ea"
+  },
+  "final_input_sha256": {
+    "article/ARTICLE.en_us.html": "f096ae21a4f215a34c0399b5f8d12e6b778ba00cc8b736668d5ae7d5550ce64e",
+    "article/image-license.txt": "940984f5ffd1e77488ce82e8eecdf166eafe07e67780c1c3e813e6f7460c79ec",
+    "article/nambli-12-styles.jpg": "53cb32f5f60a813ccaa8bae3ff3daba451b90fc59bcf4590441e66dfcebe1559",
+    "article/nambli-multilingual.jpg": "21fe44e14a93e614055a265947864af89ddc265d5faff2c6f6d361cd25040f08",
+    "article/nambli-rounded.jpg": "c6630bc36344575b9d77a40a084048591fdd6c33605dbce37fd68692e80e4a51",
+    "METADATA.pb": "0f98e71d33693783fb377285377eb8b44ac52183d94a846d6020ae0b14109551",
+    "Nambli-Bold.ttf": "02725ee100e2c678ef29a45a725b158c14899942b63f8f16d4b0553e705d5d39",
+    "Nambli-BoldItalic.ttf": "b95aa5dbbd9a8f8784c05be2ff6cc5138f1ec9ec550fc64409b90a08291a4ae2",
+    "Nambli-ExtraBold.ttf": "c4a46dfe9c15d329dc3e6d7f9c232ee3108cebb62dbd00222491cabdc0be7a4b",
+    "Nambli-ExtraBoldItalic.ttf": "018e97570a7e9fce87ec5a999de800a8536e3f8917d495583aa30bd53e35ab0c",
+    "Nambli-Italic.ttf": "1072562e22392ae148c3cf0774a11b1105a9eb657bbca0944d74b281f95ff4ee",
+    "Nambli-Light.ttf": "e2c52838aa4afce0ac7ef15af8113e9eb09ff6ebb3cbfca2775b7c3920f6b326",
+    "Nambli-LightItalic.ttf": "b667d292e39bb3ab3ae039e9aa2b188c571c5d7251ee0afa152692e652cd5d4a",
+    "Nambli-Medium.ttf": "6cf981228b5f2d84ee9e2da423b5e45965e2581c8d3e3c41540992cf06f72262",
+    "Nambli-MediumItalic.ttf": "ee74673e2376a76427b5571c4dfc24aa758ae06733319bea215e2fb5029cc582",
+    "Nambli-Regular.ttf": "f789a1b268a498235b27d88c134ffc8ac34158ea4bc80d6a5dc9067e3499aa41",
+    "Nambli-SemiBold.ttf": "8d36f36bcb9801d0ba39d10e08b1e9d5f0d8d6d021219122954e705dd08705e6",
+    "Nambli-SemiBoldItalic.ttf": "694fc523f26c6a062bee08f5eff4f1f2d20a4be216c1176360046ba97127086e",
+    "OFL.txt": "64839c62885a8cb1fb22c54b4aa373e8582613c087ed36d0b412faadb8c2a7ea"
+  },
+  "raw_report_sha256": "7cd7982ca8566ec4bc69e1526dcfe57e09202cfd775ac78c2616f90f62ba2c85",
+  "qa_passed": true,
+  "summary": {
+    "SKIP": 688,
+    "PASS": 1162,
+    "INFO": 81,
+    "WARN": 145
+  },
+  "by_check": {
+    "STAT_in_statics": {
+      "PASS": 12
+    },
+    "STAT_strings": {
+      "PASS": 12
+    },
+    "alt_caron": {
+      "WARN": 48
+    },
+    "arabic_high_hamza": {
+      "SKIP": 12
+    },
+    "arabic_spacing_symbols": {
+      "PASS": 12
+    },
+    "base_has_width": {
+      "PASS": 12
+    },
+    "case_mapping": {
+      "PASS": 12
+    },
+    "cjk_chws_feature": {
+      "SKIP": 12
+    },
+    "cjk_not_enough_glyphs": {
+      "SKIP": 12
+    },
+    "color_cpal_brightness": {
+      "SKIP": 12
+    },
+    "colr_glyph_entry_with_no_layers": {
+      "SKIP": 12
+    },
+    "contour_count": {
+      "PASS": 12
+    },
+    "control_chars": {
+      "PASS": 12
+    },
+    "dotted_circle": {
+      "PASS": 12
+    },
+    "dsig": {
+      "PASS": 12
+    },
+    "empty_glyph_on_gid1_for_colrv0": {
+      "PASS": 12
+    },
+    "family/uniqueness_first_31_characters": {
+      "PASS": 1
+    },
+    "family/vertical_metrics": {
+      "PASS": 1
+    },
+    "family/win_ascent_and_descent": {
+      "PASS": 1
+    },
+    "field_values": {
+      "SKIP": 12
+    },
+    "file_size": {
+      "PASS": 12
+    },
+    "fontdata_namecheck": {
+      "PASS": 12
+    },
+    "freetype_rasterizer": {
+      "PASS": 12
+    },
+    "fvar_instance_ps_names": {
+      "SKIP": 12
+    },
+    "fvar_name_entries": {
+      "SKIP": 12
+    },
+    "googlefonts/STAT/axis_order": {
+      "INFO": 1
+    },
+    "googlefonts/STAT/axisregistry": {
+      "SKIP": 12
+    },
+    "googlefonts/STAT/compulsory_axis_values": {
+      "SKIP": 12
+    },
+    "googlefonts/STAT/opsz_not_elided": {
+      "SKIP": 12
+    },
+    "googlefonts/article/images": {
+      "PASS": 1
+    },
+    "googlefonts/axes_match": {
+      "SKIP": 1
+    },
+    "googlefonts/axisregistry/fvar_axis_defaults": {
+      "SKIP": 12
+    },
+    "googlefonts/axisregistry/fvar_axis_ranges": {
+      "SKIP": 12
+    },
+    "googlefonts/canonical_filename": {
+      "PASS": 12
+    },
+    "googlefonts/cjk_vertical_metrics": {
+      "SKIP": 12
+    },
+    "googlefonts/cjk_vertical_metrics_regressions": {
+      "SKIP": 12
+    },
+    "googlefonts/color_fonts": {
+      "PASS": 12
+    },
+    "googlefonts/description/broken_links": {
+      "PASS": 1
+    },
+    "googlefonts/description/eof_linebreak": {
+      "PASS": 1
+    },
+    "googlefonts/description/git_url": {
+      "INFO": 1
+    },
+    "googlefonts/description/has_article": {
+      "PASS": 1
+    },
+    "googlefonts/description/has_unsupported_elements": {
+      "PASS": 1
+    },
+    "googlefonts/description/min_length": {
+      "PASS": 1
+    },
+    "googlefonts/description/no_free_word": {
+      "PASS": 1
+    },
+    "googlefonts/description/urls": {
+      "PASS": 1
+    },
+    "googlefonts/description/valid_html": {
+      "PASS": 1
+    },
+    "googlefonts/family/equal_codepoint_coverage": {
+      "PASS": 1
+    },
+    "googlefonts/family/file_size": {
+      "PASS": 1
+    },
+    "googlefonts/family/has_license": {
+      "PASS": 1
+    },
+    "googlefonts/family/italics_have_roman_counterparts": {
+      "PASS": 1
+    },
+    "googlefonts/family/tnum_horizontal_metrics": {
+      "PASS": 1
+    },
+    "googlefonts/family_name_compliance": {
+      "PASS": 12
+    },
+    "googlefonts/font_copyright": {
+      "PASS": 1
+    },
+    "googlefonts/font_names": {
+      "PASS": 12
+    },
+    "googlefonts/fstype": {
+      "PASS": 12
+    },
+    "googlefonts/fvar_instances": {
+      "SKIP": 12
+    },
+    "googlefonts/gasp": {
+      "INFO": 12
+    },
+    "googlefonts/glyph_coverage": {
+      "PASS": 1
+    },
+    "googlefonts/glyphsets/shape_languages": {
+      "PASS": 12
+    },
+    "googlefonts/has_ttfautohint_params": {
+      "SKIP": 24
+    },
+    "googlefonts/license/OFL_body_text": {
+      "PASS": 1
+    },
+    "googlefonts/license/OFL_copyright": {
+      "PASS": 1
+    },
+    "googlefonts/meta/script_lang_tags": {
+      "INFO": 24
+    },
+    "googlefonts/metadata/axes": {
+      "SKIP": 1
+    },
+    "googlefonts/metadata/broken_links": {
+      "PASS": 1
+    },
+    "googlefonts/metadata/can_render_samples": {
+      "SKIP": 1
+    },
+    "googlefonts/metadata/category": {
+      "PASS": 1
+    },
+    "googlefonts/metadata/consistent_repo_urls": {
+      "PASS": 1
+    },
+    "googlefonts/metadata/consistent_with_fonts": {
+      "WARN": 16
+    },
+    "googlefonts/metadata/copyright": {
+      "PASS": 1
+    },
+    "googlefonts/metadata/designer_profiles": {
+      "WARN": 1
+    },
+    "googlefonts/metadata/escaped_strings": {
+      "PASS": 1
+    },
+    "googlefonts/metadata/family_directory_name": {
+      "PASS": 1
+    },
+    "googlefonts/metadata/familyname": {
+      "PASS": 1
+    },
+    "googlefonts/metadata/has_regular": {
+      "PASS": 1
+    },
+    "googlefonts/metadata/license": {
+      "PASS": 1
+    },
+    "googlefonts/metadata/primary_script": {
+      "PASS": 1
+    },
+    "googlefonts/metadata/regular_is_400": {
+      "PASS": 1
+    },
+    "googlefonts/metadata/reserved_font_name": {
+      "PASS": 1
+    },
+    "googlefonts/metadata/subsets_correct": {
+      "PASS": 1
+    },
+    "googlefonts/metadata/unreachable_subsetting": {
+      "WARN": 12
+    },
+    "googlefonts/metadata/valid_nameid25": {
+      "SKIP": 12
+    },
+    "googlefonts/metadata/valid_primary_script_language": {
+      "PASS": 1
+    },
+    "googlefonts/metadata/validate": {
+      "INFO": 1
+    },
+    "googlefonts/metadata/weightclass": {
+      "PASS": 1
+    },
+    "googlefonts/name/description_max_length": {
+      "PASS": 12
+    },
+    "googlefonts/name/familyname_first_char": {
+      "PASS": 12
+    },
+    "googlefonts/name/illegal_particles": {
+      "PASS": 12
+    },
+    "googlefonts/name/license": {
+      "PASS": 1
+    },
+    "googlefonts/name/license_url": {
+      "PASS": 12
+    },
+    "googlefonts/name/line_breaks": {
+      "PASS": 12
+    },
+    "googlefonts/name/mandatory_entries": {
+      "PASS": 12
+    },
+    "googlefonts/name/rfn": {
+      "PASS": 12
+    },
+    "googlefonts/name/version_format": {
+      "PASS": 12
+    },
+    "googlefonts/no_oblique_bit": {
+      "PASS": 12
+    },
+    "googlefonts/old_ttfautohint": {
+      "INFO": 24
+    },
+    "googlefonts/parametric_axes_hidden": {
+      "SKIP": 12
+    },
+    "googlefonts/render_own_name": {
+      "PASS": 12
+    },
+    "googlefonts/repo/ascii_filenames": {
+      "PASS": 1
+    },
+    "googlefonts/repo/dirname_matches_nameid_1": {
+      "PASS": 1,
+      "SKIP": 11
+    },
+    "googlefonts/repo/vf_has_static_fonts": {
+      "PASS": 1
+    },
+    "googlefonts/separator_glyphs": {
+      "PASS": 12
+    },
+    "googlefonts/tofu": {
+      "PASS": 1
+    },
+    "googlefonts/unitsperem": {
+      "PASS": 12
+    },
+    "googlefonts/use_typo_metrics": {
+      "PASS": 12
+    },
+    "googlefonts/varfont/has_HVAR": {
+      "SKIP": 12
+    },
+    "googlefonts/varfont/slnt_needs_italic": {
+      "SKIP": 12
+    },
+    "googlefonts/vendor_id": {
+      "WARN": 12
+    },
+    "googlefonts/version_bump": {
+      "SKIP": 12
+    },
+    "googlefonts/vertical_metrics": {
+      "WARN": 12
+    },
+    "googlefonts/vertical_metrics_regressions": {
+      "SKIP": 12
+    },
+    "googlefonts/weightclass": {
+      "PASS": 12
+    },
+    "gpos7": {
+      "PASS": 12
+    },
+    "gpos_kerning_info": {
+      "PASS": 12
+    },
+    "has_features": {
+      "SKIP": 12
+    },
+    "has_glyphs": {
+      "SKIP": 12
+    },
+    "has_unicodes": {
+      "SKIP": 12
+    },
+    "hinting_impact": {
+      "SKIP": 12
+    },
+    "integer_ppem_if_hinted": {
+      "SKIP": 12
+    },
+    "interpolation_issues": {
+      "SKIP": 12
+    },
+    "legacy_accents": {
+      "PASS": 12
+    },
+    "ligature_carets": {
+      "SKIP": 12
+    },
+    "linegaps": {
+      "PASS": 12
+    },
+    "mandatory_avar_table": {
+      "SKIP": 12
+    },
+    "mandatory_glyphs": {
+      "PASS": 12
+    },
+    "math_signs_width": {
+      "WARN": 12
+    },
+    "missing_small_caps_glyphs": {
+      "SKIP": 12
+    },
+    "name/char_restrictions": {
+      "PASS": 12
+    },
+    "name/family_and_style_max_length": {
+      "PASS": 12
+    },
+    "name/italic_names": {
+      "SKIP": 6,
+      "PASS": 6
+    },
+    "name/no_copyright_on_description": {
+      "PASS": 12
+    },
+    "name/trailing_spaces": {
+      "PASS": 12
+    },
+    "nested_components": {
+      "PASS": 12
+    },
+    "no_vert_and_vrt2": {
+      "PASS": 12
+    },
+    "opentype/GDEF_mark_chars": {
+      "PASS": 12
+    },
+    "opentype/GDEF_non_mark_chars": {
+      "PASS": 12
+    },
+    "opentype/GDEF_spacing_marks": {
+      "PASS": 12
+    },
+    "opentype/STAT/ital_axis": {
+      "PASS": 1
+    },
+    "opentype/caret_slope": {
+      "PASS": 12
+    },
+    "opentype/code_pages": {
+      "PASS": 12
+    },
+    "opentype/family/bold_italic_unique_for_nameid1": {
+      "PASS": 1
+    },
+    "opentype/family/consistent_family_name": {
+      "PASS": 1
+    },
+    "opentype/family/equal_font_versions": {
+      "PASS": 1
+    },
+    "opentype/family/max_4_fonts_per_family_name": {
+      "PASS": 1
+    },
+    "opentype/family/panose_familytype": {
+      "PASS": 1
+    },
+    "opentype/family/underline_thickness": {
+      "PASS": 1
+    },
+    "opentype/family_naming_recommendations": {
+      "PASS": 12
+    },
+    "opentype/font_version": {
+      "PASS": 12
+    },
+    "opentype/fsselection": {
+      "PASS": 12
+    },
+    "opentype/fsselection_wws": {
+      "PASS": 12
+    },
+    "opentype/fvar/axis_ranges_correct": {
+      "SKIP": 12
+    },
+    "opentype/fvar/regular_coords_correct": {
+      "SKIP": 12
+    },
+    "opentype/fvar/valid_range": {
+      "SKIP": 12
+    },
+    "opentype/glyf_non_transformed_duplicate_components": {
+      "PASS": 12
+    },
+    "opentype/glyf_unused_data": {
+      "PASS": 12
+    },
+    "opentype/italic_angle": {
+      "PASS": 12
+    },
+    "opentype/layout_valid_feature_tags": {
+      "PASS": 12
+    },
+    "opentype/layout_valid_language_tags": {
+      "PASS": 12
+    },
+    "opentype/layout_valid_script_tags": {
+      "PASS": 12
+    },
+    "opentype/loca/maxp_num_glyphs": {
+      "PASS": 12
+    },
+    "opentype/mac_style": {
+      "PASS": 12
+    },
+    "opentype/maxadvancewidth": {
+      "PASS": 12
+    },
+    "opentype/maxp_version": {
+      "PASS": 12
+    },
+    "opentype/monospace": {
+      "PASS": 12
+    },
+    "opentype/name/empty_records": {
+      "PASS": 12
+    },
+    "opentype/name/match_familyname_fullfont": {
+      "PASS": 12
+    },
+    "opentype/name/postscript_name_consistency": {
+      "PASS": 12
+    },
+    "opentype/name/postscript_vs_cff": {
+      "SKIP": 12
+    },
+    "opentype/points_out_of_bounds": {
+      "PASS": 12
+    },
+    "opentype/post_table_version": {
+      "PASS": 12
+    },
+    "opentype/postscript_name": {
+      "PASS": 12
+    },
+    "opentype/slant_direction": {
+      "SKIP": 12
+    },
+    "opentype/unitsperem": {
+      "PASS": 12
+    },
+    "opentype/varfont/STAT_axis_record_for_each_axis": {
+      "SKIP": 12
+    },
+    "opentype/varfont/distinct_instance_records": {
+      "SKIP": 12
+    },
+    "opentype/varfont/family_axis_ranges": {
+      "SKIP": 1
+    },
+    "opentype/varfont/foundry_defined_tag_name": {
+      "SKIP": 12
+    },
+    "opentype/varfont/same_size_instance_records": {
+      "SKIP": 12
+    },
+    "opentype/varfont/valid_default_instance_nameids": {
+      "SKIP": 12
+    },
+    "opentype/varfont/valid_nameids": {
+      "SKIP": 12
+    },
+    "opentype/vendor_id": {
+      "SKIP": 12
+    },
+    "opentype/weight_class_fvar": {
+      "SKIP": 12
+    },
+    "opentype/xavgcharwidth": {
+      "INFO": 6,
+      "PASS": 6
+    },
+    "os2_metrics_match_hhea": {
+      "PASS": 12
+    },
+    "outline_alignment_miss": {
+      "PASS": 12
+    },
+    "outline_colinear_vectors": {
+      "WARN": 6,
+      "PASS": 6
+    },
+    "outline_direction": {
+      "PASS": 12
+    },
+    "outline_jaggy_segments": {
+      "PASS": 10,
+      "WARN": 2
+    },
+    "outline_semi_vertical": {
+      "PASS": 6,
+      "SKIP": 6
+    },
+    "outline_short_segments": {
+      "PASS": 12
+    },
+    "overlapping_path_segments": {
+      "PASS": 12
+    },
+    "required_tables": {
+      "INFO": 12
+    },
+    "rupee": {
+      "WARN": 12
+    },
+    "sfnt_version": {
+      "PASS": 12
+    },
+    "shaping/forbidden": {
+      "SKIP": 12
+    },
+    "shaping/regression": {
+      "SKIP": 12
+    },
+    "smallcaps_before_ligatures": {
+      "SKIP": 12
+    },
+    "smart_dropout": {
+      "SKIP": 12
+    },
+    "soft_dotted": {
+      "PASS": 12
+    },
+    "soft_hyphen": {
+      "PASS": 12
+    },
+    "stylisticset_description": {
+      "PASS": 12
+    },
+    "suspicious_sidebearings": {
+      "SKIP": 12
+    },
+    "tabular_kerning": {
+      "PASS": 12
+    },
+    "transformed_components": {
+      "PASS": 12
+    },
+    "typoascender_exceeds_Agrave": {
+      "PASS": 12
+    },
+    "unique_glyphnames": {
+      "PASS": 12
+    },
+    "universal/required_name_ids": {
+      "SKIP": 12
+    },
+    "unreachable_glyphs": {
+      "WARN": 12
+    },
+    "unwanted_aat_tables": {
+      "PASS": 12
+    },
+    "unwanted_tables": {
+      "PASS": 12
+    },
+    "valid_glyphnames": {
+      "PASS": 12
+    },
+    "varfont/consistent_axes": {
+      "SKIP": 1
+    },
+    "varfont/duplexed_axis_reflow": {
+      "SKIP": 12
+    },
+    "varfont/instances_in_order": {
+      "SKIP": 12
+    },
+    "varfont/unsupported_axes": {
+      "SKIP": 12
+    },
+    "whitespace_glyphs": {
+      "PASS": 12
+    },
+    "whitespace_ink": {
+      "PASS": 12
+    },
+    "whitespace_widths": {
+      "PASS": 12
+    }
+  },
+  "failures_and_errors": [],
+  "tofu_executed": true,
+  "scope_gate_passed": true,
+  "zero_fail_error_fatal": true,
+  "all_files_unchanged": true
+}

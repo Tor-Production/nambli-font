@@ -1,0 +1,16 @@
+{
+  "unicode": "18.0.0",
+  "youseedee": "0.7.0",
+  "ucd_zip_sha256": "7b3e555514060b92290d154f53655c5eb0fa62b16eb04c03434ff72d1a66a0d8",
+  "mode": "baseline",
+  "byte_equal": {
+    "Lib\\gfsubsets\\data\\latin_unique-glyphs.nam": true,
+    "Lib\\gfsubsets\\data\\latin-ext_unique-glyphs.nam": true,
+    "Lib\\gfsubsets\\data\\vietnamese_unique-glyphs.nam": true
+  },
+  "sha256": {
+    "Lib\\gfsubsets\\data\\latin_unique-glyphs.nam": "846bb09fe993c9c62d97b64e3d9af22ffc5abe5c336000712f3679db054475da",
+    "Lib\\gfsubsets\\data\\latin-ext_unique-glyphs.nam": "6df0850dfcc2bb514284be91c68d814672b8a099613bf6dd2c3bc1b17b860ec4",
+    "Lib\\gfsubsets\\data\\vietnamese_unique-glyphs.nam": "444dbb091dba7d1b73107203b1cfddc0882202abee7b014b591c23bb2a54471d"
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "status": "PASS",
+  "faces": 12,
+  "glyphsCompared": 11976,
+  "shapingComparisons": 0,
+  "scope": "Self-contained editable UFO to Fontmake TTF build, verified directly against the UFO source.",
+  "referenceComparison": null,
+  "results": [
+    {
+      "face": "Nambli-Bold",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "02725ee100e2c678ef29a45a725b158c14899942b63f8f16d4b0553e705d5d39"
+    },
+    {
+      "face": "Nambli-BoldItalic",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "b95aa5dbbd9a8f8784c05be2ff6cc5138f1ec9ec550fc64409b90a08291a4ae2"
+    },
+    {
+      "face": "Nambli-ExtraBold",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "c4a46dfe9c15d329dc3e6d7f9c232ee3108cebb62dbd00222491cabdc0be7a4b"
+    },
+    {
+      "face": "Nambli-ExtraBoldItalic",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "018e97570a7e9fce87ec5a999de800a8536e3f8917d495583aa30bd53e35ab0c"
+    },
+    {
+      "face": "Nambli-Italic",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "1072562e22392ae148c3cf0774a11b1105a9eb657bbca0944d74b281f95ff4ee"
+    },
+    {
+      "face": "Nambli-Light",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "e2c52838aa4afce0ac7ef15af8113e9eb09ff6ebb3cbfca2775b7c3920f6b326"
+    },
+    {
+      "face": "Nambli-LightItalic",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "b667d292e39bb3ab3ae039e9aa2b188c571c5d7251ee0afa152692e652cd5d4a"
+    },
+    {
+      "face": "Nambli-Medium",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "6cf981228b5f2d84ee9e2da423b5e45965e2581c8d3e3c41540992cf06f72262"
+    },
+    {
+      "face": "Nambli-MediumItalic",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "ee74673e2376a76427b5571c4dfc24aa758ae06733319bea215e2fb5029cc582"
+    },
+    {
+      "face": "Nambli-Regular",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "f789a1b268a498235b27d88c134ffc8ac34158ea4bc80d6a5dc9067e3499aa41"
+    },
+    {
+      "face": "Nambli-SemiBold",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "8d36f36bcb9801d0ba39d10e08b1e9d5f0d8d6d021219122954e705dd08705e6"
+    },
+    {
+      "face": "Nambli-SemiBoldItalic",
+      "status": "PASS",
+      "glyphs": 998,
+      "encodedCharacters": 970,
+      "exactNormalizedQuadraticOutlines": 998,
+      "exactMetrics": 998,
+      "sourceKerningPairs": 267,
+      "textualFeaturesMatch": true,
+      "sha256": "694fc523f26c6a062bee08f5eff4f1f2d20a4be216c1176360046ba97127086e"
+    }
+  ],
+  "notClaimed": [
+    "Google Fonts acceptance or all Fontspector checks passed",
+    "Previous-release binary equivalence unless a reference comparison is included",
+    "Visual design approval",
+    "A variable font or interpolation-compatible masters",
+    "Complete parametric Python design pipeline reproduction"
+  ],
+  "licenseFile": {
+    "name": "OFL.txt",
+    "sha256": "64839c62885a8cb1fb22c54b4aa373e8582613c087ed36d0b412faadb8c2a7ea"
+  },
+  "woff2": [
+    {
+      "font": "Nambli-Bold.woff2",
+      "sha256": "16f2add85a47d7e9b339b7271477eaa7a2f10a56bde9dacb64eb96c4dbd50b52",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-BoldItalic.woff2",
+      "sha256": "775d402159556a589521d9e04c2ddf31fa7cc1672cb3384f8df45dc39173e6e4",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-ExtraBold.woff2",
+      "sha256": "95b3245aa8831f229bb47993e4933db1ab15937901690d1d458f5f8add9f1910",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic.woff2",
+      "sha256": "1d61184a32c2e62ca6aa5e24c0ae940989233bbb1582407fee19b08aec40324b",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-Italic.woff2",
+      "sha256": "1cb3246c371cd057079ade452afed0f0a8bc715f53a19db417e893bc21f78e33",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-Light.woff2",
+      "sha256": "bb452b73c69f7142a3c1f1b2decc777a79b915f77b524b5f54bd8c5775365e2a",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-LightItalic.woff2",
+      "sha256": "a121f5a54c5edc51810b5f2f20b934d10e788824a5a980e761fff7f12e5255cc",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-Medium.woff2",
+      "sha256": "f8b706593ee9a5870b556ddf460819cd28c8acd02ff1ce8e983f48838a445def",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-MediumItalic.woff2",
+      "sha256": "3740b0aa9ff4fff9f68c61718b5f46df6a243acee8ceaf352c7dc8f1b03a31ab",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-Regular.woff2",
+      "sha256": "30227203b17bc24147adc1835313ade9b5848bf8ae8bff7f6ca32ab91fbcfe83",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-SemiBold.woff2",
+      "sha256": "6beb74ac3828efd2859ab4cd65b39c5704b65806419a8a46dda57e1d337dd62a",
+      "status": "PASS"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic.woff2",
+      "sha256": "54de8fad4ff2826daf15cee65e1ef476381277eee9657e7ffe66097502240a85",
+      "status": "PASS"
+    }
+  ],
+  "toolVersions": {
+    "fontmake": "3.12.1",
+    "ufo2ft": "3.9.1",
+    "fonttools": "4.66.1",
+    "uharfbuzz": "0.56.3",
+    "brotli": "1.2.0"
+  },
+  "sourceDateEpoch": 1791331200,
+  "sourceImportValidation": [],
+  "buildFlags": [
+    "-o",
+    "ttf",
+    "--output-dir",
+    "[output-directory]",
+    "--keep-overlaps",
+    "--keep-direction",
+    "--ttf-curves",
+    "keep-quad",
+    "--no-production-names",
+    "--no-autohint",
+    "--no-generate-GDEF",
+    "--feature-writer",
+    "None",
+    "--validate-ufo"
+  ],
+  "reproducibility": {
+    "status": "PASS",
+    "fonts": [
+      {
+        "font": "Nambli-Bold.ttf",
+        "sha256": "02725ee100e2c678ef29a45a725b158c14899942b63f8f16d4b0553e705d5d39",
+        "repeatSHA256": "02725ee100e2c678ef29a45a725b158c14899942b63f8f16d4b0553e705d5d39"
+      },
+      {
+        "font": "Nambli-Bold.woff2",
+        "sha256": "16f2add85a47d7e9b339b7271477eaa7a2f10a56bde9dacb64eb96c4dbd50b52",
+        "repeatSHA256": "16f2add85a47d7e9b339b7271477eaa7a2f10a56bde9dacb64eb96c4dbd50b52"
+      },
+      {
+        "font": "Nambli-BoldItalic.ttf",
+        "sha256": "b95aa5dbbd9a8f8784c05be2ff6cc5138f1ec9ec550fc64409b90a08291a4ae2",
+        "repeatSHA256": "b95aa5dbbd9a8f8784c05be2ff6cc5138f1ec9ec550fc64409b90a08291a4ae2"
+      },
+      {
+        "font": "Nambli-BoldItalic.woff2",
+        "sha256": "775d402159556a589521d9e04c2ddf31fa7cc1672cb3384f8df45dc39173e6e4",
+        "repeatSHA256": "775d402159556a589521d9e04c2ddf31fa7cc1672cb3384f8df45dc39173e6e4"
+      },
+      {
+        "font": "Nambli-ExtraBold.ttf",
+        "sha256": "c4a46dfe9c15d329dc3e6d7f9c232ee3108cebb62dbd00222491cabdc0be7a4b",
+        "repeatSHA256": "c4a46dfe9c15d329dc3e6d7f9c232ee3108cebb62dbd00222491cabdc0be7a4b"
+      },
+      {
+        "font": "Nambli-ExtraBold.woff2",
+        "sha256": "95b3245aa8831f229bb47993e4933db1ab15937901690d1d458f5f8add9f1910",
+        "repeatSHA256": "95b3245aa8831f229bb47993e4933db1ab15937901690d1d458f5f8add9f1910"
+      },
+      {
+        "font": "Nambli-ExtraBoldItalic.ttf",
+        "sha256": "018e97570a7e9fce87ec5a999de800a8536e3f8917d495583aa30bd53e35ab0c",
+        "repeatSHA256": "018e97570a7e9fce87ec5a999de800a8536e3f8917d495583aa30bd53e35ab0c"
+      },
+      {
+        "font": "Nambli-ExtraBoldItalic.woff2",
+        "sha256": "1d61184a32c2e62ca6aa5e24c0ae940989233bbb1582407fee19b08aec40324b",
+        "repeatSHA256": "1d61184a32c2e62ca6aa5e24c0ae940989233bbb1582407fee19b08aec40324b"
+      },
+      {
+        "font": "Nambli-Italic.ttf",
+        "sha256": "1072562e22392ae148c3cf0774a11b1105a9eb657bbca0944d74b281f95ff4ee",
+        "repeatSHA256": "1072562e22392ae148c3cf0774a11b1105a9eb657bbca0944d74b281f95ff4ee"
+      },
+      {
+        "font": "Nambli-Italic.woff2",
+        "sha256": "1cb3246c371cd057079ade452afed0f0a8bc715f53a19db417e893bc21f78e33",
+        "repeatSHA256": "1cb3246c371cd057079ade452afed0f0a8bc715f53a19db417e893bc21f78e33"
+      },
+      {
+        "font": "Nambli-Light.ttf",
+        "sha256": "e2c52838aa4afce0ac7ef15af8113e9eb09ff6ebb3cbfca2775b7c3920f6b326",
+        "repeatSHA256": "e2c52838aa4afce0ac7ef15af8113e9eb09ff6ebb3cbfca2775b7c3920f6b326"
+      },
+      {
+        "font": "Nambli-Light.woff2",
+        "sha256": "bb452b73c69f7142a3c1f1b2decc777a79b915f77b524b5f54bd8c5775365e2a",
+        "repeatSHA256": "bb452b73c69f7142a3c1f1b2decc777a79b915f77b524b5f54bd8c5775365e2a"
+      },
+      {
+        "font": "Nambli-LightItalic.ttf",
+        "sha256": "b667d292e39bb3ab3ae039e9aa2b188c571c5d7251ee0afa152692e652cd5d4a",
+        "repeatSHA256": "b667d292e39bb3ab3ae039e9aa2b188c571c5d7251ee0afa152692e652cd5d4a"
+      },
+      {
+        "font": "Nambli-LightItalic.woff2",
+        "sha256": "a121f5a54c5edc51810b5f2f20b934d10e788824a5a980e761fff7f12e5255cc",
+        "repeatSHA256": "a121f5a54c5edc51810b5f2f20b934d10e788824a5a980e761fff7f12e5255cc"
+      },
+      {
+        "font": "Nambli-Medium.ttf",
+        "sha256": "6cf981228b5f2d84ee9e2da423b5e45965e2581c8d3e3c41540992cf06f72262",
+        "repeatSHA256": "6cf981228b5f2d84ee9e2da423b5e45965e2581c8d3e3c41540992cf06f72262"
+      },
+      {
+        "font": "Nambli-Medium.woff2",
+        "sha256": "f8b706593ee9a5870b556ddf460819cd28c8acd02ff1ce8e983f48838a445def",
+        "repeatSHA256": "f8b706593ee9a5870b556ddf460819cd28c8acd02ff1ce8e983f48838a445def"
+      },
+      {
+        "font": "Nambli-MediumItalic.ttf",
+        "sha256": "ee74673e2376a76427b5571c4dfc24aa758ae06733319bea215e2fb5029cc582",
+        "repeatSHA256": "ee74673e2376a76427b5571c4dfc24aa758ae06733319bea215e2fb5029cc582"
+      },
+      {
+        "font": "Nambli-MediumItalic.woff2",
+        "sha256": "3740b0aa9ff4fff9f68c61718b5f46df6a243acee8ceaf352c7dc8f1b03a31ab",
+        "repeatSHA256": "3740b0aa9ff4fff9f68c61718b5f46df6a243acee8ceaf352c7dc8f1b03a31ab"
+      },
+      {
+        "font": "Nambli-Regular.ttf",
+        "sha256": "f789a1b268a498235b27d88c134ffc8ac34158ea4bc80d6a5dc9067e3499aa41",
+        "repeatSHA256": "f789a1b268a498235b27d88c134ffc8ac34158ea4bc80d6a5dc9067e3499aa41"
+      },
+      {
+        "font": "Nambli-Regular.woff2",
+        "sha256": "30227203b17bc24147adc1835313ade9b5848bf8ae8bff7f6ca32ab91fbcfe83",
+        "repeatSHA256": "30227203b17bc24147adc1835313ade9b5848bf8ae8bff7f6ca32ab91fbcfe83"
+      },
+      {
+        "font": "Nambli-SemiBold.ttf",
+        "sha256": "8d36f36bcb9801d0ba39d10e08b1e9d5f0d8d6d021219122954e705dd08705e6",
+        "repeatSHA256": "8d36f36bcb9801d0ba39d10e08b1e9d5f0d8d6d021219122954e705dd08705e6"
+      },
+      {
+        "font": "Nambli-SemiBold.woff2",
+        "sha256": "6beb74ac3828efd2859ab4cd65b39c5704b65806419a8a46dda57e1d337dd62a",
+        "repeatSHA256": "6beb74ac3828efd2859ab4cd65b39c5704b65806419a8a46dda57e1d337dd62a"
+      },
+      {
+        "font": "Nambli-SemiBoldItalic.ttf",
+        "sha256": "694fc523f26c6a062bee08f5eff4f1f2d20a4be216c1176360046ba97127086e",
+        "repeatSHA256": "694fc523f26c6a062bee08f5eff4f1f2d20a4be216c1176360046ba97127086e"
+      },
+      {
+        "font": "Nambli-SemiBoldItalic.woff2",
+        "sha256": "54de8fad4ff2826daf15cee65e1ef476381277eee9657e7ffe66097502240a85",
+        "repeatSHA256": "54de8fad4ff2826daf15cee65e1ef476381277eee9657e7ffe66097502240a85"
+      }
+    ]
+  }
+}

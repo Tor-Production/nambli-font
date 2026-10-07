@@ -1,0 +1,117 @@
+{
+  "checked_utc": "2026-10-07T22:03:16.233792+00:00",
+  "repository": "Tor-Production/google-fonts",
+  "pr": "https://github.com/google/fonts/pull/11086",
+  "head_commit": "61b4ac3f08aaf42ef24aa1ad4a6a09faf3c54576",
+  "draft": true,
+  "source": "Fresh GitHub contents API + raw downloads; Git blob SHA verified for every file",
+  "file_count": 19,
+  "package_sha256": {
+    "METADATA.pb": "bde6c491ae0c23765e9f7cbb694afc38f20963fb6ec55c06184eda424cb63447",
+    "Nambli-Bold.ttf": "7163e59fc7623e669c4fef6d6871ec76c6b164d20bb7b35e53b298769f4d17d0",
+    "Nambli-BoldItalic.ttf": "196b13fe071e48a86348b10569f4e93b9f2d7d680bba747b0d4948b167a92f54",
+    "Nambli-ExtraBold.ttf": "17885ab53bef4b4d4c98de5329aaa09e0d4f404e64f993b08a55f792658c8d15",
+    "Nambli-ExtraBoldItalic.ttf": "f7700b96cec7584bde30214d60a7a92a8845c29631f9cebc1b9bc29d5afd73f3",
+    "Nambli-Italic.ttf": "cca0ec1f6e356d4f74a304c836ec1eeb1f5945319dbc6939cf32af29d127a0e2",
+    "Nambli-Light.ttf": "3e0fda8b8b0158569aef73945b164c0d9d647d38978563575d987ca46676fa64",
+    "Nambli-LightItalic.ttf": "1392f44a367715f9c239127266d4e6b5d11b3475b86c0c5c93293adadfa84594",
+    "Nambli-Medium.ttf": "524e48a4b9139e6a09c766051b816b1a41cf5e4693bb3a55846d5c4fa00d9f39",
+    "Nambli-MediumItalic.ttf": "00f109e32ce4fb55f7c7899cf287d5892ac0f20986b52c9e792bf7c2fd04a8a5",
+    "Nambli-Regular.ttf": "a837d0eab7a6cd27a39871fbfd7ac2a4881e7443d34391b3a55e396275470e4b",
+    "Nambli-SemiBold.ttf": "7aa45f61c37f3533db9bd835d47187b428255167bb3d5835a54d86059275af3d",
+    "Nambli-SemiBoldItalic.ttf": "6d79567bc7a84be9a535ccf8f6bd61b34aac662658b8a361f704edd521fc4583",
+    "OFL.txt": "64839c62885a8cb1fb22c54b4aa373e8582613c087ed36d0b412faadb8c2a7ea",
+    "article/ARTICLE.en_us.html": "f096ae21a4f215a34c0399b5f8d12e6b778ba00cc8b736668d5ae7d5550ce64e",
+    "article/image-license.txt": "940984f5ffd1e77488ce82e8eecdf166eafe07e67780c1c3e813e6f7460c79ec",
+    "article/nambli-12-styles.jpg": "53cb32f5f60a813ccaa8bae3ff3daba451b90fc59bcf4590441e66dfcebe1559",
+    "article/nambli-multilingual.jpg": "21fe44e14a93e614055a265947864af89ddc265d5faff2c6f6d361cd25040f08",
+    "article/nambli-rounded.jpg": "c6630bc36344575b9d77a40a084048591fdd6c33605dbce37fd68692e80e4a51"
+  },
+  "all_19_files_match_previous_final_git_package": true,
+  "faces": [
+    {
+      "file": "Nambli-Bold.ttf",
+      "version": "Version 1.000",
+      "encoded_characters": 970,
+      "glyph_count": 998,
+      "required_marks_present": true
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "version": "Version 1.000",
+      "encoded_characters": 970,
+      "glyph_count": 998,
+      "required_marks_present": true
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "version": "Version 1.000",
+      "encoded_characters": 970,
+      "glyph_count": 998,
+      "required_marks_present": true
+    },
+    {
+      "file": "Nambli-ExtraBoldItalic.ttf",
+      "version": "Version 1.000",
+      "encoded_characters": 970,
+      "glyph_count": 998,
+      "required_marks_present": true
+    },
+    {
+      "file": "Nambli-Italic.ttf",
+      "version": "Version 1.000",
+      "encoded_characters": 970,
+      "glyph_count": 998,
+      "required_marks_present": true
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "version": "Version 1.000",
+      "encoded_characters": 970,
+      "glyph_count": 998,
+      "required_marks_present": true
+    },
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "version": "Version 1.000",
+      "encoded_characters": 970,
+      "glyph_count": 998,
+      "required_marks_present": true
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "version": "Version 1.000",
+      "encoded_characters": 970,
+      "glyph_count": 998,
+      "required_marks_present": true
+    },
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "version": "Version 1.000",
+      "encoded_characters": 970,
+      "glyph_count": 998,
+      "required_marks_present": true
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "version": "Version 1.000",
+      "encoded_characters": 970,
+      "glyph_count": 998,
+      "required_marks_present": true
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "version": "Version 1.000",
+      "encoded_characters": 970,
+      "glyph_count": 998,
+      "required_marks_present": true
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "version": "Version 1.000",
+      "encoded_characters": 970,
+      "glyph_count": 998,
+      "required_marks_present": true
+    }
+  ]
+}

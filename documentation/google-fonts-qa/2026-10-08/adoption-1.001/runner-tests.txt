@@ -1,0 +1,17 @@
+test_changed_input_cannot_pass (test_run_qa.PackageScopeTests.test_changed_input_cannot_pass) ... ok
+test_complete_success_records_raw_hash_and_scope (test_run_qa.PackageScopeTests.test_complete_success_records_raw_hash_and_scope) ... ok
+test_fail_subresult_cannot_pass (test_run_qa.PackageScopeTests.test_fail_subresult_cannot_pass) ... ok
+test_missing_article_rejected (test_run_qa.PackageScopeTests.test_missing_article_rejected) ... ok
+test_native_failure_not_hidden_by_green_report (test_run_qa.PackageScopeTests.test_native_failure_not_hidden_by_green_report) ... ok
+test_referenced_article_image_is_an_explicit_input (test_run_qa.PackageScopeTests.test_referenced_article_image_is_an_explicit_input) ... ok
+test_tofu_skip_or_absence_cannot_pass_package (test_run_qa.PackageScopeTests.test_tofu_skip_or_absence_cannot_pass_package) ... ok
+test_ttf_only_cannot_enter_package_scope (test_run_qa.PackageScopeTests.test_ttf_only_cannot_enter_package_scope) ... ok
+test_wrong_metadata_font_set_rejected (test_run_qa.PackageScopeTests.test_wrong_metadata_font_set_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.349s
+
+OK
+{"scope": "package", "tool_kind": "stock", "native_exit_code": 0, "summary": {"PASS": 1}, "tofu_executed": true, "qa_passed": false}
+{"scope": "package", "tool_kind": "stock", "native_exit_code": 0, "summary": {"PASS": 1}, "tofu_executed": true, "qa_passed": true}
+{"scope": "package", "tool_kind": "stock", "native_exit_code": 7, "summary": {"PASS": 1}, "tofu_executed": true, "qa_passed": false}

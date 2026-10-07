@@ -1,0 +1,25 @@
+diff --git a/Cargo.lock b/Cargo.lock
+index 39a8dfa..4e67cfc 100644
+--- a/Cargo.lock
++++ b/Cargo.lock
+@@ -2138,8 +2138,6 @@ dependencies = [
+ [[package]]
+ name = "google-fonts-subsets"
+ version = "0.202602.1"
+-source = "registry+https://github.com/rust-lang/crates.io-index"
+-checksum = "597758334cd2e74730da9e4c6d970f9d6b32bdb6823b1f9c2272720615f12252"
+ dependencies = [
+  "glob",
+ ]
+diff --git a/Cargo.toml b/Cargo.toml
+index efa496d..65d7ba9 100644
+--- a/Cargo.toml
++++ b/Cargo.toml
+@@ -64,3 +64,7 @@ zip = { version = "8", features = [
+ unwrap_used = "deny"
+ expect_used = "deny"
+ indexing_slicing = "deny"
++
++# Local, controlled experiment: no check code or language samples are changed.
++[patch.crates-io]
++google-fonts-subsets = { path = "../nam-files" }

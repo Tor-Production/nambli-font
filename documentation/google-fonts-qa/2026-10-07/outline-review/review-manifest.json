@@ -1,0 +1,38 @@
+{
+  "candidate": "1.001",
+  "changes": [
+    {
+      "face": "Nambli-Bold",
+      "glyph": "uni02A6"
+    },
+    {
+      "face": "Nambli-Bold",
+      "glyph": "uniA7C8"
+    },
+    {
+      "face": "Nambli-BoldItalic",
+      "glyph": "uniA7C8"
+    },
+    {
+      "face": "Nambli-LightItalic",
+      "glyph": "uni00B6"
+    },
+    {
+      "face": "Nambli-Medium",
+      "glyph": "uni1D7D"
+    },
+    {
+      "face": "Nambli-MediumItalic",
+      "glyph": "uni02A3"
+    },
+    {
+      "face": "Nambli-SemiBold",
+      "glyph": "uni02A3"
+    },
+    {
+      "face": "Nambli-SemiBoldItalic",
+      "glyph": "uni02A3"
+    }
+  ],
+  "side_caron_controls": 48
+}

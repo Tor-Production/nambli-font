@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-08",
+  "owner": "Yurii Tor",
+  "visual_review": "Owner reviewed the linked final contour review and instructed continuation.",
+  "reviewed_contour_pairs": 8,
+  "unchanged_side_caron_controls": 48,
+  "designer_profile": "Owner reports form submitted; catalog publication not yet verified.",
+  "catalog_check": "catalog/designers/yuriitor returned HTTP404 during the follow-up.",
+  "font_version": "1.001",
+  "files": [
+    {
+      "path": "fonts/candidates/1.001/ttf/Nambli-Bold.ttf",
+      "sha256": "02725ee100e2c678ef29a45a725b158c14899942b63f8f16d4b0553e705d5d39",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/ttf/Nambli-BoldItalic.ttf",
+      "sha256": "b95aa5dbbd9a8f8784c05be2ff6cc5138f1ec9ec550fc64409b90a08291a4ae2",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/ttf/Nambli-ExtraBold.ttf",
+      "sha256": "c4a46dfe9c15d329dc3e6d7f9c232ee3108cebb62dbd00222491cabdc0be7a4b",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/ttf/Nambli-ExtraBoldItalic.ttf",
+      "sha256": "018e97570a7e9fce87ec5a999de800a8536e3f8917d495583aa30bd53e35ab0c",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/ttf/Nambli-Italic.ttf",
+      "sha256": "1072562e22392ae148c3cf0774a11b1105a9eb657bbca0944d74b281f95ff4ee",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/ttf/Nambli-Light.ttf",
+      "sha256": "e2c52838aa4afce0ac7ef15af8113e9eb09ff6ebb3cbfca2775b7c3920f6b326",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/ttf/Nambli-LightItalic.ttf",
+      "sha256": "b667d292e39bb3ab3ae039e9aa2b188c571c5d7251ee0afa152692e652cd5d4a",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/ttf/Nambli-Medium.ttf",
+      "sha256": "6cf981228b5f2d84ee9e2da423b5e45965e2581c8d3e3c41540992cf06f72262",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/ttf/Nambli-MediumItalic.ttf",
+      "sha256": "ee74673e2376a76427b5571c4dfc24aa758ae06733319bea215e2fb5029cc582",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/ttf/Nambli-Regular.ttf",
+      "sha256": "f789a1b268a498235b27d88c134ffc8ac34158ea4bc80d6a5dc9067e3499aa41",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/ttf/Nambli-SemiBold.ttf",
+      "sha256": "8d36f36bcb9801d0ba39d10e08b1e9d5f0d8d6d021219122954e705dd08705e6",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/ttf/Nambli-SemiBoldItalic.ttf",
+      "sha256": "694fc523f26c6a062bee08f5eff4f1f2d20a4be216c1176360046ba97127086e",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/webfonts/Nambli-Bold.woff2",
+      "sha256": "16f2add85a47d7e9b339b7271477eaa7a2f10a56bde9dacb64eb96c4dbd50b52",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/webfonts/Nambli-BoldItalic.woff2",
+      "sha256": "775d402159556a589521d9e04c2ddf31fa7cc1672cb3384f8df45dc39173e6e4",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/webfonts/Nambli-ExtraBold.woff2",
+      "sha256": "95b3245aa8831f229bb47993e4933db1ab15937901690d1d458f5f8add9f1910",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/webfonts/Nambli-ExtraBoldItalic.woff2",
+      "sha256": "1d61184a32c2e62ca6aa5e24c0ae940989233bbb1582407fee19b08aec40324b",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/webfonts/Nambli-Italic.woff2",
+      "sha256": "1cb3246c371cd057079ade452afed0f0a8bc715f53a19db417e893bc21f78e33",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/webfonts/Nambli-Light.woff2",
+      "sha256": "bb452b73c69f7142a3c1f1b2decc777a79b915f77b524b5f54bd8c5775365e2a",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/webfonts/Nambli-LightItalic.woff2",
+      "sha256": "a121f5a54c5edc51810b5f2f20b934d10e788824a5a980e761fff7f12e5255cc",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/webfonts/Nambli-Medium.woff2",
+      "sha256": "f8b706593ee9a5870b556ddf460819cd28c8acd02ff1ce8e983f48838a445def",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/webfonts/Nambli-MediumItalic.woff2",
+      "sha256": "3740b0aa9ff4fff9f68c61718b5f46df6a243acee8ceaf352c7dc8f1b03a31ab",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/webfonts/Nambli-Regular.woff2",
+      "sha256": "30227203b17bc24147adc1835313ade9b5848bf8ae8bff7f6ca32ab91fbcfe83",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/webfonts/Nambli-SemiBold.woff2",
+      "sha256": "6beb74ac3828efd2859ab4cd65b39c5704b65806419a8a46dda57e1d337dd62a",
+      "byte_identical_to_reviewed_candidate": true
+    },
+    {
+      "path": "fonts/candidates/1.001/webfonts/Nambli-SemiBoldItalic.woff2",
+      "sha256": "54de8fad4ff2826daf15cee65e1ef476381277eee9657e7ffe66097502240a85",
+      "byte_identical_to_reviewed_candidate": true
+    }
+  ]
+}
