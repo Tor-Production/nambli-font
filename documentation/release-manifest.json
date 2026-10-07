@@ -1,294 +1,196 @@
 {
-  "version": "0.704",
-  "repository": "https://github.com/Tor-Production/nambli-font",
-  "fonts": [
+  "family": "Nambli",
+  "font_version": "1.000",
+  "status": "unreleased candidate; visual review pending",
+  "encoded_characters": 970,
+  "glyphs": 998,
+  "files": [
     {
-      "file": "fonts/otf/Nambli-Bold.otf",
-      "sha256": "ca37229af62ff834fdc4e02eea930ddebfbd2c38f387dd8be362acff0fcb65ab",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/otf/Nambli-Bold.otf",
+      "bytes": 1733724,
+      "sha256": "03daa28ebdb591fd3dbb2720bf36b43654d8138e49c62849d74593fb26e162bb"
     },
     {
-      "file": "fonts/otf/Nambli-BoldItalic.otf",
-      "sha256": "4f26467f9cc9a80a87c9e28bb554ed440743e83b01daeb98a3bbfd5db24e2721",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/otf/Nambli-BoldItalic.otf",
+      "bytes": 2087996,
+      "sha256": "0812fab80c08bf3f4061e17375eeabb970e4939228e392713e6037a2dcbb537e"
     },
     {
-      "file": "fonts/otf/Nambli-ExtraBold.otf",
-      "sha256": "6aa88ee782d4a95800d0edc78e840745c83b000604e32bf11c5e1c49ad720fa2",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/otf/Nambli-ExtraBold.otf",
+      "bytes": 1972360,
+      "sha256": "cf744991c60ab1ff7ee7e996669001f6915a9fe9bc42b9265badb16493bedd15"
     },
     {
-      "file": "fonts/otf/Nambli-ExtraBoldItalic.otf",
-      "sha256": "01192d0ea308f3bf1a88e76083a4bbe4aa40a25c996d10433933fc1a11e3eef4",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/otf/Nambli-ExtraBoldItalic.otf",
+      "bytes": 2048828,
+      "sha256": "32f93a635730a435ba568af835935679b59d4d810545dfbe105938682b178c82"
     },
     {
-      "file": "fonts/otf/Nambli-Italic.otf",
-      "sha256": "5417c5138162fc3bcc882f4b9dddbe7732a406c49da23f7d48006ebcf6dee683",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/otf/Nambli-Italic.otf",
+      "bytes": 2108200,
+      "sha256": "3114055e3b19f335a3311d2ee3cfa9e64bcbd2a7c8ea503717d9e17bd6eebaa7"
     },
     {
-      "file": "fonts/otf/Nambli-Light.otf",
-      "sha256": "45e2fd16094ff93db6b4074b8f11f5c4c2024959253d10e9e07ea22f09a40350",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/otf/Nambli-Light.otf",
+      "bytes": 2029016,
+      "sha256": "66c5ee836408e5cbf67ddf4ccbaf74fa9faa66bc202a12d0999f7d2c4afb7348"
     },
     {
-      "file": "fonts/otf/Nambli-LightItalic.otf",
-      "sha256": "afc7a18b9fc72001c7e811b3aa26e4d831a84b7f5eb45a6c04d2ff27bd659839",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/otf/Nambli-LightItalic.otf",
+      "bytes": 2116684,
+      "sha256": "81324ed5328d7989a4694f9f6043cec864d01bf6f7c82d0d39eafccc831e1807"
     },
     {
-      "file": "fonts/otf/Nambli-Medium.otf",
-      "sha256": "446f151a5d3567f8b646d907da2be52c09565f57fcb250b5f128ff766cdc72c4",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/otf/Nambli-Medium.otf",
+      "bytes": 2020316,
+      "sha256": "d2fa3568f95667bf001056b08a181e5034154740e3049958ce525b94bf3ce750"
     },
     {
-      "file": "fonts/otf/Nambli-MediumItalic.otf",
-      "sha256": "c77fbe9eb20cfcd9012f1ce5f0bb68fc0b60981d1ea4965047f1021315aa3064",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/otf/Nambli-MediumItalic.otf",
+      "bytes": 2104096,
+      "sha256": "e04e21b8a1c21ed0cba67617e6db040a9e1342effe4485431d288df5a988a1ba"
     },
     {
-      "file": "fonts/otf/Nambli-Regular.otf",
-      "sha256": "b5df96d7b5e5f936c38b6c346d421b440736ba5dcfd97bb664f048d13d2b2fcd",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/otf/Nambli-Regular.otf",
+      "bytes": 2021020,
+      "sha256": "2144b369f74aa5e413abc36488c7c36242ed8a522d596c10bda36c7783abfcce"
     },
     {
-      "file": "fonts/otf/Nambli-SemiBold.otf",
-      "sha256": "3dcf050c9163b54ac0eab499779de6904c7245907c866e76ec31381053c8cdaa",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/otf/Nambli-SemiBold.otf",
+      "bytes": 2010168,
+      "sha256": "a5e75d31c8a9865cab83e815b47330d03c903ea7ab176af2b096335028fb2712"
     },
     {
-      "file": "fonts/otf/Nambli-SemiBoldItalic.otf",
-      "sha256": "098e66a460e9f4f89d5930e2ddca132b25132475158c7146864b590008841d86",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/otf/Nambli-SemiBoldItalic.otf",
+      "bytes": 2090136,
+      "sha256": "a18be3c5a8d43bd330dc590054e0e91c98783d9a50e95626ff69a86985f78aba"
     },
     {
-      "file": "fonts/ttf/Nambli-Bold.ttf",
-      "sha256": "0b8c4c8fafd5b7ebd2eecd0e22c6ca362445c0222e83d7bdc31fcaecb34dceac",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/ttf/Nambli-Bold.ttf",
+      "bytes": 454812,
+      "sha256": "c9f0c7f4378e67f9819323a507a063fabad0a3215a4b6b91151e19993d6d84ac"
     },
     {
-      "file": "fonts/ttf/Nambli-BoldItalic.ttf",
-      "sha256": "557202569846f191167260461a69df8d873ad93ce24aa08b1aa03845268fef73",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/ttf/Nambli-BoldItalic.ttf",
+      "bytes": 468972,
+      "sha256": "afb952cf1a205511630e21852c55934771888fcd74ae3238bec54bb242604b00"
     },
     {
-      "file": "fonts/ttf/Nambli-ExtraBold.ttf",
-      "sha256": "7047bb007759b9995c0ffc8bf515f3c2e9f5031fc299e346450303a2d7fe85c7",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/ttf/Nambli-ExtraBold.ttf",
+      "bytes": 447828,
+      "sha256": "27a6482ecd196a7b3e67b622c815f340f46ccd2acc328bc11241bd48bce332b7"
     },
     {
-      "file": "fonts/ttf/Nambli-ExtraBoldItalic.ttf",
-      "sha256": "48ce7abb92817ea08d857cb9d8c4e57f9adac5cd4851292b16fa1a57682cb5aa",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/ttf/Nambli-ExtraBoldItalic.ttf",
+      "bytes": 466180,
+      "sha256": "8f8799bd5296598c3647f8a8568dca084715c2f1e3c93d54949aac3a07b33603"
     },
     {
-      "file": "fonts/ttf/Nambli-Italic.ttf",
-      "sha256": "7f46b17142060b5737bae4c562b226d571aa9fc2a9a4f7826f396af9a91f382f",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/ttf/Nambli-Italic.ttf",
+      "bytes": 470548,
+      "sha256": "d974256ad78da18daeaae50530e95b908a5e8ec1b52f8dbe1cbd8a8d43783e17"
     },
     {
-      "file": "fonts/ttf/Nambli-Light.ttf",
-      "sha256": "fde2227e6ee9f5a529a52f3fa93a1cda294a2fc4ae004d60fa14f9353981ed62",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/ttf/Nambli-Light.ttf",
+      "bytes": 450548,
+      "sha256": "47fa1648fe05e4e768497b42a15a898103ccfbb67d4e226492be027aeb58f786"
     },
     {
-      "file": "fonts/ttf/Nambli-LightItalic.ttf",
-      "sha256": "f67dedb558d60620ba29e959ad7ed4c0b555ce20744de4d58de27a629eb1825a",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/ttf/Nambli-LightItalic.ttf",
+      "bytes": 469284,
+      "sha256": "524b4f87a6e76f26eb1fddb4426053defed31f490ae140423fb30dfdfbac1c59"
     },
     {
-      "file": "fonts/ttf/Nambli-Medium.ttf",
-      "sha256": "975751ee3e624fa0010c484c26fbaaebe84389cf3c701da5c1a7c85ffe4b6622",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/ttf/Nambli-Medium.ttf",
+      "bytes": 451580,
+      "sha256": "b04b7912cd6c431719af2e58f98b34e85f67c8d98fe5c0cefd28e475cd619a8a"
     },
     {
-      "file": "fonts/ttf/Nambli-MediumItalic.ttf",
-      "sha256": "dfdea31eafa78d8df58bc5c50d252207f04cbe888f4e47e734ed86654efab9b9",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/ttf/Nambli-MediumItalic.ttf",
+      "bytes": 471452,
+      "sha256": "17aeb33b3858d968dd0924b017a8c0c2e6d0729c1923ceabbfcfd6a82f271af2"
     },
     {
-      "file": "fonts/ttf/Nambli-Regular.ttf",
-      "sha256": "089ce42484e540a613355703b1a0f5a2d2b0c6b14e43f948df16d3e53c66d285",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/ttf/Nambli-Regular.ttf",
+      "bytes": 450808,
+      "sha256": "58676c8765185d9494172a6f9a38f1a808164d0b9ef4b7f672840c9830f3c081"
     },
     {
-      "file": "fonts/ttf/Nambli-SemiBold.ttf",
-      "sha256": "2aea23f609db29841c46b791982eee142face71ba99f1bc17cab8d382a7e6286",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/ttf/Nambli-SemiBold.ttf",
+      "bytes": 449752,
+      "sha256": "da59cfb0716f3bdd571a11ed97a915e26d70f467e6db2a5746481a10527a8cbf"
     },
     {
-      "file": "fonts/ttf/Nambli-SemiBoldItalic.ttf",
-      "sha256": "6cb6dcf042ad60992ec5fd6862eb0ac8256c7926020093d137d46b85a168cf24",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/ttf/Nambli-SemiBoldItalic.ttf",
+      "bytes": 468760,
+      "sha256": "fc186aa5d35d8fa76bbc714a691909f22e1d0bc6378b1d1b797de81122d4ec27"
     },
     {
-      "file": "fonts/webfonts/Nambli-Bold.woff2",
-      "sha256": "4f0989bf32c0b8c061403c5543f16419fa4e32db39d22925301840f8f1fca884",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/webfonts/Nambli-Bold.woff2",
+      "bytes": 56932,
+      "sha256": "06d3e66182c0b7c94bcb7d7f35d49b5680a0746d5136224e95d2aebebcc9ad19"
     },
     {
-      "file": "fonts/webfonts/Nambli-BoldItalic.woff2",
-      "sha256": "11336eeabcb988959bf87b827908f6d8dc42715aa03fdde7887c88a1264aff8e",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/webfonts/Nambli-BoldItalic.woff2",
+      "bytes": 65272,
+      "sha256": "55d9d24454cf26f2fd6ae721343bb3c0b853a90bfc3108650fdef279341ef75a"
     },
     {
-      "file": "fonts/webfonts/Nambli-ExtraBold.woff2",
-      "sha256": "bbc96870107b5fc71339a16389f87945335d181c19c52d4ce2f0f41be4c33807",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/webfonts/Nambli-ExtraBold.woff2",
+      "bytes": 60052,
+      "sha256": "a614d658aa917595932d7a0c944972c084ccc4e072f49e84377161c67a764b0d"
     },
     {
-      "file": "fonts/webfonts/Nambli-ExtraBoldItalic.woff2",
-      "sha256": "643b52ec210dcef218c33133f8d0a7867d92707f31eef12497a47dbf176ae123",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/webfonts/Nambli-ExtraBoldItalic.woff2",
+      "bytes": 66496,
+      "sha256": "b414ca1e2786eae4a1cec4479881b7e5a62614b6fdc73bbfeddf4f9023ec085d"
     },
     {
-      "file": "fonts/webfonts/Nambli-Italic.woff2",
-      "sha256": "b2372ce758592afac8ff98085ea402e1c7045b7bd2bac83807d4cf66372ec113",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/webfonts/Nambli-Italic.woff2",
+      "bytes": 66568,
+      "sha256": "2d0c6c1c58480ef92cce08ceb6117d8e227468ee2362b39c282785c46192d43a"
     },
     {
-      "file": "fonts/webfonts/Nambli-Light.woff2",
-      "sha256": "752c4bb2a7123131a141d99b92c8550eebbc78fa2a5b991ca9cc86a0f39c57d7",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/webfonts/Nambli-Light.woff2",
+      "bytes": 60364,
+      "sha256": "04fca75f78502b7b4c238949f78eaca4c9bef100aeb46dfc4610b3952fea5e17"
     },
     {
-      "file": "fonts/webfonts/Nambli-LightItalic.woff2",
-      "sha256": "5e60552ce8e233ce92611d410761bd84330bc5dfac5e247b0cadf947f7374970",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/webfonts/Nambli-LightItalic.woff2",
+      "bytes": 66568,
+      "sha256": "396a3db68e9260b0946ab788074f2beaebedacd7da5494e0267aa753226e12ae"
     },
     {
-      "file": "fonts/webfonts/Nambli-Medium.woff2",
-      "sha256": "246edb6bf121d94e0bd2e3672cb34deb0b21475aa95acfb385c2ad7b961d6b61",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/webfonts/Nambli-Medium.woff2",
+      "bytes": 60224,
+      "sha256": "50cda450e1f17d193c249723db252bb0edf4e04ccb5669d45ffed58ee85b8ccf"
     },
     {
-      "file": "fonts/webfonts/Nambli-MediumItalic.woff2",
-      "sha256": "df6b079a4bfd003621ecc36f79f6d9048bc7fe4dcb83aabf787553bff0214bfd",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/webfonts/Nambli-MediumItalic.woff2",
+      "bytes": 66292,
+      "sha256": "1cb6bbc9f9fdfd040f1fb2cfc64f9df920cbf0d67d13f0ed3084c021cf12b823"
     },
     {
-      "file": "fonts/webfonts/Nambli-Regular.woff2",
-      "sha256": "5e856e03570a2988ed552b20ebd0e4c36a1eebcae357aa4ea7f33e758f78e814",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/webfonts/Nambli-Regular.woff2",
+      "bytes": 59908,
+      "sha256": "5cef9c6bb95296c928d76f848a03e9045c4dad7017144449f7e15ab0c4926bf2"
     },
     {
-      "file": "fonts/webfonts/Nambli-SemiBold.woff2",
-      "sha256": "3466dcce75a27f715aa8a9e3bd40542c77d9ededdc98764313c385663c9459f8",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/webfonts/Nambli-SemiBold.woff2",
+      "bytes": 59412,
+      "sha256": "6209c5353d08f5bcf855d0cb35c57dd1ceaa52620c26692db6253a3b3ebb7b31"
     },
     {
-      "file": "fonts/webfonts/Nambli-SemiBoldItalic.woff2",
-      "sha256": "ffc299ffe9f0ac884e8b6ab807f08e3f1e69eb6363bcdd2e2fdb0449cfb9e3ae",
-      "codepoints": 872,
-      "glyphs": 887,
-      "license": "OFL-1.1",
-      "author": "Yurii Tor"
+      "path": "fonts/webfonts/Nambli-SemiBoldItalic.woff2",
+      "bytes": 65796,
+      "sha256": "2dd6f0a34be1a797f731a5d5068e1258bfea6b239c5b59e8df3cd36ed6fcc74b"
     }
+  ],
+  "reproducible_ufo_build_formats": [
+    "TTF",
+    "WOFF2"
+  ],
+  "supplementary_formats": [
+    "OTF"
   ]
 }

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01AC" format="2">
+  <advance width="680"/>
+  <unicode hex="01AC"/>
+  <outline>
+    <contour>
+      <point x="354" y="75" type="line"/>
+      <point x="349" y="49"/>
+      <point x="345" y="39" type="qcurve"/>
+      <point x="339" y="24"/>
+      <point x="325" y="14" type="qcurve"/>
+      <point x="304" y="0"/>
+      <point x="278" y="0" type="qcurve"/>
+      <point x="252" y="0"/>
+      <point x="236" y="14" type="qcurve"/>
+      <point x="226" y="24"/>
+      <point x="225" y="39" type="qcurve"/>
+      <point x="224" y="49"/>
+      <point x="229" y="75" type="qcurve"/>
+      <point x="323" y="610" type="line"/>
+      <point x="324" y="615"/>
+      <point x="319" y="615" type="qcurve"/>
+      <point x="318" y="615"/>
+      <point x="316" y="616" type="qcurve"/>
+      <point x="313" y="616"/>
+      <point x="308" y="616" type="qcurve"/>
+      <point x="183" y="616" type="line"/>
+      <point x="162" y="616"/>
+      <point x="152" y="617" type="qcurve"/>
+      <point x="145" y="614"/>
+      <point x="140" y="610" type="qcurve"/>
+      <point x="140" y="609"/>
+      <point x="139" y="609" type="qcurve"/>
+      <point x="140" y="608"/>
+      <point x="142" y="607" type="qcurve"/>
+      <point x="148" y="605"/>
+      <point x="156" y="605" type="qcurve"/>
+      <point x="158" y="605"/>
+      <point x="162" y="605"/>
+      <point x="167" y="604"/>
+      <point x="171" y="602"/>
+      <point x="174" y="601"/>
+      <point x="178" y="599"/>
+      <point x="181" y="596"/>
+      <point x="184" y="593"/>
+      <point x="187" y="590"/>
+      <point x="189" y="587"/>
+      <point x="191" y="583"/>
+      <point x="192" y="579"/>
+      <point x="193" y="575"/>
+      <point x="194" y="571"/>
+      <point x="194" y="567"/>
+      <point x="193" y="562"/>
+      <point x="193" y="558"/>
+      <point x="191" y="553"/>
+      <point x="190" y="549"/>
+      <point x="188" y="545"/>
+      <point x="185" y="541"/>
+      <point x="183" y="537"/>
+      <point x="179" y="533"/>
+      <point x="176" y="530"/>
+      <point x="172" y="527"/>
+      <point x="168" y="524"/>
+      <point x="164" y="521"/>
+      <point x="160" y="519"/>
+      <point x="156" y="518"/>
+      <point x="151" y="516"/>
+      <point x="147" y="515"/>
+      <point x="142" y="515"/>
+      <point x="140" y="515" type="qcurve"/>
+      <point x="116" y="515"/>
+      <point x="96" y="523" type="qcurve"/>
+      <point x="75" y="531"/>
+      <point x="63" y="547" type="qcurve"/>
+      <point x="49" y="563"/>
+      <point x="47" y="585" type="qcurve"/>
+      <point x="45" y="608"/>
+      <point x="55" y="631" type="qcurve"/>
+      <point x="65" y="653"/>
+      <point x="85" y="671" type="qcurve"/>
+      <point x="102" y="686"/>
+      <point x="124" y="697" type="qcurve"/>
+      <point x="130" y="711"/>
+      <point x="141" y="722" type="qcurve"/>
+      <point x="153" y="734"/>
+      <point x="168" y="738" type="qcurve"/>
+      <point x="179" y="740"/>
+      <point x="205" y="740" type="qcurve"/>
+      <point x="612" y="740" type="line"/>
+      <point x="639" y="740"/>
+      <point x="649" y="738" type="qcurve"/>
+      <point x="663" y="734"/>
+      <point x="670" y="722" type="qcurve"/>
+      <point x="681" y="704"/>
+      <point x="677" y="678" type="qcurve"/>
+      <point x="672" y="652"/>
+      <point x="655" y="634" type="qcurve"/>
+      <point x="643" y="622"/>
+      <point x="627" y="618" type="qcurve"/>
+      <point x="617" y="616"/>
+      <point x="590" y="616" type="qcurve"/>
+      <point x="466" y="616" type="line"/>
+      <point x="461" y="616"/>
+      <point x="457" y="616" type="qcurve"/>
+      <point x="455" y="615"/>
+      <point x="454" y="615" type="qcurve"/>
+      <point x="449" y="615"/>
+      <point x="448" y="610" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.nambli.snapshot.leftSideBearing</key>
+      <integer>45</integer>
+    </dict>
+  </lib>
+</glyph>

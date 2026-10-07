@@ -1,0 +1,86 @@
+[
+  {
+    "font": "Nambli-Bold.ttf",
+    "soft_dotted_base_count": 12,
+    "direct_and_below_intervening_above_mark_tests": 24,
+    "locl_tests": 7,
+    "passed": true
+  },
+  {
+    "font": "Nambli-BoldItalic.ttf",
+    "soft_dotted_base_count": 12,
+    "direct_and_below_intervening_above_mark_tests": 24,
+    "locl_tests": 7,
+    "passed": true
+  },
+  {
+    "font": "Nambli-ExtraBold.ttf",
+    "soft_dotted_base_count": 12,
+    "direct_and_below_intervening_above_mark_tests": 24,
+    "locl_tests": 7,
+    "passed": true
+  },
+  {
+    "font": "Nambli-ExtraBoldItalic.ttf",
+    "soft_dotted_base_count": 12,
+    "direct_and_below_intervening_above_mark_tests": 24,
+    "locl_tests": 7,
+    "passed": true
+  },
+  {
+    "font": "Nambli-Italic.ttf",
+    "soft_dotted_base_count": 12,
+    "direct_and_below_intervening_above_mark_tests": 24,
+    "locl_tests": 7,
+    "passed": true
+  },
+  {
+    "font": "Nambli-Light.ttf",
+    "soft_dotted_base_count": 12,
+    "direct_and_below_intervening_above_mark_tests": 24,
+    "locl_tests": 7,
+    "passed": true
+  },
+  {
+    "font": "Nambli-LightItalic.ttf",
+    "soft_dotted_base_count": 12,
+    "direct_and_below_intervening_above_mark_tests": 24,
+    "locl_tests": 7,
+    "passed": true
+  },
+  {
+    "font": "Nambli-Medium.ttf",
+    "soft_dotted_base_count": 12,
+    "direct_and_below_intervening_above_mark_tests": 24,
+    "locl_tests": 7,
+    "passed": true
+  },
+  {
+    "font": "Nambli-MediumItalic.ttf",
+    "soft_dotted_base_count": 12,
+    "direct_and_below_intervening_above_mark_tests": 24,
+    "locl_tests": 7,
+    "passed": true
+  },
+  {
+    "font": "Nambli-Regular.ttf",
+    "soft_dotted_base_count": 12,
+    "direct_and_below_intervening_above_mark_tests": 24,
+    "locl_tests": 7,
+    "passed": true
+  },
+  {
+    "font": "Nambli-SemiBold.ttf",
+    "soft_dotted_base_count": 12,
+    "direct_and_below_intervening_above_mark_tests": 24,
+    "locl_tests": 7,
+    "passed": true
+  },
+  {
+    "font": "Nambli-SemiBoldItalic.ttf",
+    "soft_dotted_base_count": 12,
+    "direct_and_below_intervening_above_mark_tests": 24,
+    "locl_tests": 7,
+    "passed": true
+  }
+]

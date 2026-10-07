@@ -1,0 +1,9178 @@
+{
+  "Nambli-Light": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni00A8",
+      "codepoints": [
+        168
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00AF",
+      "codepoints": [
+        175
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B4",
+      "codepoints": [
+        180
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B8",
+      "codepoints": [
+        184
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C6",
+      "codepoints": [
+        710
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C7",
+      "codepoints": [
+        711
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D8",
+      "codepoints": [
+        728
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D9",
+      "codepoints": [
+        729
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DA",
+      "codepoints": [
+        730
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DB",
+      "codepoints": [
+        731
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DC",
+      "codepoints": [
+        732
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DD",
+      "codepoints": [
+        733
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A1",
+      "codepoints": [
+        161
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00BF",
+      "codepoints": [
+        191
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2039",
+      "codepoints": [
+        8249
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni203A",
+      "codepoints": [
+        8250
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2212",
+      "codepoints": [
+        8722
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A2",
+      "codepoints": [
+        162
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B6",
+      "codepoints": [
+        182
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A7",
+      "codepoints": [
+        167
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "periodcentered.loclCAT",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "periodcentered.loclCAT.case",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni030C.alt",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "i.loclTRK",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0180",
+      "codepoints": [
+        384
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0182",
+      "codepoints": [
+        386
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0183",
+      "codepoints": [
+        387
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0187",
+      "codepoints": [
+        391
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0188",
+      "codepoints": [
+        392
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0193",
+      "codepoints": [
+        403
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019C",
+      "codepoints": [
+        412
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019F",
+      "codepoints": [
+        415
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A9",
+      "codepoints": [
+        425
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B8",
+      "codepoints": [
+        440
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0241",
+      "codepoints": [
+        577
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0242",
+      "codepoints": [
+        578
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0243",
+      "codepoints": [
+        579
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0245",
+      "codepoints": [
+        581
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0248",
+      "codepoints": [
+        584
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0249",
+      "codepoints": [
+        585
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024C",
+      "codepoints": [
+        588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024D",
+      "codepoints": [
+        589
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0250",
+      "codepoints": [
+        592
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0264",
+      "codepoints": [
+        612
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0265",
+      "codepoints": [
+        613
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni026F",
+      "codepoints": [
+        623
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0275",
+      "codepoints": [
+        629
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0283",
+      "codepoints": [
+        643
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0288",
+      "codepoints": [
+        648
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni028C",
+      "codepoints": [
+        652
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0298",
+      "codepoints": [
+        664
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02B8",
+      "codepoints": [
+        696
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C1",
+      "codepoints": [
+        705
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C8",
+      "codepoints": [
+        712
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D7",
+      "codepoints": [
+        727
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02EE",
+      "codepoints": [
+        750
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni030D",
+      "codepoints": [
+        781
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0329",
+      "codepoints": [
+        809
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0332",
+      "codepoints": [
+        818
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni035F",
+      "codepoints": [
+        863
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D43",
+      "codepoints": [
+        7491
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D4B",
+      "codepoints": [
+        7499
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D52",
+      "codepoints": [
+        7506
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D53",
+      "codepoints": [
+        7507
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D7D",
+      "codepoints": [
+        7549
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DA4",
+      "codepoints": [
+        7588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DB6",
+      "codepoints": [
+        7606
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC4",
+      "codepoints": [
+        7620
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC5",
+      "codepoints": [
+        7621
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2028",
+      "codepoints": [
+        8232
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2029",
+      "codepoints": [
+        8233
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2071",
+      "codepoints": [
+        8305
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24B6",
+      "codepoints": [
+        9398
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24D0",
+      "codepoints": [
+        9424
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni25CC",
+      "codepoints": [
+        9676
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C63",
+      "codepoints": [
+        11363
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C6F",
+      "codepoints": [
+        11375
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA789",
+      "codepoints": [
+        42889
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78A",
+      "codepoints": [
+        42890
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78D",
+      "codepoints": [
+        42893
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B6",
+      "codepoints": [
+        42934
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B7",
+      "codepoints": [
+        42935
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C7",
+      "codepoints": [
+        42951
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C8",
+      "codepoints": [
+        42952
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7CB",
+      "codepoints": [
+        42955
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0249.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0268.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0458.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1DA4.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1E2D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1ECB.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni2071.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    }
+  ],
+  "Nambli-Regular": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni00A8",
+      "codepoints": [
+        168
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00AF",
+      "codepoints": [
+        175
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B4",
+      "codepoints": [
+        180
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B8",
+      "codepoints": [
+        184
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C6",
+      "codepoints": [
+        710
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C7",
+      "codepoints": [
+        711
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D8",
+      "codepoints": [
+        728
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D9",
+      "codepoints": [
+        729
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DA",
+      "codepoints": [
+        730
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DB",
+      "codepoints": [
+        731
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DC",
+      "codepoints": [
+        732
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DD",
+      "codepoints": [
+        733
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A1",
+      "codepoints": [
+        161
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00BF",
+      "codepoints": [
+        191
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2039",
+      "codepoints": [
+        8249
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni203A",
+      "codepoints": [
+        8250
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2212",
+      "codepoints": [
+        8722
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A2",
+      "codepoints": [
+        162
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B6",
+      "codepoints": [
+        182
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A7",
+      "codepoints": [
+        167
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "periodcentered.loclCAT",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "periodcentered.loclCAT.case",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni030C.alt",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "i.loclTRK",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0180",
+      "codepoints": [
+        384
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0182",
+      "codepoints": [
+        386
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0183",
+      "codepoints": [
+        387
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0187",
+      "codepoints": [
+        391
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0188",
+      "codepoints": [
+        392
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0193",
+      "codepoints": [
+        403
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019C",
+      "codepoints": [
+        412
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019F",
+      "codepoints": [
+        415
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A9",
+      "codepoints": [
+        425
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B8",
+      "codepoints": [
+        440
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0241",
+      "codepoints": [
+        577
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0242",
+      "codepoints": [
+        578
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0243",
+      "codepoints": [
+        579
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0245",
+      "codepoints": [
+        581
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0248",
+      "codepoints": [
+        584
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0249",
+      "codepoints": [
+        585
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024C",
+      "codepoints": [
+        588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024D",
+      "codepoints": [
+        589
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0250",
+      "codepoints": [
+        592
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0264",
+      "codepoints": [
+        612
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0265",
+      "codepoints": [
+        613
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni026F",
+      "codepoints": [
+        623
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0275",
+      "codepoints": [
+        629
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0283",
+      "codepoints": [
+        643
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0288",
+      "codepoints": [
+        648
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni028C",
+      "codepoints": [
+        652
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0298",
+      "codepoints": [
+        664
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02B8",
+      "codepoints": [
+        696
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C1",
+      "codepoints": [
+        705
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C8",
+      "codepoints": [
+        712
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D7",
+      "codepoints": [
+        727
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02EE",
+      "codepoints": [
+        750
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni030D",
+      "codepoints": [
+        781
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0329",
+      "codepoints": [
+        809
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0332",
+      "codepoints": [
+        818
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni035F",
+      "codepoints": [
+        863
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D43",
+      "codepoints": [
+        7491
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D4B",
+      "codepoints": [
+        7499
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D52",
+      "codepoints": [
+        7506
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D53",
+      "codepoints": [
+        7507
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D7D",
+      "codepoints": [
+        7549
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DA4",
+      "codepoints": [
+        7588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DB6",
+      "codepoints": [
+        7606
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC4",
+      "codepoints": [
+        7620
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC5",
+      "codepoints": [
+        7621
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2028",
+      "codepoints": [
+        8232
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2029",
+      "codepoints": [
+        8233
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2071",
+      "codepoints": [
+        8305
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24B6",
+      "codepoints": [
+        9398
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24D0",
+      "codepoints": [
+        9424
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni25CC",
+      "codepoints": [
+        9676
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C63",
+      "codepoints": [
+        11363
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C6F",
+      "codepoints": [
+        11375
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA789",
+      "codepoints": [
+        42889
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78A",
+      "codepoints": [
+        42890
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78D",
+      "codepoints": [
+        42893
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B6",
+      "codepoints": [
+        42934
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B7",
+      "codepoints": [
+        42935
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C7",
+      "codepoints": [
+        42951
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C8",
+      "codepoints": [
+        42952
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7CB",
+      "codepoints": [
+        42955
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0249.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0268.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0458.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1DA4.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1E2D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1ECB.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni2071.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    }
+  ],
+  "Nambli-Medium": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni00A8",
+      "codepoints": [
+        168
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00AF",
+      "codepoints": [
+        175
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B4",
+      "codepoints": [
+        180
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B8",
+      "codepoints": [
+        184
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C6",
+      "codepoints": [
+        710
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C7",
+      "codepoints": [
+        711
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D8",
+      "codepoints": [
+        728
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D9",
+      "codepoints": [
+        729
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DA",
+      "codepoints": [
+        730
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DB",
+      "codepoints": [
+        731
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DC",
+      "codepoints": [
+        732
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DD",
+      "codepoints": [
+        733
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A1",
+      "codepoints": [
+        161
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00BF",
+      "codepoints": [
+        191
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2039",
+      "codepoints": [
+        8249
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni203A",
+      "codepoints": [
+        8250
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2212",
+      "codepoints": [
+        8722
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A2",
+      "codepoints": [
+        162
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B6",
+      "codepoints": [
+        182
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A7",
+      "codepoints": [
+        167
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "periodcentered.loclCAT",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "periodcentered.loclCAT.case",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni030C.alt",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "i.loclTRK",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0180",
+      "codepoints": [
+        384
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0182",
+      "codepoints": [
+        386
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0183",
+      "codepoints": [
+        387
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0187",
+      "codepoints": [
+        391
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0188",
+      "codepoints": [
+        392
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0193",
+      "codepoints": [
+        403
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019C",
+      "codepoints": [
+        412
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019F",
+      "codepoints": [
+        415
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A9",
+      "codepoints": [
+        425
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B8",
+      "codepoints": [
+        440
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0241",
+      "codepoints": [
+        577
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0242",
+      "codepoints": [
+        578
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0243",
+      "codepoints": [
+        579
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0245",
+      "codepoints": [
+        581
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0248",
+      "codepoints": [
+        584
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0249",
+      "codepoints": [
+        585
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024C",
+      "codepoints": [
+        588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024D",
+      "codepoints": [
+        589
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0250",
+      "codepoints": [
+        592
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0264",
+      "codepoints": [
+        612
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0265",
+      "codepoints": [
+        613
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni026F",
+      "codepoints": [
+        623
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0275",
+      "codepoints": [
+        629
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0283",
+      "codepoints": [
+        643
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0288",
+      "codepoints": [
+        648
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni028C",
+      "codepoints": [
+        652
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0298",
+      "codepoints": [
+        664
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02B8",
+      "codepoints": [
+        696
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C1",
+      "codepoints": [
+        705
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C8",
+      "codepoints": [
+        712
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D7",
+      "codepoints": [
+        727
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02EE",
+      "codepoints": [
+        750
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni030D",
+      "codepoints": [
+        781
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0329",
+      "codepoints": [
+        809
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0332",
+      "codepoints": [
+        818
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni035F",
+      "codepoints": [
+        863
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D43",
+      "codepoints": [
+        7491
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D4B",
+      "codepoints": [
+        7499
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D52",
+      "codepoints": [
+        7506
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D53",
+      "codepoints": [
+        7507
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D7D",
+      "codepoints": [
+        7549
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DA4",
+      "codepoints": [
+        7588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DB6",
+      "codepoints": [
+        7606
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC4",
+      "codepoints": [
+        7620
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC5",
+      "codepoints": [
+        7621
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2028",
+      "codepoints": [
+        8232
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2029",
+      "codepoints": [
+        8233
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2071",
+      "codepoints": [
+        8305
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24B6",
+      "codepoints": [
+        9398
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24D0",
+      "codepoints": [
+        9424
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni25CC",
+      "codepoints": [
+        9676
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C63",
+      "codepoints": [
+        11363
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C6F",
+      "codepoints": [
+        11375
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA789",
+      "codepoints": [
+        42889
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78A",
+      "codepoints": [
+        42890
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78D",
+      "codepoints": [
+        42893
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B6",
+      "codepoints": [
+        42934
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B7",
+      "codepoints": [
+        42935
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C7",
+      "codepoints": [
+        42951
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C8",
+      "codepoints": [
+        42952
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7CB",
+      "codepoints": [
+        42955
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0249.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0268.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0458.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1DA4.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1E2D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1ECB.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni2071.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    }
+  ],
+  "Nambli-SemiBold": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni00A8",
+      "codepoints": [
+        168
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00AF",
+      "codepoints": [
+        175
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B4",
+      "codepoints": [
+        180
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B8",
+      "codepoints": [
+        184
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C6",
+      "codepoints": [
+        710
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C7",
+      "codepoints": [
+        711
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D8",
+      "codepoints": [
+        728
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D9",
+      "codepoints": [
+        729
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DA",
+      "codepoints": [
+        730
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DB",
+      "codepoints": [
+        731
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DC",
+      "codepoints": [
+        732
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DD",
+      "codepoints": [
+        733
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A1",
+      "codepoints": [
+        161
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00BF",
+      "codepoints": [
+        191
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2039",
+      "codepoints": [
+        8249
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni203A",
+      "codepoints": [
+        8250
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2212",
+      "codepoints": [
+        8722
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A2",
+      "codepoints": [
+        162
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B6",
+      "codepoints": [
+        182
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A7",
+      "codepoints": [
+        167
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "periodcentered.loclCAT",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "periodcentered.loclCAT.case",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni030C.alt",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "i.loclTRK",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0180",
+      "codepoints": [
+        384
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0182",
+      "codepoints": [
+        386
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0183",
+      "codepoints": [
+        387
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0187",
+      "codepoints": [
+        391
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0188",
+      "codepoints": [
+        392
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0193",
+      "codepoints": [
+        403
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019C",
+      "codepoints": [
+        412
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019F",
+      "codepoints": [
+        415
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A9",
+      "codepoints": [
+        425
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B8",
+      "codepoints": [
+        440
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0241",
+      "codepoints": [
+        577
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0242",
+      "codepoints": [
+        578
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0243",
+      "codepoints": [
+        579
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0245",
+      "codepoints": [
+        581
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0248",
+      "codepoints": [
+        584
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0249",
+      "codepoints": [
+        585
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024C",
+      "codepoints": [
+        588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024D",
+      "codepoints": [
+        589
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0250",
+      "codepoints": [
+        592
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0264",
+      "codepoints": [
+        612
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0265",
+      "codepoints": [
+        613
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni026F",
+      "codepoints": [
+        623
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0275",
+      "codepoints": [
+        629
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0283",
+      "codepoints": [
+        643
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0288",
+      "codepoints": [
+        648
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni028C",
+      "codepoints": [
+        652
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0298",
+      "codepoints": [
+        664
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02B8",
+      "codepoints": [
+        696
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C1",
+      "codepoints": [
+        705
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C8",
+      "codepoints": [
+        712
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D7",
+      "codepoints": [
+        727
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02EE",
+      "codepoints": [
+        750
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni030D",
+      "codepoints": [
+        781
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0329",
+      "codepoints": [
+        809
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0332",
+      "codepoints": [
+        818
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni035F",
+      "codepoints": [
+        863
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D43",
+      "codepoints": [
+        7491
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D4B",
+      "codepoints": [
+        7499
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D52",
+      "codepoints": [
+        7506
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D53",
+      "codepoints": [
+        7507
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D7D",
+      "codepoints": [
+        7549
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DA4",
+      "codepoints": [
+        7588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DB6",
+      "codepoints": [
+        7606
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC4",
+      "codepoints": [
+        7620
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC5",
+      "codepoints": [
+        7621
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2028",
+      "codepoints": [
+        8232
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2029",
+      "codepoints": [
+        8233
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2071",
+      "codepoints": [
+        8305
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24B6",
+      "codepoints": [
+        9398
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24D0",
+      "codepoints": [
+        9424
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni25CC",
+      "codepoints": [
+        9676
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C63",
+      "codepoints": [
+        11363
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C6F",
+      "codepoints": [
+        11375
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA789",
+      "codepoints": [
+        42889
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78A",
+      "codepoints": [
+        42890
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78D",
+      "codepoints": [
+        42893
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B6",
+      "codepoints": [
+        42934
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B7",
+      "codepoints": [
+        42935
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C7",
+      "codepoints": [
+        42951
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C8",
+      "codepoints": [
+        42952
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7CB",
+      "codepoints": [
+        42955
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0249.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0268.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0458.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1DA4.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1E2D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1ECB.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni2071.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    }
+  ],
+  "Nambli-Bold": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni026C",
+      "codepoints": [
+        620
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7AD",
+      "codepoints": [
+        42925
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni00A8",
+      "codepoints": [
+        168
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00AF",
+      "codepoints": [
+        175
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B4",
+      "codepoints": [
+        180
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B8",
+      "codepoints": [
+        184
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C6",
+      "codepoints": [
+        710
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C7",
+      "codepoints": [
+        711
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D8",
+      "codepoints": [
+        728
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D9",
+      "codepoints": [
+        729
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DA",
+      "codepoints": [
+        730
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DB",
+      "codepoints": [
+        731
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DC",
+      "codepoints": [
+        732
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DD",
+      "codepoints": [
+        733
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A1",
+      "codepoints": [
+        161
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00BF",
+      "codepoints": [
+        191
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2039",
+      "codepoints": [
+        8249
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni203A",
+      "codepoints": [
+        8250
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2212",
+      "codepoints": [
+        8722
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A2",
+      "codepoints": [
+        162
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B6",
+      "codepoints": [
+        182
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A7",
+      "codepoints": [
+        167
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "periodcentered.loclCAT",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "periodcentered.loclCAT.case",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni030C.alt",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "i.loclTRK",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0180",
+      "codepoints": [
+        384
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0182",
+      "codepoints": [
+        386
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0183",
+      "codepoints": [
+        387
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0187",
+      "codepoints": [
+        391
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0188",
+      "codepoints": [
+        392
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0193",
+      "codepoints": [
+        403
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019C",
+      "codepoints": [
+        412
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019F",
+      "codepoints": [
+        415
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A9",
+      "codepoints": [
+        425
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B8",
+      "codepoints": [
+        440
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0241",
+      "codepoints": [
+        577
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0242",
+      "codepoints": [
+        578
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0243",
+      "codepoints": [
+        579
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0245",
+      "codepoints": [
+        581
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0248",
+      "codepoints": [
+        584
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0249",
+      "codepoints": [
+        585
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024C",
+      "codepoints": [
+        588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024D",
+      "codepoints": [
+        589
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0250",
+      "codepoints": [
+        592
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0264",
+      "codepoints": [
+        612
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0265",
+      "codepoints": [
+        613
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni026F",
+      "codepoints": [
+        623
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0275",
+      "codepoints": [
+        629
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0283",
+      "codepoints": [
+        643
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0288",
+      "codepoints": [
+        648
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni028C",
+      "codepoints": [
+        652
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0298",
+      "codepoints": [
+        664
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02B8",
+      "codepoints": [
+        696
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C1",
+      "codepoints": [
+        705
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C8",
+      "codepoints": [
+        712
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D7",
+      "codepoints": [
+        727
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02EE",
+      "codepoints": [
+        750
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni030D",
+      "codepoints": [
+        781
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0329",
+      "codepoints": [
+        809
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0332",
+      "codepoints": [
+        818
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni035F",
+      "codepoints": [
+        863
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D43",
+      "codepoints": [
+        7491
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D4B",
+      "codepoints": [
+        7499
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D52",
+      "codepoints": [
+        7506
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D53",
+      "codepoints": [
+        7507
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D7D",
+      "codepoints": [
+        7549
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DA4",
+      "codepoints": [
+        7588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DB6",
+      "codepoints": [
+        7606
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC4",
+      "codepoints": [
+        7620
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC5",
+      "codepoints": [
+        7621
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2028",
+      "codepoints": [
+        8232
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2029",
+      "codepoints": [
+        8233
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2071",
+      "codepoints": [
+        8305
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24B6",
+      "codepoints": [
+        9398
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24D0",
+      "codepoints": [
+        9424
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni25CC",
+      "codepoints": [
+        9676
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C63",
+      "codepoints": [
+        11363
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C6F",
+      "codepoints": [
+        11375
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA789",
+      "codepoints": [
+        42889
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78A",
+      "codepoints": [
+        42890
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78D",
+      "codepoints": [
+        42893
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B6",
+      "codepoints": [
+        42934
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B7",
+      "codepoints": [
+        42935
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C7",
+      "codepoints": [
+        42951
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C8",
+      "codepoints": [
+        42952
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7CB",
+      "codepoints": [
+        42955
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0249.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0268.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0458.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1DA4.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1E2D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1ECB.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni2071.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    }
+  ],
+  "Nambli-ExtraBold": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni026C",
+      "codepoints": [
+        620
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7AD",
+      "codepoints": [
+        42925
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni00A8",
+      "codepoints": [
+        168
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00AF",
+      "codepoints": [
+        175
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B4",
+      "codepoints": [
+        180
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B8",
+      "codepoints": [
+        184
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C6",
+      "codepoints": [
+        710
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C7",
+      "codepoints": [
+        711
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D8",
+      "codepoints": [
+        728
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D9",
+      "codepoints": [
+        729
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DA",
+      "codepoints": [
+        730
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DB",
+      "codepoints": [
+        731
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DC",
+      "codepoints": [
+        732
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DD",
+      "codepoints": [
+        733
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A1",
+      "codepoints": [
+        161
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00BF",
+      "codepoints": [
+        191
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2039",
+      "codepoints": [
+        8249
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni203A",
+      "codepoints": [
+        8250
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2212",
+      "codepoints": [
+        8722
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A2",
+      "codepoints": [
+        162
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B6",
+      "codepoints": [
+        182
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A7",
+      "codepoints": [
+        167
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "periodcentered.loclCAT",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "periodcentered.loclCAT.case",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni030C.alt",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "i.loclTRK",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0180",
+      "codepoints": [
+        384
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0182",
+      "codepoints": [
+        386
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0183",
+      "codepoints": [
+        387
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0187",
+      "codepoints": [
+        391
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0188",
+      "codepoints": [
+        392
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0193",
+      "codepoints": [
+        403
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019C",
+      "codepoints": [
+        412
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019F",
+      "codepoints": [
+        415
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A9",
+      "codepoints": [
+        425
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B8",
+      "codepoints": [
+        440
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0241",
+      "codepoints": [
+        577
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0242",
+      "codepoints": [
+        578
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0243",
+      "codepoints": [
+        579
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0245",
+      "codepoints": [
+        581
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0248",
+      "codepoints": [
+        584
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0249",
+      "codepoints": [
+        585
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024C",
+      "codepoints": [
+        588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024D",
+      "codepoints": [
+        589
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0250",
+      "codepoints": [
+        592
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0264",
+      "codepoints": [
+        612
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0265",
+      "codepoints": [
+        613
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni026F",
+      "codepoints": [
+        623
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0275",
+      "codepoints": [
+        629
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0283",
+      "codepoints": [
+        643
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0288",
+      "codepoints": [
+        648
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni028C",
+      "codepoints": [
+        652
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0298",
+      "codepoints": [
+        664
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02B8",
+      "codepoints": [
+        696
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C1",
+      "codepoints": [
+        705
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C8",
+      "codepoints": [
+        712
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D7",
+      "codepoints": [
+        727
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02EE",
+      "codepoints": [
+        750
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni030D",
+      "codepoints": [
+        781
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0329",
+      "codepoints": [
+        809
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0332",
+      "codepoints": [
+        818
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni035F",
+      "codepoints": [
+        863
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D43",
+      "codepoints": [
+        7491
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D4B",
+      "codepoints": [
+        7499
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D52",
+      "codepoints": [
+        7506
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D53",
+      "codepoints": [
+        7507
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D7D",
+      "codepoints": [
+        7549
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DA4",
+      "codepoints": [
+        7588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DB6",
+      "codepoints": [
+        7606
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC4",
+      "codepoints": [
+        7620
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC5",
+      "codepoints": [
+        7621
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2028",
+      "codepoints": [
+        8232
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2029",
+      "codepoints": [
+        8233
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2071",
+      "codepoints": [
+        8305
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24B6",
+      "codepoints": [
+        9398
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24D0",
+      "codepoints": [
+        9424
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni25CC",
+      "codepoints": [
+        9676
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C63",
+      "codepoints": [
+        11363
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C6F",
+      "codepoints": [
+        11375
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA789",
+      "codepoints": [
+        42889
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78A",
+      "codepoints": [
+        42890
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78D",
+      "codepoints": [
+        42893
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B6",
+      "codepoints": [
+        42934
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B7",
+      "codepoints": [
+        42935
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C7",
+      "codepoints": [
+        42951
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C8",
+      "codepoints": [
+        42952
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7CB",
+      "codepoints": [
+        42955
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0249.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0268.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0458.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1DA4.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1E2D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1ECB.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni2071.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    }
+  ],
+  "Nambli-LightItalic": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni00A8",
+      "codepoints": [
+        168
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00AF",
+      "codepoints": [
+        175
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B4",
+      "codepoints": [
+        180
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B8",
+      "codepoints": [
+        184
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C6",
+      "codepoints": [
+        710
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C7",
+      "codepoints": [
+        711
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D8",
+      "codepoints": [
+        728
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D9",
+      "codepoints": [
+        729
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DA",
+      "codepoints": [
+        730
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DB",
+      "codepoints": [
+        731
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DC",
+      "codepoints": [
+        732
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DD",
+      "codepoints": [
+        733
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A1",
+      "codepoints": [
+        161
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00BF",
+      "codepoints": [
+        191
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2039",
+      "codepoints": [
+        8249
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni203A",
+      "codepoints": [
+        8250
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2212",
+      "codepoints": [
+        8722
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A2",
+      "codepoints": [
+        162
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B6",
+      "codepoints": [
+        182
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A7",
+      "codepoints": [
+        167
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "periodcentered.loclCAT",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "periodcentered.loclCAT.case",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni030C.alt",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "i.loclTRK",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0180",
+      "codepoints": [
+        384
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0182",
+      "codepoints": [
+        386
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0183",
+      "codepoints": [
+        387
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0187",
+      "codepoints": [
+        391
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0188",
+      "codepoints": [
+        392
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0193",
+      "codepoints": [
+        403
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019C",
+      "codepoints": [
+        412
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019F",
+      "codepoints": [
+        415
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A9",
+      "codepoints": [
+        425
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B8",
+      "codepoints": [
+        440
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0241",
+      "codepoints": [
+        577
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0242",
+      "codepoints": [
+        578
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0243",
+      "codepoints": [
+        579
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0245",
+      "codepoints": [
+        581
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0248",
+      "codepoints": [
+        584
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0249",
+      "codepoints": [
+        585
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024C",
+      "codepoints": [
+        588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024D",
+      "codepoints": [
+        589
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0250",
+      "codepoints": [
+        592
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0264",
+      "codepoints": [
+        612
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0265",
+      "codepoints": [
+        613
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni026F",
+      "codepoints": [
+        623
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0275",
+      "codepoints": [
+        629
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0283",
+      "codepoints": [
+        643
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0288",
+      "codepoints": [
+        648
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni028C",
+      "codepoints": [
+        652
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0298",
+      "codepoints": [
+        664
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02B8",
+      "codepoints": [
+        696
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C1",
+      "codepoints": [
+        705
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C8",
+      "codepoints": [
+        712
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D7",
+      "codepoints": [
+        727
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02EE",
+      "codepoints": [
+        750
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni030D",
+      "codepoints": [
+        781
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0329",
+      "codepoints": [
+        809
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0332",
+      "codepoints": [
+        818
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni035F",
+      "codepoints": [
+        863
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D43",
+      "codepoints": [
+        7491
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D4B",
+      "codepoints": [
+        7499
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D52",
+      "codepoints": [
+        7506
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D53",
+      "codepoints": [
+        7507
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D7D",
+      "codepoints": [
+        7549
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DA4",
+      "codepoints": [
+        7588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DB6",
+      "codepoints": [
+        7606
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC4",
+      "codepoints": [
+        7620
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC5",
+      "codepoints": [
+        7621
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2028",
+      "codepoints": [
+        8232
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2029",
+      "codepoints": [
+        8233
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2071",
+      "codepoints": [
+        8305
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24B6",
+      "codepoints": [
+        9398
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24D0",
+      "codepoints": [
+        9424
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni25CC",
+      "codepoints": [
+        9676
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C63",
+      "codepoints": [
+        11363
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C6F",
+      "codepoints": [
+        11375
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA789",
+      "codepoints": [
+        42889
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78A",
+      "codepoints": [
+        42890
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78D",
+      "codepoints": [
+        42893
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B6",
+      "codepoints": [
+        42934
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B7",
+      "codepoints": [
+        42935
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C7",
+      "codepoints": [
+        42951
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C8",
+      "codepoints": [
+        42952
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7CB",
+      "codepoints": [
+        42955
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0249.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0268.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0458.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1DA4.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1E2D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1ECB.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni2071.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    }
+  ],
+  "Nambli-Italic": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni00A8",
+      "codepoints": [
+        168
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00AF",
+      "codepoints": [
+        175
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B4",
+      "codepoints": [
+        180
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B8",
+      "codepoints": [
+        184
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C6",
+      "codepoints": [
+        710
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C7",
+      "codepoints": [
+        711
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D8",
+      "codepoints": [
+        728
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D9",
+      "codepoints": [
+        729
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DA",
+      "codepoints": [
+        730
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DB",
+      "codepoints": [
+        731
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DC",
+      "codepoints": [
+        732
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DD",
+      "codepoints": [
+        733
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A1",
+      "codepoints": [
+        161
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00BF",
+      "codepoints": [
+        191
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2039",
+      "codepoints": [
+        8249
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni203A",
+      "codepoints": [
+        8250
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2212",
+      "codepoints": [
+        8722
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A2",
+      "codepoints": [
+        162
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B6",
+      "codepoints": [
+        182
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A7",
+      "codepoints": [
+        167
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "periodcentered.loclCAT",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "periodcentered.loclCAT.case",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni030C.alt",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "i.loclTRK",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0180",
+      "codepoints": [
+        384
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0182",
+      "codepoints": [
+        386
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0183",
+      "codepoints": [
+        387
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0187",
+      "codepoints": [
+        391
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0188",
+      "codepoints": [
+        392
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0193",
+      "codepoints": [
+        403
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019C",
+      "codepoints": [
+        412
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019F",
+      "codepoints": [
+        415
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A9",
+      "codepoints": [
+        425
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B8",
+      "codepoints": [
+        440
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0241",
+      "codepoints": [
+        577
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0242",
+      "codepoints": [
+        578
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0243",
+      "codepoints": [
+        579
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0245",
+      "codepoints": [
+        581
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0248",
+      "codepoints": [
+        584
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0249",
+      "codepoints": [
+        585
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024C",
+      "codepoints": [
+        588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024D",
+      "codepoints": [
+        589
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0250",
+      "codepoints": [
+        592
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0264",
+      "codepoints": [
+        612
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0265",
+      "codepoints": [
+        613
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni026F",
+      "codepoints": [
+        623
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0275",
+      "codepoints": [
+        629
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0283",
+      "codepoints": [
+        643
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0288",
+      "codepoints": [
+        648
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni028C",
+      "codepoints": [
+        652
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0298",
+      "codepoints": [
+        664
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02B8",
+      "codepoints": [
+        696
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C1",
+      "codepoints": [
+        705
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C8",
+      "codepoints": [
+        712
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D7",
+      "codepoints": [
+        727
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02EE",
+      "codepoints": [
+        750
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni030D",
+      "codepoints": [
+        781
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0329",
+      "codepoints": [
+        809
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0332",
+      "codepoints": [
+        818
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni035F",
+      "codepoints": [
+        863
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D43",
+      "codepoints": [
+        7491
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D4B",
+      "codepoints": [
+        7499
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D52",
+      "codepoints": [
+        7506
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D53",
+      "codepoints": [
+        7507
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D7D",
+      "codepoints": [
+        7549
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DA4",
+      "codepoints": [
+        7588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DB6",
+      "codepoints": [
+        7606
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC4",
+      "codepoints": [
+        7620
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC5",
+      "codepoints": [
+        7621
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2028",
+      "codepoints": [
+        8232
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2029",
+      "codepoints": [
+        8233
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2071",
+      "codepoints": [
+        8305
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24B6",
+      "codepoints": [
+        9398
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24D0",
+      "codepoints": [
+        9424
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni25CC",
+      "codepoints": [
+        9676
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C63",
+      "codepoints": [
+        11363
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C6F",
+      "codepoints": [
+        11375
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA789",
+      "codepoints": [
+        42889
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78A",
+      "codepoints": [
+        42890
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78D",
+      "codepoints": [
+        42893
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B6",
+      "codepoints": [
+        42934
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B7",
+      "codepoints": [
+        42935
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C7",
+      "codepoints": [
+        42951
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C8",
+      "codepoints": [
+        42952
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7CB",
+      "codepoints": [
+        42955
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0249.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0268.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0458.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1DA4.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1E2D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1ECB.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni2071.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    }
+  ],
+  "Nambli-MediumItalic": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni00A8",
+      "codepoints": [
+        168
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00AF",
+      "codepoints": [
+        175
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B4",
+      "codepoints": [
+        180
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B8",
+      "codepoints": [
+        184
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C6",
+      "codepoints": [
+        710
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C7",
+      "codepoints": [
+        711
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D8",
+      "codepoints": [
+        728
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D9",
+      "codepoints": [
+        729
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DA",
+      "codepoints": [
+        730
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DB",
+      "codepoints": [
+        731
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DC",
+      "codepoints": [
+        732
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DD",
+      "codepoints": [
+        733
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A1",
+      "codepoints": [
+        161
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00BF",
+      "codepoints": [
+        191
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2039",
+      "codepoints": [
+        8249
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni203A",
+      "codepoints": [
+        8250
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2212",
+      "codepoints": [
+        8722
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A2",
+      "codepoints": [
+        162
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B6",
+      "codepoints": [
+        182
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A7",
+      "codepoints": [
+        167
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "periodcentered.loclCAT",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "periodcentered.loclCAT.case",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni030C.alt",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "i.loclTRK",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0180",
+      "codepoints": [
+        384
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0182",
+      "codepoints": [
+        386
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0183",
+      "codepoints": [
+        387
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0187",
+      "codepoints": [
+        391
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0188",
+      "codepoints": [
+        392
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0193",
+      "codepoints": [
+        403
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019C",
+      "codepoints": [
+        412
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019F",
+      "codepoints": [
+        415
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A9",
+      "codepoints": [
+        425
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B8",
+      "codepoints": [
+        440
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0241",
+      "codepoints": [
+        577
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0242",
+      "codepoints": [
+        578
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0243",
+      "codepoints": [
+        579
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0245",
+      "codepoints": [
+        581
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0248",
+      "codepoints": [
+        584
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0249",
+      "codepoints": [
+        585
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024C",
+      "codepoints": [
+        588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024D",
+      "codepoints": [
+        589
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0250",
+      "codepoints": [
+        592
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0264",
+      "codepoints": [
+        612
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0265",
+      "codepoints": [
+        613
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni026F",
+      "codepoints": [
+        623
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0275",
+      "codepoints": [
+        629
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0283",
+      "codepoints": [
+        643
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0288",
+      "codepoints": [
+        648
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni028C",
+      "codepoints": [
+        652
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0298",
+      "codepoints": [
+        664
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02B8",
+      "codepoints": [
+        696
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C1",
+      "codepoints": [
+        705
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C8",
+      "codepoints": [
+        712
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D7",
+      "codepoints": [
+        727
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02EE",
+      "codepoints": [
+        750
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni030D",
+      "codepoints": [
+        781
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0329",
+      "codepoints": [
+        809
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0332",
+      "codepoints": [
+        818
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni035F",
+      "codepoints": [
+        863
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D43",
+      "codepoints": [
+        7491
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D4B",
+      "codepoints": [
+        7499
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D52",
+      "codepoints": [
+        7506
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D53",
+      "codepoints": [
+        7507
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D7D",
+      "codepoints": [
+        7549
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DA4",
+      "codepoints": [
+        7588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DB6",
+      "codepoints": [
+        7606
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC4",
+      "codepoints": [
+        7620
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC5",
+      "codepoints": [
+        7621
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2028",
+      "codepoints": [
+        8232
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2029",
+      "codepoints": [
+        8233
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2071",
+      "codepoints": [
+        8305
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24B6",
+      "codepoints": [
+        9398
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24D0",
+      "codepoints": [
+        9424
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni25CC",
+      "codepoints": [
+        9676
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C63",
+      "codepoints": [
+        11363
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C6F",
+      "codepoints": [
+        11375
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA789",
+      "codepoints": [
+        42889
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78A",
+      "codepoints": [
+        42890
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78D",
+      "codepoints": [
+        42893
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B6",
+      "codepoints": [
+        42934
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B7",
+      "codepoints": [
+        42935
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C7",
+      "codepoints": [
+        42951
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C8",
+      "codepoints": [
+        42952
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7CB",
+      "codepoints": [
+        42955
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0249.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0268.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0458.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1DA4.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1E2D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1ECB.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni2071.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    }
+  ],
+  "Nambli-SemiBoldItalic": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni00A8",
+      "codepoints": [
+        168
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00AF",
+      "codepoints": [
+        175
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B4",
+      "codepoints": [
+        180
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B8",
+      "codepoints": [
+        184
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C6",
+      "codepoints": [
+        710
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C7",
+      "codepoints": [
+        711
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D8",
+      "codepoints": [
+        728
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D9",
+      "codepoints": [
+        729
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DA",
+      "codepoints": [
+        730
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DB",
+      "codepoints": [
+        731
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DC",
+      "codepoints": [
+        732
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DD",
+      "codepoints": [
+        733
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A1",
+      "codepoints": [
+        161
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00BF",
+      "codepoints": [
+        191
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2039",
+      "codepoints": [
+        8249
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni203A",
+      "codepoints": [
+        8250
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2212",
+      "codepoints": [
+        8722
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A2",
+      "codepoints": [
+        162
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B6",
+      "codepoints": [
+        182
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A7",
+      "codepoints": [
+        167
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "periodcentered.loclCAT",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "periodcentered.loclCAT.case",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni030C.alt",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "i.loclTRK",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0180",
+      "codepoints": [
+        384
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0182",
+      "codepoints": [
+        386
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0183",
+      "codepoints": [
+        387
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0187",
+      "codepoints": [
+        391
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0188",
+      "codepoints": [
+        392
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0193",
+      "codepoints": [
+        403
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019C",
+      "codepoints": [
+        412
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019F",
+      "codepoints": [
+        415
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A9",
+      "codepoints": [
+        425
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B8",
+      "codepoints": [
+        440
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0241",
+      "codepoints": [
+        577
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0242",
+      "codepoints": [
+        578
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0243",
+      "codepoints": [
+        579
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0245",
+      "codepoints": [
+        581
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0248",
+      "codepoints": [
+        584
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0249",
+      "codepoints": [
+        585
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024C",
+      "codepoints": [
+        588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024D",
+      "codepoints": [
+        589
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0250",
+      "codepoints": [
+        592
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0264",
+      "codepoints": [
+        612
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0265",
+      "codepoints": [
+        613
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni026F",
+      "codepoints": [
+        623
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0275",
+      "codepoints": [
+        629
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0283",
+      "codepoints": [
+        643
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0288",
+      "codepoints": [
+        648
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni028C",
+      "codepoints": [
+        652
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0298",
+      "codepoints": [
+        664
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02B8",
+      "codepoints": [
+        696
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C1",
+      "codepoints": [
+        705
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C8",
+      "codepoints": [
+        712
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D7",
+      "codepoints": [
+        727
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02EE",
+      "codepoints": [
+        750
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni030D",
+      "codepoints": [
+        781
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0329",
+      "codepoints": [
+        809
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0332",
+      "codepoints": [
+        818
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni035F",
+      "codepoints": [
+        863
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D43",
+      "codepoints": [
+        7491
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D4B",
+      "codepoints": [
+        7499
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D52",
+      "codepoints": [
+        7506
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D53",
+      "codepoints": [
+        7507
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D7D",
+      "codepoints": [
+        7549
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DA4",
+      "codepoints": [
+        7588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DB6",
+      "codepoints": [
+        7606
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC4",
+      "codepoints": [
+        7620
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC5",
+      "codepoints": [
+        7621
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2028",
+      "codepoints": [
+        8232
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2029",
+      "codepoints": [
+        8233
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2071",
+      "codepoints": [
+        8305
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24B6",
+      "codepoints": [
+        9398
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24D0",
+      "codepoints": [
+        9424
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni25CC",
+      "codepoints": [
+        9676
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C63",
+      "codepoints": [
+        11363
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C6F",
+      "codepoints": [
+        11375
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA789",
+      "codepoints": [
+        42889
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78A",
+      "codepoints": [
+        42890
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78D",
+      "codepoints": [
+        42893
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B6",
+      "codepoints": [
+        42934
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B7",
+      "codepoints": [
+        42935
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C7",
+      "codepoints": [
+        42951
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C8",
+      "codepoints": [
+        42952
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7CB",
+      "codepoints": [
+        42955
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0249.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0268.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0458.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1DA4.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1E2D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1ECB.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni2071.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    }
+  ],
+  "Nambli-BoldItalic": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni026C",
+      "codepoints": [
+        620
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7AD",
+      "codepoints": [
+        42925
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni00A8",
+      "codepoints": [
+        168
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00AF",
+      "codepoints": [
+        175
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B4",
+      "codepoints": [
+        180
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B8",
+      "codepoints": [
+        184
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C6",
+      "codepoints": [
+        710
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C7",
+      "codepoints": [
+        711
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D8",
+      "codepoints": [
+        728
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D9",
+      "codepoints": [
+        729
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DA",
+      "codepoints": [
+        730
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DB",
+      "codepoints": [
+        731
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DC",
+      "codepoints": [
+        732
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DD",
+      "codepoints": [
+        733
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A1",
+      "codepoints": [
+        161
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00BF",
+      "codepoints": [
+        191
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2039",
+      "codepoints": [
+        8249
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni203A",
+      "codepoints": [
+        8250
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2212",
+      "codepoints": [
+        8722
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A2",
+      "codepoints": [
+        162
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B6",
+      "codepoints": [
+        182
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A7",
+      "codepoints": [
+        167
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "periodcentered.loclCAT",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "periodcentered.loclCAT.case",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni030C.alt",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "i.loclTRK",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0180",
+      "codepoints": [
+        384
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0182",
+      "codepoints": [
+        386
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0183",
+      "codepoints": [
+        387
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0187",
+      "codepoints": [
+        391
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0188",
+      "codepoints": [
+        392
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0193",
+      "codepoints": [
+        403
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019C",
+      "codepoints": [
+        412
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019F",
+      "codepoints": [
+        415
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A9",
+      "codepoints": [
+        425
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B8",
+      "codepoints": [
+        440
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0241",
+      "codepoints": [
+        577
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0242",
+      "codepoints": [
+        578
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0243",
+      "codepoints": [
+        579
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0245",
+      "codepoints": [
+        581
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0248",
+      "codepoints": [
+        584
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0249",
+      "codepoints": [
+        585
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024C",
+      "codepoints": [
+        588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024D",
+      "codepoints": [
+        589
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0250",
+      "codepoints": [
+        592
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0264",
+      "codepoints": [
+        612
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0265",
+      "codepoints": [
+        613
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni026F",
+      "codepoints": [
+        623
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0275",
+      "codepoints": [
+        629
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0283",
+      "codepoints": [
+        643
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0288",
+      "codepoints": [
+        648
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni028C",
+      "codepoints": [
+        652
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0298",
+      "codepoints": [
+        664
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02B8",
+      "codepoints": [
+        696
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C1",
+      "codepoints": [
+        705
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C8",
+      "codepoints": [
+        712
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D7",
+      "codepoints": [
+        727
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02EE",
+      "codepoints": [
+        750
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni030D",
+      "codepoints": [
+        781
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0329",
+      "codepoints": [
+        809
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0332",
+      "codepoints": [
+        818
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni035F",
+      "codepoints": [
+        863
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D43",
+      "codepoints": [
+        7491
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D4B",
+      "codepoints": [
+        7499
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D52",
+      "codepoints": [
+        7506
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D53",
+      "codepoints": [
+        7507
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D7D",
+      "codepoints": [
+        7549
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DA4",
+      "codepoints": [
+        7588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DB6",
+      "codepoints": [
+        7606
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC4",
+      "codepoints": [
+        7620
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC5",
+      "codepoints": [
+        7621
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2028",
+      "codepoints": [
+        8232
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2029",
+      "codepoints": [
+        8233
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2071",
+      "codepoints": [
+        8305
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24B6",
+      "codepoints": [
+        9398
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24D0",
+      "codepoints": [
+        9424
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni25CC",
+      "codepoints": [
+        9676
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C63",
+      "codepoints": [
+        11363
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C6F",
+      "codepoints": [
+        11375
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA789",
+      "codepoints": [
+        42889
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78A",
+      "codepoints": [
+        42890
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78D",
+      "codepoints": [
+        42893
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B6",
+      "codepoints": [
+        42934
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B7",
+      "codepoints": [
+        42935
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C7",
+      "codepoints": [
+        42951
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C8",
+      "codepoints": [
+        42952
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7CB",
+      "codepoints": [
+        42955
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0249.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0268.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0458.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1DA4.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1E2D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1ECB.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni2071.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    }
+  ],
+  "Nambli-ExtraBoldItalic": [
+    {
+      "glyph": "uni0040",
+      "codepoints": [
+        64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni026C",
+      "codepoints": [
+        620
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uniA7AD",
+      "codepoints": [
+        42925
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni00A8",
+      "codepoints": [
+        168
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00AF",
+      "codepoints": [
+        175
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B4",
+      "codepoints": [
+        180
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B8",
+      "codepoints": [
+        184
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C6",
+      "codepoints": [
+        710
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C7",
+      "codepoints": [
+        711
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D8",
+      "codepoints": [
+        728
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D9",
+      "codepoints": [
+        729
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DA",
+      "codepoints": [
+        730
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DB",
+      "codepoints": [
+        731
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DC",
+      "codepoints": [
+        732
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02DD",
+      "codepoints": [
+        733
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A1",
+      "codepoints": [
+        161
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00BF",
+      "codepoints": [
+        191
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2039",
+      "codepoints": [
+        8249
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni203A",
+      "codepoints": [
+        8250
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2212",
+      "codepoints": [
+        8722
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A2",
+      "codepoints": [
+        162
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00B6",
+      "codepoints": [
+        182
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni00A7",
+      "codepoints": [
+        167
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "periodcentered.loclCAT",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "periodcentered.loclCAT.case",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni030C.alt",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "i.loclTRK",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0180",
+      "codepoints": [
+        384
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0182",
+      "codepoints": [
+        386
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0183",
+      "codepoints": [
+        387
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0187",
+      "codepoints": [
+        391
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0188",
+      "codepoints": [
+        392
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0193",
+      "codepoints": [
+        403
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019C",
+      "codepoints": [
+        412
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni019F",
+      "codepoints": [
+        415
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A4",
+      "codepoints": [
+        420
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A5",
+      "codepoints": [
+        421
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01A9",
+      "codepoints": [
+        425
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AC",
+      "codepoints": [
+        428
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AD",
+      "codepoints": [
+        429
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01AE",
+      "codepoints": [
+        430
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B8",
+      "codepoints": [
+        440
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni01B9",
+      "codepoints": [
+        441
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0241",
+      "codepoints": [
+        577
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0242",
+      "codepoints": [
+        578
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0243",
+      "codepoints": [
+        579
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0245",
+      "codepoints": [
+        581
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0248",
+      "codepoints": [
+        584
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0249",
+      "codepoints": [
+        585
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024C",
+      "codepoints": [
+        588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni024D",
+      "codepoints": [
+        589
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0250",
+      "codepoints": [
+        592
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0260",
+      "codepoints": [
+        608
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0264",
+      "codepoints": [
+        612
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0265",
+      "codepoints": [
+        613
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0266",
+      "codepoints": [
+        614
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni026F",
+      "codepoints": [
+        623
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0275",
+      "codepoints": [
+        629
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni027D",
+      "codepoints": [
+        637
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0283",
+      "codepoints": [
+        643
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0288",
+      "codepoints": [
+        648
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni028C",
+      "codepoints": [
+        652
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0298",
+      "codepoints": [
+        664
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni029D",
+      "codepoints": [
+        669
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02B8",
+      "codepoints": [
+        696
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C1",
+      "codepoints": [
+        705
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02C8",
+      "codepoints": [
+        712
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02D7",
+      "codepoints": [
+        727
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni02EE",
+      "codepoints": [
+        750
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni030D",
+      "codepoints": [
+        781
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0329",
+      "codepoints": [
+        809
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni0332",
+      "codepoints": [
+        818
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni035F",
+      "codepoints": [
+        863
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D43",
+      "codepoints": [
+        7491
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D4B",
+      "codepoints": [
+        7499
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D52",
+      "codepoints": [
+        7506
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D53",
+      "codepoints": [
+        7507
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1D7D",
+      "codepoints": [
+        7549
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DA4",
+      "codepoints": [
+        7588
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DB6",
+      "codepoints": [
+        7606
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC4",
+      "codepoints": [
+        7620
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni1DC5",
+      "codepoints": [
+        7621
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2028",
+      "codepoints": [
+        8232
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2029",
+      "codepoints": [
+        8233
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2071",
+      "codepoints": [
+        8305
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24B6",
+      "codepoints": [
+        9398
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni24D0",
+      "codepoints": [
+        9424
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni25CC",
+      "codepoints": [
+        9676
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C63",
+      "codepoints": [
+        11363
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C64",
+      "codepoints": [
+        11364
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C6F",
+      "codepoints": [
+        11375
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C72",
+      "codepoints": [
+        11378
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni2C73",
+      "codepoints": [
+        11379
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA789",
+      "codepoints": [
+        42889
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78A",
+      "codepoints": [
+        42890
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA78D",
+      "codepoints": [
+        42893
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7AA",
+      "codepoints": [
+        42922
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B2",
+      "codepoints": [
+        42930
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B4",
+      "codepoints": [
+        42932
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B5",
+      "codepoints": [
+        42933
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B6",
+      "codepoints": [
+        42934
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7B7",
+      "codepoints": [
+        42935
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C7",
+      "codepoints": [
+        42951
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7C8",
+      "codepoints": [
+        42952
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uniA7CB",
+      "codepoints": [
+        42955
+      ],
+      "kind": "new"
+    },
+    {
+      "glyph": "uni012F.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0249.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0268.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni029D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni0458.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1DA4.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1E2D.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni1ECB.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    },
+    {
+      "glyph": "uni2071.dotless",
+      "codepoints": [],
+      "kind": "alternate"
+    }
+  ]
+}

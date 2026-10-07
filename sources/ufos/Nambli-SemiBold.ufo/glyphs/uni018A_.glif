@@ -4,15 +4,9 @@
   <unicode hex="018A"/>
   <outline>
     <contour>
-      <point x="48" y="56" type="qcurve"/>
-      <point x="48" y="59"/>
       <point x="48" y="61" type="qcurve"/>
       <point x="48" y="62"/>
       <point x="48" y="63" type="qcurve"/>
-      <point x="48" y="63"/>
-      <point x="48" y="63" type="qcurve"/>
-      <point x="48" y="74" type="line"/>
-      <point x="48" y="665" type="line"/>
       <point x="48" y="670" type="line"/>
       <point x="48" y="676"/>
       <point x="43" y="679" type="qcurve"/>
@@ -86,7 +80,7 @@
       <point x="52" y="32" type="qcurve"/>
       <point x="49" y="40"/>
       <point x="48" y="56" type="qcurve"/>
-      <point x="48" y="56"/>
+      <point x="48" y="59"/>
     </contour>
     <contour>
       <point x="170" y="599" type="qcurve"/>

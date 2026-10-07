@@ -53,7 +53,6 @@
       <point x="399" y="642" type="qcurve"/>
       <point x="375" y="641"/>
       <point x="375" y="621" type="qcurve"/>
-      <point x="375" y="618" type="line"/>
     </contour>
     <contour>
       <point x="323" y="-48" type="qcurve"/>

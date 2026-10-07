@@ -69,7 +69,6 @@
       <point x="317" y="530" type="qcurve"/>
       <point x="415" y="530"/>
       <point x="467" y="479" type="qcurve"/>
-      <point x="467" y="479" type="line"/>
       <point x="467" y="478" type="line"/>
       <point x="470" y="476"/>
       <point x="474" y="476" type="qcurve"/>

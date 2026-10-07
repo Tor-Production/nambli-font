@@ -1,0 +1,140 @@
+{
+  "baseline": "v0.7.4",
+  "faces": {
+    "Nambli-Bold": {
+      "old_codepoints_preserved": 872,
+      "old_metrics_preserved": 887,
+      "old_normalized_outlines_identical": 884,
+      "changed_outlines_requiring_design_review": [
+        "uni0040",
+        "uni026C",
+        "uniA7AD"
+      ],
+      "candidate_codepoints": 970,
+      "candidate_glyphs": 998
+    },
+    "Nambli-BoldItalic": {
+      "old_codepoints_preserved": 872,
+      "old_metrics_preserved": 887,
+      "old_normalized_outlines_identical": 884,
+      "changed_outlines_requiring_design_review": [
+        "uni0040",
+        "uni026C",
+        "uniA7AD"
+      ],
+      "candidate_codepoints": 970,
+      "candidate_glyphs": 998
+    },
+    "Nambli-ExtraBold": {
+      "old_codepoints_preserved": 872,
+      "old_metrics_preserved": 887,
+      "old_normalized_outlines_identical": 884,
+      "changed_outlines_requiring_design_review": [
+        "uni0040",
+        "uni026C",
+        "uniA7AD"
+      ],
+      "candidate_codepoints": 970,
+      "candidate_glyphs": 998
+    },
+    "Nambli-ExtraBoldItalic": {
+      "old_codepoints_preserved": 872,
+      "old_metrics_preserved": 887,
+      "old_normalized_outlines_identical": 884,
+      "changed_outlines_requiring_design_review": [
+        "uni0040",
+        "uni026C",
+        "uniA7AD"
+      ],
+      "candidate_codepoints": 970,
+      "candidate_glyphs": 998
+    },
+    "Nambli-Italic": {
+      "old_codepoints_preserved": 872,
+      "old_metrics_preserved": 887,
+      "old_normalized_outlines_identical": 886,
+      "changed_outlines_requiring_design_review": [
+        "uni0040"
+      ],
+      "candidate_codepoints": 970,
+      "candidate_glyphs": 998
+    },
+    "Nambli-Light": {
+      "old_codepoints_preserved": 872,
+      "old_metrics_preserved": 887,
+      "old_normalized_outlines_identical": 886,
+      "changed_outlines_requiring_design_review": [
+        "uni0040"
+      ],
+      "candidate_codepoints": 970,
+      "candidate_glyphs": 998
+    },
+    "Nambli-LightItalic": {
+      "old_codepoints_preserved": 872,
+      "old_metrics_preserved": 887,
+      "old_normalized_outlines_identical": 886,
+      "changed_outlines_requiring_design_review": [
+        "uni0040"
+      ],
+      "candidate_codepoints": 970,
+      "candidate_glyphs": 998
+    },
+    "Nambli-Medium": {
+      "old_codepoints_preserved": 872,
+      "old_metrics_preserved": 887,
+      "old_normalized_outlines_identical": 886,
+      "changed_outlines_requiring_design_review": [
+        "uni0040"
+      ],
+      "candidate_codepoints": 970,
+      "candidate_glyphs": 998
+    },
+    "Nambli-MediumItalic": {
+      "old_codepoints_preserved": 872,
+      "old_metrics_preserved": 887,
+      "old_normalized_outlines_identical": 886,
+      "changed_outlines_requiring_design_review": [
+        "uni0040"
+      ],
+      "candidate_codepoints": 970,
+      "candidate_glyphs": 998
+    },
+    "Nambli-Regular": {
+      "old_codepoints_preserved": 872,
+      "old_metrics_preserved": 887,
+      "old_normalized_outlines_identical": 886,
+      "changed_outlines_requiring_design_review": [
+        "uni0040"
+      ],
+      "candidate_codepoints": 970,
+      "candidate_glyphs": 998
+    },
+    "Nambli-SemiBold": {
+      "old_codepoints_preserved": 872,
+      "old_metrics_preserved": 887,
+      "old_normalized_outlines_identical": 886,
+      "changed_outlines_requiring_design_review": [
+        "uni0040"
+      ],
+      "candidate_codepoints": 970,
+      "candidate_glyphs": 998
+    },
+    "Nambli-SemiBoldItalic": {
+      "old_codepoints_preserved": 872,
+      "old_metrics_preserved": 887,
+      "old_normalized_outlines_identical": 886,
+      "changed_outlines_requiring_design_review": [
+        "uni0040"
+      ],
+      "candidate_codepoints": 970,
+      "candidate_glyphs": 998
+    }
+  },
+  "allowed_design_review_glyphs": [
+    "at",
+    "uni0040",
+    "uni026C",
+    "uniA7AD"
+  ],
+  "status": "PASS: only explicitly listed review candidates may differ"
+}

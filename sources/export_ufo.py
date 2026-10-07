@@ -1,8 +1,8 @@
 # Copyright 2026 The Nambli Project Authors (https://github.com/Tor-Production/nambli-font)
 # SPDX-License-Identifier: OFL-1.1
-"""Export and validate editable UFO3 snapshots of the approved static TTFs.
+"""Export and validate editable UFO3 snapshots of the input static TTFs.
 
-This preserves the approved quadratic curves; it is not a replacement for the
+This preserves the input quadratic curves; it is not a replacement for the
 original parametric Python design sources. See README.md for the exact scope.
 Run with Python and fonttools installed, or pass --deps to a local dependency
 directory. No input file is changed.
@@ -122,7 +122,7 @@ def feature_source(original, italic):
     return re.sub(r'<anchor (-?\d+) (-?\d+)>', replace, original)
 
 
-def export_one(ttf, features, output):
+def export_one(ttf, features, output, transform_italic=True):
     from fontTools.ttLib import TTFont
     from fontTools.pens.pointPen import SegmentToPointPen
     from fontTools.pens.recordingPen import RecordingPointPen
@@ -134,7 +134,7 @@ def export_one(ttf, features, output):
     reverse = {}
     for cp, glyph in sorted(cmap.items()):
         reverse.setdefault(glyph, []).append(cp)
-    assert len(order) == 887 and len(cmap) == 872, (ttf.name, len(order), len(cmap))
+    assert order and cmap, (ttf.name, 'empty font')
     assert not any(font['glyf'][n].isComposite() for n in order)
     italic = bool(font['OS/2'].fsSelection & 1)
     ufo = output / (ttf.stem + '.ufo')
@@ -147,13 +147,13 @@ def export_one(ttf, features, output):
         'com.nambli.snapshot.sourceTTF': ttf.name,
         'com.nambli.snapshot.sourceSHA256': digest(ttf.read_bytes()),
         'com.nambli.snapshot.sourceVersion': font['name'].getDebugName(5) or str(font['head'].fontRevision),
-        'com.nambli.snapshot.scope': 'Exact editable approved quadratic outlines; retain original Python design sources separately.',
+        'com.nambli.snapshot.scope': 'Exact editable quadratic outlines; retain original Python design sources separately.',
         'com.nambli.snapshot.hmtx': {n: list(font['hmtx'][n]) for n in order},
         'com.nambli.snapshot.legacyKernSubtables': [
             {'version': k.version, 'coverage': k.coverage, 'pairCount': len(k.kernTable)}
             for k in font['kern'].kernTables],
     })
-    writer.writeFeatures(feature_source(features, italic))
+    writer.writeFeatures(feature_source(features, italic) if transform_italic else features)
     kern = {}
     for table in font['kern'].kernTables:
         assert table.version == 0 and table.coverage == 1
@@ -236,10 +236,25 @@ def validate_one(ttf, ufo):
                 return result, removed
             before, removed_before = contours_without_duplicate_close(old_coordinates, old_ends, old_flags)
             after, removed_after = contours_without_duplicate_close(new_coordinates, new_ends, new_flags)
-            assert before == after, (ttf.name, name, 'Unexpected binary representation difference')
-            binary_normalizations.append({'glyph': name, 'kind': 'redundant explicit closing on-curve point',
+            # A legal TrueType contour may start on an off-curve point. UFO's
+            # segment representation and TTGlyphPen can rotate it to an on-curve
+            # start. Prove exact cyclic equality of coordinates AND flags.
+            assert len(before) == len(after), (ttf.name, name, 'Contour count changed')
+            rotations = []
+            for old_contour, new_contour in zip(before, after):
+                assert len(old_contour) == len(new_contour), (ttf.name, name, 'Unexpected point count')
+                if old_contour == new_contour:
+                    rotations.append(0)
+                    continue
+                matching = [i for i, point in enumerate(new_contour)
+                    if point == old_contour[0] and new_contour[i:] + new_contour[:i] == old_contour]
+                assert matching, (ttf.name, name, 'Unexpected binary representation difference')
+                rotations.append(matching[0])
+            kind = 'cyclic contour start rotation' if any(rotations) else 'redundant explicit closing on-curve point'
+            binary_normalizations.append({'glyph': name, 'kind': kind,
                 'sourcePoints': len(old_coordinates), 'roundTripPoints': len(new_coordinates),
-                'duplicateClosingPointsRemoved': removed_before - removed_after})
+                'duplicateClosingPointsRemoved': removed_before - removed_after,
+                'exactContourStartRotations': rotations})
         rebuilt['glyf'][name] = new
         # hmtx uses the TrueType control-point bbox, which can differ from the
         # exact curve-extrema bbox returned by BoundsPen.
@@ -324,7 +339,7 @@ def main():
         'faces': len(results), 'glyphChecks': sum(row['glyphs'] for row in results),
         'unicodeChecks': sum(row['encodedCharacters'] for row in results),
         'featureTableChecks': 3 * len(results),
-        'scope': 'Editable quadratic source snapshots exported from approved TTFs, with original feature source and exact italic anchor transformation.',
+        'scope': 'Editable quadratic source snapshots exported from input TTFs, with original feature source and exact italic anchor transformation.',
         'verified': ['UFO3 read/write validation', 'exact saved UFO point instructions',
             'exact normalized quadratic path round-trip UFO to TTF', 'advances and left sidebearings',
             'Unicode maps', 'glyph order', 'fontinfo fields', 'legacy kern pairs',

@@ -26,5 +26,16 @@ licenses. Brand logos and unrelated Nambli products are outside this font
 package and are not offered under this font license.
 
 No government copyright, trademark or design registration is claimed.
-Google Fonts acceptance and the contributor's CLA are not yet confirmed.
+Google Fonts submission: https://github.com/google/fonts/issues/11082
+Yurii Tor's Google Individual CLA was verified as on file on 2026-10-07.
+Google Fonts acceptance is not confirmed.
 The original raster logo and private conversation are not included.
+
+The 1.000 technical candidate adds Nambli-derived language characters and
+mark/layout support using AI-assisted outline programming. New additions and
+the explicitly documented visual repairs are candidates for human design
+review; the earlier approvals do not imply approval of those new shapes.
+Unicode reference charts informed character structure; no third-party font
+outlines were copied into the additions. Current production sources are the
+editable UFOs, compiled using Fontmake/ufo2ft and FontTools. Tool dependencies
+retain their respective licenses.

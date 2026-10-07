@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "font_files": 36,
+  "exact_ufo_files": 12060,
+  "embedded_fonts": 24,
+  "embedded_repertoires": {
+    "970": 12,
+    "872": 12
+  },
+  "review_faces": 12,
+  "review_cards": {
+    "changed": 20,
+    "new": 1176,
+    "alternate": 156
+  },
+  "external_review_resources": 0
+}
