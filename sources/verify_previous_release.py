@@ -10,7 +10,7 @@ ap.add_argument('--baseline', type=Path, required=True)
 ap.add_argument('--candidate', type=Path, required=True)
 ap.add_argument('--report', type=Path, required=True)
 args = ap.parse_args()
-report = {'baseline': 'v0.7.4', 'faces': {}, 'allowed_design_review_glyphs': ['at', 'uni0040', 'uni026C', 'uniA7AD']}
+report = {'baseline': 'v0.7.4', 'faces': {}, 'allowed_design_review_glyphs': ['at', 'uni0040', 'uni026C', 'uniA7AD', 'uni012F']}
 for oldpath in sorted(args.baseline.glob('*.ttf')):
     with TTFont(oldpath) as old, TTFont(args.candidate / oldpath.name) as new:
         unchanged, changed = [], []

@@ -1,14 +1,13 @@
 {
-  "faces": {
-    "Nambli-Bold": {
-      "editable_FEA_binary_exact": true,
-      "same_layout_TTF_OTF": true,
-      "new_loop_contour_checks": {
-        "uni029D": 3,
-        "uniA7B2": 2,
-        "uni0264": 2,
-        "uniA7CB": 2
-      },
+  "status": "PASS",
+  "faces": 12,
+  "shaping_probes": 216,
+  "counter_topology_checks": 60,
+  "results": [
+    {
+      "font": "Nambli-Bold.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
       "tests": [
         {
           "text": "i̍",
@@ -16,18 +15,6 @@
           "glyphs": [
             "idotless.alt",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              524
-            ]
           ]
         },
         {
@@ -36,18 +23,6 @@
           "glyphs": [
             "uni0237",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -130,
-              524
-            ]
           ]
         },
         {
@@ -57,23 +32,6 @@
             "idotless.alt",
             "uni0329",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              28
-            ],
-            [
-              0,
-              -125,
-              524
-            ]
           ]
         },
         {
@@ -82,18 +40,22 @@
           "glyphs": [
             "uni012F.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              541
-            ]
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
           ]
         },
         {
@@ -102,18 +64,6 @@
           "glyphs": [
             "uni1E2D.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              541
-            ]
           ]
         },
         {
@@ -122,18 +72,6 @@
           "glyphs": [
             "uni1ECB.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              541
-            ]
           ]
         },
         {
@@ -142,18 +80,6 @@
           "glyphs": [
             "uni0268.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              541
-            ]
           ]
         },
         {
@@ -162,18 +88,6 @@
           "glyphs": [
             "uni0458.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -195,
-              541
-            ]
           ]
         },
         {
@@ -183,23 +97,6 @@
             "l",
             "periodcentered.loclCAT",
             "l"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -209,23 +106,6 @@
             "L",
             "periodcentered.loclCAT.case",
             "L"
-          ],
-          "positions": [
-            [
-              562,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              562,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -233,13 +113,6 @@
           "language": "tr",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -247,13 +120,6 @@
           "language": "az",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -332,18 +198,12 @@
           ]
         }
       ],
-      "codepoints": 970,
-      "glyphs": 998
+      "open_counter_contours_verified": 5
     },
-    "Nambli-BoldItalic": {
-      "editable_FEA_binary_exact": true,
-      "same_layout_TTF_OTF": true,
-      "new_loop_contour_checks": {
-        "uni029D": 3,
-        "uniA7B2": 2,
-        "uni0264": 2,
-        "uniA7CB": 2
-      },
+    {
+      "font": "Nambli-BoldItalic.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
       "tests": [
         {
           "text": "i̍",
@@ -351,18 +211,6 @@
           "glyphs": [
             "idotless.alt",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -32,
-              524
-            ]
           ]
         },
         {
@@ -371,18 +219,6 @@
           "glyphs": [
             "uni0237",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -37,
-              524
-            ]
           ]
         },
         {
@@ -392,23 +228,6 @@
             "idotless.alt",
             "uni0329",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -120,
-              28
-            ],
-            [
-              0,
-              -32,
-              524
-            ]
           ]
         },
         {
@@ -417,18 +236,22 @@
           "glyphs": [
             "uni012F.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -29,
-              541
-            ]
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
           ]
         },
         {
@@ -437,18 +260,6 @@
           "glyphs": [
             "uni1E2D.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -29,
-              541
-            ]
           ]
         },
         {
@@ -457,18 +268,6 @@
           "glyphs": [
             "uni1ECB.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -29,
-              541
-            ]
           ]
         },
         {
@@ -477,18 +276,6 @@
           "glyphs": [
             "uni0268.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -29,
-              541
-            ]
           ]
         },
         {
@@ -497,18 +284,6 @@
           "glyphs": [
             "uni0458.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -99,
-              541
-            ]
           ]
         },
         {
@@ -518,23 +293,6 @@
             "l",
             "periodcentered.loclCAT",
             "l"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -544,23 +302,6 @@
             "L",
             "periodcentered.loclCAT.case",
             "L"
-          ],
-          "positions": [
-            [
-              562,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              562,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -568,13 +309,6 @@
           "language": "tr",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -582,13 +316,6 @@
           "language": "az",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -667,18 +394,12 @@
           ]
         }
       ],
-      "codepoints": 970,
-      "glyphs": 998
+      "open_counter_contours_verified": 5
     },
-    "Nambli-ExtraBold": {
-      "editable_FEA_binary_exact": true,
-      "same_layout_TTF_OTF": true,
-      "new_loop_contour_checks": {
-        "uni029D": 3,
-        "uniA7B2": 2,
-        "uni0264": 2,
-        "uniA7CB": 2
-      },
+    {
+      "font": "Nambli-ExtraBold.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
       "tests": [
         {
           "text": "i̍",
@@ -686,18 +407,6 @@
           "glyphs": [
             "idotless.alt",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              524
-            ]
           ]
         },
         {
@@ -706,18 +415,6 @@
           "glyphs": [
             "uni0237",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -130,
-              524
-            ]
           ]
         },
         {
@@ -727,23 +424,6 @@
             "idotless.alt",
             "uni0329",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              28
-            ],
-            [
-              0,
-              -125,
-              524
-            ]
           ]
         },
         {
@@ -752,18 +432,22 @@
           "glyphs": [
             "uni012F.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              542
-            ]
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
           ]
         },
         {
@@ -772,18 +456,6 @@
           "glyphs": [
             "uni1E2D.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              542
-            ]
           ]
         },
         {
@@ -792,18 +464,6 @@
           "glyphs": [
             "uni1ECB.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              542
-            ]
           ]
         },
         {
@@ -812,18 +472,6 @@
           "glyphs": [
             "uni0268.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              542
-            ]
           ]
         },
         {
@@ -832,18 +480,6 @@
           "glyphs": [
             "uni0458.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -195,
-              541
-            ]
           ]
         },
         {
@@ -853,23 +489,6 @@
             "l",
             "periodcentered.loclCAT",
             "l"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -879,23 +498,6 @@
             "L",
             "periodcentered.loclCAT.case",
             "L"
-          ],
-          "positions": [
-            [
-              562,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              562,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -903,13 +505,6 @@
           "language": "tr",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -917,13 +512,6 @@
           "language": "az",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -1002,18 +590,12 @@
           ]
         }
       ],
-      "codepoints": 970,
-      "glyphs": 998
+      "open_counter_contours_verified": 5
     },
-    "Nambli-ExtraBoldItalic": {
-      "editable_FEA_binary_exact": true,
-      "same_layout_TTF_OTF": true,
-      "new_loop_contour_checks": {
-        "uni029D": 3,
-        "uniA7B2": 2,
-        "uni0264": 2,
-        "uniA7CB": 2
-      },
+    {
+      "font": "Nambli-ExtraBoldItalic.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
       "tests": [
         {
           "text": "i̍",
@@ -1021,18 +603,6 @@
           "glyphs": [
             "idotless.alt",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -32,
-              524
-            ]
           ]
         },
         {
@@ -1041,18 +611,6 @@
           "glyphs": [
             "uni0237",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -37,
-              524
-            ]
           ]
         },
         {
@@ -1062,23 +620,6 @@
             "idotless.alt",
             "uni0329",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -120,
-              28
-            ],
-            [
-              0,
-              -32,
-              524
-            ]
           ]
         },
         {
@@ -1087,18 +628,22 @@
           "glyphs": [
             "uni012F.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -29,
-              542
-            ]
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
           ]
         },
         {
@@ -1107,18 +652,6 @@
           "glyphs": [
             "uni1E2D.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -29,
-              542
-            ]
           ]
         },
         {
@@ -1127,18 +660,6 @@
           "glyphs": [
             "uni1ECB.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -29,
-              542
-            ]
           ]
         },
         {
@@ -1147,18 +668,6 @@
           "glyphs": [
             "uni0268.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -29,
-              542
-            ]
           ]
         },
         {
@@ -1167,18 +676,6 @@
           "glyphs": [
             "uni0458.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -99,
-              541
-            ]
           ]
         },
         {
@@ -1188,23 +685,6 @@
             "l",
             "periodcentered.loclCAT",
             "l"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -1214,23 +694,6 @@
             "L",
             "periodcentered.loclCAT.case",
             "L"
-          ],
-          "positions": [
-            [
-              562,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              562,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -1238,13 +701,6 @@
           "language": "tr",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -1252,13 +708,6 @@
           "language": "az",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -1337,18 +786,12 @@
           ]
         }
       ],
-      "codepoints": 970,
-      "glyphs": 998
+      "open_counter_contours_verified": 5
     },
-    "Nambli-Italic": {
-      "editable_FEA_binary_exact": true,
-      "same_layout_TTF_OTF": true,
-      "new_loop_contour_checks": {
-        "uni029D": 3,
-        "uniA7B2": 2,
-        "uni0264": 2,
-        "uniA7CB": 2
-      },
+    {
+      "font": "Nambli-Italic.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
       "tests": [
         {
           "text": "i̍",
@@ -1356,18 +799,6 @@
           "glyphs": [
             "idotless.alt",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -32,
-              524
-            ]
           ]
         },
         {
@@ -1376,18 +807,6 @@
           "glyphs": [
             "uni0237",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -37,
-              524
-            ]
           ]
         },
         {
@@ -1397,23 +816,6 @@
             "idotless.alt",
             "uni0329",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -120,
-              28
-            ],
-            [
-              0,
-              -32,
-              524
-            ]
           ]
         },
         {
@@ -1422,18 +824,22 @@
           "glyphs": [
             "uni012F.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -30,
-              539
-            ]
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
           ]
         },
         {
@@ -1442,18 +848,6 @@
           "glyphs": [
             "uni1E2D.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -30,
-              539
-            ]
           ]
         },
         {
@@ -1462,18 +856,6 @@
           "glyphs": [
             "uni1ECB.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -30,
-              539
-            ]
           ]
         },
         {
@@ -1482,18 +864,6 @@
           "glyphs": [
             "uni0268.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -30,
-              539
-            ]
           ]
         },
         {
@@ -1502,18 +872,6 @@
           "glyphs": [
             "uni0458.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -99,
-              541
-            ]
           ]
         },
         {
@@ -1523,23 +881,6 @@
             "l",
             "periodcentered.loclCAT",
             "l"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -1549,23 +890,6 @@
             "L",
             "periodcentered.loclCAT.case",
             "L"
-          ],
-          "positions": [
-            [
-              562,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              562,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -1573,13 +897,6 @@
           "language": "tr",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -1587,13 +904,6 @@
           "language": "az",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -1672,18 +982,12 @@
           ]
         }
       ],
-      "codepoints": 970,
-      "glyphs": 998
+      "open_counter_contours_verified": 5
     },
-    "Nambli-Light": {
-      "editable_FEA_binary_exact": true,
-      "same_layout_TTF_OTF": true,
-      "new_loop_contour_checks": {
-        "uni029D": 3,
-        "uniA7B2": 2,
-        "uni0264": 2,
-        "uniA7CB": 2
-      },
+    {
+      "font": "Nambli-Light.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
       "tests": [
         {
           "text": "i̍",
@@ -1691,18 +995,6 @@
           "glyphs": [
             "idotless.alt",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              524
-            ]
           ]
         },
         {
@@ -1711,18 +1003,6 @@
           "glyphs": [
             "uni0237",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -130,
-              524
-            ]
           ]
         },
         {
@@ -1732,23 +1012,6 @@
             "idotless.alt",
             "uni0329",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              28
-            ],
-            [
-              0,
-              -125,
-              524
-            ]
           ]
         },
         {
@@ -1757,18 +1020,22 @@
           "glyphs": [
             "uni012F.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              537
-            ]
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
           ]
         },
         {
@@ -1777,18 +1044,6 @@
           "glyphs": [
             "uni1E2D.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              537
-            ]
           ]
         },
         {
@@ -1797,18 +1052,6 @@
           "glyphs": [
             "uni1ECB.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              537
-            ]
           ]
         },
         {
@@ -1817,18 +1060,6 @@
           "glyphs": [
             "uni0268.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              537
-            ]
           ]
         },
         {
@@ -1837,18 +1068,6 @@
           "glyphs": [
             "uni0458.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -195,
-              541
-            ]
           ]
         },
         {
@@ -1858,23 +1077,6 @@
             "l",
             "periodcentered.loclCAT",
             "l"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -1884,23 +1086,6 @@
             "L",
             "periodcentered.loclCAT.case",
             "L"
-          ],
-          "positions": [
-            [
-              562,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              562,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -1908,13 +1093,6 @@
           "language": "tr",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -1922,13 +1100,6 @@
           "language": "az",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -2007,18 +1178,12 @@
           ]
         }
       ],
-      "codepoints": 970,
-      "glyphs": 998
+      "open_counter_contours_verified": 5
     },
-    "Nambli-LightItalic": {
-      "editable_FEA_binary_exact": true,
-      "same_layout_TTF_OTF": true,
-      "new_loop_contour_checks": {
-        "uni029D": 3,
-        "uniA7B2": 2,
-        "uni0264": 2,
-        "uniA7CB": 2
-      },
+    {
+      "font": "Nambli-LightItalic.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
       "tests": [
         {
           "text": "i̍",
@@ -2026,18 +1191,6 @@
           "glyphs": [
             "idotless.alt",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -32,
-              524
-            ]
           ]
         },
         {
@@ -2046,18 +1199,6 @@
           "glyphs": [
             "uni0237",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -37,
-              524
-            ]
           ]
         },
         {
@@ -2067,23 +1208,6 @@
             "idotless.alt",
             "uni0329",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -120,
-              28
-            ],
-            [
-              0,
-              -32,
-              524
-            ]
           ]
         },
         {
@@ -2092,18 +1216,22 @@
           "glyphs": [
             "uni012F.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -30,
-              538
-            ]
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
           ]
         },
         {
@@ -2112,18 +1240,6 @@
           "glyphs": [
             "uni1E2D.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -30,
-              538
-            ]
           ]
         },
         {
@@ -2132,18 +1248,6 @@
           "glyphs": [
             "uni1ECB.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -30,
-              538
-            ]
           ]
         },
         {
@@ -2152,18 +1256,6 @@
           "glyphs": [
             "uni0268.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -30,
-              538
-            ]
           ]
         },
         {
@@ -2172,18 +1264,6 @@
           "glyphs": [
             "uni0458.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -99,
-              541
-            ]
           ]
         },
         {
@@ -2193,23 +1273,6 @@
             "l",
             "periodcentered.loclCAT",
             "l"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -2219,23 +1282,6 @@
             "L",
             "periodcentered.loclCAT.case",
             "L"
-          ],
-          "positions": [
-            [
-              562,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              562,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -2243,13 +1289,6 @@
           "language": "tr",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -2257,13 +1296,6 @@
           "language": "az",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -2342,18 +1374,12 @@
           ]
         }
       ],
-      "codepoints": 970,
-      "glyphs": 998
+      "open_counter_contours_verified": 5
     },
-    "Nambli-Medium": {
-      "editable_FEA_binary_exact": true,
-      "same_layout_TTF_OTF": true,
-      "new_loop_contour_checks": {
-        "uni029D": 3,
-        "uniA7B2": 2,
-        "uni0264": 2,
-        "uniA7CB": 2
-      },
+    {
+      "font": "Nambli-Medium.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
       "tests": [
         {
           "text": "i̍",
@@ -2361,18 +1387,6 @@
           "glyphs": [
             "idotless.alt",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              524
-            ]
           ]
         },
         {
@@ -2381,18 +1395,6 @@
           "glyphs": [
             "uni0237",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -130,
-              524
-            ]
           ]
         },
         {
@@ -2402,23 +1404,6 @@
             "idotless.alt",
             "uni0329",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              28
-            ],
-            [
-              0,
-              -125,
-              524
-            ]
           ]
         },
         {
@@ -2427,18 +1412,22 @@
           "glyphs": [
             "uni012F.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              540
-            ]
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
           ]
         },
         {
@@ -2447,18 +1436,6 @@
           "glyphs": [
             "uni1E2D.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              540
-            ]
           ]
         },
         {
@@ -2467,18 +1444,6 @@
           "glyphs": [
             "uni1ECB.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              540
-            ]
           ]
         },
         {
@@ -2487,18 +1452,6 @@
           "glyphs": [
             "uni0268.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              540
-            ]
           ]
         },
         {
@@ -2507,18 +1460,6 @@
           "glyphs": [
             "uni0458.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -195,
-              541
-            ]
           ]
         },
         {
@@ -2528,23 +1469,6 @@
             "l",
             "periodcentered.loclCAT",
             "l"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -2554,23 +1478,6 @@
             "L",
             "periodcentered.loclCAT.case",
             "L"
-          ],
-          "positions": [
-            [
-              562,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              562,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -2578,13 +1485,6 @@
           "language": "tr",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -2592,13 +1492,6 @@
           "language": "az",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -2677,18 +1570,12 @@
           ]
         }
       ],
-      "codepoints": 970,
-      "glyphs": 998
+      "open_counter_contours_verified": 5
     },
-    "Nambli-MediumItalic": {
-      "editable_FEA_binary_exact": true,
-      "same_layout_TTF_OTF": true,
-      "new_loop_contour_checks": {
-        "uni029D": 3,
-        "uniA7B2": 2,
-        "uni0264": 2,
-        "uniA7CB": 2
-      },
+    {
+      "font": "Nambli-MediumItalic.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
       "tests": [
         {
           "text": "i̍",
@@ -2696,18 +1583,6 @@
           "glyphs": [
             "idotless.alt",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -32,
-              524
-            ]
           ]
         },
         {
@@ -2716,18 +1591,6 @@
           "glyphs": [
             "uni0237",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -37,
-              524
-            ]
           ]
         },
         {
@@ -2737,23 +1600,6 @@
             "idotless.alt",
             "uni0329",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -120,
-              28
-            ],
-            [
-              0,
-              -32,
-              524
-            ]
           ]
         },
         {
@@ -2762,18 +1608,22 @@
           "glyphs": [
             "uni012F.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -30,
-              540
-            ]
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
           ]
         },
         {
@@ -2782,18 +1632,6 @@
           "glyphs": [
             "uni1E2D.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -30,
-              540
-            ]
           ]
         },
         {
@@ -2802,18 +1640,6 @@
           "glyphs": [
             "uni1ECB.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -30,
-              540
-            ]
           ]
         },
         {
@@ -2822,18 +1648,6 @@
           "glyphs": [
             "uni0268.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -30,
-              540
-            ]
           ]
         },
         {
@@ -2842,18 +1656,6 @@
           "glyphs": [
             "uni0458.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -99,
-              541
-            ]
           ]
         },
         {
@@ -2863,23 +1665,6 @@
             "l",
             "periodcentered.loclCAT",
             "l"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -2889,23 +1674,6 @@
             "L",
             "periodcentered.loclCAT.case",
             "L"
-          ],
-          "positions": [
-            [
-              562,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              562,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -2913,13 +1681,6 @@
           "language": "tr",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -2927,13 +1688,6 @@
           "language": "az",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -3012,18 +1766,12 @@
           ]
         }
       ],
-      "codepoints": 970,
-      "glyphs": 998
+      "open_counter_contours_verified": 5
     },
-    "Nambli-Regular": {
-      "editable_FEA_binary_exact": true,
-      "same_layout_TTF_OTF": true,
-      "new_loop_contour_checks": {
-        "uni029D": 3,
-        "uniA7B2": 2,
-        "uni0264": 2,
-        "uniA7CB": 2
-      },
+    {
+      "font": "Nambli-Regular.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
       "tests": [
         {
           "text": "i̍",
@@ -3031,18 +1779,6 @@
           "glyphs": [
             "idotless.alt",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              524
-            ]
           ]
         },
         {
@@ -3051,18 +1787,6 @@
           "glyphs": [
             "uni0237",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -130,
-              524
-            ]
           ]
         },
         {
@@ -3072,23 +1796,6 @@
             "idotless.alt",
             "uni0329",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              28
-            ],
-            [
-              0,
-              -125,
-              524
-            ]
           ]
         },
         {
@@ -3097,18 +1804,22 @@
           "glyphs": [
             "uni012F.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              539
-            ]
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
           ]
         },
         {
@@ -3117,18 +1828,6 @@
           "glyphs": [
             "uni1E2D.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              539
-            ]
           ]
         },
         {
@@ -3137,18 +1836,6 @@
           "glyphs": [
             "uni1ECB.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              539
-            ]
           ]
         },
         {
@@ -3157,18 +1844,6 @@
           "glyphs": [
             "uni0268.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              539
-            ]
           ]
         },
         {
@@ -3177,18 +1852,6 @@
           "glyphs": [
             "uni0458.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -195,
-              541
-            ]
           ]
         },
         {
@@ -3198,23 +1861,6 @@
             "l",
             "periodcentered.loclCAT",
             "l"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -3224,23 +1870,6 @@
             "L",
             "periodcentered.loclCAT.case",
             "L"
-          ],
-          "positions": [
-            [
-              562,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              562,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -3248,13 +1877,6 @@
           "language": "tr",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -3262,13 +1884,6 @@
           "language": "az",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -3347,18 +1962,12 @@
           ]
         }
       ],
-      "codepoints": 970,
-      "glyphs": 998
+      "open_counter_contours_verified": 5
     },
-    "Nambli-SemiBold": {
-      "editable_FEA_binary_exact": true,
-      "same_layout_TTF_OTF": true,
-      "new_loop_contour_checks": {
-        "uni029D": 3,
-        "uniA7B2": 2,
-        "uni0264": 2,
-        "uniA7CB": 2
-      },
+    {
+      "font": "Nambli-SemiBold.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
       "tests": [
         {
           "text": "i̍",
@@ -3366,18 +1975,6 @@
           "glyphs": [
             "idotless.alt",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              524
-            ]
           ]
         },
         {
@@ -3386,18 +1983,6 @@
           "glyphs": [
             "uni0237",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -130,
-              524
-            ]
           ]
         },
         {
@@ -3407,23 +1992,6 @@
             "idotless.alt",
             "uni0329",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              28
-            ],
-            [
-              0,
-              -125,
-              524
-            ]
           ]
         },
         {
@@ -3432,18 +2000,22 @@
           "glyphs": [
             "uni012F.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              540
-            ]
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
           ]
         },
         {
@@ -3452,18 +2024,6 @@
           "glyphs": [
             "uni1E2D.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              540
-            ]
           ]
         },
         {
@@ -3472,18 +2032,6 @@
           "glyphs": [
             "uni1ECB.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              540
-            ]
           ]
         },
         {
@@ -3492,18 +2040,6 @@
           "glyphs": [
             "uni0268.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -125,
-              540
-            ]
           ]
         },
         {
@@ -3512,18 +2048,6 @@
           "glyphs": [
             "uni0458.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -195,
-              541
-            ]
           ]
         },
         {
@@ -3533,23 +2057,6 @@
             "l",
             "periodcentered.loclCAT",
             "l"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -3559,23 +2066,6 @@
             "L",
             "periodcentered.loclCAT.case",
             "L"
-          ],
-          "positions": [
-            [
-              562,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              562,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -3583,13 +2073,6 @@
           "language": "tr",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -3597,13 +2080,6 @@
           "language": "az",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -3682,18 +2158,12 @@
           ]
         }
       ],
-      "codepoints": 970,
-      "glyphs": 998
+      "open_counter_contours_verified": 5
     },
-    "Nambli-SemiBoldItalic": {
-      "editable_FEA_binary_exact": true,
-      "same_layout_TTF_OTF": true,
-      "new_loop_contour_checks": {
-        "uni029D": 3,
-        "uniA7B2": 2,
-        "uni0264": 2,
-        "uniA7CB": 2
-      },
+    {
+      "font": "Nambli-SemiBoldItalic.ttf",
+      "editable_features_compile_exactly": true,
+      "OTF_layout_identical": true,
       "tests": [
         {
           "text": "i̍",
@@ -3701,18 +2171,6 @@
           "glyphs": [
             "idotless.alt",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -32,
-              524
-            ]
           ]
         },
         {
@@ -3721,18 +2179,6 @@
           "glyphs": [
             "uni0237",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -37,
-              524
-            ]
           ]
         },
         {
@@ -3742,23 +2188,6 @@
             "idotless.alt",
             "uni0329",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -120,
-              28
-            ],
-            [
-              0,
-              -32,
-              524
-            ]
           ]
         },
         {
@@ -3767,18 +2196,22 @@
           "glyphs": [
             "uni012F.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -29,
-              541
-            ]
+          ]
+        },
+        {
+          "text": "į́",
+          "language": "lt",
+          "glyphs": [
+            "uni012F.dotless",
+            "uni0301"
+          ]
+        },
+        {
+          "text": "ʝ̍",
+          "language": "en",
+          "glyphs": [
+            "uni029D.dotless",
+            "uni030D"
           ]
         },
         {
@@ -3787,18 +2220,6 @@
           "glyphs": [
             "uni1E2D.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -29,
-              541
-            ]
           ]
         },
         {
@@ -3807,18 +2228,6 @@
           "glyphs": [
             "uni1ECB.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -29,
-              541
-            ]
           ]
         },
         {
@@ -3827,18 +2236,6 @@
           "glyphs": [
             "uni0268.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              0,
-              -29,
-              541
-            ]
           ]
         },
         {
@@ -3847,18 +2244,6 @@
           "glyphs": [
             "uni0458.dotless",
             "uni030D"
-          ],
-          "positions": [
-            [
-              390,
-              0,
-              0
-            ],
-            [
-              0,
-              -99,
-              541
-            ]
           ]
         },
         {
@@ -3868,23 +2253,6 @@
             "l",
             "periodcentered.loclCAT",
             "l"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -3894,23 +2262,6 @@
             "L",
             "periodcentered.loclCAT.case",
             "L"
-          ],
-          "positions": [
-            [
-              562,
-              0,
-              0
-            ],
-            [
-              260,
-              0,
-              0
-            ],
-            [
-              562,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -3918,13 +2269,6 @@
           "language": "tr",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -3932,13 +2276,6 @@
           "language": "az",
           "glyphs": [
             "i.loclTRK"
-          ],
-          "positions": [
-            [
-              250,
-              0,
-              0
-            ]
           ]
         },
         {
@@ -4017,9 +2354,7 @@
           ]
         }
       ],
-      "codepoints": 970,
-      "glyphs": 998
+      "open_counter_contours_verified": 5
     }
-  },
-  "limitations": "This checks technical shaping, not native-reader approval of all new designs."
+  ]
 }

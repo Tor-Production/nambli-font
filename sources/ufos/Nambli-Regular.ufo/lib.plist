@@ -5055,7 +5055,7 @@
     <key>com.nambli.snapshot.scope</key>
     <string>Exact editable quadratic outlines; retain original Python design sources separately.</string>
     <key>com.nambli.snapshot.sourceSHA256</key>
-    <string>d2dcc1a7fa38c0e06397bfd94666c6faa101675297f33c5e1791acc201aa9cf2</string>
+    <string>4dc40a20210ccdb6d800b16a8f71dbed45f2d78b4bc40c05abad522cdd30c2fd</string>
     <key>com.nambli.snapshot.sourceTTF</key>
     <string>Nambli-Regular.ttf</string>
     <key>com.nambli.snapshot.sourceVersion</key>

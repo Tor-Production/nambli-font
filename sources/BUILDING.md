@@ -60,11 +60,27 @@ python sources/verify_previous_release.py --baseline BASELINE_TTF_DIRECTORY --ca
 python sources/make_review.py --baseline BASELINE_TTF_DIRECTORY --fonts fonts/ttf --output review-output
 ```
 
-The comparison permits only the documented design repairs to `@`, `ɬ` and `Ɬ`;
+The comparison permits only the documented design repairs to `@`, `ɬ`, `Ɬ` and `į`;
 every previous character mapping and metric must remain identical. It compares
 exact curve geometry while ignoring redundant zero segments and contour start
 rotation. The review page lists every new or changed outline, including
 unencoded layout alternatives, with all twelve styles and language examples.
+
+To compare the latest refinement with a previously saved candidate, pass its
+TTF directory as the baseline and add `--refinement --baseline-label previous-candidate
+--filename Nambli-Refinement-Review.html`. This includes only changed shapes,
+including unencoded alternatives. The committed refinement proof uses the
+candidate from commit `671f777` as its baseline.
+
+Check the refined font's actual language substitutions, combining-mark
+stacking, loop contours and matching TTF/OTF feature tables with:
+
+```sh
+python sources/validate_refinement.py --fonts fonts/ttf --otfs fonts/otf --ufos sources/ufos --report refinement-language-check.json
+```
+
+Expect PASS for 216 shaping probes and 60 counter-topology checks across the
+twelve faces. This check uses the same pinned Python requirements as the build.
 
 ## Historical construction sources
 

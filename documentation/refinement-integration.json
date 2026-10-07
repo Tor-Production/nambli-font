@@ -1,0 +1,4170 @@
+{
+  "status": "PASS",
+  "allowed": [
+    "uni0040",
+    "uni012F",
+    "uni012F.dotless",
+    "uni01A4",
+    "uni01A5",
+    "uni01AC",
+    "uni01AD",
+    "uni01AE",
+    "uni01B9",
+    "uni0260",
+    "uni0266",
+    "uni027D",
+    "uni029D",
+    "uni029D.dotless",
+    "uni2C64",
+    "uni2C72",
+    "uni2C73",
+    "uniA7AA",
+    "uniA7B2",
+    "uniA7B4",
+    "uniA7B5"
+  ],
+  "faces": [
+    {
+      "font": "Nambli-Bold.ttf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
+      ],
+      "unchanged_outlines": 977,
+      "all_metrics_cmap_layout_metadata_exact": true,
+      "cleanup": {
+        "uni0040": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              572,
+              464
+            ],
+            "b": [
+              572,
+              345
+            ],
+            "c": [
+              572,
+              335
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_line",
+            "a": [
+              487,
+              345
+            ],
+            "b": [
+              487,
+              345
+            ],
+            "c": [
+              487,
+              345
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_line",
+            "a": [
+              487,
+              345
+            ],
+            "b": [
+              487,
+              345
+            ],
+            "c": [
+              487,
+              357
+            ]
+          }
+        ],
+        "uni012F": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              211,
+              397
+            ],
+            "b": [
+              211,
+              108
+            ],
+            "c": [
+              211,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              109,
+              -95
+            ],
+            "b": [
+              109,
+              -95
+            ],
+            "c": [
+              109,
+              -95
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              79,
+              108
+            ],
+            "b": [
+              79,
+              108
+            ],
+            "c": [
+              79,
+              397
+            ]
+          }
+        ],
+        "uni012F.dotless": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              211,
+              397
+            ],
+            "b": [
+              211,
+              108
+            ],
+            "c": [
+              211,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              109,
+              -95
+            ],
+            "b": [
+              109,
+              -95
+            ],
+            "c": [
+              109,
+              -95
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              79,
+              108
+            ],
+            "b": [
+              79,
+              108
+            ],
+            "c": [
+              79,
+              397
+            ]
+          }
+        ],
+        "uni0260": [
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              426,
+              503
+            ],
+            "b": [
+              426,
+              503
+            ],
+            "c": [
+              436,
+              498
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              510,
+              590
+            ],
+            "b": [
+              510,
+              590
+            ],
+            "c": [
+              509,
+              588
+            ]
+          }
+        ],
+        "uni2C72": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              834,
+              594
+            ],
+            "b": [
+              827,
+              565
+            ],
+            "c": [
+              827,
+              565
+            ]
+          }
+        ]
+      },
+      "sha256": "29df01260cb041734a44df1d8889ce6cb6a8273a2a2235693644b5550fc48993"
+    },
+    {
+      "font": "Nambli-BoldItalic.ttf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
+      ],
+      "unchanged_outlines": 977,
+      "all_metrics_cmap_layout_metadata_exact": true,
+      "cleanup": {
+        "uni0040": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              608,
+              472
+            ],
+            "b": [
+              586,
+              345
+            ],
+            "c": [
+              586,
+              345
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              530,
+              491
+            ],
+            "b": [
+              530,
+              491
+            ],
+            "c": [
+              530,
+              491
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              530,
+              491
+            ],
+            "b": [
+              530,
+              491
+            ],
+            "c": [
+              531,
+              492
+            ]
+          }
+        ],
+        "uni012F": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              181,
+              110
+            ],
+            "b": [
+              181,
+              108
+            ],
+            "c": [
+              181,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              43,
+              -95
+            ],
+            "b": [
+              43,
+              -95
+            ],
+            "c": [
+              43,
+              -95
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              43,
+              -95
+            ],
+            "b": [
+              43,
+              -95
+            ],
+            "c": [
+              43,
+              -95
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              47,
+              108
+            ],
+            "b": [
+              47,
+              108
+            ],
+            "c": [
+              48,
+              117
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              49,
+              120
+            ],
+            "b": [
+              49,
+              120
+            ],
+            "c": [
+              98,
+              396
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              232,
+              396
+            ],
+            "b": [
+              183,
+              120
+            ],
+            "c": [
+              183,
+              120
+            ]
+          }
+        ],
+        "uni012F.dotless": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              181,
+              110
+            ],
+            "b": [
+              181,
+              108
+            ],
+            "c": [
+              181,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              43,
+              -95
+            ],
+            "b": [
+              43,
+              -95
+            ],
+            "c": [
+              43,
+              -95
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              43,
+              -95
+            ],
+            "b": [
+              43,
+              -95
+            ],
+            "c": [
+              43,
+              -95
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              47,
+              108
+            ],
+            "b": [
+              47,
+              108
+            ],
+            "c": [
+              48,
+              117
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              49,
+              120
+            ],
+            "b": [
+              49,
+              120
+            ],
+            "c": [
+              98,
+              396
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              232,
+              396
+            ],
+            "b": [
+              183,
+              120
+            ],
+            "c": [
+              183,
+              120
+            ]
+          }
+        ],
+        "uni01A5": [
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              223,
+              368
+            ],
+            "b": [
+              223,
+              368
+            ],
+            "c": [
+              223,
+              368
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              135,
+              -126
+            ],
+            "b": [
+              223,
+              368
+            ],
+            "c": [
+              223,
+              368
+            ]
+          }
+        ],
+        "uni01AC": [
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              494,
+              605
+            ],
+            "b": [
+              494,
+              605
+            ],
+            "c": [
+              494,
+              605
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              495,
+              606
+            ],
+            "b": [
+              494,
+              605
+            ],
+            "c": [
+              494,
+              605
+            ]
+          }
+        ],
+        "uni01AD": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              334,
+              39
+            ],
+            "b": [
+              328,
+              35
+            ],
+            "c": [
+              322,
+              31
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              122,
+              300
+            ],
+            "b": [
+              122,
+              303
+            ],
+            "c": [
+              122,
+              306
+            ]
+          }
+        ],
+        "uni01AE": [
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              453,
+              605
+            ],
+            "b": [
+              453,
+              605
+            ],
+            "c": [
+              453,
+              605
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              454,
+              606
+            ],
+            "b": [
+              453,
+              605
+            ],
+            "c": [
+              453,
+              605
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              450,
+              593
+            ],
+            "b": [
+              372,
+              155
+            ],
+            "c": [
+              372,
+              155
+            ]
+          }
+        ],
+        "uni0260": [
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              357,
+              530
+            ],
+            "b": [
+              357,
+              530
+            ],
+            "c": [
+              390,
+              530
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              600,
+              410
+            ],
+            "b": [
+              600,
+              410
+            ],
+            "c": [
+              600,
+              410
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              600,
+              410
+            ],
+            "b": [
+              600,
+              410
+            ],
+            "c": [
+              594,
+              375
+            ]
+          }
+        ],
+        "uni0266": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              585,
+              131
+            ],
+            "b": [
+              587,
+              125
+            ],
+            "c": [
+              589,
+              119
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              589,
+              119
+            ],
+            "b": [
+              589,
+              112
+            ],
+            "c": [
+              589,
+              106
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              589,
+              119
+            ],
+            "b": [
+              589,
+              106
+            ],
+            "c": [
+              589,
+              99
+            ]
+          }
+        ],
+        "uni027D": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              205,
+              292
+            ],
+            "b": [
+              180,
+              155
+            ],
+            "c": [
+              180,
+              155
+            ]
+          }
+        ],
+        "uni2C72": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              893,
+              594
+            ],
+            "b": [
+              880,
+              565
+            ],
+            "c": [
+              880,
+              565
+            ]
+          }
+        ],
+        "uniA7B4": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              -14,
+              -147
+            ],
+            "b": [
+              52,
+              231
+            ],
+            "c": [
+              52,
+              231
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_quadratic_control",
+            "a": [
+              162,
+              219
+            ],
+            "b": [
+              162,
+              219
+            ],
+            "c": [
+              162,
+              219
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_line",
+            "a": [
+              162,
+              219
+            ],
+            "b": [
+              162,
+              219
+            ],
+            "c": [
+              162,
+              219
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_line",
+            "a": [
+              162,
+              219
+            ],
+            "b": [
+              162,
+              219
+            ],
+            "c": [
+              158,
+              197
+            ]
+          }
+        ],
+        "uniA7B5": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              -14,
+              -147
+            ],
+            "b": [
+              50,
+              216
+            ],
+            "c": [
+              50,
+              216
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_line",
+            "a": [
+              159,
+              203
+            ],
+            "b": [
+              159,
+              203
+            ],
+            "c": [
+              156,
+              183
+            ]
+          }
+        ]
+      },
+      "sha256": "2d67b0e70006ea9333673749d93fcee828d69e4a1aaf0a6179f08e564420f1fc"
+    },
+    {
+      "font": "Nambli-ExtraBold.ttf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
+      ],
+      "unchanged_outlines": 977,
+      "all_metrics_cmap_layout_metadata_exact": true,
+      "cleanup": {
+        "uni0040": [
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              323,
+              196
+            ],
+            "b": [
+              323,
+              196
+            ],
+            "c": [
+              301,
+              208
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              572,
+              460
+            ],
+            "b": [
+              572,
+              345
+            ],
+            "c": [
+              572,
+              335
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              483,
+              196
+            ],
+            "b": [
+              483,
+              196
+            ],
+            "c": [
+              464,
+              186
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              403,
+              175
+            ],
+            "b": [
+              403,
+              175
+            ],
+            "c": [
+              382,
+              175
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_line",
+            "a": [
+              479,
+              345
+            ],
+            "b": [
+              479,
+              345
+            ],
+            "c": [
+              479,
+              360
+            ]
+          }
+        ],
+        "uni012F": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              228,
+              391
+            ],
+            "b": [
+              228,
+              108
+            ],
+            "c": [
+              228,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              82,
+              108
+            ],
+            "b": [
+              82,
+              108
+            ],
+            "c": [
+              82,
+              391
+            ]
+          }
+        ],
+        "uni012F.dotless": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              228,
+              391
+            ],
+            "b": [
+              228,
+              108
+            ],
+            "c": [
+              228,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              82,
+              108
+            ],
+            "b": [
+              82,
+              108
+            ],
+            "c": [
+              82,
+              391
+            ]
+          }
+        ],
+        "uni0260": [
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              509,
+              583
+            ],
+            "b": [
+              509,
+              583
+            ],
+            "c": [
+              509,
+              583
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              509,
+              583
+            ],
+            "b": [
+              509,
+              583
+            ],
+            "c": [
+              509,
+              583
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              509,
+              583
+            ],
+            "b": [
+              509,
+              583
+            ],
+            "c": [
+              509,
+              583
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              509,
+              583
+            ],
+            "b": [
+              509,
+              583
+            ],
+            "c": [
+              508,
+              579
+            ]
+          }
+        ],
+        "uni0266": [
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              195,
+              513
+            ],
+            "b": [
+              195,
+              513
+            ],
+            "c": [
+              195,
+              513
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              195,
+              513
+            ],
+            "b": [
+              195,
+              513
+            ],
+            "c": [
+              201,
+              515
+            ]
+          }
+        ],
+        "uni2C72": [
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              775,
+              788
+            ],
+            "b": [
+              775,
+              788
+            ],
+            "c": [
+              775,
+              788
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              775,
+              788
+            ],
+            "b": [
+              775,
+              788
+            ],
+            "c": [
+              774,
+              787
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              837,
+              592
+            ],
+            "b": [
+              829,
+              565
+            ],
+            "c": [
+              829,
+              565
+            ]
+          }
+        ],
+        "uni2C73": [
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              688,
+              578
+            ],
+            "b": [
+              688,
+              578
+            ],
+            "c": [
+              688,
+              578
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              688,
+              578
+            ],
+            "b": [
+              688,
+              578
+            ],
+            "c": [
+              687,
+              576
+            ]
+          }
+        ]
+      },
+      "sha256": "97f9d371e56b22974b13e5ebfd9c8cbb55a2bfb403cfe19dbc7ae8d3cb045985"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic.ttf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
+      ],
+      "unchanged_outlines": 977,
+      "all_metrics_cmap_layout_metadata_exact": true,
+      "cleanup": {
+        "uni0040": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              608,
+              467
+            ],
+            "b": [
+              586,
+              345
+            ],
+            "c": [
+              586,
+              345
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              608,
+              467
+            ],
+            "b": [
+              586,
+              345
+            ],
+            "c": [
+              586,
+              345
+            ]
+          }
+        ],
+        "uni012F": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              200,
+              109
+            ],
+            "b": [
+              200,
+              108
+            ],
+            "c": [
+              200,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              52,
+              108
+            ],
+            "b": [
+              52,
+              108
+            ],
+            "c": [
+              53,
+              116
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              54,
+              120
+            ],
+            "b": [
+              54,
+              120
+            ],
+            "c": [
+              102,
+              390
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              250,
+              390
+            ],
+            "b": [
+              202,
+              120
+            ],
+            "c": [
+              202,
+              120
+            ]
+          },
+          {
+            "contour": 2,
+            "kind": "zero_area_point_contour",
+            "points": 4
+          }
+        ],
+        "uni012F.dotless": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              200,
+              109
+            ],
+            "b": [
+              200,
+              108
+            ],
+            "c": [
+              200,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              52,
+              108
+            ],
+            "b": [
+              52,
+              108
+            ],
+            "c": [
+              53,
+              116
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              54,
+              120
+            ],
+            "b": [
+              54,
+              120
+            ],
+            "c": [
+              102,
+              390
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              250,
+              390
+            ],
+            "b": [
+              202,
+              120
+            ],
+            "c": [
+              202,
+              120
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_area_point_contour",
+            "points": 4
+          }
+        ],
+        "uni027D": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              220,
+              291
+            ],
+            "b": [
+              196,
+              155
+            ],
+            "c": [
+              196,
+              155
+            ]
+          }
+        ],
+        "uni2C64": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              403,
+              126
+            ],
+            "b": [
+              350,
+              200
+            ],
+            "c": [
+              350,
+              200
+            ]
+          }
+        ],
+        "uni2C72": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              895,
+              592
+            ],
+            "b": [
+              883,
+              565
+            ],
+            "c": [
+              883,
+              565
+            ]
+          }
+        ],
+        "uniA7B4": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              -12,
+              -145
+            ],
+            "b": [
+              54,
+              234
+            ],
+            "c": [
+              54,
+              234
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_line",
+            "a": [
+              178,
+              225
+            ],
+            "b": [
+              178,
+              225
+            ],
+            "c": [
+              178,
+              223
+            ]
+          }
+        ],
+        "uniA7B5": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              -12,
+              -145
+            ],
+            "b": [
+              52,
+              218
+            ],
+            "c": [
+              52,
+              218
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_line",
+            "a": [
+              175,
+              209
+            ],
+            "b": [
+              175,
+              209
+            ],
+            "c": [
+              175,
+              207
+            ]
+          }
+        ]
+      },
+      "sha256": "904cf88044c9f9eae3a197c28718479395ada78de00c665c968a302a5aa179cb"
+    },
+    {
+      "font": "Nambli-Italic.ttf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
+      ],
+      "unchanged_outlines": 977,
+      "all_metrics_cmap_layout_metadata_exact": true,
+      "cleanup": {
+        "uni0040": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              610,
+              482
+            ],
+            "b": [
+              586,
+              345
+            ],
+            "c": [
+              586,
+              345
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              610,
+              482
+            ],
+            "b": [
+              586,
+              345
+            ],
+            "c": [
+              586,
+              345
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              496,
+              210
+            ],
+            "b": [
+              496,
+              210
+            ],
+            "c": [
+              496,
+              210
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              496,
+              210
+            ],
+            "b": [
+              496,
+              210
+            ],
+            "c": [
+              486,
+              204
+            ]
+          }
+        ],
+        "uni012F": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              141,
+              116
+            ],
+            "b": [
+              139,
+              108
+            ],
+            "c": [
+              139,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              39,
+              120
+            ],
+            "b": [
+              39,
+              120
+            ],
+            "c": [
+              91,
+              409
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              192,
+              409
+            ],
+            "b": [
+              141,
+              120
+            ],
+            "c": [
+              141,
+              120
+            ]
+          }
+        ],
+        "uni012F.dotless": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              141,
+              116
+            ],
+            "b": [
+              139,
+              108
+            ],
+            "c": [
+              139,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              39,
+              120
+            ],
+            "b": [
+              39,
+              120
+            ],
+            "c": [
+              91,
+              409
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              192,
+              409
+            ],
+            "b": [
+              141,
+              120
+            ],
+            "c": [
+              141,
+              120
+            ]
+          }
+        ],
+        "uni01AD": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              332,
+              129
+            ],
+            "b": [
+              335,
+              126
+            ],
+            "c": [
+              338,
+              123
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              347,
+              101
+            ],
+            "b": [
+              347,
+              96
+            ],
+            "c": [
+              347,
+              91
+            ]
+          }
+        ],
+        "uni01AE": [
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              255,
+              155
+            ],
+            "b": [
+              255,
+              155
+            ],
+            "c": [
+              337,
+              620
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              438,
+              618
+            ],
+            "b": [
+              356,
+              155
+            ],
+            "c": [
+              356,
+              155
+            ]
+          }
+        ],
+        "uni0266": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              105,
+              602
+            ],
+            "b": [
+              114,
+              651
+            ],
+            "c": [
+              114,
+              651
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              561,
+              128
+            ],
+            "b": [
+              565,
+              126
+            ],
+            "c": [
+              569,
+              124
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              579,
+              114
+            ],
+            "b": [
+              581,
+              110
+            ],
+            "c": [
+              585,
+              102
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              586,
+              97
+            ],
+            "b": [
+              586,
+              92
+            ],
+            "c": [
+              586,
+              82
+            ]
+          }
+        ],
+        "uni027D": [
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              48,
+              155
+            ],
+            "b": [
+              48,
+              155
+            ],
+            "c": [
+              98,
+              444
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              174,
+              294
+            ],
+            "b": [
+              149,
+              155
+            ],
+            "c": [
+              149,
+              155
+            ]
+          }
+        ],
+        "uni2C64": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              121,
+              688
+            ],
+            "b": [
+              121,
+              689
+            ],
+            "c": [
+              121,
+              690
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              510,
+              209
+            ],
+            "b": [
+              517,
+              200
+            ],
+            "c": [
+              517,
+              200
+            ]
+          }
+        ],
+        "uni2C72": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              647,
+              266
+            ],
+            "b": [
+              781,
+              565
+            ],
+            "c": [
+              781,
+              565
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              858,
+              528
+            ],
+            "b": [
+              858,
+              528
+            ],
+            "c": [
+              858,
+              528
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              889,
+              598
+            ],
+            "b": [
+              858,
+              528
+            ],
+            "c": [
+              858,
+              528
+            ]
+          }
+        ],
+        "uniA7B4": [
+          {
+            "contour": 1,
+            "kind": "zero_line",
+            "a": [
+              133,
+              211
+            ],
+            "b": [
+              133,
+              211
+            ],
+            "c": [
+              129,
+              185
+            ]
+          }
+        ],
+        "uniA7B5": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              -17,
+              -150
+            ],
+            "b": [
+              47,
+              210
+            ],
+            "c": [
+              47,
+              210
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_line",
+            "a": [
+              130,
+              196
+            ],
+            "b": [
+              130,
+              196
+            ],
+            "c": [
+              126,
+              172
+            ]
+          }
+        ]
+      },
+      "sha256": "dda906132b56d6a83691f092e768cbcf9f228262fd016e223cdd1cb5606f891d"
+    },
+    {
+      "font": "Nambli-Light.ttf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
+      ],
+      "unchanged_outlines": 977,
+      "all_metrics_cmap_layout_metadata_exact": true,
+      "cleanup": {
+        "uni0040": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              572,
+              479
+            ],
+            "b": [
+              572,
+              345
+            ],
+            "c": [
+              572,
+              335
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              403,
+              175
+            ],
+            "b": [
+              403,
+              175
+            ],
+            "c": [
+              382,
+              175
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_line",
+            "a": [
+              521,
+              345
+            ],
+            "b": [
+              521,
+              345
+            ],
+            "c": [
+              521,
+              369
+            ]
+          }
+        ],
+        "uni012F": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              143,
+              418
+            ],
+            "b": [
+              143,
+              108
+            ],
+            "c": [
+              143,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              63,
+              108
+            ],
+            "b": [
+              63,
+              108
+            ],
+            "c": [
+              63,
+              418
+            ]
+          }
+        ],
+        "uni012F.dotless": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              143,
+              418
+            ],
+            "b": [
+              143,
+              108
+            ],
+            "c": [
+              143,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              63,
+              108
+            ],
+            "b": [
+              63,
+              108
+            ],
+            "c": [
+              63,
+              418
+            ]
+          }
+        ],
+        "uni2C64": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              460,
+              257
+            ],
+            "b": [
+              513,
+              200
+            ],
+            "c": [
+              513,
+              200
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              453,
+              150
+            ],
+            "b": [
+              407,
+              200
+            ],
+            "c": [
+              407,
+              200
+            ]
+          }
+        ],
+        "uni2C72": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              664,
+              259
+            ],
+            "b": [
+              747,
+              565
+            ],
+            "c": [
+              747,
+              565
+            ]
+          }
+        ],
+        "uni2C73": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              672,
+              412
+            ],
+            "b": [
+              673,
+              412
+            ],
+            "c": [
+              673,
+              412
+            ]
+          }
+        ]
+      },
+      "sha256": "8f4a1f5656d277bb295d182fad021f1cea546114c82eda6255035888e1250745"
+    },
+    {
+      "font": "Nambli-LightItalic.ttf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
+      ],
+      "unchanged_outlines": 977,
+      "all_metrics_cmap_layout_metadata_exact": true,
+      "cleanup": {
+        "uni0040": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              566,
+              503
+            ],
+            "b": [
+              568,
+              505
+            ],
+            "c": [
+              570,
+              507
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              612,
+              488
+            ],
+            "b": [
+              586,
+              345
+            ],
+            "c": [
+              586,
+              345
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              612,
+              488
+            ],
+            "b": [
+              586,
+              345
+            ],
+            "c": [
+              586,
+              345
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              704,
+              345
+            ],
+            "b": [
+              704,
+              345
+            ],
+            "c": [
+              712,
+              390
+            ]
+          }
+        ],
+        "uni012F": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              113,
+              110
+            ],
+            "b": [
+              113,
+              108
+            ],
+            "c": [
+              113,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              32,
+              108
+            ],
+            "b": [
+              32,
+              108
+            ],
+            "c": [
+              32,
+              112
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              34,
+              120
+            ],
+            "b": [
+              34,
+              120
+            ],
+            "c": [
+              86,
+              417
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              167,
+              417
+            ],
+            "b": [
+              115,
+              120
+            ],
+            "c": [
+              115,
+              120
+            ]
+          }
+        ],
+        "uni012F.dotless": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              113,
+              110
+            ],
+            "b": [
+              113,
+              108
+            ],
+            "c": [
+              113,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              32,
+              108
+            ],
+            "b": [
+              32,
+              108
+            ],
+            "c": [
+              32,
+              112
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              34,
+              120
+            ],
+            "b": [
+              34,
+              120
+            ],
+            "c": [
+              86,
+              417
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              167,
+              417
+            ],
+            "b": [
+              115,
+              120
+            ],
+            "c": [
+              115,
+              120
+            ]
+          }
+        ],
+        "uni01A4": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              285,
+              699
+            ],
+            "b": [
+              285,
+              700
+            ],
+            "c": [
+              285,
+              701
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_quadratic_control",
+            "a": [
+              344,
+              581
+            ],
+            "b": [
+              344,
+              581
+            ],
+            "c": [
+              344,
+              581
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_line",
+            "a": [
+              344,
+              581
+            ],
+            "b": [
+              344,
+              581
+            ],
+            "c": [
+              316,
+              420
+            ]
+          }
+        ],
+        "uni01AD": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              337,
+              98
+            ],
+            "b": [
+              337,
+              95
+            ],
+            "c": [
+              337,
+              91
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              334,
+              79
+            ],
+            "b": [
+              332,
+              75
+            ],
+            "c": [
+              330,
+              71
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              334,
+              79
+            ],
+            "b": [
+              330,
+              71
+            ],
+            "c": [
+              328,
+              67
+            ]
+          }
+        ],
+        "uni01AE": [
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              354,
+              200
+            ],
+            "b": [
+              354,
+              200
+            ],
+            "c": [
+              354,
+              200
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              429,
+              626
+            ],
+            "b": [
+              354,
+              200
+            ],
+            "c": [
+              354,
+              200
+            ]
+          }
+        ],
+        "uni0260": [
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              624,
+              440
+            ],
+            "b": [
+              624,
+              440
+            ],
+            "c": [
+              624,
+              440
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              624,
+              440
+            ],
+            "b": [
+              624,
+              440
+            ],
+            "c": [
+              613,
+              432
+            ]
+          }
+        ],
+        "uni0266": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              97,
+              557
+            ],
+            "b": [
+              105,
+              602
+            ],
+            "c": [
+              105,
+              602
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              584,
+              84
+            ],
+            "b": [
+              584,
+              80
+            ],
+            "c": [
+              584,
+              76
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              584,
+              84
+            ],
+            "b": [
+              584,
+              76
+            ],
+            "c": [
+              584,
+              72
+            ]
+          }
+        ],
+        "uni027D": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              516,
+              456
+            ],
+            "b": [
+              516,
+              449
+            ],
+            "c": [
+              516,
+              441
+            ]
+          }
+        ],
+        "uni2C64": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              500,
+              202
+            ],
+            "b": [
+              502,
+              200
+            ],
+            "c": [
+              502,
+              200
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              433,
+              150
+            ],
+            "b": [
+              395,
+              200
+            ],
+            "c": [
+              395,
+              200
+            ]
+          }
+        ],
+        "uni2C72": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              662,
+              260
+            ],
+            "b": [
+              798,
+              565
+            ],
+            "c": [
+              798,
+              565
+            ]
+          }
+        ],
+        "uni2C73": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              593,
+              218
+            ],
+            "b": [
+              697,
+              412
+            ],
+            "c": [
+              697,
+              412
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              593,
+              218
+            ],
+            "b": [
+              697,
+              412
+            ],
+            "c": [
+              697,
+              412
+            ]
+          }
+        ]
+      },
+      "sha256": "d8e8e899d99309e9910d02c5b92b8b2b91e89093ea6740f3331c29f183f1b57d"
+    },
+    {
+      "font": "Nambli-Medium.ttf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
+      ],
+      "unchanged_outlines": 977,
+      "all_metrics_cmap_layout_metadata_exact": true,
+      "cleanup": {
+        "uni0040": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              572,
+              469
+            ],
+            "b": [
+              572,
+              345
+            ],
+            "c": [
+              572,
+              335
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              403,
+              175
+            ],
+            "b": [
+              403,
+              175
+            ],
+            "c": [
+              382,
+              175
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_line",
+            "a": [
+              499,
+              345
+            ],
+            "b": [
+              499,
+              345
+            ],
+            "c": [
+              499,
+              345
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_line",
+            "a": [
+              499,
+              345
+            ],
+            "b": [
+              499,
+              345
+            ],
+            "c": [
+              499,
+              365
+            ]
+          }
+        ],
+        "uni012F": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              187,
+              404
+            ],
+            "b": [
+              187,
+              108
+            ],
+            "c": [
+              187,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              73,
+              108
+            ],
+            "b": [
+              73,
+              108
+            ],
+            "c": [
+              73,
+              404
+            ]
+          }
+        ],
+        "uni012F.dotless": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              187,
+              404
+            ],
+            "b": [
+              187,
+              108
+            ],
+            "c": [
+              187,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              73,
+              108
+            ],
+            "b": [
+              73,
+              108
+            ],
+            "c": [
+              73,
+              404
+            ]
+          }
+        ],
+        "uni2C72": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              833,
+              596
+            ],
+            "b": [
+              824,
+              565
+            ],
+            "c": [
+              824,
+              565
+            ]
+          }
+        ]
+      },
+      "sha256": "9e1ebf8e2c67e4e5f259822ecfebb9d414792c9942a68c8cf5dbdf13833c18be"
+    },
+    {
+      "font": "Nambli-MediumItalic.ttf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
+      ],
+      "unchanged_outlines": 977,
+      "all_metrics_cmap_layout_metadata_exact": true,
+      "cleanup": {
+        "uni0040": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              610,
+              488
+            ],
+            "b": [
+              610,
+              485
+            ],
+            "c": [
+              610,
+              477
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              610,
+              477
+            ],
+            "b": [
+              586,
+              345
+            ],
+            "c": [
+              586,
+              345
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              610,
+              477
+            ],
+            "b": [
+              586,
+              345
+            ],
+            "c": [
+              586,
+              345
+            ]
+          }
+        ],
+        "uni012F": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              160,
+              117
+            ],
+            "b": [
+              158,
+              108
+            ],
+            "c": [
+              158,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              44,
+              120
+            ],
+            "b": [
+              44,
+              120
+            ],
+            "c": [
+              95,
+              403
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              210,
+              403
+            ],
+            "b": [
+              160,
+              120
+            ],
+            "c": [
+              160,
+              120
+            ]
+          }
+        ],
+        "uni012F.dotless": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              160,
+              117
+            ],
+            "b": [
+              158,
+              108
+            ],
+            "c": [
+              158,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              44,
+              120
+            ],
+            "b": [
+              44,
+              120
+            ],
+            "c": [
+              95,
+              403
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              210,
+              403
+            ],
+            "b": [
+              160,
+              120
+            ],
+            "c": [
+              160,
+              120
+            ]
+          }
+        ],
+        "uni01AD": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              337,
+              135
+            ],
+            "b": [
+              341,
+              131
+            ],
+            "c": [
+              344,
+              128
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              354,
+              103
+            ],
+            "b": [
+              354,
+              98
+            ],
+            "c": [
+              354,
+              92
+            ]
+          }
+        ],
+        "uni01AE": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              444,
+              612
+            ],
+            "b": [
+              363,
+              155
+            ],
+            "c": [
+              363,
+              155
+            ]
+          }
+        ],
+        "uni0260": [
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              592,
+              369
+            ],
+            "b": [
+              592,
+              369
+            ],
+            "c": [
+              592,
+              369
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              592,
+              369
+            ],
+            "b": [
+              592,
+              369
+            ],
+            "c": [
+              576,
+              278
+            ]
+          }
+        ],
+        "uni0266": [
+          {
+            "contour": 0,
+            "kind": "zero_quadratic_control",
+            "a": [
+              116,
+              661
+            ],
+            "b": [
+              116,
+              661
+            ],
+            "c": [
+              116,
+              661
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              116,
+              661
+            ],
+            "b": [
+              116,
+              661
+            ],
+            "c": [
+              118,
+              672
+            ]
+          }
+        ],
+        "uni027D": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              187,
+              293
+            ],
+            "b": [
+              163,
+              155
+            ],
+            "c": [
+              163,
+              155
+            ]
+          }
+        ],
+        "uni2C64": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              418,
+              138
+            ],
+            "b": [
+              371,
+              200
+            ],
+            "c": [
+              371,
+              200
+            ]
+          }
+        ],
+        "uniA7B4": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              -16,
+              -148
+            ],
+            "b": [
+              51,
+              228
+            ],
+            "c": [
+              51,
+              228
+            ]
+          }
+        ],
+        "uniA7B5": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              -16,
+              -148
+            ],
+            "b": [
+              48,
+              212
+            ],
+            "c": [
+              48,
+              212
+            ]
+          }
+        ]
+      },
+      "sha256": "0c86626d34cb6570bfc7124816b27f4a6a48a2e4e624fd9f2a750f41cca85aa2"
+    },
+    {
+      "font": "Nambli-Regular.ttf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
+      ],
+      "unchanged_outlines": 977,
+      "all_metrics_cmap_layout_metadata_exact": true,
+      "cleanup": {
+        "uni0040": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              572,
+              474
+            ],
+            "b": [
+              572,
+              345
+            ],
+            "c": [
+              572,
+              345
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              572,
+              474
+            ],
+            "b": [
+              572,
+              345
+            ],
+            "c": [
+              572,
+              345
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              572,
+              474
+            ],
+            "b": [
+              572,
+              345
+            ],
+            "c": [
+              572,
+              335
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              403,
+              175
+            ],
+            "b": [
+              403,
+              175
+            ],
+            "c": [
+              382,
+              175
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_line",
+            "a": [
+              508,
+              345
+            ],
+            "b": [
+              508,
+              345
+            ],
+            "c": [
+              508,
+              367
+            ]
+          }
+        ],
+        "uni012F": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              169,
+              410
+            ],
+            "b": [
+              169,
+              108
+            ],
+            "c": [
+              169,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              69,
+              108
+            ],
+            "b": [
+              69,
+              108
+            ],
+            "c": [
+              69,
+              410
+            ]
+          }
+        ],
+        "uni012F.dotless": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              169,
+              410
+            ],
+            "b": [
+              169,
+              108
+            ],
+            "c": [
+              169,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              69,
+              108
+            ],
+            "b": [
+              69,
+              108
+            ],
+            "c": [
+              69,
+              410
+            ]
+          }
+        ],
+        "uni2C72": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              648,
+              266
+            ],
+            "b": [
+              726,
+              552
+            ],
+            "c": [
+              726,
+              552
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              831,
+              598
+            ],
+            "b": [
+              822,
+              565
+            ],
+            "c": [
+              822,
+              565
+            ]
+          }
+        ],
+        "uni2C73": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              587,
+              224
+            ],
+            "b": [
+              652,
+              402
+            ],
+            "c": [
+              652,
+              402
+            ]
+          }
+        ]
+      },
+      "sha256": "1675c4c6471ff4e092e0150ae61228bc2ec2ebea8c28686083209b8565de7974"
+    },
+    {
+      "font": "Nambli-SemiBold.ttf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
+      ],
+      "unchanged_outlines": 977,
+      "all_metrics_cmap_layout_metadata_exact": true,
+      "cleanup": {
+        "uni0040": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              572,
+              467
+            ],
+            "b": [
+              572,
+              345
+            ],
+            "c": [
+              572,
+              335
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              403,
+              175
+            ],
+            "b": [
+              403,
+              175
+            ],
+            "c": [
+              382,
+              175
+            ]
+          },
+          {
+            "contour": 1,
+            "kind": "zero_line",
+            "a": [
+              493,
+              345
+            ],
+            "b": [
+              493,
+              345
+            ],
+            "c": [
+              493,
+              364
+            ]
+          }
+        ],
+        "uni012F": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              198,
+              401
+            ],
+            "b": [
+              198,
+              108
+            ],
+            "c": [
+              198,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              76,
+              108
+            ],
+            "b": [
+              76,
+              108
+            ],
+            "c": [
+              76,
+              401
+            ]
+          }
+        ],
+        "uni012F.dotless": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              198,
+              401
+            ],
+            "b": [
+              198,
+              108
+            ],
+            "c": [
+              198,
+              108
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              76,
+              108
+            ],
+            "b": [
+              76,
+              108
+            ],
+            "c": [
+              76,
+              401
+            ]
+          }
+        ],
+        "uni2C72": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              833,
+              595
+            ],
+            "b": [
+              825,
+              565
+            ],
+            "c": [
+              825,
+              565
+            ]
+          }
+        ]
+      },
+      "sha256": "e641b8d96f5b6758c2bcd4671f58c82f403b5463be85cef7744ff601480543bb"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic.ttf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
+      ],
+      "unchanged_outlines": 977,
+      "all_metrics_cmap_layout_metadata_exact": true,
+      "cleanup": {
+        "uni0040": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              609,
+              475
+            ],
+            "b": [
+              586,
+              345
+            ],
+            "c": [
+              586,
+              345
+            ]
+          }
+        ],
+        "uni012F": [
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              46,
+              108
+            ],
+            "b": [
+              46,
+              108
+            ],
+            "c": [
+              47,
+              114
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              48,
+              120
+            ],
+            "b": [
+              48,
+              120
+            ],
+            "c": [
+              97,
+              400
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              222,
+              400
+            ],
+            "b": [
+              173,
+              120
+            ],
+            "c": [
+              173,
+              120
+            ]
+          }
+        ],
+        "uni012F.dotless": [
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              46,
+              108
+            ],
+            "b": [
+              46,
+              108
+            ],
+            "c": [
+              47,
+              114
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              48,
+              120
+            ],
+            "b": [
+              48,
+              120
+            ],
+            "c": [
+              97,
+              400
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              222,
+              400
+            ],
+            "b": [
+              173,
+              120
+            ],
+            "c": [
+              173,
+              120
+            ]
+          }
+        ],
+        "uni01AD": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              340,
+              139
+            ],
+            "b": [
+              344,
+              135
+            ],
+            "c": [
+              348,
+              131
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              359,
+              105
+            ],
+            "b": [
+              359,
+              99
+            ],
+            "c": [
+              359,
+              92
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              126,
+              298
+            ],
+            "b": [
+              126,
+              301
+            ],
+            "c": [
+              126,
+              303
+            ]
+          }
+        ],
+        "uni01AE": [
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              243,
+              155
+            ],
+            "b": [
+              243,
+              155
+            ],
+            "c": [
+              323,
+              610
+            ]
+          }
+        ],
+        "uni0266": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              587,
+              88
+            ],
+            "b": [
+              585,
+              82
+            ],
+            "c": [
+              583,
+              76
+            ]
+          }
+        ],
+        "uni027D": [
+          {
+            "contour": 0,
+            "kind": "zero_line",
+            "a": [
+              47,
+              155
+            ],
+            "b": [
+              47,
+              155
+            ],
+            "c": [
+              96,
+              434
+            ]
+          },
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              196,
+              293
+            ],
+            "b": [
+              171,
+              155
+            ],
+            "c": [
+              171,
+              155
+            ]
+          }
+        ],
+        "uni2C72": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              892,
+              595
+            ],
+            "b": [
+              879,
+              565
+            ],
+            "c": [
+              879,
+              565
+            ]
+          }
+        ],
+        "uniA7B4": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              -15,
+              -147
+            ],
+            "b": [
+              51,
+              229
+            ],
+            "c": [
+              51,
+              229
+            ]
+          }
+        ],
+        "uniA7B5": [
+          {
+            "contour": 0,
+            "kind": "collinear_line_point",
+            "a": [
+              -15,
+              -147
+            ],
+            "b": [
+              49,
+              214
+            ],
+            "c": [
+              49,
+              214
+            ]
+          }
+        ]
+      },
+      "sha256": "0b379a933ecf491985aa77f0dba75d8ff85093b6d76b553c4121b91c2396a105"
+    }
+  ]
+}

@@ -1,17 +1,30 @@
 {
   "status": "PASS",
   "font_files": 36,
-  "exact_ufo_files": 12060,
-  "embedded_fonts": 24,
-  "embedded_repertoires": {
-    "970": 12,
-    "872": 12
-  },
-  "review_faces": 12,
-  "review_cards": {
-    "changed": 20,
-    "new": 1176,
-    "alternate": 156
-  },
-  "external_review_resources": 0
+  "pages": [
+    {
+      "page": "review/Nambli-Technical-Review.html",
+      "faces": 12,
+      "cards": {
+        "changed": 32,
+        "new": 1176,
+        "alternate": 156
+      },
+      "embedded_fonts": 24,
+      "embedded_new_glyphs_match_final": 11976,
+      "embedded_layout_matches_final": true,
+      "external_resources": 0
+    },
+    {
+      "page": "refinement/Nambli-Refinement-Review.html",
+      "faces": 12,
+      "cards": {
+        "changed": 252
+      },
+      "embedded_fonts": 24,
+      "embedded_new_glyphs_match_final": 11976,
+      "embedded_layout_matches_final": true,
+      "external_resources": 0
+    }
+  ]
 }

@@ -1,0 +1,298 @@
+{
+  "status": "PASS",
+  "faces": 12,
+  "circularCounters": 36,
+  "counterResults": [
+    {
+      "face": "Nambli-Bold",
+      "glyph": "uni029D",
+      "radius": 89.0,
+      "maxRadialError": 0.44900782009825946,
+      "widthHeightDifference": 0.0,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-Bold",
+      "glyph": "uni029D.dotless",
+      "radius": 89.0,
+      "maxRadialError": 0.44900782009825946,
+      "widthHeightDifference": 0.0,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-Bold",
+      "glyph": "uniA7B2",
+      "radius": 89.0,
+      "maxRadialError": 0.44900782009825946,
+      "widthHeightDifference": 0.0,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-BoldItalic",
+      "glyph": "uni029D",
+      "radius": 88.50602103118322,
+      "maxRadialError": 0.32511118249904314,
+      "widthHeightDifference": 0.024084124732894452,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-BoldItalic",
+      "glyph": "uni029D.dotless",
+      "radius": 88.50602103118322,
+      "maxRadialError": 0.32511118249904314,
+      "widthHeightDifference": 0.024084124732894452,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-BoldItalic",
+      "glyph": "uniA7B2",
+      "radius": 88.5130459239038,
+      "maxRadialError": 0.4758612301597509,
+      "widthHeightDifference": 0.05218369561524128,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-ExtraBold",
+      "glyph": "uni029D",
+      "radius": 83.5,
+      "maxRadialError": 0.4753146973301199,
+      "widthHeightDifference": 0.0,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-ExtraBold",
+      "glyph": "uni029D.dotless",
+      "radius": 83.5,
+      "maxRadialError": 0.4753146973301199,
+      "widthHeightDifference": 0.0,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-ExtraBold",
+      "glyph": "uniA7B2",
+      "radius": 83.5,
+      "maxRadialError": 0.4753146973301199,
+      "widthHeightDifference": 0.0,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-ExtraBoldItalic",
+      "glyph": "uni029D",
+      "radius": 82.78010113104935,
+      "maxRadialError": 0.43038849001412416,
+      "widthHeightDifference": 0.8795954758025744,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-ExtraBoldItalic",
+      "glyph": "uni029D.dotless",
+      "radius": 82.78010113104935,
+      "maxRadialError": 0.43038849001412416,
+      "widthHeightDifference": 0.8795954758025744,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-ExtraBoldItalic",
+      "glyph": "uniA7B2",
+      "radius": 83.00000000000001,
+      "maxRadialError": 0.8668943719636815,
+      "widthHeightDifference": 5.684341886080802e-14,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-Italic",
+      "glyph": "uni029D",
+      "radius": 101.51434801315489,
+      "maxRadialError": 0.44804064575497193,
+      "widthHeightDifference": 0.05739205261951952,
+      "sampledPoints": 881
+    },
+    {
+      "face": "Nambli-Italic",
+      "glyph": "uni029D.dotless",
+      "radius": 101.51434801315489,
+      "maxRadialError": 0.44804064575497193,
+      "widthHeightDifference": 0.05739205261951952,
+      "sampledPoints": 881
+    },
+    {
+      "face": "Nambli-Italic",
+      "glyph": "uniA7B2",
+      "radius": 101.5131437172127,
+      "maxRadialError": 0.45239844224327896,
+      "widthHeightDifference": 0.05257486885079743,
+      "sampledPoints": 881
+    },
+    {
+      "face": "Nambli-Light",
+      "glyph": "uni029D",
+      "radius": 110.0,
+      "maxRadialError": 0.5502177643893305,
+      "widthHeightDifference": 0.0,
+      "sampledPoints": 961
+    },
+    {
+      "face": "Nambli-Light",
+      "glyph": "uni029D.dotless",
+      "radius": 110.0,
+      "maxRadialError": 0.5502177643893305,
+      "widthHeightDifference": 0.0,
+      "sampledPoints": 961
+    },
+    {
+      "face": "Nambli-Light",
+      "glyph": "uniA7B2",
+      "radius": 110.0,
+      "maxRadialError": 0.5502177643893305,
+      "widthHeightDifference": 0.0,
+      "sampledPoints": 961
+    },
+    {
+      "face": "Nambli-LightItalic",
+      "glyph": "uni029D",
+      "radius": 109.5253308569974,
+      "maxRadialError": 0.8645060110006568,
+      "widthHeightDifference": 0.10132342798959826,
+      "sampledPoints": 881
+    },
+    {
+      "face": "Nambli-LightItalic",
+      "glyph": "uni029D.dotless",
+      "radius": 109.5253308569974,
+      "maxRadialError": 0.8645060110006568,
+      "widthHeightDifference": 0.10132342798959826,
+      "sampledPoints": 881
+    },
+    {
+      "face": "Nambli-LightItalic",
+      "glyph": "uniA7B2",
+      "radius": 109.52223444209017,
+      "maxRadialError": 0.7167186045612652,
+      "widthHeightDifference": 0.08893776836066536,
+      "sampledPoints": 881
+    },
+    {
+      "face": "Nambli-Medium",
+      "glyph": "uni029D",
+      "radius": 96.5,
+      "maxRadialError": 0.6870311492228041,
+      "widthHeightDifference": 0.0,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-Medium",
+      "glyph": "uni029D.dotless",
+      "radius": 96.5,
+      "maxRadialError": 0.6870311492228041,
+      "widthHeightDifference": 0.0,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-Medium",
+      "glyph": "uniA7B2",
+      "radius": 96.5,
+      "maxRadialError": 0.6870311492228041,
+      "widthHeightDifference": 0.0,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-MediumItalic",
+      "glyph": "uni029D",
+      "radius": 95.76175899156937,
+      "maxRadialError": 0.4644533346680646,
+      "widthHeightDifference": 0.9529640337225374,
+      "sampledPoints": 881
+    },
+    {
+      "face": "Nambli-MediumItalic",
+      "glyph": "uni029D.dotless",
+      "radius": 95.76175899156937,
+      "maxRadialError": 0.4644533346680646,
+      "widthHeightDifference": 0.9529640337225374,
+      "sampledPoints": 881
+    },
+    {
+      "face": "Nambli-MediumItalic",
+      "glyph": "uniA7B2",
+      "radius": 96.00522303600476,
+      "maxRadialError": 0.7807961827784311,
+      "widthHeightDifference": 0.020892144019057923,
+      "sampledPoints": 881
+    },
+    {
+      "face": "Nambli-Regular",
+      "glyph": "uni029D",
+      "radius": 102.0,
+      "maxRadialError": 0.5868070630839526,
+      "widthHeightDifference": 0.0,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-Regular",
+      "glyph": "uni029D.dotless",
+      "radius": 102.0,
+      "maxRadialError": 0.5868070630839526,
+      "widthHeightDifference": 0.0,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-Regular",
+      "glyph": "uniA7B2",
+      "radius": 102.0,
+      "maxRadialError": 0.5868070630839526,
+      "widthHeightDifference": 0.0,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-SemiBold",
+      "glyph": "uni029D",
+      "radius": 92.75,
+      "maxRadialError": 0.6871574455468163,
+      "widthHeightDifference": 1.0,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-SemiBold",
+      "glyph": "uni029D.dotless",
+      "radius": 92.75,
+      "maxRadialError": 0.6871574455468163,
+      "widthHeightDifference": 1.0,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-SemiBold",
+      "glyph": "uniA7B2",
+      "radius": 92.75,
+      "maxRadialError": 0.6871574455468306,
+      "widthHeightDifference": 1.0,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-SemiBoldItalic",
+      "glyph": "uni029D",
+      "radius": 92.00760024422198,
+      "maxRadialError": 0.829763952631609,
+      "widthHeightDifference": 0.030400976887904108,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-SemiBoldItalic",
+      "glyph": "uni029D.dotless",
+      "radius": 92.00760024422198,
+      "maxRadialError": 0.829763952631609,
+      "widthHeightDifference": 0.030400976887904108,
+      "sampledPoints": 801
+    },
+    {
+      "face": "Nambli-SemiBoldItalic",
+      "glyph": "uniA7B2",
+      "radius": 92.02838083716293,
+      "maxRadialError": 0.8200207624644662,
+      "widthHeightDifference": 0.11352334865171088,
+      "sampledPoints": 801
+    }
+  ],
+  "worstRadialError": 0.8668943719636815,
+  "reversedEzhExactlyCopiesExistingOpenEExceptHorizontalTranslation": true,
+  "circleMeaning": "Equal radii before inherited italic shear, within quadratic and integer-coordinate quantization"
+}

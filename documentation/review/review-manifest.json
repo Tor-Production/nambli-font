@@ -8,6 +8,13 @@
       "kind": "changed"
     },
     {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
       "glyph": "uni00A8",
       "codepoints": [
         168
@@ -764,6 +771,13 @@
       "glyph": "uni0040",
       "codepoints": [
         64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
       ],
       "kind": "changed"
     },
@@ -1528,6 +1542,13 @@
       "kind": "changed"
     },
     {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
       "glyph": "uni00A8",
       "codepoints": [
         168
@@ -2284,6 +2305,13 @@
       "glyph": "uni0040",
       "codepoints": [
         64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
       ],
       "kind": "changed"
     },
@@ -3062,6 +3090,13 @@
       "kind": "changed"
     },
     {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
       "glyph": "uni00A8",
       "codepoints": [
         168
@@ -3836,6 +3871,13 @@
       "kind": "changed"
     },
     {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
       "glyph": "uni00A8",
       "codepoints": [
         168
@@ -4592,6 +4634,13 @@
       "glyph": "uni0040",
       "codepoints": [
         64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
       ],
       "kind": "changed"
     },
@@ -5356,6 +5405,13 @@
       "kind": "changed"
     },
     {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
       "glyph": "uni00A8",
       "codepoints": [
         168
@@ -6116,6 +6172,13 @@
       "kind": "changed"
     },
     {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
       "glyph": "uni00A8",
       "codepoints": [
         168
@@ -6872,6 +6935,13 @@
       "glyph": "uni0040",
       "codepoints": [
         64
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
       ],
       "kind": "changed"
     },
@@ -7650,6 +7720,13 @@
       "kind": "changed"
     },
     {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
+      ],
+      "kind": "changed"
+    },
+    {
       "glyph": "uni00A8",
       "codepoints": [
         168
@@ -8420,6 +8497,13 @@
       "glyph": "uniA7AD",
       "codepoints": [
         42925
+      ],
+      "kind": "changed"
+    },
+    {
+      "glyph": "uni012F",
+      "codepoints": [
+        303
       ],
       "kind": "changed"
     },

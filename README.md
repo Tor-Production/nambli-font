@@ -63,3 +63,9 @@ The 1.000 candidate adds required characters and language support, corrects
 layout and outline defects, and supplies a reproducible production build.
 New and changed designs still need visual review. Detailed results and remaining
 findings are recorded in [Google Fonts status](documentation/GOOGLE-FONTS-STATUS.txt).
+
+The latest [design refinement proof](documentation/refinement/Nambli-Refinement-Review.html)
+compares the previous candidate with the centered `@`, smoother hooks, circular
+crossed-tail loops and reused rounded ƹ. It contains all twelve styles and is
+self-contained. The [complete technical proof](documentation/review/Nambli-Technical-Review.html)
+also includes the full set of additions against v0.7.4.

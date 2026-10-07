@@ -1,106 +1,38 @@
-Nambli candidate QA dispositions — 2026-10-07
+Nambli final QA warning dispositions — 2026-10-07
 
-These notes are evidence and decisions to review, not blanket check waivers.
-The final family must be checked after all candidate patches and Fontmake export.
+1127 PASS, 134 WARN, 704 SKIP, 80 INFO, 0 FAIL, 0 ERROR, 0 FATAL
 
-FIXED / IMPLEMENTED
+No checks excluded. These notes do not turn warnings into passes.
 
-1. Zero outline segments and exact collinear redundant line points.
-   clean_outlines.py removes only exact local degeneracies. All 36 baseline
-   TTF/OTF/WOFF2 files passed post-save exact normalized-segment equality,
-   cmap/order/metrics equality and unrelated-table byte equality. Cubic outlines
-   needed no cleanup. Reports list each removed native point and its reason.
+alt_caron: 48 WARN
+Existing decomposed side-caron outlines need human inspection; localized substitution is tested.
 
-2. Collapsed counters in uni026C (ɬ) / uniA7AD (Ɬ).
-   The original ExtraBoldItalic has no counter in either TTF or OTF. ExtraBold's
-   aperture was ~3 square font units; Bold's was also very small. The candidate
-   reuses the matching Medium aperture in Bold and ExtraBold, upright and italic,
-   translating it with the stem thickness. All existing outside contours and
-   spacing remain exact. This is a visible correction requiring designer review.
+googlefonts/metadata/unreachable_subsetting: 12 WARN
+Google serving subset coverage requires onboarding decisions; no misleading script labels were added.
 
-3. @, U+0040.
-   The original fixed outside bowl radius caused a bulge beyond the right stem
-   at lighter weights. After rejecting an oval candidate, the current candidate
-   reuses the ACTUAL approved a outline at a uniform 0.64 scale. This preserves
-   its circular bowl/counter and optical stroke proportions; it is not redrawn
-   as an arbitrary ellipse. The outer loop is also circular. The return is one
-   cubic with vertical endpoint tangents, matching stem and circular outer loop.
-   In LightItalic and Italic only, the obsolete a exit beyond native x=574 is
-   trimmed where the continuing return takes over. The counter remains exactly
-   the same geometric segments in both TTF and OTF; the other ten faces are
-   unchanged by this terminal correction.
-   Original advance/sidebearing remain; all other glyph outlines remain exact.
-   Before/after: circular-at-all12-before-after.png. Early reference proof:
-   circular-at-Regular-Bold-proof.png. Older at-before-after.png is superseded.
+googlefonts/vendor_id: 12 WARN
+NAMB is not claimed as a registered Microsoft vendor ID.
 
-4. Soft dots and localized alternates.
-   layout_augment.py adds separate dotless alternatives for all supported relevant
-   Soft_Dotted characters; original glyphs remain. Contextual substitution ignores
-   intervening below marks. Catalan dots and Turkic i are wired into locl. A side
-   caron reuses the original precomposed dcaron contour; its alternate is positioned
-   by the language helper. Final HarfBuzz and Fontspector checks are required.
+googlefonts/vertical_metrics: 12 WARN
+Existing 1.6 UPM line metrics preserve room for tall accents and descenders.
 
-REMAINING CHECKS THAT NEED A REASONED DISPOSITION
+math_signs_width: 12 WARN
+Math signs retain proportional spacing; changing advances needs a separate spacing decision.
 
-outline_colinear_vectors:
-  The checker uses approximate collinearity. Exact cleanup can reveal MORE such
-  warnings by joining identical straight pieces into longer lines, even though
-  every geometric segment is proved unchanged. Example BoldItalic B:
-  (12,69)->(13,80)->(116,660), integer cross product -553, is not exactly collinear.
-  Do not delete these points under the exact cleanup policy. Candidate changes
-  would require an explicit geometric tolerance and separate visual review.
+outline_colinear_vectors: 6 WARN
+Approximate collinearity notices include straight joins. Exact zero segments and exact redundant points were removed; remaining heuristics are not blanket-waived.
 
-overlapping_path_segments:
-  Exact duplicated zero segments are removed. Some warnings concern sub-unit
-  quadratic reversals / rounded comparison coordinates, e.g. Bold uni02A6
-  (391,69.5),(391,70),(391,69), and SemiBoldItalic uni02A3
-  (464,77),(464,77),(464,77.5). These are not exactly zero curves and were retained.
-  Quantization cleanup with a tolerance is a separate change, not an exact fix.
+outline_jaggy_segments: 4 WARN
+Inspect the individual remaining coordinates. New italic hooked P/p and light h-hook backtracking was corrected; unrelated older geometry is preserved.
 
-alt_caron:
-  uni013D,uni010F,uni013E,uni0165 have decomposed outlines. The check says it cannot
-  inspect components, not that the visible caron is wrong. Existing actual mark
-  contours are separate and on the right. Verify the multilingual proof visually;
-  do not restructure approved glyphs solely to make the component heuristic pass.
+overlapping_path_segments: 4 WARN
+Small quantized-path overlap notices remain for manual inspection; they are recorded without claiming perfect outlines.
 
-vertical_metrics:
-  hhea ascender 1200 / descender -400 gives 1.6 UPM, outside the recommendation
-  1.2–1.5. Original actual family extrema already reach about 1175.8 and -326,
-  a 1501.8-unit span, before additional stacked marks. Keep room to avoid clipping.
-  New repertoire may need more space; check final bounds and stacking. Reducing
-  metrics merely to silence this recommendation is not justified.
+rupee: 12 WARN
+The rupee sign is outside this candidate repertoire.
 
-math_signs_width:
-  Existing < > ≤ ≥ are width590; most math signs width620. This is a proportional
-  spacing decision. Aligning widths affects spacing; review deliberately instead
-  of treating it as an invisible metadata fix.
+unreachable_glyphs: 12 WARN
+The retained legacy empty .null glyph is unencoded.
 
-vendor_id:
-  NAMB is not in the checker registry. Registration with Microsoft is an external
-  administrative action; do not claim it is registered or borrow another ID.
-
-rupee:
-  ₹ is not supplied in the approved repertoire. Adding it is a new visible glyph
-  and needs design review; absence is not proof the covered Latin/Slavic alphabets
-  are unusable. It remains a Google Fonts check recommendation until addressed.
-
-unreachable_subsetting:
-  Font cmap coverage and GF served subset coverage are separate. Review the exact
-  final uncovered codepoints against current GF subset definitions. Do not add
-  an unsupported script label merely to suppress the warning; retain useful
-  direct-download glyphs and discuss the serving boundary with Google Fonts.
-
-unreachable_glyphs:
-  .null is a legacy unmapped empty glyph. Removing it changes glyph order and is
-  unnecessary for rendering. The four regional alternatives should become reachable
-  after locl wiring; verify that no other substantive alternate remains unreachable.
-
-HINTING
-  The baseline is unhinted; there is no hinting FAIL. gasp exists, fpgm/prep/cvt do
-  not. Do not fabricate ttfautohint version metadata. Autohinting is optional new
-  rasterization behavior and requires small-size Windows/browser visual checks.
-
-CHECKS OWNED BY OTHER CANDIDATE STAGES
-  Coverage/shaping, separators, dotted circle, script-language meta and WWS flag
-  are handled by core/language/metadata stages. Verify the final reports rather
-  than carrying forward their baseline status.
+All raw warning details are preserved in fontspector-summary.json.
+The final review pages render the actual compiled fonts. Author review remains pending.

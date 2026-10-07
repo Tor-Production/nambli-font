@@ -1,0 +1,1501 @@
+{
+  "Nambli-Bold.ttf": {
+    "changed_glyphs": [],
+    "changes": {},
+    "all_other_glyphs_exact": true,
+    "hmtx_exact": true,
+    "cmap_and_layout_exact": true,
+    "input_sha256": "7163e59fc7623e669c4fef6d6871ec76c6b164d20bb7b35e53b298769f4d17d0",
+    "output_sha256": "7163e59fc7623e669c4fef6d6871ec76c6b164d20bb7b35e53b298769f4d17d0"
+  },
+  "Nambli-BoldItalic.ttf": {
+    "changed_glyphs": [
+      "uni01A4",
+      "uni01A5"
+    ],
+    "changes": {
+      "uni01A4": {
+        "method": "trim near-reversal and join the retained quadratic to the native bowl with a tangent cubic fillet",
+        "old_pointed_tip": [
+          414,
+          700
+        ],
+        "old_return_end": [
+          421,
+          740
+        ],
+        "old_local_points": [
+          {
+            "point": [
+              415,
+              770
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              421,
+              738
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              414,
+              700
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              421,
+              740
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              567,
+              740
+            ],
+            "on_curve": true
+          }
+        ],
+        "new_local_points": [
+          {
+            "point": [
+              417,
+              758
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              418,
+              745
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              418,
+              743
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              420,
+              741
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              424,
+              740
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              426,
+              740
+            ],
+            "on_curve": true
+          }
+        ],
+        "fillet_radius_units": 5,
+        "bounds_unchanged": [
+          108,
+          0,
+          831,
+          882
+        ],
+        "inner_circle_exact": true,
+        "tangent_evidence_degrees": {
+          "old_reverse_turn": 179.4888,
+          "new_fillets_entry_turn_after_rounding": 4.3987,
+          "new_fillets_exit_turn_after_rounding": 0.0,
+          "ideal_continuous_turn": 0
+        }
+      },
+      "uni01A5": {
+        "method": "trim near-reversal and join the retained quadratic to the native bowl with a tangent cubic fillet",
+        "old_pointed_tip": [
+          378,
+          490
+        ],
+        "old_return_end": [
+          379,
+          497
+        ],
+        "old_local_points": [
+          {
+            "point": [
+              379,
+              560
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              384,
+              528
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              378,
+              490
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              379,
+              497
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              381,
+              497
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              384,
+              498
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              448,
+              530
+            ],
+            "on_curve": false
+          }
+        ],
+        "new_local_points": [
+          {
+            "point": [
+              383,
+              533
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              380,
+              502
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              380,
+              501
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              381,
+              499
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              383,
+              497
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              384,
+              498
+            ],
+            "on_curve": true
+          }
+        ],
+        "fillet_radius_units": 5,
+        "bounds_unchanged": [
+          71,
+          -206,
+          741,
+          672
+        ],
+        "inner_circle_exact": true,
+        "tangent_evidence_degrees": {
+          "old_reverse_turn": 179.1575,
+          "new_fillets_entry_turn_after_rounding": 5.5275,
+          "new_fillets_exit_turn_after_rounding": 18.4349,
+          "ideal_continuous_turn": 0
+        }
+      }
+    },
+    "all_other_glyphs_exact": true,
+    "hmtx_exact": true,
+    "cmap_and_layout_exact": true,
+    "input_sha256": "ce580e7a1ecde0ec798689544e1e5cd9ed3f52a3bb1b194eaea4f2101c9125d3",
+    "output_sha256": "196b13fe071e48a86348b10569f4e93b9f2d7d680bba747b0d4948b167a92f54"
+  },
+  "Nambli-ExtraBold.ttf": {
+    "changed_glyphs": [],
+    "changes": {},
+    "all_other_glyphs_exact": true,
+    "hmtx_exact": true,
+    "cmap_and_layout_exact": true,
+    "input_sha256": "17885ab53bef4b4d4c98de5329aaa09e0d4f404e64f993b08a55f792658c8d15",
+    "output_sha256": "17885ab53bef4b4d4c98de5329aaa09e0d4f404e64f993b08a55f792658c8d15"
+  },
+  "Nambli-ExtraBoldItalic.ttf": {
+    "changed_glyphs": [
+      "uni01A4",
+      "uni01A5"
+    ],
+    "changes": {
+      "uni01A4": {
+        "method": "trim near-reversal and join the retained quadratic to the native bowl with a tangent cubic fillet",
+        "old_pointed_tip": [
+          428,
+          700
+        ],
+        "old_return_end": [
+          435,
+          740
+        ],
+        "old_local_points": [
+          {
+            "point": [
+              429,
+              772
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              435,
+              739
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              428,
+              700
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              435,
+              740
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              566,
+              740
+            ],
+            "on_curve": true
+          }
+        ],
+        "new_local_points": [
+          {
+            "point": [
+              431,
+              759
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              432,
+              745
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              432,
+              743
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              434,
+              741
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              438,
+              740
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              440,
+              740
+            ],
+            "on_curve": true
+          }
+        ],
+        "fillet_radius_units": 5,
+        "bounds_unchanged": [
+          107,
+          0,
+          829,
+          889
+        ],
+        "inner_circle_exact": true,
+        "tangent_evidence_degrees": {
+          "old_reverse_turn": 179.7507,
+          "new_fillets_entry_turn_after_rounding": 4.0856,
+          "new_fillets_exit_turn_after_rounding": 0.0,
+          "ideal_continuous_turn": 0
+        }
+      },
+      "uni01A5": {
+        "method": "trim near-reversal and join the retained quadratic to the native bowl with a tangent cubic fillet",
+        "old_pointed_tip": [
+          391,
+          490
+        ],
+        "old_return_end": [
+          394,
+          503
+        ],
+        "old_local_points": [
+          {
+            "point": [
+              392,
+              562
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              398,
+              529
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              391,
+              490
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              394,
+              503
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              395,
+              503
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              396,
+              504
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              454,
+              530
+            ],
+            "on_curve": false
+          }
+        ],
+        "new_local_points": [
+          {
+            "point": [
+              397,
+              537
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              394,
+              508
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              393,
+              507
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              394,
+              505
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              395,
+              504
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              396,
+              504
+            ],
+            "on_curve": true
+          }
+        ],
+        "fillet_radius_units": 5,
+        "bounds_unchanged": [
+          70,
+          -206,
+          740,
+          680
+        ],
+        "inner_circle_exact": true,
+        "tangent_evidence_degrees": {
+          "old_reverse_turn": 177.1809,
+          "new_fillets_entry_turn_after_rounding": 39.0939,
+          "new_fillets_exit_turn_after_rounding": 24.1455,
+          "ideal_continuous_turn": 0
+        }
+      }
+    },
+    "all_other_glyphs_exact": true,
+    "hmtx_exact": true,
+    "cmap_and_layout_exact": true,
+    "input_sha256": "6a048b799e5351afd97490d30e5b4b4e81c69083fbbeb34cc59f3307f23d0c92",
+    "output_sha256": "f7700b96cec7584bde30214d60a7a92a8845c29631f9cebc1b9bc29d5afd73f3"
+  },
+  "Nambli-Italic.ttf": {
+    "changed_glyphs": [
+      "uni01A4",
+      "uni01A5"
+    ],
+    "changes": {
+      "uni01A4": {
+        "method": "trim near-reversal and join the retained quadratic to the native bowl with a tangent cubic fillet",
+        "old_pointed_tip": [
+          384,
+          700
+        ],
+        "old_return_end": [
+          391,
+          740
+        ],
+        "old_local_points": [
+          {
+            "point": [
+              365,
+              816
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              397,
+              770
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              384,
+              700
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              391,
+              740
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              569,
+              740
+            ],
+            "on_curve": true
+          }
+        ],
+        "new_local_points": [
+          {
+            "point": [
+              386,
+              786
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              388,
+              745
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              388,
+              743
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              390,
+              741
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              394,
+              740
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              396,
+              740
+            ],
+            "on_curve": true
+          }
+        ],
+        "fillet_radius_units": 5,
+        "bounds_unchanged": [
+          111,
+          0,
+          835,
+          865
+        ],
+        "inner_circle_exact": true,
+        "tangent_evidence_degrees": {
+          "old_reverse_turn": 179.4055,
+          "new_fillets_entry_turn_after_rounding": 2.7927,
+          "new_fillets_exit_turn_after_rounding": 0.0,
+          "ideal_continuous_turn": 0
+        }
+      },
+      "uni01A5": {
+        "method": "trim near-reversal and join the retained quadratic to the native bowl with a tangent cubic fillet",
+        "old_pointed_tip": [
+          349,
+          490
+        ],
+        "old_return_end": [
+          351,
+          501
+        ],
+        "old_local_points": [
+          {
+            "point": [
+              329,
+              606
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              361,
+              560
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              349,
+              490
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              351,
+              501
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              353,
+              498
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              357,
+              497
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              362,
+              495
+            ],
+            "on_curve": false
+          }
+        ],
+        "new_local_points": [
+          {
+            "point": [
+              357,
+              565
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              351,
+              506
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              351,
+              503
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              354,
+              498
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              357,
+              497
+            ],
+            "on_curve": true
+          }
+        ],
+        "fillet_radius_units": 5,
+        "bounds_unchanged": [
+          74,
+          -206,
+          745,
+          656
+        ],
+        "inner_circle_exact": true,
+        "tangent_evidence_degrees": {
+          "old_reverse_turn": 179.4227,
+          "new_fillets_entry_turn_after_rounding": 5.8067,
+          "new_fillets_exit_turn_after_rounding": 3.3665,
+          "ideal_continuous_turn": 0
+        }
+      }
+    },
+    "all_other_glyphs_exact": true,
+    "hmtx_exact": true,
+    "cmap_and_layout_exact": true,
+    "input_sha256": "f56026c5ce28a468da63b3ff195ee400d7be2361104852b5f063f383b9bb1567",
+    "output_sha256": "cca0ec1f6e356d4f74a304c836ec1eeb1f5945319dbc6939cf32af29d127a0e2"
+  },
+  "Nambli-Light.ttf": {
+    "changed_glyphs": [],
+    "changes": {},
+    "all_other_glyphs_exact": true,
+    "hmtx_exact": true,
+    "cmap_and_layout_exact": true,
+    "input_sha256": "3e0fda8b8b0158569aef73945b164c0d9d647d38978563575d987ca46676fa64",
+    "output_sha256": "3e0fda8b8b0158569aef73945b164c0d9d647d38978563575d987ca46676fa64"
+  },
+  "Nambli-LightItalic.ttf": {
+    "changed_glyphs": [
+      "uni01A4",
+      "uni01A5",
+      "uni0266"
+    ],
+    "changes": {
+      "uni01A4": {
+        "method": "trim near-reversal and join the retained quadratic to the native bowl with a tangent cubic fillet",
+        "old_pointed_tip": [
+          365,
+          700
+        ],
+        "old_return_end": [
+          372,
+          740
+        ],
+        "old_local_points": [
+          {
+            "point": [
+              347,
+              809
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              377,
+              766
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              365,
+              700
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              372,
+              740
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              570,
+              740
+            ],
+            "on_curve": true
+          }
+        ],
+        "new_local_points": [
+          {
+            "point": [
+              366,
+              782
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              368,
+              745
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              368,
+              743
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              371,
+              741
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              375,
+              740
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              377,
+              740
+            ],
+            "on_curve": true
+          }
+        ],
+        "fillet_radius_units": 5,
+        "bounds_unchanged": [
+          113,
+          0,
+          836,
+          855
+        ],
+        "inner_circle_exact": true,
+        "tangent_evidence_degrees": {
+          "old_reverse_turn": 179.6214,
+          "new_fillets_entry_turn_after_rounding": 3.0941,
+          "new_fillets_exit_turn_after_rounding": 0.0,
+          "ideal_continuous_turn": 0
+        }
+      },
+      "uni01A5": {
+        "method": "trim near-reversal and join the retained quadratic to the native bowl with a tangent cubic fillet",
+        "old_pointed_tip": [
+          330,
+          490
+        ],
+        "old_return_end": [
+          333,
+          509
+        ],
+        "old_local_points": [
+          {
+            "point": [
+              312,
+              599
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              342,
+              557
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              330,
+              490
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              333,
+              509
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              338,
+              501
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              347,
+              497
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              354,
+              494
+            ],
+            "on_curve": false
+          }
+        ],
+        "new_local_points": [
+          {
+            "point": [
+              336,
+              565
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              333,
+              514
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              333,
+              510
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              337,
+              503
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              343,
+              499
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              347,
+              497
+            ],
+            "on_curve": true
+          }
+        ],
+        "fillet_radius_units": 5,
+        "bounds_unchanged": [
+          76,
+          -206,
+          748,
+          646
+        ],
+        "inner_circle_exact": true,
+        "tangent_evidence_degrees": {
+          "old_reverse_turn": 178.8184,
+          "new_fillets_entry_turn_after_rounding": 3.3665,
+          "new_fillets_exit_turn_after_rounding": 3.3665,
+          "ideal_continuous_turn": 0
+        }
+      },
+      "uni0266": {
+        "method": "remove the single one-unit reverse on-curve point",
+        "retained_point": [
+          118,
+          673
+        ],
+        "removed_point": [
+          118,
+          672
+        ],
+        "bounds_unchanged": [
+          5,
+          0,
+          585,
+          827
+        ]
+      }
+    },
+    "all_other_glyphs_exact": true,
+    "hmtx_exact": true,
+    "cmap_and_layout_exact": true,
+    "input_sha256": "4763bd4d054794be659e6c6d02a2bde223977f9734073f86cd72fafc9d6da139",
+    "output_sha256": "1392f44a367715f9c239127266d4e6b5d11b3475b86c0c5c93293adadfa84594"
+  },
+  "Nambli-Medium.ttf": {
+    "changed_glyphs": [],
+    "changes": {},
+    "all_other_glyphs_exact": true,
+    "hmtx_exact": true,
+    "cmap_and_layout_exact": true,
+    "input_sha256": "524e48a4b9139e6a09c766051b816b1a41cf5e4693bb3a55846d5c4fa00d9f39",
+    "output_sha256": "524e48a4b9139e6a09c766051b816b1a41cf5e4693bb3a55846d5c4fa00d9f39"
+  },
+  "Nambli-MediumItalic.ttf": {
+    "changed_glyphs": [
+      "uni01A4",
+      "uni01A5"
+    ],
+    "changes": {
+      "uni01A4": {
+        "method": "trim near-reversal and join the retained quadratic to the native bowl with a tangent cubic fillet",
+        "old_pointed_tip": [
+          398,
+          700
+        ],
+        "old_return_end": [
+          405,
+          740
+        ],
+        "old_local_points": [
+          {
+            "point": [
+              378,
+              820
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              411,
+              773
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              398,
+              700
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              405,
+              740
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              568,
+              740
+            ],
+            "on_curve": true
+          }
+        ],
+        "new_local_points": [
+          {
+            "point": [
+              400,
+              788
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              402,
+              745
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              402,
+              743
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              404,
+              741
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              408,
+              740
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              410,
+              740
+            ],
+            "on_curve": true
+          }
+        ],
+        "fillet_radius_units": 5,
+        "bounds_unchanged": [
+          110,
+          0,
+          833,
+          873
+        ],
+        "inner_circle_exact": true,
+        "tangent_evidence_degrees": {
+          "old_reverse_turn": 179.8287,
+          "new_fillets_entry_turn_after_rounding": 2.663,
+          "new_fillets_exit_turn_after_rounding": 0.0,
+          "ideal_continuous_turn": 0
+        }
+      },
+      "uni01A5": {
+        "method": "trim near-reversal and join the retained quadratic to the native bowl with a tangent cubic fillet",
+        "old_pointed_tip": [
+          361,
+          490
+        ],
+        "old_return_end": [
+          363,
+          498
+        ],
+        "old_local_points": [
+          {
+            "point": [
+              341,
+              611
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              374,
+              563
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              361,
+              490
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              363,
+              498
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              366,
+              496
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              372,
+              495
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              379,
+              495
+            ],
+            "on_curve": false
+          }
+        ],
+        "new_local_points": [
+          {
+            "point": [
+              371,
+              567
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              363,
+              503
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              363,
+              501
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              365,
+              497
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              370,
+              495
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              372,
+              495
+            ],
+            "on_curve": true
+          }
+        ],
+        "fillet_radius_units": 5,
+        "bounds_unchanged": [
+          73,
+          -206,
+          744,
+          663
+        ],
+        "inner_circle_exact": true,
+        "tangent_evidence_degrees": {
+          "old_reverse_turn": 176.0613,
+          "new_fillets_entry_turn_after_rounding": 7.125,
+          "new_fillets_exit_turn_after_rounding": 0.0,
+          "ideal_continuous_turn": 0
+        }
+      }
+    },
+    "all_other_glyphs_exact": true,
+    "hmtx_exact": true,
+    "cmap_and_layout_exact": true,
+    "input_sha256": "4dffe272edc7b743e678d16760f721615e109e1af5d0359cb54b985cea5bb90e",
+    "output_sha256": "00f109e32ce4fb55f7c7899cf287d5892ac0f20986b52c9e792bf7c2fd04a8a5"
+  },
+  "Nambli-Regular.ttf": {
+    "changed_glyphs": [],
+    "changes": {},
+    "all_other_glyphs_exact": true,
+    "hmtx_exact": true,
+    "cmap_and_layout_exact": true,
+    "input_sha256": "a837d0eab7a6cd27a39871fbfd7ac2a4881e7443d34391b3a55e396275470e4b",
+    "output_sha256": "a837d0eab7a6cd27a39871fbfd7ac2a4881e7443d34391b3a55e396275470e4b"
+  },
+  "Nambli-SemiBold.ttf": {
+    "changed_glyphs": [],
+    "changes": {},
+    "all_other_glyphs_exact": true,
+    "hmtx_exact": true,
+    "cmap_and_layout_exact": true,
+    "input_sha256": "7aa45f61c37f3533db9bd835d47187b428255167bb3d5835a54d86059275af3d",
+    "output_sha256": "7aa45f61c37f3533db9bd835d47187b428255167bb3d5835a54d86059275af3d"
+  },
+  "Nambli-SemiBoldItalic.ttf": {
+    "changed_glyphs": [
+      "uni01A4",
+      "uni01A5"
+    ],
+    "changes": {
+      "uni01A4": {
+        "method": "trim near-reversal and join the retained quadratic to the native bowl with a tangent cubic fillet",
+        "old_pointed_tip": [
+          405,
+          700
+        ],
+        "old_return_end": [
+          412,
+          740
+        ],
+        "old_local_points": [
+          {
+            "point": [
+              384,
+              823
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              418,
+              774
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              405,
+              700
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              412,
+              740
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              567,
+              740
+            ],
+            "on_curve": true
+          }
+        ],
+        "new_local_points": [
+          {
+            "point": [
+              407,
+              790
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              409,
+              745
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              409,
+              743
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              411,
+              741
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              415,
+              740
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              417,
+              740
+            ],
+            "on_curve": true
+          }
+        ],
+        "fillet_radius_units": 5,
+        "bounds_unchanged": [
+          109,
+          0,
+          831,
+          877
+        ],
+        "inner_circle_exact": true,
+        "tangent_evidence_degrees": {
+          "old_reverse_turn": 179.9624,
+          "new_fillets_entry_turn_after_rounding": 2.5448,
+          "new_fillets_exit_turn_after_rounding": 0.0,
+          "ideal_continuous_turn": 0
+        }
+      },
+      "uni01A5": {
+        "method": "trim near-reversal and join the retained quadratic to the native bowl with a tangent cubic fillet",
+        "old_pointed_tip": [
+          370,
+          490
+        ],
+        "old_return_end": [
+          371,
+          496
+        ],
+        "old_local_points": [
+          {
+            "point": [
+              349,
+              614
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              383,
+              565
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              370,
+              490
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              371,
+              496
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              372,
+              496
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              374,
+              496
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              380,
+              496
+            ],
+            "on_curve": false
+          }
+        ],
+        "new_local_points": [
+          {
+            "point": [
+              380,
+              569
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              372,
+              501
+            ],
+            "on_curve": true
+          },
+          {
+            "point": [
+              372,
+              500
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              372,
+              498
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              373,
+              496
+            ],
+            "on_curve": false
+          },
+          {
+            "point": [
+              374,
+              496
+            ],
+            "on_curve": true
+          }
+        ],
+        "fillet_radius_units": 5,
+        "bounds_unchanged": [
+          72,
+          -206,
+          743,
+          668
+        ],
+        "inner_circle_exact": true,
+        "tangent_evidence_degrees": {
+          "old_reverse_turn": 179.6288,
+          "new_fillets_entry_turn_after_rounding": 6.7098,
+          "new_fillets_exit_turn_after_rounding": 0.0,
+          "ideal_continuous_turn": 0
+        }
+      }
+    },
+    "all_other_glyphs_exact": true,
+    "hmtx_exact": true,
+    "cmap_and_layout_exact": true,
+    "input_sha256": "9cece69854793a87c7fb36f853a2d5424b8495c65aec86cbc369c6813fabf3e2",
+    "output_sha256": "6d79567bc7a84be9a535ccf8f6bd61b34aac662658b8a361f704edd521fc4583"
+  }
+}

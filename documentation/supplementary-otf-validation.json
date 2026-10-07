@@ -1,1172 +1,366 @@
-[
-  {
-    "font": "Nambli-Bold.otf",
-    "sha256": "03daa28ebdb591fd3dbb2720bf36b43654d8138e49c62849d74593fb26e162bb",
-    "intentional_changed_glyphs": [
-      "uni0040",
-      "uni026C",
-      "uniA7AD"
-    ],
-    "other_glyphs_exact": 995,
-    "protected_table_bytes_unchanged": [
-      "hhea",
-      "OS/2",
-      "name",
-      "cmap",
-      "post",
-      "GDEF",
-      "GPOS",
-      "GSUB",
-      "STAT",
-      "hmtx",
-      "kern",
-      "meta"
-    ],
-    "canonical_postscript_name": "Nambli-Bold",
-    "OFL_and_author_metadata_retained": true,
-    "belt_repairs": [
-      {
-        "glyph": "uni026C",
-        "reference_weight": 500,
-        "horizontal_translation": -9,
-        "old_inner_areas": [
-          197.03129109852057
-        ],
-        "old_inner_bounds": [
-          [
-            45.85847694910743,
-            311.93931724358777,
-            59.0,
-            334.04445413255115
-          ]
-        ],
-        "new_inner_area": 817.5360027587053,
-        "new_inner_bounds": [
-          31.555882554709683,
-          295.7724994612341,
-          59.0,
-          339.62312710991904
-        ],
-        "outer_geometry_exact": true,
-        "metrics_exact": true,
-        "aperture_outside_original_ink_area": 0.0,
-        "status": "candidate, visual review required"
-      },
-      {
-        "glyph": "uniA7AD",
-        "reference_weight": 500,
-        "horizontal_translation": -9,
-        "old_inner_areas": [
-          204.77985041476722
-        ],
-        "old_inner_bounds": [
-          [
-            45.85847694910743,
-            324.2066246947762,
-            59.0,
-            347.18110107273236
-          ]
-        ],
-        "new_inner_area": 849.6862214984353,
-        "new_inner_bounds": [
-          31.555882554709683,
-          307.40402884735045,
-          59.0,
-          352.97907913079285
-        ],
-        "outer_geometry_exact": true,
-        "metrics_exact": true,
-        "aperture_outside_original_ink_area": 0.0,
-        "status": "candidate, visual review required"
-      }
-    ],
-    "at_repair": {
-      "stroke_width_before_shear": 84.48,
-      "approved_a_uniform_scale": 0.64,
-      "italic_exit_terminal_trimmed_at_native_x": null,
-      "outside_centerline_rx": 296.76,
-      "outside_centerline_ry": 296.76,
-      "bowl_and_return_right_centerline_x": 497,
-      "bowl_rightmost_outer_x_equals_stem_outer_x": true,
-      "return_start_tangent": [
-        0,
-        -35
+{
+  "status": "PASS",
+  "method": "Only reviewed glyphs converted from final quadratic TTF into existing supplementary CFF; remaining CFF outlines exact",
+  "fonts": [
+    {
+      "font": "Nambli-Bold.otf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
       ],
-      "return_end_tangent": [
-        0,
-        125
-      ],
-      "outer_start_tangent_is_vertical": true,
-      "sampled_return_terminal_clearance_before_shear": 50.83921170749262,
-      "glyph": "uni0040",
-      "old_contour_areas": [
-        -266937.0525172483,
-        16194.137030919635
-      ],
-      "new_contour_areas": [
-        -247436.03185575773,
-        22597.32505413964
-      ],
-      "new_contour_bounds": [
-        [
-          61.98786213729354,
-          5.965526334129283,
-          740.0,
-          684.0190867784972
-        ],
-        [
-          282.79998779296875,
-          234.8800048828125,
-          451.760009765625,
-          405.1199951171875
-        ]
-      ],
-      "metrics_exact": true,
-      "status": "candidate, visual review required"
+      "unchanged_outlines": 977,
+      "other_tables_exact": true,
+      "max_bounds_error_from_ttf": 0.00018310546875,
+      "sha256": "fe6056797fe9de2286ca7cdc325eb3401745b90622ca3d23d770d84249374ecf"
     },
-    "exact_cleanup": {
-      "font": "[preparation]\\production-readiness\\outline-work\\supplementary-otf-raw\\Nambli-Bold.otf",
-      "output": "[preparation]\\production-readiness\\outline-work\\final-otf\\Nambli-Bold.otf",
-      "changed_glyphs": {},
-      "changed_glyph_count": 0,
-      "event_counts": {},
-      "validation": {
-        "entire_file_byte_identical": true
-      },
-      "proof_note": "Every cubic outline inspected; no removable segment. Output is a byte-identical copy."
-    }
-  },
-  {
-    "font": "Nambli-BoldItalic.otf",
-    "sha256": "0812fab80c08bf3f4061e17375eeabb970e4939228e392713e6037a2dcbb537e",
-    "intentional_changed_glyphs": [
-      "uni0040",
-      "uni026C",
-      "uniA7AD"
-    ],
-    "other_glyphs_exact": 995,
-    "protected_table_bytes_unchanged": [
-      "hhea",
-      "OS/2",
-      "name",
-      "cmap",
-      "post",
-      "GDEF",
-      "GPOS",
-      "GSUB",
-      "STAT",
-      "hmtx",
-      "kern",
-      "meta"
-    ],
-    "canonical_postscript_name": "Nambli-BoldItalic",
-    "OFL_and_author_metadata_retained": true,
-    "belt_repairs": [
-      {
-        "glyph": "uni026C",
-        "reference_weight": 500,
-        "horizontal_translation": -8,
-        "old_inner_areas": [
-          152.5862692600117
-        ],
-        "old_inner_bounds": [
-          [
-            57.96542593404598,
-            313.6084605693137,
-            69.29429582556376,
-            333.3890172394862
-          ]
-        ],
-        "new_inner_area": 740.8716753831127,
-        "new_inner_bounds": [
-          44.613147245540944,
-          296.9371607533203,
-          70.651688678898,
-          339.11865715480644
-        ],
-        "outer_geometry_exact": true,
-        "metrics_exact": true,
-        "aperture_outside_original_ink_area": 0.0,
-        "status": "candidate, visual review required"
-      },
-      {
-        "glyph": "uniA7AD",
-        "reference_weight": 500,
-        "horizontal_translation": -8,
-        "old_inner_areas": [
-          158.58610850367654
-        ],
-        "old_inner_bounds": [
-          [
-            60.25164677406902,
-            325.94132470727203,
-            71.58329112490622,
-            346.4997205223772
-          ]
-        ],
-        "new_inner_area": 770.0053462203589,
-        "new_inner_bounds": [
-          46.89617656906402,
-          308.6144804572007,
-          72.95582723977454,
-          352.45477999353403
-        ],
-        "outer_geometry_exact": true,
-        "metrics_exact": true,
-        "aperture_outside_original_ink_area": 0.0,
-        "status": "candidate, visual review required"
-      }
-    ],
-    "at_repair": {
-      "stroke_width_before_shear": 85.78324017210772,
-      "approved_a_uniform_scale": 0.64,
-      "italic_exit_terminal_trimmed_at_native_x": null,
-      "outside_centerline_rx": 296.1083799139461,
-      "outside_centerline_ry": 296.1083799139461,
-      "bowl_and_return_right_centerline_x": 497,
-      "bowl_rightmost_outer_x_equals_stem_outer_x": true,
-      "return_start_tangent": [
-        0,
-        -35
+    {
+      "font": "Nambli-BoldItalic.otf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
       ],
-      "return_end_tangent": [
-        0,
-        125
-      ],
-      "outer_start_tangent_is_vertical": true,
-      "sampled_return_terminal_clearance_before_shear": 49.557973025379,
-      "glyph": "uni0040",
-      "old_contour_areas": [
-        -269535.5422710317,
-        15566.784365655483
-      ],
-      "new_contour_areas": [
-        -249475.80519146088,
-        21908.08232194483
-      ],
-      "new_contour_bounds": [
-        [
-          70.85195858850638,
-          5.965574154050758,
-          759.3727933439271,
-          684.0190273471247
-        ],
-        [
-          293.13576408896057,
-          236.1832275390625,
-          462.12339118447693,
-          403.8167724609375
-        ]
-      ],
-      "metrics_exact": true,
-      "status": "candidate, visual review required"
+      "unchanged_outlines": 977,
+      "other_tables_exact": true,
+      "max_bounds_error_from_ttf": 0.0002457421290387174,
+      "sha256": "8cb180030bd9e8c7995a5b02bfdccaa5fa475cc0650b50cc05b948e35179702e"
     },
-    "exact_cleanup": {
-      "font": "[preparation]\\production-readiness\\outline-work\\supplementary-otf-raw\\Nambli-BoldItalic.otf",
-      "output": "[preparation]\\production-readiness\\outline-work\\final-otf\\Nambli-BoldItalic.otf",
-      "changed_glyphs": {},
-      "changed_glyph_count": 0,
-      "event_counts": {},
-      "validation": {
-        "entire_file_byte_identical": true
-      },
-      "proof_note": "Every cubic outline inspected; no removable segment. Output is a byte-identical copy."
-    }
-  },
-  {
-    "font": "Nambli-ExtraBold.otf",
-    "sha256": "cf744991c60ab1ff7ee7e996669001f6915a9fe9bc42b9265badb16493bedd15",
-    "intentional_changed_glyphs": [
-      "uni0040",
-      "uni026C",
-      "uniA7AD"
-    ],
-    "other_glyphs_exact": 995,
-    "protected_table_bytes_unchanged": [
-      "hhea",
-      "OS/2",
-      "name",
-      "cmap",
-      "post",
-      "GDEF",
-      "GPOS",
-      "GSUB",
-      "STAT",
-      "hmtx",
-      "kern",
-      "meta"
-    ],
-    "canonical_postscript_name": "Nambli-ExtraBold",
-    "OFL_and_author_metadata_retained": true,
-    "belt_repairs": [
-      {
-        "glyph": "uni026C",
-        "reference_weight": 500,
-        "horizontal_translation": -16,
-        "old_inner_areas": [
-          3.3878051156177946
-        ],
-        "old_inner_bounds": [
-          [
-            50.5507713508635,
-            325.3166431383504,
-            52.0,
-            329.22994933221287
-          ]
-        ],
-        "new_inner_area": 817.5360027587053,
-        "new_inner_bounds": [
-          24.555882554709683,
-          295.7724994612341,
-          52.0,
-          339.62312710991904
-        ],
-        "outer_geometry_exact": true,
-        "metrics_exact": true,
-        "aperture_outside_original_ink_area": 0.0,
-        "status": "candidate, visual review required"
-      },
-      {
-        "glyph": "uniA7AD",
-        "reference_weight": 500,
-        "horizontal_translation": -16,
-        "old_inner_areas": [
-          3.521039633080335
-        ],
-        "old_inner_bounds": [
-          [
-            50.5507713508635,
-            338.1099968205205,
-            52.0,
-            342.17724475830585
-          ]
-        ],
-        "new_inner_area": 849.6862214984353,
-        "new_inner_bounds": [
-          24.555882554709683,
-          307.40402884735045,
-          52.0,
-          352.97907913079285
-        ],
-        "outer_geometry_exact": true,
-        "metrics_exact": true,
-        "aperture_outside_original_ink_area": 0.0,
-        "status": "candidate, visual review required"
-      }
-    ],
-    "at_repair": {
-      "stroke_width_before_shear": 93.44,
-      "approved_a_uniform_scale": 0.64,
-      "italic_exit_terminal_trimmed_at_native_x": null,
-      "outside_centerline_rx": 292.28,
-      "outside_centerline_ry": 292.28,
-      "bowl_and_return_right_centerline_x": 497,
-      "bowl_rightmost_outer_x_equals_stem_outer_x": true,
-      "return_start_tangent": [
-        0,
-        -35
+    {
+      "font": "Nambli-ExtraBold.otf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
       ],
-      "return_end_tangent": [
-        0,
-        125
-      ],
-      "outer_start_tangent_is_vertical": true,
-      "sampled_return_terminal_clearance_before_shear": 42.02799054180028,
-      "glyph": "uni0040",
-      "old_contour_areas": [
-        -284635.1342098098,
-        12037.573900309206
-      ],
-      "new_contour_areas": [
-        -260569.57039684113,
-        18074.906050495436
-      ],
-      "new_contour_bounds": [
-        [
-          61.98790125164194,
-          5.965790071126139,
-          740.0,
-          684.0188459560682
-        ],
-        [
-          296.239990234375,
-          243.8524169921875,
-          447.27996826171875,
-          396.14752197265625
-        ]
-      ],
-      "metrics_exact": true,
-      "status": "candidate, visual review required"
+      "unchanged_outlines": 977,
+      "other_tables_exact": true,
+      "max_bounds_error_from_ttf": 0.0001545744049735731,
+      "sha256": "371978fe84ddf92889834754234e8df1f8f4a3113630be3501896d9f26c755ee"
     },
-    "exact_cleanup": {
-      "font": "[preparation]\\production-readiness\\outline-work\\supplementary-otf-raw\\Nambli-ExtraBold.otf",
-      "output": "[preparation]\\production-readiness\\outline-work\\final-otf\\Nambli-ExtraBold.otf",
-      "changed_glyphs": {},
-      "changed_glyph_count": 0,
-      "event_counts": {},
-      "validation": {
-        "entire_file_byte_identical": true
-      },
-      "proof_note": "Every cubic outline inspected; no removable segment. Output is a byte-identical copy."
-    }
-  },
-  {
-    "font": "Nambli-ExtraBoldItalic.otf",
-    "sha256": "32f93a635730a435ba568af835935679b59d4d810545dfbe105938682b178c82",
-    "intentional_changed_glyphs": [
-      "uni0040",
-      "uni026C",
-      "uniA7AD"
-    ],
-    "other_glyphs_exact": 995,
-    "protected_table_bytes_unchanged": [
-      "hhea",
-      "OS/2",
-      "name",
-      "cmap",
-      "post",
-      "GDEF",
-      "GPOS",
-      "GSUB",
-      "STAT",
-      "hmtx",
-      "kern",
-      "meta"
-    ],
-    "canonical_postscript_name": "Nambli-ExtraBoldItalic",
-    "OFL_and_author_metadata_retained": true,
-    "belt_repairs": [
-      {
-        "glyph": "uni026C",
-        "reference_weight": 500,
-        "horizontal_translation": -13,
-        "old_inner_areas": [],
-        "old_inner_bounds": [],
-        "new_inner_area": 740.8716753831127,
-        "new_inner_bounds": [
-          39.613147245540944,
-          296.9371607533203,
-          65.651688678898,
-          339.11865715480644
-        ],
-        "outer_geometry_exact": true,
-        "metrics_exact": true,
-        "aperture_outside_original_ink_area": 0.0,
-        "status": "candidate, visual review required"
-      },
-      {
-        "glyph": "uniA7AD",
-        "reference_weight": 500,
-        "horizontal_translation": -13,
-        "old_inner_areas": [],
-        "old_inner_bounds": [],
-        "new_inner_area": 770.0053462203589,
-        "new_inner_bounds": [
-          41.89617656906402,
-          308.6144804572007,
-          67.95582723977454,
-          352.45477999353403
-        ],
-        "outer_geometry_exact": true,
-        "metrics_exact": true,
-        "aperture_outside_original_ink_area": 0.0,
-        "status": "candidate, visual review required"
-      }
-    ],
-    "at_repair": {
-      "stroke_width_before_shear": 94.881462614604,
-      "approved_a_uniform_scale": 0.64,
-      "italic_exit_terminal_trimmed_at_native_x": null,
-      "outside_centerline_rx": 291.55926869269797,
-      "outside_centerline_ry": 291.55926869269797,
-      "bowl_and_return_right_centerline_x": 497,
-      "bowl_rightmost_outer_x_equals_stem_outer_x": true,
-      "return_start_tangent": [
-        0,
-        -35
+    {
+      "font": "Nambli-ExtraBoldItalic.otf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
       ],
-      "return_end_tangent": [
-        0,
-        125
-      ],
-      "outer_start_tangent_is_vertical": true,
-      "sampled_return_terminal_clearance_before_shear": 40.61013620202422,
-      "glyph": "uni0040",
-      "old_contour_areas": [
-        -287436.6707871414,
-        11421.362864845985
-      ],
-      "new_contour_areas": [
-        -262666.4210959108,
-        17393.700315379538
-      ],
-      "new_contour_bounds": [
-        [
-          70.8521874519391,
-          5.9658203813034145,
-          759.372577113204,
-          684.0187849762099
-        ],
-        [
-          306.92503165607496,
-          245.281494140625,
-          457.4323920753767,
-          394.718505859375
-        ]
-      ],
-      "metrics_exact": true,
-      "status": "candidate, visual review required"
+      "unchanged_outlines": 977,
+      "other_tables_exact": true,
+      "max_bounds_error_from_ttf": 0.000244140625,
+      "sha256": "f14b482b3e3adb582657596a5ce03efee03d9dbd1d59c9b6c595f10085de290a"
     },
-    "exact_cleanup": {
-      "font": "[preparation]\\production-readiness\\outline-work\\supplementary-otf-raw\\Nambli-ExtraBoldItalic.otf",
-      "output": "[preparation]\\production-readiness\\outline-work\\final-otf\\Nambli-ExtraBoldItalic.otf",
-      "changed_glyphs": {},
-      "changed_glyph_count": 0,
-      "event_counts": {},
-      "validation": {
-        "entire_file_byte_identical": true
-      },
-      "proof_note": "Every cubic outline inspected; no removable segment. Output is a byte-identical copy."
-    }
-  },
-  {
-    "font": "Nambli-Italic.otf",
-    "sha256": "3114055e3b19f335a3311d2ee3cfa9e64bcbd2a7c8ea503717d9e17bd6eebaa7",
-    "intentional_changed_glyphs": [
-      "uni0040"
-    ],
-    "other_glyphs_exact": 997,
-    "protected_table_bytes_unchanged": [
-      "hhea",
-      "OS/2",
-      "name",
-      "cmap",
-      "post",
-      "GDEF",
-      "GPOS",
-      "GSUB",
-      "STAT",
-      "hmtx",
-      "kern",
-      "meta"
-    ],
-    "canonical_postscript_name": "Nambli-Italic",
-    "OFL_and_author_metadata_retained": true,
-    "belt_repairs": [],
-    "at_repair": {
-      "stroke_width_before_shear": 64.98730316068767,
-      "approved_a_uniform_scale": 0.64,
-      "italic_exit_terminal_trimmed_at_native_x": 574,
-      "outside_centerline_rx": 306.50634841965615,
-      "outside_centerline_ry": 306.50634841965615,
-      "bowl_and_return_right_centerline_x": 497,
-      "bowl_rightmost_outer_x_equals_stem_outer_x": true,
-      "return_start_tangent": [
-        0,
-        -35
+    {
+      "font": "Nambli-Italic.otf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
       ],
-      "return_end_tangent": [
-        0,
-        125
-      ],
-      "outer_start_tangent_is_vertical": true,
-      "sampled_return_terminal_clearance_before_shear": 69.99609898235963,
-      "glyph": "uni0040",
-      "old_contour_areas": [
-        -227737.7245760984,
-        26513.704636832692
-      ],
-      "new_contour_areas": [
-        -216638.16967281635,
-        34180.23351391927
-      ],
-      "new_contour_bounds": [
-        [
-          70.851458024267,
-          5.965054566626777,
-          759.3732042627274,
-          684.0195715205356
-        ],
-        [
-          261.6175319863096,
-          215.3873291015625,
-          472.8456542054842,
-          424.6126708984375
-        ]
-      ],
-      "metrics_exact": true,
-      "status": "candidate, visual review required"
+      "unchanged_outlines": 977,
+      "other_tables_exact": true,
+      "max_bounds_error_from_ttf": 0.0002288818359375,
+      "sha256": "ad062457fdbc2f84fac440dd28980b537e90bd71064cf3190324fb7f504e5863"
     },
-    "exact_cleanup": {
-      "font": "[preparation]\\production-readiness\\outline-work\\supplementary-otf-raw\\Nambli-Italic.otf",
-      "output": "[preparation]\\production-readiness\\outline-work\\final-otf\\Nambli-Italic.otf",
-      "changed_glyphs": {},
-      "changed_glyph_count": 0,
-      "event_counts": {},
-      "validation": {
-        "entire_file_byte_identical": true
-      },
-      "proof_note": "Every cubic outline inspected; no removable segment. Output is a byte-identical copy."
-    }
-  },
-  {
-    "font": "Nambli-Light.otf",
-    "sha256": "66c5ee836408e5cbf67ddf4ccbaf74fa9faa66bc202a12d0999f7d2c4afb7348",
-    "intentional_changed_glyphs": [
-      "uni0040"
-    ],
-    "other_glyphs_exact": 997,
-    "protected_table_bytes_unchanged": [
-      "hhea",
-      "OS/2",
-      "name",
-      "cmap",
-      "post",
-      "GDEF",
-      "GPOS",
-      "GSUB",
-      "STAT",
-      "hmtx",
-      "kern",
-      "meta"
-    ],
-    "canonical_postscript_name": "Nambli-Light",
-    "OFL_and_author_metadata_retained": true,
-    "belt_repairs": [],
-    "at_repair": {
-      "stroke_width_before_shear": 51.2,
-      "approved_a_uniform_scale": 0.64,
-      "italic_exit_terminal_trimmed_at_native_x": null,
-      "outside_centerline_rx": 313.4,
-      "outside_centerline_ry": 313.4,
-      "bowl_and_return_right_centerline_x": 497,
-      "bowl_rightmost_outer_x_equals_stem_outer_x": true,
-      "return_start_tangent": [
-        0,
-        -35
+    {
+      "font": "Nambli-Light.otf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
       ],
-      "return_end_tangent": [
-        0,
-        125
-      ],
-      "outer_start_tangent_is_vertical": true,
-      "sampled_return_terminal_clearance_before_shear": 83.53916730241808,
-      "glyph": "uni0040",
-      "old_contour_areas": [
-        -199211.870260955,
-        35115.86725237724
-      ],
-      "new_contour_areas": [
-        -194044.3403664879,
-        43830.00389957053
-      ],
-      "new_contour_bounds": [
-        [
-          61.987775280336834,
-          5.964703761659931,
-          740.0,
-          684.0199937345643
-        ],
-        [
-          232.8800048828125,
-          201.57464599609375,
-          468.4000244140625,
-          438.42535400390625
-        ]
-      ],
-      "metrics_exact": true,
-      "status": "candidate, visual review required"
+      "unchanged_outlines": 977,
+      "other_tables_exact": true,
+      "max_bounds_error_from_ttf": 0.00013631184515361383,
+      "sha256": "2b470524d696f914aeba7565c5a95e5cf5f54b3fd6487ee420a79d9f3c82c3f6"
     },
-    "exact_cleanup": {
-      "font": "[preparation]\\production-readiness\\outline-work\\supplementary-otf-raw\\Nambli-Light.otf",
-      "output": "[preparation]\\production-readiness\\outline-work\\final-otf\\Nambli-Light.otf",
-      "changed_glyphs": {},
-      "changed_glyph_count": 0,
-      "event_counts": {},
-      "validation": {
-        "entire_file_byte_identical": true
-      },
-      "proof_note": "Every cubic outline inspected; no removable segment. Output is a byte-identical copy."
-    }
-  },
-  {
-    "font": "Nambli-LightItalic.otf",
-    "sha256": "81324ed5328d7989a4694f9f6043cec864d01bf6f7c82d0d39eafccc831e1807",
-    "intentional_changed_glyphs": [
-      "uni0040"
-    ],
-    "other_glyphs_exact": 997,
-    "protected_table_bytes_unchanged": [
-      "hhea",
-      "OS/2",
-      "name",
-      "cmap",
-      "post",
-      "GDEF",
-      "GPOS",
-      "GSUB",
-      "STAT",
-      "hmtx",
-      "kern",
-      "meta"
-    ],
-    "canonical_postscript_name": "Nambli-LightItalic",
-    "OFL_and_author_metadata_retained": true,
-    "belt_repairs": [],
-    "at_repair": {
-      "stroke_width_before_shear": 51.98984252855014,
-      "approved_a_uniform_scale": 0.64,
-      "italic_exit_terminal_trimmed_at_native_x": 574,
-      "outside_centerline_rx": 313.0050787357249,
-      "outside_centerline_ry": 313.0050787357249,
-      "bowl_and_return_right_centerline_x": 497,
-      "bowl_rightmost_outer_x_equals_stem_outer_x": true,
-      "return_start_tangent": [
-        0,
-        -35
+    {
+      "font": "Nambli-LightItalic.otf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
       ],
-      "return_end_tangent": [
-        0,
-        125
-      ],
-      "outer_start_tangent_is_vertical": true,
-      "sampled_return_terminal_clearance_before_shear": 82.76350010079149,
-      "glyph": "uni0040",
-      "old_contour_areas": [
-        -200869.6351916637,
-        34593.361499268576
-      ],
-      "new_contour_areas": [
-        -194502.44604638327,
-        43230.60477070212
-      ],
-      "new_contour_bounds": [
-        [
-          70.85111472611979,
-          5.964749437859884,
-          759.3734673688541,
-          684.0199776221069
-        ],
-        [
-          241.91862139923725,
-          202.38983154296875,
-          479.5471104400632,
-          437.610107421875
-        ]
-      ],
-      "metrics_exact": true,
-      "status": "candidate, visual review required"
+      "unchanged_outlines": 977,
+      "other_tables_exact": true,
+      "max_bounds_error_from_ttf": 0.000169355649290992,
+      "sha256": "3f3928c1d94c0215757277619fbcc828095e52f03cbcb781fd6d94977ae2a355"
     },
-    "exact_cleanup": {
-      "font": "[preparation]\\production-readiness\\outline-work\\supplementary-otf-raw\\Nambli-LightItalic.otf",
-      "output": "[preparation]\\production-readiness\\outline-work\\final-otf\\Nambli-LightItalic.otf",
-      "changed_glyphs": {},
-      "changed_glyph_count": 0,
-      "event_counts": {},
-      "validation": {
-        "entire_file_byte_identical": true
-      },
-      "proof_note": "Every cubic outline inspected; no removable segment. Output is a byte-identical copy."
-    }
-  },
-  {
-    "font": "Nambli-Medium.otf",
-    "sha256": "d2fa3568f95667bf001056b08a181e5034154740e3049958ce525b94bf3ce750",
-    "intentional_changed_glyphs": [
-      "uni0040"
-    ],
-    "other_glyphs_exact": 997,
-    "protected_table_bytes_unchanged": [
-      "hhea",
-      "OS/2",
-      "name",
-      "cmap",
-      "post",
-      "GDEF",
-      "GPOS",
-      "GSUB",
-      "STAT",
-      "hmtx",
-      "kern",
-      "meta"
-    ],
-    "canonical_postscript_name": "Nambli-Medium",
-    "OFL_and_author_metadata_retained": true,
-    "belt_repairs": [],
-    "at_repair": {
-      "stroke_width_before_shear": 72.96000000000001,
-      "approved_a_uniform_scale": 0.64,
-      "italic_exit_terminal_trimmed_at_native_x": null,
-      "outside_centerline_rx": 302.52,
-      "outside_centerline_ry": 302.52,
-      "bowl_and_return_right_centerline_x": 497,
-      "bowl_rightmost_outer_x_equals_stem_outer_x": true,
-      "return_start_tangent": [
-        0,
-        -35
+    {
+      "font": "Nambli-Medium.otf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
       ],
-      "return_end_tangent": [
-        0,
-        125
-      ],
-      "outer_start_tangent_is_vertical": true,
-      "sampled_return_terminal_clearance_before_shear": 62.162510147048295,
-      "glyph": "uni0040",
-      "old_contour_areas": [
-        -243883.85153588845,
-        22042.447274097423
-      ],
-      "new_contour_areas": [
-        -229798.90145778994,
-        29162.532483193296
-      ],
-      "new_contour_bounds": [
-        [
-          61.98784738394689,
-          5.965241913121488,
-          740.0,
-          684.0193885809376
-        ],
-        [
-          265.52001953125,
-          223.3475341796875,
-          457.52001953125,
-          416.6524658203125
-        ]
-      ],
-      "metrics_exact": true,
-      "status": "candidate, visual review required"
+      "unchanged_outlines": 977,
+      "other_tables_exact": true,
+      "max_bounds_error_from_ttf": 0.00018310546875,
+      "sha256": "8104a8a3a5099c308a65f807738d138c09e347f10333d0e33c98eb89f76380ab"
     },
-    "exact_cleanup": {
-      "font": "[preparation]\\production-readiness\\outline-work\\supplementary-otf-raw\\Nambli-Medium.otf",
-      "output": "[preparation]\\production-readiness\\outline-work\\final-otf\\Nambli-Medium.otf",
-      "changed_glyphs": {},
-      "changed_glyph_count": 0,
-      "event_counts": {},
-      "validation": {
-        "entire_file_byte_identical": true
-      },
-      "proof_note": "Every cubic outline inspected; no removable segment. Output is a byte-identical copy."
-    }
-  },
-  {
-    "font": "Nambli-MediumItalic.otf",
-    "sha256": "e04e21b8a1c21ed0cba67617e6db040a9e1342effe4485431d288df5a988a1ba",
-    "intentional_changed_glyphs": [
-      "uni0040"
-    ],
-    "other_glyphs_exact": 997,
-    "protected_table_bytes_unchanged": [
-      "hhea",
-      "OS/2",
-      "name",
-      "cmap",
-      "post",
-      "GDEF",
-      "GPOS",
-      "GSUB",
-      "STAT",
-      "hmtx",
-      "kern",
-      "meta"
-    ],
-    "canonical_postscript_name": "Nambli-MediumItalic",
-    "OFL_and_author_metadata_retained": true,
-    "belt_repairs": [],
-    "at_repair": {
-      "stroke_width_before_shear": 74.08552560318395,
-      "approved_a_uniform_scale": 0.64,
-      "italic_exit_terminal_trimmed_at_native_x": null,
-      "outside_centerline_rx": 301.95723719840805,
-      "outside_centerline_ry": 301.95723719840805,
-      "bowl_and_return_right_centerline_x": 497,
-      "bowl_rightmost_outer_x_equals_stem_outer_x": true,
-      "return_start_tangent": [
-        0,
-        -35
+    {
+      "font": "Nambli-MediumItalic.otf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
       ],
-      "return_end_tangent": [
-        0,
-        125
-      ],
-      "outer_start_tangent_is_vertical": true,
-      "sampled_return_terminal_clearance_before_shear": 61.05637760104301,
-      "glyph": "uni0040",
-      "old_contour_areas": [
-        -246146.0403957837,
-        21439.940905966614
-      ],
-      "new_contour_areas": [
-        -231635.62788032368,
-        28476.716799812202
-      ],
-      "new_contour_bounds": [
-        [
-          70.85166926970129,
-          5.965300802002404,
-          759.3729988013235,
-          684.0193291494943
-        ],
-        [
-          275.4067577985794,
-          224.48553466796875,
-          468.1547234592739,
-          415.514404296875
-        ]
-      ],
-      "metrics_exact": true,
-      "status": "candidate, visual review required"
+      "unchanged_outlines": 977,
+      "other_tables_exact": true,
+      "max_bounds_error_from_ttf": 0.00021545117203913833,
+      "sha256": "2bda7485531ea87188fcb5989215d409a4dc79cbfdb6db0443694fd6779a1f9f"
     },
-    "exact_cleanup": {
-      "font": "[preparation]\\production-readiness\\outline-work\\supplementary-otf-raw\\Nambli-MediumItalic.otf",
-      "output": "[preparation]\\production-readiness\\outline-work\\final-otf\\Nambli-MediumItalic.otf",
-      "changed_glyphs": {},
-      "changed_glyph_count": 0,
-      "event_counts": {},
-      "validation": {
-        "entire_file_byte_identical": true
-      },
-      "proof_note": "Every cubic outline inspected; no removable segment. Output is a byte-identical copy."
-    }
-  },
-  {
-    "font": "Nambli-Regular.otf",
-    "sha256": "2144b369f74aa5e413abc36488c7c36242ed8a522d596c10bda36c7783abfcce",
-    "intentional_changed_glyphs": [
-      "uni0040"
-    ],
-    "other_glyphs_exact": 997,
-    "protected_table_bytes_unchanged": [
-      "hhea",
-      "OS/2",
-      "name",
-      "cmap",
-      "post",
-      "GDEF",
-      "GPOS",
-      "GSUB",
-      "STAT",
-      "hmtx",
-      "kern",
-      "meta"
-    ],
-    "canonical_postscript_name": "Nambli-Regular",
-    "OFL_and_author_metadata_retained": true,
-    "belt_repairs": [],
-    "at_repair": {
-      "stroke_width_before_shear": 64.0,
-      "approved_a_uniform_scale": 0.64,
-      "italic_exit_terminal_trimmed_at_native_x": null,
-      "outside_centerline_rx": 307.0,
-      "outside_centerline_ry": 307.0,
-      "bowl_and_return_right_centerline_x": 497,
-      "bowl_rightmost_outer_x_equals_stem_outer_x": true,
-      "return_start_tangent": [
-        0,
-        -35
+    {
+      "font": "Nambli-Regular.otf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
       ],
-      "return_end_tangent": [
-        0,
-        125
-      ],
-      "outer_start_tangent_is_vertical": true,
-      "sampled_return_terminal_clearance_before_shear": 70.96607282941318,
-      "glyph": "uni0040",
-      "old_contour_areas": [
-        -225719.6717550888,
-        27092.61414962783
-      ],
-      "new_contour_areas": [
-        -215459.94799568827,
-        34842.02116360777
-      ],
-      "new_contour_bounds": [
-        [
-          61.9878150210444,
-          5.965036012065984,
-          740.0,
-          684.0196919871731
-        ],
-        [
-          252.0799560546875,
-          214.3804931640625,
-          462.0,
-          425.6195068359375
-        ]
-      ],
-      "metrics_exact": true,
-      "status": "candidate, visual review required"
+      "unchanged_outlines": 977,
+      "other_tables_exact": true,
+      "max_bounds_error_from_ttf": 0.0001983642578125,
+      "sha256": "0bdac3d4e8807055c7aeb8fb6ebff3c96d8118c365a345e0aa6317f9b76dd925"
     },
-    "exact_cleanup": {
-      "font": "[preparation]\\production-readiness\\outline-work\\supplementary-otf-raw\\Nambli-Regular.otf",
-      "output": "[preparation]\\production-readiness\\outline-work\\final-otf\\Nambli-Regular.otf",
-      "changed_glyphs": {},
-      "changed_glyph_count": 0,
-      "event_counts": {},
-      "validation": {
-        "entire_file_byte_identical": true
-      },
-      "proof_note": "Every cubic outline inspected; no removable segment. Output is a byte-identical copy."
-    }
-  },
-  {
-    "font": "Nambli-SemiBold.otf",
-    "sha256": "a5e75d31c8a9865cab83e815b47330d03c903ea7ab176af2b096335028fb2712",
-    "intentional_changed_glyphs": [
-      "uni0040"
-    ],
-    "other_glyphs_exact": 997,
-    "protected_table_bytes_unchanged": [
-      "hhea",
-      "OS/2",
-      "name",
-      "cmap",
-      "post",
-      "GDEF",
-      "GPOS",
-      "GSUB",
-      "STAT",
-      "hmtx",
-      "kern",
-      "meta"
-    ],
-    "canonical_postscript_name": "Nambli-SemiBold",
-    "OFL_and_author_metadata_retained": true,
-    "belt_repairs": [],
-    "at_repair": {
-      "stroke_width_before_shear": 78.72,
-      "approved_a_uniform_scale": 0.64,
-      "italic_exit_terminal_trimmed_at_native_x": null,
-      "outside_centerline_rx": 299.64,
-      "outside_centerline_ry": 299.64,
-      "bowl_and_return_right_centerline_x": 497,
-      "bowl_rightmost_outer_x_equals_stem_outer_x": true,
-      "return_start_tangent": [
-        0,
-        -35
+    {
+      "font": "Nambli-SemiBold.otf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
       ],
-      "return_end_tangent": [
-        0,
-        125
-      ],
-      "outer_start_tangent_is_vertical": true,
-      "sampled_return_terminal_clearance_before_shear": 56.50151838444219,
-      "glyph": "uni0040",
-      "old_contour_areas": [
-        -255422.71149431233,
-        19031.141464358938
-      ],
-      "new_contour_areas": [
-        -238735.73088237928,
-        25777.73002139571
-      ],
-      "new_contour_bounds": [
-        [
-          61.987854760682005,
-          5.9653921501240905,
-          740.0,
-          684.0192681696303
-        ],
-        [
-          274.1600341796875,
-          229.11322021484375,
-          454.6400146484375,
-          410.88671875
-        ]
-      ],
-      "metrics_exact": true,
-      "status": "candidate, visual review required"
+      "unchanged_outlines": 977,
+      "other_tables_exact": true,
+      "max_bounds_error_from_ttf": 0.000244140625,
+      "sha256": "c3da450e41a015e2b9d7f6418707adfc3b6d7b4638731b709e1c0cdee68eaaee"
     },
-    "exact_cleanup": {
-      "font": "[preparation]\\production-readiness\\outline-work\\supplementary-otf-raw\\Nambli-SemiBold.otf",
-      "output": "[preparation]\\production-readiness\\outline-work\\final-otf\\Nambli-SemiBold.otf",
-      "changed_glyphs": {},
-      "changed_glyph_count": 0,
-      "event_counts": {},
-      "validation": {
-        "entire_file_byte_identical": true
-      },
-      "proof_note": "Every cubic outline inspected; no removable segment. Output is a byte-identical copy."
+    {
+      "font": "Nambli-SemiBoldItalic.otf",
+      "changed": [
+        "uni0040",
+        "uni012F",
+        "uni012F.dotless",
+        "uni01A4",
+        "uni01A5",
+        "uni01AC",
+        "uni01AD",
+        "uni01AE",
+        "uni01B9",
+        "uni0260",
+        "uni0266",
+        "uni027D",
+        "uni029D",
+        "uni029D.dotless",
+        "uni2C64",
+        "uni2C72",
+        "uni2C73",
+        "uniA7AA",
+        "uniA7B2",
+        "uniA7B4",
+        "uniA7B5"
+      ],
+      "unchanged_outlines": 977,
+      "other_tables_exact": true,
+      "max_bounds_error_from_ttf": 0.00017004394565134362,
+      "sha256": "0879c333946aafd78a4484b4e4200bcd2fae5f4404240c900c6f14aaad4bc585"
     }
-  },
-  {
-    "font": "Nambli-SemiBoldItalic.otf",
-    "sha256": "a18be3c5a8d43bd330dc590054e0e91c98783d9a50e95626ff69a86985f78aba",
-    "intentional_changed_glyphs": [
-      "uni0040"
-    ],
-    "other_glyphs_exact": 997,
-    "protected_table_bytes_unchanged": [
-      "hhea",
-      "OS/2",
-      "name",
-      "cmap",
-      "post",
-      "GDEF",
-      "GPOS",
-      "GSUB",
-      "STAT",
-      "hmtx",
-      "kern",
-      "meta"
-    ],
-    "canonical_postscript_name": "Nambli-SemiBoldItalic",
-    "OFL_and_author_metadata_retained": true,
-    "belt_repairs": [],
-    "at_repair": {
-      "stroke_width_before_shear": 79.93438288764584,
-      "approved_a_uniform_scale": 0.64,
-      "italic_exit_terminal_trimmed_at_native_x": null,
-      "outside_centerline_rx": 299.0328085561771,
-      "outside_centerline_ry": 299.0328085561771,
-      "bowl_and_return_right_centerline_x": 497,
-      "bowl_rightmost_outer_x_equals_stem_outer_x": true,
-      "return_start_tangent": [
-        0,
-        -35
-      ],
-      "return_end_tangent": [
-        0,
-        125
-      ],
-      "outer_start_tangent_is_vertical": true,
-      "sampled_return_terminal_clearance_before_shear": 55.307916202697,
-      "glyph": "uni0040",
-      "old_contour_areas": [
-        -257843.91382882235,
-        18418.512325983866
-      ],
-      "new_contour_areas": [
-        -240681.6582633758,
-        25084.914507569934
-      ],
-      "new_contour_bounds": [
-        [
-          70.85180779847647,
-          5.965451038896966,
-          759.3728960721244,
-          684.0192071897663
-        ],
-        [
-          284.2712739680073,
-          230.3343505859375,
-          465.13907270893105,
-          409.6656494140625
-        ]
-      ],
-      "metrics_exact": true,
-      "status": "candidate, visual review required"
-    },
-    "exact_cleanup": {
-      "font": "[preparation]\\production-readiness\\outline-work\\supplementary-otf-raw\\Nambli-SemiBoldItalic.otf",
-      "output": "[preparation]\\production-readiness\\outline-work\\final-otf\\Nambli-SemiBoldItalic.otf",
-      "changed_glyphs": {},
-      "changed_glyph_count": 0,
-      "event_counts": {},
-      "validation": {
-        "entire_file_byte_identical": true
-      },
-      "proof_note": "Every cubic outline inspected; no removable segment. Output is a byte-identical copy."
-    }
-  }
-]
+  ]
+}

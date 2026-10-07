@@ -2,34 +2,34 @@
   "tool": "Fontspector 1.8.0",
   "profile": "googlefonts",
   "mode": "network",
-  "generated_utc": "2026-10-06T23:48:39.163886+00:00",
+  "generated_utc": "2026-10-07T13:59:27.729091+00:00",
   "network_timeout_seconds": 10,
   "check_exclusions": [],
   "exit_code": 0,
   "font_files_unchanged": true,
   "hash_scope": "All 12 canonical TTF inputs and OFL.txt; supplementary formats are validated by the build pipeline.",
   "all_input_files_sha256": {
-    "Nambli-Bold.ttf": "c9f0c7f4378e67f9819323a507a063fabad0a3215a4b6b91151e19993d6d84ac",
-    "Nambli-BoldItalic.ttf": "afb952cf1a205511630e21852c55934771888fcd74ae3238bec54bb242604b00",
-    "Nambli-ExtraBold.ttf": "27a6482ecd196a7b3e67b622c815f340f46ccd2acc328bc11241bd48bce332b7",
-    "Nambli-ExtraBoldItalic.ttf": "8f8799bd5296598c3647f8a8568dca084715c2f1e3c93d54949aac3a07b33603",
-    "Nambli-Italic.ttf": "d974256ad78da18daeaae50530e95b908a5e8ec1b52f8dbe1cbd8a8d43783e17",
-    "Nambli-Light.ttf": "47fa1648fe05e4e768497b42a15a898103ccfbb67d4e226492be027aeb58f786",
-    "Nambli-LightItalic.ttf": "524b4f87a6e76f26eb1fddb4426053defed31f490ae140423fb30dfdfbac1c59",
-    "Nambli-Medium.ttf": "b04b7912cd6c431719af2e58f98b34e85f67c8d98fe5c0cefd28e475cd619a8a",
-    "Nambli-MediumItalic.ttf": "17aeb33b3858d968dd0924b017a8c0c2e6d0729c1923ceabbfcfd6a82f271af2",
-    "Nambli-Regular.ttf": "58676c8765185d9494172a6f9a38f1a808164d0b9ef4b7f672840c9830f3c081",
-    "Nambli-SemiBold.ttf": "da59cfb0716f3bdd571a11ed97a915e26d70f467e6db2a5746481a10527a8cbf",
-    "Nambli-SemiBoldItalic.ttf": "fc186aa5d35d8fa76bbc714a691909f22e1d0bc6378b1d1b797de81122d4ec27",
-    "OFL.txt": "8f54c3c154295651b48bd01c23fd4db0bd8069be3141ff06ca766a0a50ee8c1b"
+    "Nambli-Bold.ttf": "7163e59fc7623e669c4fef6d6871ec76c6b164d20bb7b35e53b298769f4d17d0",
+    "Nambli-BoldItalic.ttf": "196b13fe071e48a86348b10569f4e93b9f2d7d680bba747b0d4948b167a92f54",
+    "Nambli-ExtraBold.ttf": "17885ab53bef4b4d4c98de5329aaa09e0d4f404e64f993b08a55f792658c8d15",
+    "Nambli-ExtraBoldItalic.ttf": "f7700b96cec7584bde30214d60a7a92a8845c29631f9cebc1b9bc29d5afd73f3",
+    "Nambli-Italic.ttf": "cca0ec1f6e356d4f74a304c836ec1eeb1f5945319dbc6939cf32af29d127a0e2",
+    "Nambli-Light.ttf": "3e0fda8b8b0158569aef73945b164c0d9d647d38978563575d987ca46676fa64",
+    "Nambli-LightItalic.ttf": "1392f44a367715f9c239127266d4e6b5d11b3475b86c0c5c93293adadfa84594",
+    "Nambli-Medium.ttf": "524e48a4b9139e6a09c766051b816b1a41cf5e4693bb3a55846d5c4fa00d9f39",
+    "Nambli-MediumItalic.ttf": "00f109e32ce4fb55f7c7899cf287d5892ac0f20986b52c9e792bf7c2fd04a8a5",
+    "Nambli-Regular.ttf": "a837d0eab7a6cd27a39871fbfd7ac2a4881e7443d34391b3a55e396275470e4b",
+    "Nambli-SemiBold.ttf": "7aa45f61c37f3533db9bd835d47187b428255167bb3d5835a54d86059275af3d",
+    "Nambli-SemiBoldItalic.ttf": "6d79567bc7a84be9a535ccf8f6bd61b34aac662658b8a361f704edd521fc4583",
+    "OFL.txt": "64839c62885a8cb1fb22c54b4aa373e8582613c087ed36d0b412faadb8c2a7ea"
   },
   "font_count": 12,
   "raw_report": "network-fontspector.json",
   "summary": {
     "SKIP": 704,
-    "PASS": 1125,
+    "PASS": 1127,
     "INFO": 80,
-    "WARN": 136
+    "WARN": 134
   },
   "by_check": {
     "STAT_in_statics": {
@@ -940,12 +940,12 @@
     },
     "name/italic_names": {
       "check_outcomes": {
-        "PASS": 6,
-        "SKIP": 6
+        "SKIP": 6,
+        "PASS": 6
       },
       "subresult_severities": {
-        "PASS": 6,
-        "SKIP": 6
+        "SKIP": 6,
+        "PASS": 6
       }
     },
     "name/no_copyright_on_description": {
@@ -1366,12 +1366,12 @@
     },
     "opentype/xavgcharwidth": {
       "check_outcomes": {
-        "PASS": 6,
-        "INFO": 6
+        "INFO": 6,
+        "PASS": 6
       },
       "subresult_severities": {
-        "PASS": 6,
-        "INFO": 6
+        "INFO": 6,
+        "PASS": 6
       }
     },
     "os2_metrics_match_hhea": {
@@ -1392,12 +1392,12 @@
     },
     "outline_colinear_vectors": {
       "check_outcomes": {
-        "PASS": 5,
-        "WARN": 7
+        "WARN": 6,
+        "PASS": 6
       },
       "subresult_severities": {
-        "PASS": 5,
-        "WARN": 7
+        "WARN": 6,
+        "PASS": 6
       }
     },
     "outline_direction": {
@@ -1410,22 +1410,22 @@
     },
     "outline_jaggy_segments": {
       "check_outcomes": {
-        "WARN": 5,
-        "PASS": 7
+        "WARN": 4,
+        "PASS": 8
       },
       "subresult_severities": {
-        "WARN": 5,
-        "PASS": 7
+        "WARN": 4,
+        "PASS": 8
       }
     },
     "outline_semi_vertical": {
       "check_outcomes": {
-        "SKIP": 6,
-        "PASS": 6
+        "PASS": 6,
+        "SKIP": 6
       },
       "subresult_severities": {
-        "SKIP": 6,
-        "PASS": 6
+        "PASS": 6,
+        "SKIP": 6
       }
     },
     "outline_short_segments": {
@@ -1438,12 +1438,12 @@
     },
     "overlapping_path_segments": {
       "check_outcomes": {
-        "WARN": 4,
-        "PASS": 8
+        "PASS": 8,
+        "WARN": 4
       },
       "subresult_severities": {
-        "WARN": 4,
-        "PASS": 8
+        "PASS": 8,
+        "WARN": 4
       }
     },
     "required_tables": {

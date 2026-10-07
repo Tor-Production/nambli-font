@@ -1,89 +1,62 @@
-Nambli Google Fonts preparation — 2026-10-07 (Europe/Kyiv)
+Nambli Google Fonts candidate — design refinement, 2026-10-07
 
 STATUS
+Submitted: https://github.com/google/fonts/issues/11082
+Draft review: https://github.com/Tor-Production/nambli-font/pull/1
+Yurii Tor's Individual CLA was verified as on file on 2026-10-07.
+Google Fonts has not accepted or published Nambli. This is an unreleased
+font-version 1.000 candidate. Public v0.7.4 and the website remain unchanged.
 
-Submitted for consideration: https://github.com/google/fonts/issues/11082
-Yurii Tor's Google Individual CLA was verified as on file on 2026-10-07.
-This is the verification date, not a claimed date of signature.
-Google Fonts has not accepted or published the family.
-
-This branch contains an unreleased font-version 1.000 candidate. The public
-v0.7.4 release and torproduction.com/namblifont still distribute version 0.704.
-New and changed forms require visual review before a new release.
-
-TECHNICAL CANDIDATE
-
+DESIGN REFINEMENT
 All twelve styles contain 970 encoded characters and 998 glyphs. Compared with
-the 872-character public release, 20 Latin Core characters and 78 further
-characters were added. The latter close observed language-repertoire gaps and
-include two invisible separators and a dotted circle. Extra unencoded forms
-support localized carons, middle dots, Turkic i and soft-dotted behavior.
-The source does not import outlines from another typeface.
+the previous candidate (671f777), 21 forms per style changed: @; P/p with hook;
+T/t with hook; T/r/R retroflex tails; g/h/H/W/w with hook; reversed ezh;
+crossed-tail j, dotless j and J; Latin beta capitals/lowercase; i-ogonek and
+its dotless alternate. Review all 252 cards in:
+  refinement/Nambli-Refinement-Review.html
+The complete comparison with public v0.7.4 remains in:
+  review/Nambli-Technical-Review.html
 
-The @ now derives its inner bowl from the existing a at uniform 0.64 scale,
-with a circular outer loop and a connected return. Two italic terminal joins
-were trimmed while retaining the exact inner counters. Collapsed or very small
-apertures in ɬ / Ɬ were reopened in Bold and ExtraBold, upright and italic.
+@ uses the approved a at uniform 0.64 scale. Its circular bowl is now centered
+on the outer loop, with a curvature-continuous right return. Saved-font center
+error is at most 0.2881 font units; the pre-quantization a-counter XOR is zero.
+U+01B9 reuses the existing U+025B outline, retaining its distinct Unicode mapping.
+The 36 crossed-tail counters deviate from circles by at most 0.867 units after
+TTF rounding. Hook joins are continuous; selected italic backtracking segments
+found by final QA were repaired locally. TOP mark anchors follow the revised
+stems and heights; other anchor classes and unrelated layout remain unchanged.
 
-All 872 previous Unicode mappings and all 887 previous glyph metrics are
-retained in every style. Of 10,644 original glyph instances, 10,624 retain
-exact normalized geometry; the 20 visible exceptions are @ in all twelve
-styles and the two aperture repairs in four styles. Exact redundant outline
-points were also removed without changing their geometric paths.
-See approved-outline-preservation.json and the before/after review page.
+PRESERVATION
+All 872 release Unicode mappings and 887 release metrics per face remain.
+10,612 of 10,644 release glyph instances retain exact normalized geometry.
+The 32 exceptions are @ and i-ogonek in all twelve styles, plus heavy ɬ/Ɬ
+aperture repairs in four styles. The refinement changed 21 of 998 forms per
+face; every other outline remains identical to candidate 671f777.
+See approved-outline-preservation.json and refinement-integration.json.
 
 PRODUCTION BUILD
+The editable UFOs build independently through Fontmake 3.12.1/ufo2ft 3.9.1.
+11,976 exact glyph comparisons and 105,696 shaping comparisons pass. Two
+builds produce identical SHA-256 hashes for all 24 TTF/WOFF2 files. Reference
+binaries are validation inputs only; feature source, kerning and STAT are
+editable. See production-build-validation.json and sources/BUILDING.md.
+Supplementary OTFs carry the final repaired contours and matching layout;
+unaffected CFF contours are unchanged. The independent build still produces
+TTF/WOFF2, not OTF; see supplementary-otf-validation.json.
 
-The twelve editable UFO3 masters compile independently through Fontmake 3.12.1
-and ufo2ft 3.9.1. Reference binaries are optional validation inputs, not build
-dependencies. Features, kerning and STAT are compiled from editable data.
-
-The final TTF build passed 11,976 exact quadratic-outline comparisons and
-105,696 HarfBuzz shaping comparisons, with unchanged candidate metrics, cmap,
-glyph order and compiled layout. A second build produced identical SHA-256
-hashes for all twelve TTFs and twelve WOFF2s.
-See production-build-validation.json and sources/BUILDING.md.
-
-The twelve supplementary OTFs carry the same design repairs and language
-layout. Their preservation checks pass, but they are not outputs of the
-independent UFO-to-TTF/WOFF2 build. See supplementary-otf-validation.json.
-Do not claim that the current one-command build reproduces OTF.
-
-FINAL FONT SPECTOR RESULTS
-
-Fontspector 1.8.0, complete googlefonts profile, all twelve final TTFs,
-network enabled, no check exclusions:
-1125 PASS, 136 WARN, 704 SKIP, 80 INFO; 0 FAIL, 0 ERROR, 0 FATAL.
-These are subresult counts, including repeated checks across styles.
-The twelve TTF files and OFL.txt had identical hashes before and after QA.
+FINAL QA
+Fontspector 1.8.0, all twelve final TTFs, complete googlefonts profile,
+network enabled, no exclusions: 1127 PASS, 134 WARN, 704 SKIP, 80 INFO, 0 FAIL, 0 ERROR, 0 FATAL.
+All TTF and OFL hashes are unchanged by QA. Offline results are recorded
+separately; network checks are skipped only in that explicitly offline run.
 See fontspector-summary.json and fontspector-network-summary.json.
+Real HarfBuzz tests cover soft-dotted forms, language substitutions and mark
+stacking; supplementary OTF and editable feature tables match exactly.
+Pairwise contour checks cover 72 R-tail and 924 hook combinations.
+They were repeated on the final build; see refinement-final-pair-validation.json.
 
-The network-disabled comparison returned 1113 PASS, 136 WARN and 716 SKIP.
-The network run confirmed the fontdata name check; comparisons with an
-existing Google Fonts family skip because Nambli is not in the catalogue.
-Other SKIPs include checks not applicable to static fonts and Google-owned
-onboarding metadata that is not supplied by this upstream candidate.
-
-REMAINING REVIEW
-
-136 WARN subresults: 48 decomposed side-caron manual-inspection notices;
-12 each for GF subset serving coverage, unregistered vendor ID NAMB, vertical
-metrics, proportional math widths, missing rupee and legacy empty .null;
-7 approximate collinearity, 5 jaggy-segment and 4 overlap notices.
-
-Remaining tiny quantized-segment warnings are not asserted to be perfect
-outlines. They include a roughly one-unit reversal in SemiBoldItalic @ and
-other small joins. Existing exact geometry was not changed merely to suppress
-approximate heuristics. See WARNING-DISPOSITIONS.txt and the full messages in
-fontspector-summary.json; these findings remain available for visual review.
-
-The 1.6 UPM line-metric span retains space for existing tall accents and deep
-descenders. Math signs remain proportionally spaced. NAMB is not claimed as
-a registered Microsoft vendor ID. Extra script labels have not been added to
-hide Google subset-coverage warnings. The rupee sign is not in this candidate.
-
-Visual approval of the new/changed forms, native-reader review where needed,
-Google's curatorial decision, serving metadata and remaining contributor
-checklist confirmations are still pending. A zero-FAIL report does not replace
-these reviews or establish copyright ownership. AI assistance remains disclosed
-in PROVENANCE.txt and the submission.
+REVIEW STILL PENDING
+New and changed designs need author review. Remaining Fontspector WARN/SKIP
+messages remain available in the reports; zero FAIL does not establish
+visual approval or Google Fonts acceptance. No merge, tag, release or website
+deployment is performed as part of this refinement.
