@@ -1,0 +1,87 @@
+Nambli independent WARN audit — 2026-10-08
+
+This read-only audit examined the final stock Fontspector 1.8.0 package
+report, the corresponding check implementations, all twelve 1.000 font
+files and the separate 1.001 candidate reports. No fonts were modified.
+
+Not every warning is fixed or irrelevant. The final approved package has
+151 WARN subresults across 12 check IDs. The original package had 152 across
+13 IDs; adding the article images removed its one article/images warning.
+These counts do not represent 151 distinct defective glyphs.
+
+Exact final groups (sum 151)
+48 alt_caron: manual review required by the structural check.
+16 metadata/consistent_with_fonts: non-RIBBI legacy family naming.
+ 1 metadata/designer_profiles: designer catalog profile is absent.
+12 metadata/unreachable_subsetting: real serving coverage work remains.
+12 vendor_id: NAMB is not in the vendor registration lookup.
+12 vertical_metrics: 1.6 UPM exceeds the recommended line-height range.
+12 math_signs_width: proportional widths differ from the common math width.
+ 6 outline_colinear_vectors: near-collinear straight-segment joins.
+ 4 outline_jaggy_segments: sharp/reversing joins in approved 1.000.
+ 4 overlapping_path_segments: tiny overlaps in approved 1.000.
+12 rupee: optional repertoire extension for this non-Indic family.
+12 unreachable_glyphs: empty, unencoded .null at glyph ID 1.
+
+Findings
+
+All 48 alt_caron messages are decomposed-outline notices: the check cannot
+inspect component identity in a simple glyph and requests manual review.
+It has not diagnosed 48 incorrect accent shapes. The four relevant accented
+letters per style are already shown in the visual review controls.
+
+The 16 family-name warnings cover two platform records for eight non-RIBBI
+faces. Keeping weight-specific legacy name ID 1 values and a common preferred
+family follows current OpenType guidance. Related OpenType naming/grouping
+checks pass. Forcing all ID 1 values to Nambli merely to silence this warning
+could damage the four-style legacy grouping.
+https://learn.microsoft.com/en-us/typography/opentype/spec/name
+
+The six collinear WARNs contain 47 joins. The checker uses a 0.1-radian
+tolerance between consecutive straight segments; none of the 47 triples is
+exactly collinear. Replacing each pair with one segment would move its middle
+point from the outline by 0.006564–1.238336 font units. No mathematically
+lossless deletion was identified. A visually negligible simplification may
+be possible, but would need a separately validated outline candidate.
+
+Every unreachable-glyph warning concerns only .null: no contour, advance 0,
+GID 1, and no Unicode mapping. OpenType 1.7 recommended this legacy ordering;
+current recommendations no longer list the old first-four-glyph convention.
+Removal is possible modern-font cleanup, but would renumber later glyphs and
+change the approved glyph count from 998 to 997. Retention is optional, not
+a current mandatory requirement, and has no relation to the 16 tofu FAILs.
+https://learn.microsoft.com/en-us/typography/opentype/otspec170/recom
+https://learn.microsoft.com/en-us/typography/opentype/spec/recom
+
+The rupee check emits FAIL when an Indic detection character is present and
+WARN for other fonts without U+20B9. Nambli takes the non-Indic WARN path.
+Adding an original rupee design is an optional coverage extension.
+
+Unreachable subsetting remains a real integration issue. Vendor registration
+and the designer profile are administrative work. Line-height and math-width
+warnings concern layout choices; changes require layout/clipping checks and
+should not be described as repairs to corrupted glyphs.
+
+Candidate boundary
+
+Approved 1.000 binary-only stock: 134 WARN. Separate 1.001 binary candidate:
+128 WARN. The only warning-count changes are jaggy_segments 4→2 and
+overlapping_path_segments 4→0. All other groups remain unchanged. These six
+removals are not in the Google submission or published release, and are not
+deducted from the measured 151-WARN full-package result. A hypothetical
+145-WARN full-package result has not been measured and is not claimed.
+
+Evidence and implementation references
+
+The original native messages, coordinates and measured reports are preserved
+under ../2026-10-07/reports/ (including stock-final-index-package-network,
+stock-final-binary-import-layout-network and outline-candidate-06-binary-network).
+The original private local reports remain unchanged. Public report copies
+are explicitly path-redacted as documented in their manifests.
+
+Check implementations at the tested release:
+https://github.com/fonttools/fontspector/blob/fontspector-v1.8.0/profile-universal/src/checks/alt_caron.rs
+https://github.com/fonttools/fontspector/blob/fontspector-v1.8.0/profile-googlefonts/src/checks/googlefonts/metadata/consistent_with_fonts.rs
+https://github.com/fonttools/fontspector/blob/fontspector-v1.8.0/profile-googlefonts/src/checks/outline/colinear_vectors.rs
+https://github.com/fonttools/fontspector/blob/fontspector-v1.8.0/profile-universal/src/checks/unreachable_glyphs.rs
+https://github.com/fonttools/fontspector/blob/fontspector-v1.8.0/profile-universal/src/checks/rupee.rs

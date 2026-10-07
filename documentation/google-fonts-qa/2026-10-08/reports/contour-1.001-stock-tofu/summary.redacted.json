@@ -1,0 +1,120 @@
+{
+  "scope": "Diagnostic googlefonts/tofu only; not a complete package run or proposed submission",
+  "metadata_source_note": "Metadata deliberately unchanged for this controlled diagnostic; these 1.001 binaries are not committed in its source mapping",
+  "tool": "official stock Fontspector 1.8.0",
+  "native_exit_code": 1,
+  "summary": {
+    "FAIL": 16
+  },
+  "faces": [
+    {
+      "file": "Nambli-Bold.ttf",
+      "old_version": "Version 1.000",
+      "new_version": "Version 1.001",
+      "cmap_equal": true,
+      "candidate_sha256": "02725ee100e2c678ef29a45a725b158c14899942b63f8f16d4b0553e705d5d39"
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "old_version": "Version 1.000",
+      "new_version": "Version 1.001",
+      "cmap_equal": true,
+      "candidate_sha256": "b95aa5dbbd9a8f8784c05be2ff6cc5138f1ec9ec550fc64409b90a08291a4ae2"
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "old_version": "Version 1.000",
+      "new_version": "Version 1.001",
+      "cmap_equal": true,
+      "candidate_sha256": "c4a46dfe9c15d329dc3e6d7f9c232ee3108cebb62dbd00222491cabdc0be7a4b"
+    },
+    {
+      "file": "Nambli-ExtraBoldItalic.ttf",
+      "old_version": "Version 1.000",
+      "new_version": "Version 1.001",
+      "cmap_equal": true,
+      "candidate_sha256": "018e97570a7e9fce87ec5a999de800a8536e3f8917d495583aa30bd53e35ab0c"
+    },
+    {
+      "file": "Nambli-Italic.ttf",
+      "old_version": "Version 1.000",
+      "new_version": "Version 1.001",
+      "cmap_equal": true,
+      "candidate_sha256": "1072562e22392ae148c3cf0774a11b1105a9eb657bbca0944d74b281f95ff4ee"
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "old_version": "Version 1.000",
+      "new_version": "Version 1.001",
+      "cmap_equal": true,
+      "candidate_sha256": "e2c52838aa4afce0ac7ef15af8113e9eb09ff6ebb3cbfca2775b7c3920f6b326"
+    },
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "old_version": "Version 1.000",
+      "new_version": "Version 1.001",
+      "cmap_equal": true,
+      "candidate_sha256": "b667d292e39bb3ab3ae039e9aa2b188c571c5d7251ee0afa152692e652cd5d4a"
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "old_version": "Version 1.000",
+      "new_version": "Version 1.001",
+      "cmap_equal": true,
+      "candidate_sha256": "6cf981228b5f2d84ee9e2da423b5e45965e2581c8d3e3c41540992cf06f72262"
+    },
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "old_version": "Version 1.000",
+      "new_version": "Version 1.001",
+      "cmap_equal": true,
+      "candidate_sha256": "ee74673e2376a76427b5571c4dfc24aa758ae06733319bea215e2fb5029cc582"
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "old_version": "Version 1.000",
+      "new_version": "Version 1.001",
+      "cmap_equal": true,
+      "candidate_sha256": "f789a1b268a498235b27d88c134ffc8ac34158ea4bc80d6a5dc9067e3499aa41"
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "old_version": "Version 1.000",
+      "new_version": "Version 1.001",
+      "cmap_equal": true,
+      "candidate_sha256": "8d36f36bcb9801d0ba39d10e08b1e9d5f0d8d6d021219122954e705dd08705e6"
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "old_version": "Version 1.000",
+      "new_version": "Version 1.001",
+      "cmap_equal": true,
+      "candidate_sha256": "694fc523f26c6a062bee08f5eff4f1f2d20a4be216c1176360046ba97127086e"
+    }
+  ],
+  "command": [
+    "<ORIGINAL_QA>\\tools\\fontspector-stock-latest.exe",
+    "-p",
+    "googlefonts",
+    "-c",
+    "googlefonts/tofu",
+    "--json",
+    "<FOLLOWUP_QA>\\runs\\contour-1.001-stock-tofu\\fontspector.json",
+    "<FOLLOWUP_QA>\\diagnostic-1.001\\ofl\\nambli\\Nambli-Bold.ttf",
+    "<FOLLOWUP_QA>\\diagnostic-1.001\\ofl\\nambli\\Nambli-BoldItalic.ttf",
+    "<FOLLOWUP_QA>\\diagnostic-1.001\\ofl\\nambli\\Nambli-ExtraBold.ttf",
+    "<FOLLOWUP_QA>\\diagnostic-1.001\\ofl\\nambli\\Nambli-ExtraBoldItalic.ttf",
+    "<FOLLOWUP_QA>\\diagnostic-1.001\\ofl\\nambli\\Nambli-Italic.ttf",
+    "<FOLLOWUP_QA>\\diagnostic-1.001\\ofl\\nambli\\Nambli-Light.ttf",
+    "<FOLLOWUP_QA>\\diagnostic-1.001\\ofl\\nambli\\Nambli-LightItalic.ttf",
+    "<FOLLOWUP_QA>\\diagnostic-1.001\\ofl\\nambli\\Nambli-Medium.ttf",
+    "<FOLLOWUP_QA>\\diagnostic-1.001\\ofl\\nambli\\Nambli-MediumItalic.ttf",
+    "<FOLLOWUP_QA>\\diagnostic-1.001\\ofl\\nambli\\Nambli-Regular.ttf",
+    "<FOLLOWUP_QA>\\diagnostic-1.001\\ofl\\nambli\\Nambli-SemiBold.ttf",
+    "<FOLLOWUP_QA>\\diagnostic-1.001\\ofl\\nambli\\Nambli-SemiBoldItalic.ttf",
+    "<FOLLOWUP_QA>\\diagnostic-1.001\\ofl\\nambli\\METADATA.pb",
+    "<FOLLOWUP_QA>\\diagnostic-1.001\\ofl\\nambli\\OFL.txt",
+    "<FOLLOWUP_QA>\\diagnostic-1.001\\ofl\\nambli\\article\\ARTICLE.en_us.html"
+  ],
+  "raw_sha256": "59fe700f6f9d5617b900ad440488c00cf6e66fd2b4bb521871ba82478bb34785"
+}

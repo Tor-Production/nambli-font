@@ -1,0 +1,18 @@
+{
+  "fontspector.json": {
+    "original_sha256": "ff193636c767752746bd3d671364691c5cd9a1da0030d83af5a0f7d51edfb68d",
+    "public_copy_sha256": "129d5629cd47b26c13a08d7ebc4b4f321a173eea4db454e470bb8f65b3085a1a"
+  },
+  "summary.json": {
+    "original_sha256": "270d092cee4ddfb0e5837b3c4dfa6ad51f71ef46f5dbf467be54b0a5200bbf19",
+    "public_copy_sha256": "1dfed2ce6e3ccf82994e95df828a18e073d5861c217e71db2cca169a883b6d6e"
+  },
+  "stdout.log": {
+    "original_sha256": "823d2fb59d6ddf3ba2e1096c681fb6dec91e527d2298b6e82c3eb180a243f614",
+    "public_copy_sha256": "d68fac56186ba2c09e34f21eed042ade07ac9a895fd2b01dd11d91dcceaaff20"
+  },
+  "stderr.log": {
+    "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "public_copy_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+  }
+}

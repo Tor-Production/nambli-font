@@ -1,4 +1,4 @@
-Nambli package warning dispositions — 2026-10-07
+Nambli package warning dispositions — reviewed 2026-10-08
 
 Original full-package stock: 152 WARN, 16 FAIL.
 Final full-package stock/patched: 151 WARN, respectively 16/0 FAIL.
@@ -7,6 +7,8 @@ Separate 1.001 binary-only candidate: 128 WARN, 0 FAIL.
 These are unsuppressed native results; every ERROR/FATAL in the final network
 runs is zero. No WARN is turned into PASS by this document. Raw historical
 reports are retained. See google-fonts-qa/2026-10-07/REPORT.md and reports/.
+The original package contains 13 WARN check IDs; the final package contains
+12. These are subresult counts, not counts of distinct defective glyphs.
 
 alt_caron: 48 WARN (original and final package)
 NEEDS_OWNER_INPUT / specialist visual review. Four decomposed side-caron
@@ -23,10 +25,14 @@ OFL license is preserved. Article and metadata source mappings are consistent.
 
 googlefonts/metadata/consistent_with_fonts: 16 WARN
 JUSTIFIED_TRADE_OFF / onboarding decision. Non-RIBBI legacy family names use
-weight-specific family IDs while preferred family IDs identify Nambli. This
-preserves the approved application's legacy style grouping; changing family
-name records is a compatibility decision, not a missing-glyph fix. Metadata
-continues to declare all 12 styles with the correct weights/italic status.
+weight-specific name ID 1 values while preferred family IDs identify Nambli.
+The 16 messages cover two platform records for each of eight non-RIBBI faces.
+Current OpenType guidance recommends this four-style legacy grouping together
+with name IDs 16/17 for an extended family. The package also passes the
+OpenType family naming, maximum-four-faces, style-bit and preferred-family
+consistency checks. Changing these records is a compatibility decision;
+metadata continues to declare all 12 styles with correct weights/italic status.
+Source: https://learn.microsoft.com/en-us/typography/opentype/spec/name
 
 googlefonts/metadata/designer_profiles: 1 WARN
 NEEDS_OWNER_INPUT / REQUIRES_UPSTREAM_ACCEPTANCE. The yuriitor catalog profile
@@ -61,11 +67,15 @@ retain their approved advances (the checker expects a common width). No global
 spacing or kerning normalization was performed to satisfy a math-width rule.
 
 outline_colinear_vectors: 6 WARN
-JUSTIFIED_TRADE_OFF / visual decision if further editing is desired. Remaining
-approximately collinear joins are not exact redundant points; deleting them
-can change curvature. Exact zero/redundant-point cleanup from the prior release
-is retained. Individual messages/coordinates remain in the raw report. These
-were not globally removed or waived by severity changes.
+JUSTIFIED_TRADE_OFF / visual decision if further editing is desired. The check
+uses a 0.1-radian tolerance between consecutive straight segments. The six
+WARN subresults contain 47 approximately collinear joins and zero exactly
+collinear triples. Removing each middle point would alter the outline by
+0.006564 to 1.238336 font units at that point; no lossless deletion was found.
+Exact zero/redundant-point cleanup from the prior release is retained.
+Individual messages/coordinates remain in the raw report. These were not
+globally removed or waived by severity changes. A further simplification
+would require a separately validated outline candidate.
 
 outline_jaggy_segments: 4 package/binary WARN in approved 1.000
 PATCH_VERIFIED_LOCALLY + NEEDS_OWNER_INPUT. The separate 1.001 candidate removes
@@ -91,11 +101,18 @@ repertoire. No invented/borrowed rupee drawing was inserted merely for a WARN.
 Its absence does not justify narrowing existing language support or glyphs.
 
 unreachable_glyphs: 12 WARN
-JUSTIFIED_TRADE_OFF. The legacy unencoded .null is empty. It is intentionally
-retained for compatibility; it contributes no visible contour and no tofu FAIL.
+JUSTIFIED_TRADE_OFF / optional modern-font cleanup. The legacy unencoded .null
+is empty, with zero advance at glyph ID 1. OpenType 1.7 recommended this
+historical glyph ordering; current recommendations no longer require the
+first-four-glyph convention. Retention is a compatibility choice, not a
+current requirement. Removing it would renumber later glyphs and change the
+approved 998-glyph binary, with no visible glyph loss. It causes no tofu FAIL.
+Sources: https://learn.microsoft.com/en-us/typography/opentype/otspec170/recom
+https://learn.microsoft.com/en-us/typography/opentype/spec/recom
 
 No other WARN groups occur in the original 152-WARN full package. Removing the
 article-image warning yields the final 151-WARN total; the optional outline
 candidate's six removals are a separate binary scope, not silently deducted
 from the approved package counts. See the dated report for limits, raw hashes,
 browser versions, external dependencies and all exact original subresults.
+See google-fonts-qa/2026-10-08/WARN-AUDIT.txt for the independent follow-up.

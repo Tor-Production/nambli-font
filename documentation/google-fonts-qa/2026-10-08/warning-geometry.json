@@ -1,0 +1,1097 @@
+{
+  "colinear_warning_subresults": 6,
+  "colinear_join_count": 47,
+  "exact_colinear_joins": 0,
+  "min_deviation": 0.006564048567364975,
+  "max_deviation": 1.2383358833796814,
+  "colinear_joins": [
+    {
+      "file": "Nambli-Bold.ttf",
+      "glyph": "uni2C64 (U+2C64)",
+      "cross_product": 30.0,
+      "point_deviation_units": 0.16951046378011445,
+      "p0": [
+        434.0,
+        132.0
+      ],
+      "p1": [
+        372.0,
+        200.0
+      ],
+      "p2": [
+        315.0,
+        263.0
+      ]
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": 41.0,
+      "point_deviation_units": 0.8244641926816184,
+      "p0": [
+        834.0,
+        594.0
+      ],
+      "p1": [
+        827.0,
+        565.0
+      ],
+      "p2": [
+        821.0,
+        546.0
+      ]
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": -18.0,
+      "point_deviation_units": 0.42134812990607007,
+      "p0": [
+        827.0,
+        565.0
+      ],
+      "p1": [
+        821.0,
+        546.0
+      ],
+      "p2": [
+        815.0,
+        524.0
+      ]
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "glyph": "uni2C73 (U+2C73)",
+      "cross_product": 12.0,
+      "point_deviation_units": 0.4681645887845223,
+      "p0": [
+        44.0,
+        477.0
+      ],
+      "p1": [
+        48.0,
+        489.0
+      ],
+      "p2": [
+        53.0,
+        501.0
+      ]
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "glyph": "uni2C73 (U+2C73)",
+      "cross_product": 196.0,
+      "point_deviation_units": 0.44787980153406703,
+      "p0": [
+        197.0,
+        41.0
+      ],
+      "p1": [
+        48.0,
+        439.0
+      ],
+      "p2": [
+        44.0,
+        451.0
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "glyph": "uni043A (U+043A)",
+      "cross_product": 83.0,
+      "point_deviation_units": 0.3671811612893356,
+      "p0": [
+        246.0,
+        392.0
+      ],
+      "p1": [
+        256.0,
+        399.0
+      ],
+      "p2": [
+        435.0,
+        516.0
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "glyph": "uni0414 (U+0414)",
+      "cross_product": 102.0,
+      "point_deviation_units": 0.6100679239731542,
+      "p0": [
+        234.0,
+        308.0
+      ],
+      "p1": [
+        214.0,
+        182.0
+      ],
+      "p2": [
+        207.0,
+        143.0
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "glyph": "uni045C (U+045C)",
+      "cross_product": 83.0,
+      "point_deviation_units": 0.3671811612893356,
+      "p0": [
+        246.0,
+        392.0
+      ],
+      "p1": [
+        256.0,
+        399.0
+      ],
+      "p2": [
+        435.0,
+        516.0
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "glyph": "uni2C64 (U+2C64)",
+      "cross_product": -8.0,
+      "point_deviation_units": 0.05159572540672576,
+      "p0": [
+        440.0,
+        138.0
+      ],
+      "p1": [
+        384.0,
+        200.0
+      ],
+      "p2": [
+        336.0,
+        253.0
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": 2.0,
+      "point_deviation_units": 0.006564048567364975,
+      "p0": [
+        637.0,
+        271.0
+      ],
+      "p1": [
+        714.0,
+        554.0
+      ],
+      "p2": [
+        717.0,
+        565.0
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": -1.0,
+      "point_deviation_units": 0.013786875351293358,
+      "p0": [
+        714.0,
+        554.0
+      ],
+      "p1": [
+        717.0,
+        565.0
+      ],
+      "p2": [
+        733.0,
+        624.0
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": -19.0,
+      "point_deviation_units": 0.4579975615818004,
+      "p0": [
+        833.0,
+        596.0
+      ],
+      "p1": [
+        824.0,
+        565.0
+      ],
+      "p2": [
+        822.0,
+        556.0
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": 14.0,
+      "point_deviation_units": 0.35629061899150133,
+      "p0": [
+        824.0,
+        565.0
+      ],
+      "p1": [
+        822.0,
+        556.0
+      ],
+      "p2": [
+        814.0,
+        527.0
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": 174.0,
+      "point_deviation_units": 0.2631174057921088,
+      "p0": [
+        222.0,
+        30.0
+      ],
+      "p1": [
+        219.0,
+        40.0
+      ],
+      "p2": [
+        48.0,
+        668.0
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": 454.0,
+      "point_deviation_units": 0.6867972558028124,
+      "p0": [
+        219.0,
+        40.0
+      ],
+      "p1": [
+        48.0,
+        668.0
+      ],
+      "p2": [
+        46.0,
+        678.0
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "glyph": "uni043A (U+043A)",
+      "cross_product": -114.0,
+      "point_deviation_units": 0.5547001962252291,
+      "p0": [
+        242.0,
+        410.0
+      ],
+      "p1": [
+        249.0,
+        414.0
+      ],
+      "p2": [
+        413.0,
+        524.0
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "glyph": "uni0414 (U+0414)",
+      "cross_product": 144.0,
+      "point_deviation_units": 0.8992976979031905,
+      "p0": [
+        263.0,
+        304.0
+      ],
+      "p1": [
+        244.0,
+        183.0
+      ],
+      "p2": [
+        237.0,
+        146.0
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "glyph": "uni045C (U+045C)",
+      "cross_product": -114.0,
+      "point_deviation_units": 0.5547001962252291,
+      "p0": [
+        242.0,
+        410.0
+      ],
+      "p1": [
+        249.0,
+        414.0
+      ],
+      "p2": [
+        413.0,
+        524.0
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "glyph": "uni2C64 (U+2C64)",
+      "cross_product": -55.0,
+      "point_deviation_units": 0.30588616681060815,
+      "p0": [
+        429.0,
+        127.0
+      ],
+      "p1": [
+        363.0,
+        200.0
+      ],
+      "p2": [
+        308.0,
+        260.0
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": -25.0,
+      "point_deviation_units": 0.5126654894969137,
+      "p0": [
+        837.0,
+        592.0
+      ],
+      "p1": [
+        829.0,
+        565.0
+      ],
+      "p2": [
+        824.0,
+        545.0
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": 5.0,
+      "point_deviation_units": 0.11265147726483322,
+      "p0": [
+        829.0,
+        565.0
+      ],
+      "p1": [
+        824.0,
+        545.0
+      ],
+      "p2": [
+        818.0,
+        522.0
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "glyph": "uni2C73 (U+2C73)",
+      "cross_product": 235.0,
+      "point_deviation_units": 1.1727008284767446,
+      "p0": [
+        269.0,
+        259.0
+      ],
+      "p1": [
+        348.0,
+        428.0
+      ],
+      "p2": [
+        355.0,
+        440.0
+      ]
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "glyph": "uni043A (U+043A)",
+      "cross_product": -100.0,
+      "point_deviation_units": 0.45237292565365317,
+      "p0": [
+        244.0,
+        397.0
+      ],
+      "p1": [
+        254.0,
+        403.0
+      ],
+      "p2": [
+        429.0,
+        518.0
+      ]
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "glyph": "uni0414 (U+0414)",
+      "cross_product": 115.0,
+      "point_deviation_units": 0.6960371589027237,
+      "p0": [
+        242.0,
+        307.0
+      ],
+      "p1": [
+        222.0,
+        182.0
+      ],
+      "p2": [
+        215.0,
+        144.0
+      ]
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "glyph": "uni042F (U+042F)",
+      "cross_product": 5.0,
+      "point_deviation_units": 0.04941782791003964,
+      "p0": [
+        443.0,
+        330.0
+      ],
+      "p1": [
+        375.0,
+        257.0
+      ],
+      "p2": [
+        374.0,
+        256.0
+      ]
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "glyph": "uni042F (U+042F)",
+      "cross_product": -15.0,
+      "point_deviation_units": 0.04599128619217391,
+      "p0": [
+        375.0,
+        257.0
+      ],
+      "p1": [
+        374.0,
+        256.0
+      ],
+      "p2": [
+        152.0,
+        19.0
+      ]
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "glyph": "uni045C (U+045C)",
+      "cross_product": -100.0,
+      "point_deviation_units": 0.45237292565365317,
+      "p0": [
+        244.0,
+        397.0
+      ],
+      "p1": [
+        254.0,
+        403.0
+      ],
+      "p2": [
+        429.0,
+        518.0
+      ]
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "glyph": "uni2C64 (U+2C64)",
+      "cross_product": 48.0,
+      "point_deviation_units": 0.29220528951150054,
+      "p0": [
+        437.0,
+        135.0
+      ],
+      "p1": [
+        378.0,
+        200.0
+      ],
+      "p2": [
+        327.0,
+        257.0
+      ]
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": -12.0,
+      "point_deviation_units": 0.2980504203212446,
+      "p0": [
+        833.0,
+        595.0
+      ],
+      "p1": [
+        825.0,
+        565.0
+      ],
+      "p2": [
+        823.0,
+        556.0
+      ]
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": 21.0,
+      "point_deviation_units": 0.5182421332234481,
+      "p0": [
+        825.0,
+        565.0
+      ],
+      "p1": [
+        823.0,
+        556.0
+      ],
+      "p2": [
+        814.0,
+        526.0
+      ]
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "glyph": "uni043A (U+043A)",
+      "cross_product": -13.0,
+      "point_deviation_units": 0.05362158466517496,
+      "p0": [
+        253.0,
+        377.0
+      ],
+      "p1": [
+        264.0,
+        384.0
+      ],
+      "p2": [
+        457.0,
+        508.0
+      ]
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "glyph": "uni0414 (U+0414)",
+      "cross_product": 216.0,
+      "point_deviation_units": 1.2383358833796814,
+      "p0": [
+        205.0,
+        312.0
+      ],
+      "p1": [
+        184.0,
+        180.0
+      ],
+      "p2": [
+        176.0,
+        140.0
+      ]
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "glyph": "uni042F (U+042F)",
+      "cross_product": 18.0,
+      "point_deviation_units": 0.03407716042763653,
+      "p0": [
+        489.0,
+        384.0
+      ],
+      "p1": [
+        358.0,
+        254.0
+      ],
+      "p2": [
+        114.0,
+        12.0
+      ]
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "glyph": "uni045C (U+045C)",
+      "cross_product": -13.0,
+      "point_deviation_units": 0.05362158466517496,
+      "p0": [
+        253.0,
+        377.0
+      ],
+      "p1": [
+        264.0,
+        384.0
+      ],
+      "p2": [
+        457.0,
+        508.0
+      ]
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "glyph": "uni2C64 (U+2C64)",
+      "cross_product": -54.0,
+      "point_deviation_units": 0.31405435355412825,
+      "p0": [
+        453.0,
+        150.0
+      ],
+      "p1": [
+        407.0,
+        200.0
+      ],
+      "p2": [
+        336.0,
+        276.0
+      ]
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": -198.0,
+      "point_deviation_units": 0.5310601706607972,
+      "p0": [
+        664.0,
+        259.0
+      ],
+      "p1": [
+        747.0,
+        565.0
+      ],
+      "p2": [
+        761.0,
+        619.0
+      ]
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": -168.0,
+      "point_deviation_units": 0.2826857084589273,
+      "p0": [
+        828.0,
+        601.0
+      ],
+      "p1": [
+        810.0,
+        535.0
+      ],
+      "p2": [
+        674.0,
+        27.0
+      ]
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": 98.0,
+      "point_deviation_units": 0.14106327733408253,
+      "p0": [
+        226.0,
+        27.0
+      ],
+      "p1": [
+        48.0,
+        690.0
+      ],
+      "p2": [
+        46.0,
+        698.0
+      ]
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "glyph": "uni2C73 (U+2C73)",
+      "cross_product": 157.0,
+      "point_deviation_units": 0.4071828167078573,
+      "p0": [
+        739.0,
+        388.0
+      ],
+      "p1": [
+        738.0,
+        384.0
+      ],
+      "p2": [
+        609.0,
+        25.0
+      ]
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "glyph": "uni043A (U+043A)",
+      "cross_product": -21.0,
+      "point_deviation_units": 0.09045256429962997,
+      "p0": [
+        249.0,
+        386.0
+      ],
+      "p1": [
+        260.0,
+        393.0
+      ],
+      "p2": [
+        444.0,
+        512.0
+      ]
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "glyph": "uni0414 (U+0414)",
+      "cross_product": 77.0,
+      "point_deviation_units": 0.45473057678642376,
+      "p0": [
+        222.0,
+        309.0
+      ],
+      "p1": [
+        201.0,
+        181.0
+      ],
+      "p2": [
+        194.0,
+        142.0
+      ]
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "glyph": "uni045C (U+045C)",
+      "cross_product": -21.0,
+      "point_deviation_units": 0.09045256429962997,
+      "p0": [
+        249.0,
+        386.0
+      ],
+      "p1": [
+        260.0,
+        393.0
+      ],
+      "p2": [
+        444.0,
+        512.0
+      ]
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "glyph": "uni2C64 (U+2C64)",
+      "cross_product": 58.0,
+      "point_deviation_units": 0.33315731571929974,
+      "p0": [
+        446.0,
+        143.0
+      ],
+      "p1": [
+        393.0,
+        200.0
+      ],
+      "p2": [
+        328.0,
+        271.0
+      ]
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": 130.0,
+      "point_deviation_units": 0.4193003026747619,
+      "p0": [
+        648.0,
+        266.0
+      ],
+      "p1": [
+        726.0,
+        552.0
+      ],
+      "p2": [
+        730.0,
+        565.0
+      ]
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "glyph": "uni2C72 (U+2C72)",
+      "cross_product": -33.0,
+      "point_deviation_units": 0.4549668865926808,
+      "p0": [
+        726.0,
+        552.0
+      ],
+      "p1": [
+        730.0,
+        565.0
+      ],
+      "p2": [
+        745.0,
+        622.0
+      ]
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "glyph": "uni2C73 (U+2C73)",
+      "cross_product": 62.0,
+      "point_deviation_units": 0.30959392428690713,
+      "p0": [
+        587.0,
+        224.0
+      ],
+      "p1": [
+        652.0,
+        402.0
+      ],
+      "p2": [
+        656.0,
+        412.0
+      ]
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "glyph": "uni2C73 (U+2C73)",
+      "cross_product": -2.0,
+      "point_deviation_units": 0.14359163172354764,
+      "p0": [
+        652.0,
+        402.0
+      ],
+      "p1": [
+        656.0,
+        412.0
+      ],
+      "p2": [
+        657.0,
+        415.0
+      ]
+    }
+  ],
+  "fonts": [
+    {
+      "file": "Nambli-Bold.ttf",
+      "version": "Version 1.000",
+      "glyph_count": 998,
+      "cmap_count": 970,
+      "null_gid": 1,
+      "null_contours": 0,
+      "null_metrics": [
+        0,
+        0
+      ],
+      "null_encoded": [],
+      "sha256": "7163e59fc7623e669c4fef6d6871ec76c6b164d20bb7b35e53b298769f4d17d0",
+      "metadata_names": {
+        "1": "Nambli",
+        "2": "Bold",
+        "16": null,
+        "17": null
+      }
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "version": "Version 1.000",
+      "glyph_count": 998,
+      "cmap_count": 970,
+      "null_gid": 1,
+      "null_contours": 0,
+      "null_metrics": [
+        0,
+        0
+      ],
+      "null_encoded": [],
+      "sha256": "196b13fe071e48a86348b10569f4e93b9f2d7d680bba747b0d4948b167a92f54",
+      "metadata_names": {
+        "1": "Nambli",
+        "2": "Bold Italic",
+        "16": null,
+        "17": null
+      }
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "version": "Version 1.000",
+      "glyph_count": 998,
+      "cmap_count": 970,
+      "null_gid": 1,
+      "null_contours": 0,
+      "null_metrics": [
+        0,
+        0
+      ],
+      "null_encoded": [],
+      "sha256": "17885ab53bef4b4d4c98de5329aaa09e0d4f404e64f993b08a55f792658c8d15",
+      "metadata_names": {
+        "1": "Nambli ExtraBold",
+        "2": "Regular",
+        "16": "Nambli",
+        "17": "ExtraBold"
+      }
+    },
+    {
+      "file": "Nambli-ExtraBoldItalic.ttf",
+      "version": "Version 1.000",
+      "glyph_count": 998,
+      "cmap_count": 970,
+      "null_gid": 1,
+      "null_contours": 0,
+      "null_metrics": [
+        0,
+        0
+      ],
+      "null_encoded": [],
+      "sha256": "f7700b96cec7584bde30214d60a7a92a8845c29631f9cebc1b9bc29d5afd73f3",
+      "metadata_names": {
+        "1": "Nambli ExtraBold",
+        "2": "Italic",
+        "16": "Nambli",
+        "17": "ExtraBold Italic"
+      }
+    },
+    {
+      "file": "Nambli-Italic.ttf",
+      "version": "Version 1.000",
+      "glyph_count": 998,
+      "cmap_count": 970,
+      "null_gid": 1,
+      "null_contours": 0,
+      "null_metrics": [
+        0,
+        0
+      ],
+      "null_encoded": [],
+      "sha256": "cca0ec1f6e356d4f74a304c836ec1eeb1f5945319dbc6939cf32af29d127a0e2",
+      "metadata_names": {
+        "1": "Nambli",
+        "2": "Italic",
+        "16": null,
+        "17": null
+      }
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "version": "Version 1.000",
+      "glyph_count": 998,
+      "cmap_count": 970,
+      "null_gid": 1,
+      "null_contours": 0,
+      "null_metrics": [
+        0,
+        0
+      ],
+      "null_encoded": [],
+      "sha256": "3e0fda8b8b0158569aef73945b164c0d9d647d38978563575d987ca46676fa64",
+      "metadata_names": {
+        "1": "Nambli Light",
+        "2": "Regular",
+        "16": "Nambli",
+        "17": "Light"
+      }
+    },
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "version": "Version 1.000",
+      "glyph_count": 998,
+      "cmap_count": 970,
+      "null_gid": 1,
+      "null_contours": 0,
+      "null_metrics": [
+        0,
+        0
+      ],
+      "null_encoded": [],
+      "sha256": "1392f44a367715f9c239127266d4e6b5d11b3475b86c0c5c93293adadfa84594",
+      "metadata_names": {
+        "1": "Nambli Light",
+        "2": "Italic",
+        "16": "Nambli",
+        "17": "Light Italic"
+      }
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "version": "Version 1.000",
+      "glyph_count": 998,
+      "cmap_count": 970,
+      "null_gid": 1,
+      "null_contours": 0,
+      "null_metrics": [
+        0,
+        0
+      ],
+      "null_encoded": [],
+      "sha256": "524e48a4b9139e6a09c766051b816b1a41cf5e4693bb3a55846d5c4fa00d9f39",
+      "metadata_names": {
+        "1": "Nambli Medium",
+        "2": "Regular",
+        "16": "Nambli",
+        "17": "Medium"
+      }
+    },
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "version": "Version 1.000",
+      "glyph_count": 998,
+      "cmap_count": 970,
+      "null_gid": 1,
+      "null_contours": 0,
+      "null_metrics": [
+        0,
+        0
+      ],
+      "null_encoded": [],
+      "sha256": "00f109e32ce4fb55f7c7899cf287d5892ac0f20986b52c9e792bf7c2fd04a8a5",
+      "metadata_names": {
+        "1": "Nambli Medium",
+        "2": "Italic",
+        "16": "Nambli",
+        "17": "Medium Italic"
+      }
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "version": "Version 1.000",
+      "glyph_count": 998,
+      "cmap_count": 970,
+      "null_gid": 1,
+      "null_contours": 0,
+      "null_metrics": [
+        0,
+        0
+      ],
+      "null_encoded": [],
+      "sha256": "a837d0eab7a6cd27a39871fbfd7ac2a4881e7443d34391b3a55e396275470e4b",
+      "metadata_names": {
+        "1": "Nambli",
+        "2": "Regular",
+        "16": null,
+        "17": null
+      }
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "version": "Version 1.000",
+      "glyph_count": 998,
+      "cmap_count": 970,
+      "null_gid": 1,
+      "null_contours": 0,
+      "null_metrics": [
+        0,
+        0
+      ],
+      "null_encoded": [],
+      "sha256": "7aa45f61c37f3533db9bd835d47187b428255167bb3d5835a54d86059275af3d",
+      "metadata_names": {
+        "1": "Nambli SemiBold",
+        "2": "Regular",
+        "16": "Nambli",
+        "17": "SemiBold"
+      }
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "version": "Version 1.000",
+      "glyph_count": 998,
+      "cmap_count": 970,
+      "null_gid": 1,
+      "null_contours": 0,
+      "null_metrics": [
+        0,
+        0
+      ],
+      "null_encoded": [],
+      "sha256": "6d79567bc7a84be9a535ccf8f6bd61b34aac662658b8a361f704edd521fc4583",
+      "metadata_names": {
+        "1": "Nambli SemiBold",
+        "2": "Italic",
+        "16": "Nambli",
+        "17": "SemiBold Italic"
+      }
+    }
+  ]
+}

@@ -97,8 +97,26 @@ warnings are removed. It still needs visual approval and is excluded from
 the Google package, published v1.0.0 fonts/assets and website.
 
 See google-fonts-qa/2026-10-07/REPORT.md, REPRODUCE.md, redacted native reports,
-the full WARN dispositions and local-only upstream drafts. Designer profile
+the full WARN dispositions and the original upstream drafts. Designer profile
 structure/bio are prepared; owner portrait and biography/link approval remain.
 PR #11086 remains Draft. Google acceptance, API availability and actual service
-deployment are not established. No new external issue/PR or profile form was
-submitted, and the release tag/assets/site were not changed.
+deployment are not established. No profile form was submitted, and the release
+tag/assets/site were not changed.
+
+FRESH INPUT AUDIT AND AUTHORIZED UPSTREAM SUBMISSION — 2026-10-08
+All nineteen files were downloaded again from Google PR head
+61b4ac3f08aaf42ef24aa1ad4a6a09faf3c54576 and match the previously tested Git
+package exactly. Fresh official full profile: 16 FAIL, 151 WARN, 0 ERROR/FATAL.
+The separate 1.001 candidate also produces the same sixteen tofu failures in
+an isolated targeted diagnostic. A stale font version/cache is ruled out.
+U+1DC7 is absent from all 187 stock and all 189 current NAM subset arrays;
+the latest CLI remains 1.8.0. A font-only change cannot supply absent NAM data.
+
+After explicit owner authorization, the tested patch and dependency follow-up
+were published:
+  NAM draft PR: https://github.com/googlefonts/nam-files/pull/31
+  NAM commit: feaaf382cb475029368914468eb6708cc4e4cdba
+  Fontspector issue: https://github.com/fonttools/fontspector/issues/946
+Four Rust tests pass. These submissions are not yet upstream acceptance,
+publication of a corrected official dependency, or a serving rollout.
+Google PR #11086 remains Draft. See google-fonts-qa/2026-10-08/REPORT.md.
