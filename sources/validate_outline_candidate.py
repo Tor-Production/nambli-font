@@ -53,7 +53,7 @@ def main():
     report = {'status': 'PASS', 'candidate_version': '1.001', 'faces': 12,
         'changed_face_glyph_pairs': sum(len(r['outlineChanges']) for r in results),
         'shaping_comparisons': sum(r['shapingComparisons'] for r in results),
-        'visual_approval': 'NEEDS_OWNER_INPUT', 'results': results}
+        'visual_approval': 'NOT_ASSESSED_BY_AUTOMATED_VALIDATOR', 'results': results}
     a.output.write_text(json.dumps(report, indent=2), encoding='utf-8')
     print(json.dumps({k: v for k, v in report.items() if k != 'results'}))
 

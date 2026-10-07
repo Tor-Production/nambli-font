@@ -1,15 +1,14 @@
-DRAFT ONLY — not submitted to Google Fonts.
+OWNER-SUBMITTED FORM — catalog publication pending.
 
-The public catalogue lookup for catalog/designers/yuriitor returned HTTP 404
-on 2026-10-07. The bio uses only the published Nambli provenance and repository
-facts; it makes no claim about birthplace, qualifications or other work.
+On 2026-10-08, Yurii Tor reported submitting the GF Designer Profile form.
+The agent did not submit a second form or create a duplicate designer PR.
+The public catalog/designers/yuriitor lookup still returned HTTP 404 during
+the follow-up check, so the designer-profile WARN is not claimed resolved.
 
-Needed from the owner before profile submission:
-1. Select a portrait/avatar owned by the contributor and suitable for Google
-   Fonts: square PNG/JPEG, 100–300 px, filename yuriitor.png (or .jpg).
-2. Approve/edit this biography and the public profile link.
+The bio/info files in this directory remain an earlier factual draft, not a
+copy of the owner's submitted response. The submitted portrait, biography and
+link were not retrieved. The draft avatar reference is not an uploaded image.
+No further portrait or bio confirmation is needed to record this submission.
 
-No image was invented or copied, and no form or profile PR was submitted.
-The info.pb avatar field is an unfulfilled reference in this draft structure.
-Current primary requirements:
+Google's profile review and publication remain external next steps:
 https://googlefonts.github.io/gf-guide/profile.html

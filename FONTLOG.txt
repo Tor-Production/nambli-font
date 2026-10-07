@@ -1,4 +1,12 @@
 Nambli font project
+2026-10-08 — 1.001 — owner-approved Google Fonts candidate, unreleased
+Adopted exactly eight reviewed glyph/face contour changes and version records.
+Candidate TTF/WOFF2 files are isolated under fonts/candidates/1.001; 1.000 release
+files, supplementary OTFs, release assets and website remain unchanged.
+The owner reports submitting the designer profile form; catalog publication
+and upstream serving-data acceptance remain pending. See the dated adoption
+report for repeat-build, preservation and full-package stock/patched QA.
+
 2026-10-07 — 1.000 — approved public release (v1.0.0)
 Yurii Tor approved publication of all twelve styles. The repertoire grows
 to 970 encoded characters and 998 glyphs per style, with localized forms,
@@ -6,7 +14,7 @@ soft-dotted substitutions and combining-mark support. Refined circular @,
 hook joins, crossed-tail loops, beta forms, i-ogonek and reversed ezh.
 Editable UFO masters build reproducibly to TTF/WOFF2. Supplementary OTFs
 include the same approved designs. All 36 font files retain the hashes of
-the validated candidate. Full Google Fonts QA: 1127 PASS, 134 WARN,
+the validated candidate. Binary-only Google Fonts QA: 1127 PASS, 134 WARN,
 704 SKIP, 80 INFO; 0 FAIL, ERROR or FATAL. Warnings remain documented.
 Google Fonts onboarding is pending in google/fonts#11082; this upstream
 release does not claim acceptance or availability in Google's catalog.

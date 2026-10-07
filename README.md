@@ -12,6 +12,18 @@ text. Release **1.0.0** (font version 1.000) contains 970 encoded characters
 and 998 glyphs per style. Yurii Tor approved the final designs for publication
 on 2026-10-07. The earlier v0.7.4 release remains available separately.
 
+## Approved Google Fonts candidate — 1.001
+
+The owner approved the eight contour changes on 2026-10-08. This branch's
+editable UFOs now build font version **1.001**. Its TTFs and WOFF2 files are
+isolated in `fonts/candidates/1.001/ttf` and `fonts/candidates/1.001/webfonts`.
+The existing `fonts/ttf`, `fonts/webfonts` and supplementary `fonts/otf`
+retain released version 1.000. No 1.001 OTF build or public release is claimed.
+
+The owner also reports submitting the Google Fonts designer profile form.
+Catalog publication is pending. See the [adoption record](documentation/google-fonts-qa/2026-10-08/adoption-1.001/REPORT.md)
+for build, package QA and remaining upstream work.
+
 ## Download and use
 
 Download the ZIP from [Releases](https://github.com/Tor-Production/nambli-font/releases).

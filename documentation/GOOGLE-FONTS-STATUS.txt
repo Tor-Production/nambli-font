@@ -1,4 +1,21 @@
-Nambli 1.0.0 — approved upstream release, 2026-10-07
+Nambli — current candidate 1.001; public release v1.0.0 remains unchanged
+
+CURRENT FOLLOW-UP — 2026-10-08
+The owner reviewed the final eight-contour/48-side-caron proof and instructed
+continuation. The exact approved 1.001 UFO sources have been adopted into
+the existing QA branch. Candidate binaries are isolated under
+fonts/candidates/1.001; release font directories and supplementary OTFs
+remain version 1.000. See google-fonts-qa/2026-10-08/adoption-1.001/REPORT.md
+for the current package source mapping, build and stock/patched validation.
+
+The owner reports submitting the GF Designer Profile form on 2026-10-08.
+The yuriitor catalog path was still absent at the follow-up check; actual
+profile publication remains pending. This submission is not an outstanding
+request for the owner to choose a portrait or approve a biography.
+
+The following dated entries retain the historical package state and tests.
+In particular, earlier 'needs visual approval' and 'form not submitted'
+statements describe their date's state, superseded by the record above.
 
 STATUS
 Submitted: https://github.com/google/fonts/issues/11082

@@ -1,7 +1,9 @@
-Nambli package warning dispositions — reviewed 2026-10-08
+Nambli package warning dispositions — updated after owner review 2026-10-08
 
 Original full-package stock: 152 WARN, 16 FAIL.
-Final full-package stock/patched: 151 WARN, respectively 16/0 FAIL.
+Historical 1.000 full-package stock/patched: 151 WARN, respectively 16/0 FAIL.
+Current 1.001 package results are recorded in the adoption report; historical
+raw results below remain unchanged and no warning is waived by this document.
 Approved binary-only stock: 134 WARN, 0 FAIL.
 Separate 1.001 binary-only candidate: 128 WARN, 0 FAIL.
 These are unsuppressed native results; every ERROR/FATAL in the final network
@@ -11,7 +13,9 @@ The original package contains 13 WARN check IDs; the final package contains
 12. These are subresult counts, not counts of distinct defective glyphs.
 
 alt_caron: 48 WARN (original and final package)
-NEEDS_OWNER_INPUT / specialist visual review. Four decomposed side-caron
+OWNER_VISUAL_REVIEW_COMPLETE / specialist review remains available. The owner
+reviewed the final proof on 2026-10-08, including all 48 side-caron controls.
+Four decomposed side-caron
 glyphs U+013D, U+013E, U+010F, U+0165 per style cannot be validated by the
 check's expected component convention. Their approved outlines are unchanged;
 no global caron redesign is justified by that structural heuristic. All 48
@@ -35,10 +39,11 @@ metadata continues to declare all 12 styles with correct weights/italic status.
 Source: https://learn.microsoft.com/en-us/typography/opentype/spec/name
 
 googlefonts/metadata/designer_profiles: 1 WARN
-NEEDS_OWNER_INPUT / REQUIRES_UPSTREAM_ACCEPTANCE. The yuriitor catalog profile
-was absent. A factual bio/info structure is drafted, without invented facts or
-an avatar. Owner-chosen portrait (square PNG/JPEG, 100-300 px), approved bio/link
-and subsequent actual profile submission are still needed. No form was sent.
+REQUIRES_UPSTREAM_ACCEPTANCE. The owner reports submitting the designer
+profile form on 2026-10-08. The yuriitor catalog path still returned HTTP 404
+at the follow-up check. No duplicate form or profile PR was submitted by the
+agent, and the previously drafted bio is not claimed to be the form response.
+The warning remains until actual catalog registration becomes available.
 
 googlefonts/metadata/unreachable_subsetting: 12 WARN
 REQUIRES_UPSTREAM_ACCEPTANCE/ROLLOUT. 48 encoded characters per face are outside
@@ -78,22 +83,25 @@ globally removed or waived by severity changes. A further simplification
 would require a separately validated outline candidate.
 
 outline_jaggy_segments: 4 package/binary WARN in approved 1.000
-PATCH_VERIFIED_LOCALLY + NEEDS_OWNER_INPUT. The separate 1.001 candidate removes
+FIXED_IN_PROJECT for two findings, with two retained after owner visual review.
+The approved 1.001 candidate removes
 the guarded very short backtracking segments in Bold/BoldItalic U+A7C8; those
 two warnings disappear. It also removes a short reverse segment in Medium
 U+1D7D, but the sharp bar/counter junction remains a heuristic warning. LightItalic
 U+00B6 has two sharp stem/bowl joins within one WARN. Those two remaining WARN
-require a more visible fillet/shape decision; they are not called fixed. All
-eight changed contour pairs are shown before/after. Production 1.000 is unchanged.
+are retained in the visually approved geometry; they are not called fixed.
+The owner reviewed all eight changed contour pairs before adoption. Release
+1.000 is unchanged; current package checks are in the adoption report.
 
 overlapping_path_segments: 4 package/binary WARN in approved 1.000
-PATCH_VERIFIED_LOCALLY + NEEDS_OWNER_INPUT for adopting the versioned candidate.
+FIXED_IN_PROJECT in the owner-approved versioned 1.001 candidate.
 Four tiny rounded intersections affected MediumItalic/SemiBold/SemiBoldItalic
 U+02A3 and Bold U+02A6. Selected paths were unioned with winding preserved;
 two precisely guarded one-unit excursions introduced by quantization were
 removed. All four overlap warnings disappear in the final 1.001 candidate.
 All other glyphs, metrics, cmap, layout and kerning remain unchanged. The
-candidate is not included in the Google submission or published release.
+approved candidate is prepared for the Google draft submission; the published
+release remains unchanged. See the adoption report for the tested package.
 
 rupee: 12 WARN
 NEEDS_OWNER_INPUT if expanding scope. U+20B9 is outside the approved 970-character
@@ -112,7 +120,7 @@ https://learn.microsoft.com/en-us/typography/opentype/spec/recom
 
 No other WARN groups occur in the original 152-WARN full package. Removing the
 article-image warning yields the final 151-WARN total; the optional outline
-candidate's six removals are a separate binary scope, not silently deducted
-from the approved package counts. See the dated report for limits, raw hashes,
+candidate's original six removals were measured in binary scope. The new
+full-package run is reported separately in the adoption report. See the dated report for limits, raw hashes,
 browser versions, external dependencies and all exact original subresults.
 See google-fonts-qa/2026-10-08/WARN-AUDIT.txt for the independent follow-up.

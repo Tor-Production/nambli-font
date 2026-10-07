@@ -1,6 +1,6 @@
 # Building Nambli
 
-The editable static masters for release 1.0.0 are the twelve UFO3
+The editable static masters for the approved, unreleased 1.001 candidate are the twelve UFO3
 directories in `sources/ufos`. They include quadratic outlines, Unicode mapping,
 metrics, kerning and OpenType feature source. No installed font, network font
 service or binary reference font is needed to build them.
@@ -17,10 +17,10 @@ The output is twelve TTFs and twelve losslessly compressed WOFF2 files in
 metrics against the compiled fonts. It refuses to overwrite font files; use a
 fresh output directory for another run.
 
-For a complete repeat-build and comparison with the committed release TTFs:
+For a complete repeat-build and comparison with the committed candidate TTFs:
 
 ```sh
-python sources/build_fontmake.py --output build-verification --reference-fonts fonts/ttf --verify-reproducible
+python sources/build_fontmake.py --output build-verification --reference-fonts fonts/candidates/1.001/ttf --verify-reproducible
 ```
 
 Expect a PASS report at `build-verification/build-validation.json`, identical
@@ -32,6 +32,18 @@ and explicit feature source. Legacy `kern` and `STAT` are generated from
 editable UFO kerning and library data. There is no transplantation of compiled
 layout tables from reference binaries. `--reference-fonts` is only a validation
 input. A fixed build timestamp makes repeated builds comparable.
+
+To verify the approved changes against the preserved 1.000 release:
+
+```sh
+python sources/validate_outline_candidate.py --baseline fonts/ttf --candidate build-verification --output candidate-audit.json
+```
+
+The specialized validator allows exactly eight changed glyph/face pairs and
+version 1.001, with unchanged character mapping, metrics, layout and kerning.
+Its automated result does not determine visual approval; the owner's approval
+is recorded separately in the dated adoption report. The preserved supplementary
+OTFs remain version 1.000 and are not part of the candidate build.
 
 ## Binary QA
 
