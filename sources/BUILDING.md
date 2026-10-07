@@ -33,22 +33,62 @@ editable UFO kerning and library data. There is no transplantation of compiled
 layout tables from reference binaries. `--reference-fonts` is only a validation
 input. A fixed build timestamp makes repeated builds comparable.
 
-## Google Fonts checks
+## Binary QA
 
-Use Fontspector 1.8.0 with the `googlefonts` profile. The upstream repository's
-`fonts/ttf` layout follows the upstream guide. For the Google Fonts import-layout
-check, copy the twelve TTFs and `OFL.txt` to a temporary directory named `nambli`.
-Then run, using the executable appropriate for your platform:
+TTF-only QA does not validate the complete Google Fonts import package or its
+serving subsets. Use a temporary `nambli` directory containing the twelve TTFs
+to satisfy the profile's import-layout expectations:
 
 ```sh
-fontspector -p googlefonts --json fontspector.json nambli/*.ttf
+python sources/run_qa.py --scope binary --family nambli --executable FONTSPECTOR_EXECUTABLE --output qa-binary
 ```
 
-PowerShell users can pass an array of paths obtained with
-`Get-ChildItem nambli -Filter *.ttf`. Network checks need internet access.
-`--skip-network` is useful offline but must be reported as skipped coverage.
-WARN and SKIP findings require their own interpretation; a zero-FAIL report
-does not establish design quality or Google Fonts acceptance.
+Replace `FONTSPECTOR_EXECUTABLE` with a real platform executable. The runner
+passes explicit paths, so no shell wildcard expansion is required.
+
+## Full Google Fonts package QA
+
+Check out the actual Google Fonts submission. The family directory must contain
+all twelve TTFs, `METADATA.pb`, `OFL.txt`, `article/ARTICLE.en_us.html` and every
+referenced article image. Use the unsuppressed complete googlefonts profile:
+
+```sh
+python sources/run_qa.py --scope package --family GOOGLE_FONTS_CHECKOUT/ofl/nambli --executable FONTSPECTOR_EXECUTABLE --output qa-package-stock
+```
+
+The runner rejects missing inputs or a metadata/font-list mismatch; passes
+article images explicitly; preserves raw JSON, stdout/stderr and native exit
+status; records before/after SHA-256; and requires `googlefonts/tofu` to execute
+without SKIP. It exits nonzero on any FAIL/ERROR/FATAL, unsuccessful native run,
+missing report, skipped tofu, or changed input. Reuse of an output directory is
+rejected. WARN/SKIP interpretation and Google acceptance remain separate.
+
+Use `--mode offline` for a separately named run when network access is absent.
+Network-related skips are then explicit. An offline run is not network QA.
+
+Fontspector 1.8.0 is both the historical baseline and the latest stable CLI
+verified on 2026-10-07; the official downloaded executable matches the baseline
+SHA-256. The package still fails stock serving checks. Local experiments must
+use `--tool-kind patched-candidate` and a separately built executable/output;
+they do not establish an upstream fix or service rollout. See
+`documentation/google-fonts-qa/2026-10-07/REPORT.md` for the exact versions,
+patches and results.
+
+Run the scope/exit-code regression tests:
+
+```sh
+python -m unittest discover -s sources -p test_run_qa.py -v
+```
+
+These tests also cover absent/skipped tofu, native failure with a superficially
+green report, changed inputs, article asset inputs, and output immutability.
+On restricted hosts set `NAMBLI_QA_TMPDIR` to a writable scratch directory.
+
+The subset/browser experiments and their limits are reproducible with
+`sources/qa_subsets.py` and `sources/run_browser_qa.cjs`; see the dated report.
+They use actual WOFF2 assets and compare glyph names/positions rather than
+numeric glyph IDs across renumbered subsets. Firefox and Safari/iOS are not
+claimed as tested when unavailable.
 
 ## Reviewing changes against v0.7.4
 
