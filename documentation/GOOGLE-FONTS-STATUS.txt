@@ -1,11 +1,12 @@
-Nambli Google Fonts candidate — design refinement, 2026-10-07
+Nambli 1.0.0 — approved upstream release, 2026-10-07
 
 STATUS
 Submitted: https://github.com/google/fonts/issues/11082
-Draft review: https://github.com/Tor-Production/nambli-font/pull/1
+Merged design review: https://github.com/Tor-Production/nambli-font/pull/1
 Yurii Tor's Individual CLA was verified as on file on 2026-10-07.
-Google Fonts has not accepted or published Nambli. This is an unreleased
-font-version 1.000 candidate. Public v0.7.4 and the website remain unchanged.
+Google Fonts has not accepted or published Nambli. Yurii Tor approved the
+final designs and authorized publication on 2026-10-07. Upstream release
+v1.0.0 uses font version 1.000 and the exact validated font files.
 
 DESIGN REFINEMENT
 All twelve styles contain 970 encoded characters and 998 glyphs. Compared with
@@ -55,8 +56,8 @@ stacking; supplementary OTF and editable feature tables match exactly.
 Pairwise contour checks cover 72 R-tail and 924 hook combinations.
 They were repeated on the final build; see refinement-final-pair-validation.json.
 
-REVIEW STILL PENDING
-New and changed designs need author review. Remaining Fontspector WARN/SKIP
-messages remain available in the reports; zero FAIL does not establish
-visual approval or Google Fonts acceptance. No merge, tag, release or website
-deployment is performed as part of this refinement.
+GOOGLE FONTS REVIEW STILL PENDING
+Author review is complete. Remaining Fontspector WARN/SKIP messages remain
+available in the reports; zero FAIL and upstream publication do not establish
+Google Fonts acceptance. Curatorial and specialist-language review remain
+with the Google Fonts onboarding process.

@@ -1,6 +1,6 @@
 # Building Nambli
 
-The editable static masters for the Google Fonts candidate are the twelve UFO3
+The editable static masters for release 1.0.0 are the twelve UFO3
 directories in `sources/ufos`. They include quadratic outlines, Unicode mapping,
 metrics, kerning and OpenType feature source. No installed font, network font
 service or binary reference font is needed to build them.
@@ -17,7 +17,7 @@ The output is twelve TTFs and twelve losslessly compressed WOFF2 files in
 metrics against the compiled fonts. It refuses to overwrite font files; use a
 fresh output directory for another run.
 
-For a complete repeat-build and comparison with the committed candidate TTFs:
+For a complete repeat-build and comparison with the committed release TTFs:
 
 ```sh
 python sources/build_fontmake.py --output build-verification --reference-fonts fonts/ttf --verify-reproducible
