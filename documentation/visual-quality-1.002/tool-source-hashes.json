@@ -1,0 +1,10 @@
+{
+  "audit_visual_quality.py": "0439a245090286e782fc7719add4ea9a66ef3176bc84bb3087ac570a645c1bc0",
+  "diacritic_scope.py": "3f600cd97890872325bdcf07430a95e1fd48594a5ab25fa136dd7b10b3721e2f",
+  "finalize_visual_outlines.py": "d5da330cb0987b8c6abf0265633bd544161e0270bbc08f6ec5a7f7009eff1e2d",
+  "make_visual_quality_review.py": "55a489e50328e2b934116b2d65257c2510c109be4927b9aa6cb83c2d8bd540e5",
+  "prepare_visual_quality.py": "b592200c4a73ae3332bdd0c86bf4afb3a0cac549f6bf6ee090f0549f5b8a646f",
+  "refine_optical_details.py": "88cfec4438df48ed47db8f348ad5112a396f395b30fa7dcb87284407938e8d5f",
+  "smooth_contours.py": "9240195602724126adeaae4976efcd28ed8249fb582438c09383b91e2a7aae2c",
+  "validate_visual_candidate.py": "e84e1f4b7900b92c519beab24ba6461cd80bdc1b262076ab36e4ed6ce67eeb0a"
+}

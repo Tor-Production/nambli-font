@@ -1,0 +1,22 @@
+{
+  "fontspector.json": {
+    "original_sha256": "74fd6c3fce1c655e60fea8fd35a5cba89b85545589f623be9a5e33620e56ff9f",
+    "public_file": "fontspector.redacted.json.gz",
+    "public_sha256": "0b8c00600858ca702e5ec6292752aec70f4b527479ecc61ef1b296bd10f9b40e"
+  },
+  "summary.json": {
+    "original_sha256": "568fc05fe608453e5a78b51de9cf7801fd85b4abd3ed8ba53289ce7c50fc5512",
+    "public_file": "summary.redacted.json",
+    "public_sha256": "8f3e2b8ccd17ccaf124746bb502e7a29ed4b890c0aa6de3b874b488a5d50595a"
+  },
+  "stdout.log": {
+    "original_sha256": "3558dbf012de3403881c9277ab61f45f8d790584076ac03cb76a21cd7d108f30",
+    "public_file": "stdout.log.redacted.gz",
+    "public_sha256": "13f94a19196a9cc799a95a74580d033441b76d9e80562c9f20f68dd8a05a7da5"
+  },
+  "stderr.log": {
+    "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "public_file": "stderr.log.redacted.gz",
+    "public_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+  }
+}

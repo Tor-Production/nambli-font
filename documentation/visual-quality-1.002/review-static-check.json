@@ -1,0 +1,66 @@
+{
+  "status": "PASS",
+  "scope": "Static HTML, inline JavaScript and12 data assets; localfont paths; exact deferredwholeglyph paths; done/pending membership. Browser UI execution is not claimed.",
+  "faces": [
+    {
+      "face": "Nambli-Bold",
+      "done": 866,
+      "remaining": 571
+    },
+    {
+      "face": "Nambli-BoldItalic",
+      "done": 868,
+      "remaining": 571
+    },
+    {
+      "face": "Nambli-ExtraBold",
+      "done": 867,
+      "remaining": 571
+    },
+    {
+      "face": "Nambli-ExtraBoldItalic",
+      "done": 868,
+      "remaining": 571
+    },
+    {
+      "face": "Nambli-Italic",
+      "done": 868,
+      "remaining": 571
+    },
+    {
+      "face": "Nambli-Light",
+      "done": 867,
+      "remaining": 571
+    },
+    {
+      "face": "Nambli-LightItalic",
+      "done": 868,
+      "remaining": 571
+    },
+    {
+      "face": "Nambli-Medium",
+      "done": 867,
+      "remaining": 571
+    },
+    {
+      "face": "Nambli-MediumItalic",
+      "done": 868,
+      "remaining": 571
+    },
+    {
+      "face": "Nambli-Regular",
+      "done": 867,
+      "remaining": 571
+    },
+    {
+      "face": "Nambli-SemiBold",
+      "done": 867,
+      "remaining": 571
+    },
+    {
+      "face": "Nambli-SemiBoldItalic",
+      "done": 868,
+      "remaining": 571
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_commit": "a44293f7d8c75278df742b6785e927dfbd15b584",
+  "review_commit": "546f092e6045c9f190fc4b747ceb2f1188c4b65e",
+  "owner_visual_approval": "2026-10-08; owner reviewed linked final review and instructed continuation",
+  "files": [
+    {
+      "path": "sources/ufos/Nambli-Bold.ufo/fontinfo.plist",
+      "sha256": "070f3932fe398a00c727f30faec0aaf2bc54e13d1e5a0caa872d282a2629c01b"
+    },
+    {
+      "path": "sources/ufos/Nambli-Bold.ufo/glyphs/uni02A_6.glif",
+      "sha256": "9cc0dd4b61f1eeb7bd458aed7cbab24d5c2173766f80b82424303f1d7fc5b6a2"
+    },
+    {
+      "path": "sources/ufos/Nambli-Bold.ufo/glyphs/uniA_7C_8.glif",
+      "sha256": "7f4cef38d7c0c8f5f0f6415259869a55e52fce786cab12fbb7f29caae3e57627"
+    },
+    {
+      "path": "sources/ufos/Nambli-BoldItalic.ufo/fontinfo.plist",
+      "sha256": "3f227097e835613532ea478685bbd6b8ade6f6a792a65e5f8e03dc57c9deda3e"
+    },
+    {
+      "path": "sources/ufos/Nambli-BoldItalic.ufo/glyphs/uniA_7C_8.glif",
+      "sha256": "2366533d4aefa74b62ea8158ef34e21dbd70da99f709c0103eebb6640869b300"
+    },
+    {
+      "path": "sources/ufos/Nambli-ExtraBold.ufo/fontinfo.plist",
+      "sha256": "e69163d25e076828e96bb41f53584000a0a5d2c44076d71251dff7600efd0340"
+    },
+    {
+      "path": "sources/ufos/Nambli-ExtraBoldItalic.ufo/fontinfo.plist",
+      "sha256": "e22ba4a83678bace1db845dc0cf225d62b04f23bf780b5765f10987e54fadb00"
+    },
+    {
+      "path": "sources/ufos/Nambli-Italic.ufo/fontinfo.plist",
+      "sha256": "79cb0b6c18a237e006a51b5d60515a36f79f1cd30003af2d0f1ba343d985f9c9"
+    },
+    {
+      "path": "sources/ufos/Nambli-Light.ufo/fontinfo.plist",
+      "sha256": "0e033f40d98dedda350fb7889e7ca62707aaec267c4910c49714761b5895e554"
+    },
+    {
+      "path": "sources/ufos/Nambli-LightItalic.ufo/fontinfo.plist",
+      "sha256": "4a8172a34db1b70d8a8a1b7f40a2268ad5e16d61e3c4ad44d610931e576468f2"
+    },
+    {
+      "path": "sources/ufos/Nambli-LightItalic.ufo/glyphs/uni00B_6.glif",
+      "sha256": "59546425ff29e896f2cbed2577393613e1cb74ef32f3012c98c3976bbd40a82f"
+    },
+    {
+      "path": "sources/ufos/Nambli-Medium.ufo/fontinfo.plist",
+      "sha256": "4951da5b41f37d1b00309577063f1d05b18e8099c2d7f6f6d91238a4ee6f786d"
+    },
+    {
+      "path": "sources/ufos/Nambli-Medium.ufo/glyphs/uni1D_7D_.glif",
+      "sha256": "3a5f6a29006c3958393e0a8c56d8a9cbb2b7c4bf3f17c67b590161132919160e"
+    },
+    {
+      "path": "sources/ufos/Nambli-MediumItalic.ufo/fontinfo.plist",
+      "sha256": "c2f3fc4679f5f0e747fcb6a7287c974d65d53ce830352d4c4d7815319775b063"
+    },
+    {
+      "path": "sources/ufos/Nambli-MediumItalic.ufo/glyphs/uni02A_3.glif",
+      "sha256": "e9fc2851eb1ef84fe60944ed4cea2597d2d06274a0261f68dd1f72ac867e07e5"
+    },
+    {
+      "path": "sources/ufos/Nambli-Regular.ufo/fontinfo.plist",
+      "sha256": "56c75f73cf04ccfbe4423113fb115e65aeb1462968edc942b701aa43c9568b58"
+    },
+    {
+      "path": "sources/ufos/Nambli-SemiBold.ufo/fontinfo.plist",
+      "sha256": "4dfbc5a9d596b778acfdd0fcdaca0dc45209674620fdafa9c452474492fd4430"
+    },
+    {
+      "path": "sources/ufos/Nambli-SemiBold.ufo/glyphs/uni02A_3.glif",
+      "sha256": "b0b8401edfe4f57a6b0f9cf0758d05a56f848634e7a0c397a03ec5234bdd1d50"
+    },
+    {
+      "path": "sources/ufos/Nambli-SemiBoldItalic.ufo/fontinfo.plist",
+      "sha256": "14749be843afbbc92d00fd7cfa42abd040ff7665154a1672f9d68bae19921492"
+    },
+    {
+      "path": "sources/ufos/Nambli-SemiBoldItalic.ufo/glyphs/uni02A_3.glif",
+      "sha256": "45a4f5d010a448ddf59fa383e1096de8f4a24745de4fa02b61fd395261f09cec"
+    }
+  ]
+}

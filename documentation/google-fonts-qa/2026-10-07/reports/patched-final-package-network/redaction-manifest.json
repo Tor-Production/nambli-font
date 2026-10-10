@@ -1,0 +1,16 @@
+{
+  "run": "patched-final-package-network",
+  "public_report": "Explicitly path-redacted copy; severities/messages otherwise preserved.",
+  "original_files_sha256": {
+    "fontspector.json": "20d870fc818d4773a4c96a57273d26628a70636a71c80acde5a6b970cd6ce8d7",
+    "summary.json": "d7452cfd4b5bcdf174fb3a651f25fc812a2469e498c1bcdb177759632528d658",
+    "stdout.log": "715f62893376859cfeebcfb01fb68133592924390d276651350997cbff80826d",
+    "stderr.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "redacted_json_sha256": "32722b89efc25e297ca52a35b32ead77233975c713e76755d25c254599f339ee",
+  "redacted_gzip_sha256": "194776217e27b57c0b21f65f39e6bfb51fab5c4cb12025a719e2d8cf34d21359",
+  "redacted_log_gzip_sha256": {
+    "stderr.log.redacted.txt.gz": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+    "stdout.log.redacted.txt.gz": "ab149313a0892420f1eda9d420241d11d8f8186fcd3d41a91491080bf600f3c5"
+  }
+}

@@ -1,0 +1,667 @@
+{
+  "status": "MEASURED_REQUIRES_VISUAL_REVIEW",
+  "faces": 12,
+  "glyphFacePairs": 11976,
+  "frozenAuditorSHA256": "0439a245090286e782fc7719add4ea9a66ef3176bc84bb3087ac570a645c1bc0",
+  "sourceErrors": [],
+  "flagsByScope": {
+    "before_1.002": {
+      "body_contours": {
+        "sudden_curvature_change": 31582,
+        "line_corner": 388,
+        "short_curvature_reversal": 8186
+      },
+      "retained_whole_glyph": {
+        "sudden_curvature_change": 2554,
+        "short_curvature_reversal": 961,
+        "short_handle_corner": 2544,
+        "short_line_facet_between_curves": 102,
+        "curve_tangent_break": 57,
+        "line_corner": 41
+      },
+      "retained_accent_contour": {
+        "short_curvature_reversal": 110,
+        "sudden_curvature_change": 2854,
+        "short_handle_corner": 1357
+      },
+      "selected_sidecaron": {
+        "short_handle_corner": 166
+      }
+    },
+    "after_1.003": {
+      "body_contours": {
+        "sudden_curvature_change": 31508,
+        "line_corner": 388,
+        "short_curvature_reversal": 8312
+      },
+      "retained_whole_glyph": {
+        "sudden_curvature_change": 2554,
+        "short_curvature_reversal": 961,
+        "short_handle_corner": 2544,
+        "short_line_facet_between_curves": 102,
+        "curve_tangent_break": 57,
+        "line_corner": 41
+      },
+      "retained_accent_contour": {
+        "short_curvature_reversal": 110,
+        "sudden_curvature_change": 2854,
+        "short_handle_corner": 1357
+      },
+      "selected_sidecaron": {
+        "short_curvature_reversal": 80,
+        "sudden_curvature_change": 45
+      }
+    }
+  },
+  "changedScopeCoreFlags": [],
+  "results": [
+    {
+      "font": "Nambli-Bold",
+      "beforeSHA256": "e775845b2da90bd3e06705cb0e89b31ed07f86d667ea90cbbbd486676c18a243",
+      "afterSHA256": "6f584c5b3d94da09ca35e19ae367f1cc4b8bca92b6e33561179b18827558d25d",
+      "flagsByScope": {
+        "before_1.002": {
+          "body_contours": {
+            "sudden_curvature_change": 2177,
+            "line_corner": 30,
+            "short_curvature_reversal": 487
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 115,
+            "short_curvature_reversal": 78,
+            "short_handle_corner": 142,
+            "short_line_facet_between_curves": 16,
+            "curve_tangent_break": 7,
+            "line_corner": 2
+          },
+          "retained_accent_contour": {
+            "short_curvature_reversal": 32,
+            "sudden_curvature_change": 4
+          }
+        },
+        "after_1.003": {
+          "body_contours": {
+            "sudden_curvature_change": 2099,
+            "line_corner": 30,
+            "short_curvature_reversal": 640
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 115,
+            "short_curvature_reversal": 78,
+            "short_handle_corner": 142,
+            "short_line_facet_between_curves": 16,
+            "curve_tangent_break": 7,
+            "line_corner": 2
+          },
+          "retained_accent_contour": {
+            "short_curvature_reversal": 32,
+            "sudden_curvature_change": 4
+          },
+          "selected_sidecaron": {
+            "short_curvature_reversal": 10
+          }
+        }
+      }
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "beforeSHA256": "28da91cf39e4e16de54836bf774e88d6aa4caf68ab03c4cd6168f67069399473",
+      "afterSHA256": "bf74792775573c38d47bb82be903bc35e74fcc7ba8588c1c781bcb9fce5769c3",
+      "flagsByScope": {
+        "before_1.002": {
+          "body_contours": {
+            "sudden_curvature_change": 2206,
+            "line_corner": 29,
+            "short_curvature_reversal": 566
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 148,
+            "short_curvature_reversal": 77,
+            "short_handle_corner": 176,
+            "short_line_facet_between_curves": 18,
+            "line_corner": 4,
+            "curve_tangent_break": 5
+          },
+          "retained_accent_contour": {
+            "sudden_curvature_change": 230,
+            "short_curvature_reversal": 1
+          },
+          "selected_sidecaron": {
+            "short_handle_corner": 5
+          }
+        },
+        "after_1.003": {
+          "body_contours": {
+            "sudden_curvature_change": 2155,
+            "line_corner": 29,
+            "short_curvature_reversal": 596
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 148,
+            "short_curvature_reversal": 77,
+            "short_handle_corner": 176,
+            "short_line_facet_between_curves": 18,
+            "line_corner": 4,
+            "curve_tangent_break": 5
+          },
+          "retained_accent_contour": {
+            "sudden_curvature_change": 230,
+            "short_curvature_reversal": 1
+          },
+          "selected_sidecaron": {
+            "short_curvature_reversal": 10
+          }
+        }
+      }
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "beforeSHA256": "20f64c4001ccdb5e9d91cda8a387447181dfd86fb0620a9a1e382704d26544df",
+      "afterSHA256": "1a0bbd0cdd59ee28fc1a6fa123e449d3ee69a919328041eded280dd5f6a9c983",
+      "flagsByScope": {
+        "before_1.002": {
+          "body_contours": {
+            "sudden_curvature_change": 1193,
+            "line_corner": 33,
+            "short_curvature_reversal": 402
+          },
+          "retained_whole_glyph": {
+            "short_curvature_reversal": 85,
+            "sudden_curvature_change": 115,
+            "short_line_facet_between_curves": 15,
+            "short_handle_corner": 127,
+            "curve_tangent_break": 3,
+            "line_corner": 2
+          },
+          "retained_accent_contour": {
+            "sudden_curvature_change": 190
+          },
+          "selected_sidecaron": {
+            "short_handle_corner": 10
+          }
+        },
+        "after_1.003": {
+          "body_contours": {
+            "sudden_curvature_change": 1224,
+            "line_corner": 33,
+            "short_curvature_reversal": 402
+          },
+          "retained_whole_glyph": {
+            "short_curvature_reversal": 85,
+            "sudden_curvature_change": 115,
+            "short_line_facet_between_curves": 15,
+            "short_handle_corner": 127,
+            "curve_tangent_break": 3,
+            "line_corner": 2
+          },
+          "retained_accent_contour": {
+            "sudden_curvature_change": 190
+          },
+          "selected_sidecaron": {
+            "short_curvature_reversal": 10
+          }
+        }
+      }
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "beforeSHA256": "72bccaa761ed31f17c0932556c1d64b876dc3ded61db012d71089572c1b29763",
+      "afterSHA256": "f59c1f8b5d9825a878820efedbbd10e92bf7e18cb02b1075ae2d797eae19afd1",
+      "flagsByScope": {
+        "before_1.002": {
+          "body_contours": {
+            "sudden_curvature_change": 1702,
+            "line_corner": 32,
+            "short_curvature_reversal": 554
+          },
+          "retained_accent_contour": {
+            "sudden_curvature_change": 811,
+            "short_curvature_reversal": 71
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 201,
+            "short_curvature_reversal": 60,
+            "short_line_facet_between_curves": 19,
+            "short_handle_corner": 182,
+            "curve_tangent_break": 3,
+            "line_corner": 2
+          },
+          "selected_sidecaron": {
+            "short_handle_corner": 9
+          }
+        },
+        "after_1.003": {
+          "body_contours": {
+            "sudden_curvature_change": 1690,
+            "line_corner": 32,
+            "short_curvature_reversal": 579
+          },
+          "retained_accent_contour": {
+            "sudden_curvature_change": 811,
+            "short_curvature_reversal": 71
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 201,
+            "short_curvature_reversal": 60,
+            "short_line_facet_between_curves": 19,
+            "short_handle_corner": 182,
+            "curve_tangent_break": 3,
+            "line_corner": 2
+          },
+          "selected_sidecaron": {
+            "short_curvature_reversal": 5
+          }
+        }
+      }
+    },
+    {
+      "font": "Nambli-Italic",
+      "beforeSHA256": "2b19586d1791ba830776d2114950c83e2d3af25e67e78baaf6c1797591184bc3",
+      "afterSHA256": "ac4e66943c1e19d81f771548bd7376cc040e2f3b532a761ffcd10ca132c0a499",
+      "flagsByScope": {
+        "before_1.002": {
+          "body_contours": {
+            "sudden_curvature_change": 3659,
+            "line_corner": 34,
+            "short_curvature_reversal": 703
+          },
+          "retained_accent_contour": {
+            "short_handle_corner": 149,
+            "sudden_curvature_change": 206
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 292,
+            "short_handle_corner": 164,
+            "short_curvature_reversal": 87,
+            "curve_tangent_break": 3,
+            "line_corner": 7,
+            "short_line_facet_between_curves": 3
+          },
+          "selected_sidecaron": {
+            "short_handle_corner": 21
+          }
+        },
+        "after_1.003": {
+          "body_contours": {
+            "sudden_curvature_change": 3652,
+            "line_corner": 34,
+            "short_curvature_reversal": 757
+          },
+          "retained_accent_contour": {
+            "short_handle_corner": 149,
+            "sudden_curvature_change": 206
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 292,
+            "short_handle_corner": 164,
+            "short_curvature_reversal": 87,
+            "curve_tangent_break": 3,
+            "line_corner": 7,
+            "short_line_facet_between_curves": 3
+          },
+          "selected_sidecaron": {
+            "sudden_curvature_change": 10,
+            "short_curvature_reversal": 15
+          }
+        }
+      }
+    },
+    {
+      "font": "Nambli-Light",
+      "beforeSHA256": "e854a25d2a8ed1d60f89392d7adc567d777e6a86f937d5100af131655326f75f",
+      "afterSHA256": "f5502e2ea0a911af3c3d7cf98158541422015692168d3cfd50929de830b4c294",
+      "flagsByScope": {
+        "before_1.002": {
+          "body_contours": {
+            "sudden_curvature_change": 2302,
+            "line_corner": 30,
+            "short_curvature_reversal": 1131
+          },
+          "retained_accent_contour": {
+            "short_handle_corner": 412,
+            "sudden_curvature_change": 206
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 171,
+            "short_handle_corner": 374,
+            "short_curvature_reversal": 47,
+            "curve_tangent_break": 3,
+            "line_corner": 2
+          },
+          "selected_sidecaron": {
+            "short_handle_corner": 30
+          }
+        },
+        "after_1.003": {
+          "body_contours": {
+            "sudden_curvature_change": 2293,
+            "line_corner": 30,
+            "short_curvature_reversal": 1125
+          },
+          "retained_accent_contour": {
+            "short_handle_corner": 412,
+            "sudden_curvature_change": 206
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 171,
+            "short_handle_corner": 374,
+            "short_curvature_reversal": 47,
+            "curve_tangent_break": 3,
+            "line_corner": 2
+          },
+          "selected_sidecaron": {
+            "sudden_curvature_change": 5
+          }
+        }
+      }
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "beforeSHA256": "f5779ce32fdb77c2071e91cf34fa6c67d48d74bc3d46ec343336d54586787300",
+      "afterSHA256": "3ef8fb200ba92646e52eb09aada82717b005fb9b800b53fc622b6cc35ccfe87f",
+      "flagsByScope": {
+        "before_1.002": {
+          "body_contours": {
+            "sudden_curvature_change": 2961,
+            "line_corner": 28,
+            "short_curvature_reversal": 788
+          },
+          "retained_accent_contour": {
+            "short_handle_corner": 641,
+            "sudden_curvature_change": 173
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 190,
+            "short_handle_corner": 474,
+            "short_curvature_reversal": 66,
+            "line_corner": 7,
+            "curve_tangent_break": 3,
+            "short_line_facet_between_curves": 4
+          },
+          "selected_sidecaron": {
+            "short_handle_corner": 31
+          }
+        },
+        "after_1.003": {
+          "body_contours": {
+            "sudden_curvature_change": 2996,
+            "line_corner": 28,
+            "short_curvature_reversal": 831
+          },
+          "retained_accent_contour": {
+            "short_handle_corner": 641,
+            "sudden_curvature_change": 173
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 190,
+            "short_handle_corner": 474,
+            "short_curvature_reversal": 66,
+            "line_corner": 7,
+            "curve_tangent_break": 3,
+            "short_line_facet_between_curves": 4
+          },
+          "selected_sidecaron": {
+            "sudden_curvature_change": 5,
+            "short_curvature_reversal": 5
+          }
+        }
+      }
+    },
+    {
+      "font": "Nambli-Medium",
+      "beforeSHA256": "89417193c8610cb129be0d9d895035e7daadd94a7e69515cc41452424912605a",
+      "afterSHA256": "ed0ee06c872b16253f96a5ef2e1009bd7156ba51a489358ac79fa6de87f78770",
+      "flagsByScope": {
+        "before_1.002": {
+          "body_contours": {
+            "sudden_curvature_change": 3270,
+            "line_corner": 36,
+            "short_curvature_reversal": 780
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 270,
+            "short_curvature_reversal": 101,
+            "short_handle_corner": 205,
+            "short_line_facet_between_curves": 5,
+            "curve_tangent_break": 2,
+            "line_corner": 2
+          },
+          "retained_accent_contour": {
+            "sudden_curvature_change": 206,
+            "short_handle_corner": 4
+          },
+          "selected_sidecaron": {
+            "short_handle_corner": 15
+          }
+        },
+        "after_1.003": {
+          "body_contours": {
+            "sudden_curvature_change": 3272,
+            "line_corner": 36,
+            "short_curvature_reversal": 629
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 270,
+            "short_curvature_reversal": 101,
+            "short_handle_corner": 205,
+            "short_line_facet_between_curves": 5,
+            "curve_tangent_break": 2,
+            "line_corner": 2
+          },
+          "retained_accent_contour": {
+            "sudden_curvature_change": 206,
+            "short_handle_corner": 4
+          },
+          "selected_sidecaron": {
+            "sudden_curvature_change": 5,
+            "short_curvature_reversal": 5
+          }
+        }
+      }
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "beforeSHA256": "8a3a0d3e7d43deacdafd10cd5844143520ea70af900095bb449cc2d414a05899",
+      "afterSHA256": "0cf9fb0c83f97fad6be42323bcf04046c8e2e7487630d3a6374b684c7317c4cb",
+      "flagsByScope": {
+        "before_1.002": {
+          "body_contours": {
+            "sudden_curvature_change": 3104,
+            "line_corner": 34,
+            "short_curvature_reversal": 802
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 280,
+            "short_handle_corner": 211,
+            "short_curvature_reversal": 86,
+            "curve_tangent_break": 16,
+            "short_line_facet_between_curves": 7,
+            "line_corner": 5
+          },
+          "retained_accent_contour": {
+            "sudden_curvature_change": 206,
+            "short_handle_corner": 17
+          },
+          "selected_sidecaron": {
+            "short_handle_corner": 7
+          }
+        },
+        "after_1.003": {
+          "body_contours": {
+            "sudden_curvature_change": 3161,
+            "line_corner": 34,
+            "short_curvature_reversal": 802
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 280,
+            "short_handle_corner": 211,
+            "short_curvature_reversal": 86,
+            "curve_tangent_break": 16,
+            "short_line_facet_between_curves": 7,
+            "line_corner": 5
+          },
+          "retained_accent_contour": {
+            "sudden_curvature_change": 206,
+            "short_handle_corner": 17
+          },
+          "selected_sidecaron": {
+            "sudden_curvature_change": 10,
+            "short_curvature_reversal": 5
+          }
+        }
+      }
+    },
+    {
+      "font": "Nambli-Regular",
+      "beforeSHA256": "44811dec7e3ded0f123da6a6ff754504a1260083bd4f6323a64b705c0b1e5b2a",
+      "afterSHA256": "ac88bcdd9ccc2cba9e7f2e7286ce60b352ac17a25746b429a308adb2b1056fcb",
+      "flagsByScope": {
+        "before_1.002": {
+          "body_contours": {
+            "sudden_curvature_change": 2916,
+            "line_corner": 35,
+            "short_curvature_reversal": 717
+          },
+          "retained_accent_contour": {
+            "short_handle_corner": 134,
+            "sudden_curvature_change": 206
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 282,
+            "short_handle_corner": 160,
+            "short_curvature_reversal": 88,
+            "curve_tangent_break": 3,
+            "line_corner": 2
+          },
+          "selected_sidecaron": {
+            "short_handle_corner": 10
+          }
+        },
+        "after_1.003": {
+          "body_contours": {
+            "sudden_curvature_change": 2965,
+            "line_corner": 35,
+            "short_curvature_reversal": 717
+          },
+          "retained_accent_contour": {
+            "short_handle_corner": 134,
+            "sudden_curvature_change": 206
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 282,
+            "short_handle_corner": 160,
+            "short_curvature_reversal": 88,
+            "curve_tangent_break": 3,
+            "line_corner": 2
+          },
+          "selected_sidecaron": {
+            "short_curvature_reversal": 5,
+            "sudden_curvature_change": 5
+          }
+        }
+      }
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "beforeSHA256": "ff60a06a6fbf1643a6fdc768f4cdd907e8916fb5db6b3d2925c83f266881769e",
+      "afterSHA256": "db210f480ec8f4a6dec73fb1f6c3e33715b98eecbcd6e16e5e9d198c4246ae84",
+      "flagsByScope": {
+        "before_1.002": {
+          "body_contours": {
+            "sudden_curvature_change": 3169,
+            "line_corner": 34,
+            "short_curvature_reversal": 703
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 258,
+            "short_curvature_reversal": 99,
+            "short_handle_corner": 154,
+            "short_line_facet_between_curves": 6,
+            "curve_tangent_break": 2,
+            "line_corner": 2
+          },
+          "retained_accent_contour": {
+            "sudden_curvature_change": 206,
+            "short_curvature_reversal": 6
+          },
+          "selected_sidecaron": {
+            "short_handle_corner": 17
+          }
+        },
+        "after_1.003": {
+          "body_contours": {
+            "sudden_curvature_change": 3103,
+            "line_corner": 34,
+            "short_curvature_reversal": 716
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 258,
+            "short_curvature_reversal": 99,
+            "short_handle_corner": 154,
+            "short_line_facet_between_curves": 6,
+            "curve_tangent_break": 2,
+            "line_corner": 2
+          },
+          "retained_accent_contour": {
+            "sudden_curvature_change": 206,
+            "short_curvature_reversal": 6
+          },
+          "selected_sidecaron": {
+            "short_curvature_reversal": 5
+          }
+        }
+      }
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "beforeSHA256": "4fd5ddaccd15a9412f35b3fc99cefc26a1276f3fe92cb4be0acc747778ee5993",
+      "afterSHA256": "eaa86716662c9158616bc1138394b7cf75c84acec01f7ab811b9ab22f52a8269",
+      "flagsByScope": {
+        "before_1.002": {
+          "body_contours": {
+            "sudden_curvature_change": 2923,
+            "line_corner": 33,
+            "short_curvature_reversal": 553
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 232,
+            "short_curvature_reversal": 87,
+            "short_handle_corner": 175,
+            "short_line_facet_between_curves": 9,
+            "curve_tangent_break": 7,
+            "line_corner": 4
+          },
+          "retained_accent_contour": {
+            "sudden_curvature_change": 210
+          },
+          "selected_sidecaron": {
+            "short_handle_corner": 11
+          }
+        },
+        "after_1.003": {
+          "body_contours": {
+            "sudden_curvature_change": 2898,
+            "line_corner": 33,
+            "short_curvature_reversal": 518
+          },
+          "retained_whole_glyph": {
+            "sudden_curvature_change": 232,
+            "short_curvature_reversal": 87,
+            "short_handle_corner": 175,
+            "short_line_facet_between_curves": 9,
+            "curve_tangent_break": 7,
+            "line_corner": 4
+          },
+          "retained_accent_contour": {
+            "sudden_curvature_change": 210
+          },
+          "selected_sidecaron": {
+            "sudden_curvature_change": 5,
+            "short_curvature_reversal": 5
+          }
+        }
+      }
+    }
+  ],
+  "note": "Retained marks and connected forms follow the accepted existing design; their review flags do not represent a promise to redesign them. Curvature screens are review markers, not confirmed visual defects."
+}

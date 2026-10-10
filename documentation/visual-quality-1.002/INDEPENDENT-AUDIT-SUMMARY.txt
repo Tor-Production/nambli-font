@@ -1,0 +1,65 @@
+Nambli 1.002 visual candidate — independent compiled-outline audit
+2026-10-08
+
+Scope
+12 compiled TTF faces; every encoded and unencoded glyph: 11,976 glyph/face pairs.
+The main auditor is unchanged from the baseline run. SHA256:
+0439a245090286e782fc7719add4ea9a66ef3176bc84bb3087ac570a645c1bc0
+Python 3.13.6; fontTools 4.66.1. Exact font hashes are in edge-audit-summary.json.
+
+Worked letter bodies and other non-deferred contours
+10,536 processed or partly processed glyph/face pairs were inspected.
+Before 1.001 -> candidate 1.002, using the same main-audit criteria:
+  Endpoint curve tangent-break flags:       1,141 -> 0
+  Short-handle corner flags:                7,386 -> 0
+  Short straight facets between curves:      652 -> 0
+  Proper crossing flags:                      1 -> 0
+  Zero-length segment flags:                  1 -> 0
+The complete candidate family has no detected proper crossings, zero-length
+segments, open/disconnected contours, non-finite coordinates, or zero-area
+contours under the frozen scanner. Filled contours and optical design still
+require the owner's visual review; this is not a proof of perceptual perfection.
+
+Deferred diacritics
+The owner's pause on diacritic redesign is respected. Independently comparing
+the actual compiled outlines verified 1,440 whole glyphs and 7,296 retained
+accent contours exactly unchanged from 1.001, with zero preservation errors.
+The remaining 57 tangent-break, 4,067 short-handle, and 102 short-facet flags
+all belong to these unchanged deferred scopes. They must not be presented as
+newly repaired. The review page's pending section exposes deferred glyphs.
+
+Review-only curvature diagnostics
+Worked-body radius-step alerts: 35,332 -> 31,582.
+Worked-body short curvature-reversal alerts: 5,074 -> 8,186.
+These screens are sensitive to quadratic segmentation and include natural
+fillets and S-curves. They nominate review locations; they are not defect counts.
+Line/line corners are separately classified as intentional-design review.
+
+A supplemental exact interior-quadratic screen found 28 microscopic collinear
+retraces in worked candidate bodies versus 5 in the baseline. Their excursions
+past the nearest endpoint are 0.071–1.0 font unit. Two additional retraces are
+in unchanged deferred glyphs in both versions. These are transparent microscopic
+review findings, not established visible artifacts. The supplemental screen does
+not change the frozen audit's criteria or counts; see microscopic-review-markers.json
+and microscopic-review-markers-baseline.json.
+
+Visual spot-check
+Raster comparisons at 640-pixel em were inspected for e, r, k, s in Regular,
+Light, and ExtraBoldItalic. Small facets and cap edges appeared smoother, with
+no new visible bumps in those probes. Final-build raster files are saved as
+rasters/focus-raster-Regular-reviewed.png, rasters/focus-raster-Light-reviewed.png, and
+rasters/focus-raster-ExtraBoldItalic-reviewed.png. This spot-check does not mean every
+glyph was individually visually approved. The interactive before/after review
+is the owner's next approval step.
+
+Reproduction
+From the visual-quality-1.002 worktree, with the documented font dependencies:
+  python sources/audit_visual_quality.py --fonts fonts/candidates/1.002/ttf --output build-edge-audit
+  python sources/validate_visual_candidate.py --before fonts/candidates/1.001/ttf --after fonts/candidates/1.002/ttf --reports documentation/visual-quality-1.002/preparation --output build-edge-audit/preservation-validation.json
+
+Primary evidence
+  edge-audit-summary.json — all-face counts, criteria, dependency versions, exact font hashes
+  edge-audit-scopes.json — unchanged deferred regions versus processed bodies
+  microscopic-review-markers*.json — supplemental microscopic-retrace findings
+  The audit command above generates full Nambli-*.json findings with glyph,
+  contour, segment, and coordinate locations. Review HTML embeds audit markers.

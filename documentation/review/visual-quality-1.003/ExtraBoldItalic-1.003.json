@@ -1,0 +1,101 @@
+{
+  "title": "Nambli ExtraBold Italic",
+  "fonts": [
+    {
+      "label": "1.002 before",
+      "path": "C:\\Users\\morta\\Documents\\Codex\\2026-10-07\\Nambli-Google-Fonts-preparation\\worktrees\\visual-quality-1.002\\fonts\\candidates\\1.002\\ttf\\Nambli-ExtraBoldItalic.ttf",
+      "sha256": "72bccaa761ed31f17c0932556c1d64b876dc3ded61db012d71089572c1b29763",
+      "name": [
+        "Nambli",
+        "ExtraBold Italic"
+      ]
+    },
+    {
+      "label": "1.003 after",
+      "path": "C:\\Users\\morta\\Documents\\Codex\\2026-10-07\\Nambli-Google-Fonts-preparation\\visual-quality-2026-10-08\\owner-directed-1.003\\build\\Nambli-ExtraBoldItalic.ttf",
+      "sha256": "655d57ea188684835335b5219b2108cf9b3ca0bed3d51abbf281701a28b50677",
+      "name": [
+        "Nambli",
+        "ExtraBold Italic"
+      ]
+    }
+  ],
+  "samples": {
+    "display": [
+      {
+        "label": "Display / Latin",
+        "text": "abeo@",
+        "size": 144
+      },
+      {
+        "label": "Display / Cyrillic and side carons",
+        "text": "Я Ľ ľ ď ť",
+        "size": 144
+      },
+      {
+        "label": "Turkish / encoded forms",
+        "text": "İ I ı i  Ğ ğ  Ş ş",
+        "size": 144,
+        "language": "tr"
+      }
+    ],
+    "text": [
+      {
+        "label": "Reading size",
+        "text": "abeo@ ЯĽľďť — Nambli. A round form, a smooth edge.",
+        "size": 18
+      },
+      {
+        "label": "Turkish control",
+        "text": "İ I ı i — Çağrı, İstanbul, ışık, küçük, düzgün.",
+        "size": 18,
+        "language": "tr"
+      },
+      {
+        "label": "Reading size",
+        "text": "abeo@ ЯĽľďť — Nambli. A round form, a smooth edge.",
+        "size": 24
+      },
+      {
+        "label": "Turkish control",
+        "text": "İ I ı i — Çağrı, İstanbul, ışık, küçük, düzgün.",
+        "size": 24,
+        "language": "tr"
+      },
+      {
+        "label": "Reading size",
+        "text": "abeo@ ЯĽľďť — Nambli. A round form, a smooth edge.",
+        "size": 36
+      },
+      {
+        "label": "Turkish control",
+        "text": "İ I ı i — Çağrı, İstanbul, ışık, küçük, düzgün.",
+        "size": 36,
+        "language": "tr"
+      }
+    ]
+  },
+  "renderer": {
+    "python": "3.12.0",
+    "pillow": "11.3.0",
+    "freetype": "2.13.3",
+    "raqm": false,
+    "layout": "BASIC",
+    "languageShapingVerified": false,
+    "note": "Raster comparison, not a substitute for browser/OS and OpenType shaping tests."
+  },
+  "outputs": {
+    "combined": {
+      "path": "C:\\Users\\morta\\Documents\\Codex\\2026-10-07\\Nambli-Google-Fonts-preparation\\visual-quality-2026-10-08\\owner-directed-1.003\\raster-proofs\\ExtraBoldItalic-1.003.png",
+      "sha256": "df2e682adc15fe0c1df968e7904923d979a5603b933c12ab44c259082c07212c"
+    },
+    "display": {
+      "path": "C:\\Users\\morta\\Documents\\Codex\\2026-10-07\\Nambli-Google-Fonts-preparation\\visual-quality-2026-10-08\\owner-directed-1.003\\raster-proofs\\ExtraBoldItalic-1.003-display.png",
+      "sha256": "9cb090fa9ccda495473c543262331fc62ba58fd35d0b407b1815e27a75011364"
+    },
+    "text": {
+      "path": "C:\\Users\\morta\\Documents\\Codex\\2026-10-07\\Nambli-Google-Fonts-preparation\\visual-quality-2026-10-08\\owner-directed-1.003\\raster-proofs\\ExtraBoldItalic-1.003-text.png",
+      "sha256": "602ddf580512f5ab7855286c7a9d5440828e87153c5aaac8640095c36ea622da"
+    }
+  }
+}

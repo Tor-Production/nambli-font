@@ -1,0 +1,482 @@
+{
+  "all_twelve_have_the_six_real_zero_advance_marks": true,
+  "fonts": [
+    {
+      "filename": "Nambli-Bold.ttf",
+      "sha256": "7163e59fc7623e669c4fef6d6871ec76c6b164d20bb7b35e53b298769f4d17d0",
+      "fontRevision": 1.0,
+      "cmap_count": 970,
+      "glyph_count": 998,
+      "marks": {
+        "U+0302": {
+          "glyph": "uni0302",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0306": {
+          "glyph": "uni0306",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+030C": {
+          "glyph": "uni030C",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0330": {
+          "glyph": "uni0330",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0331": {
+          "glyph": "uni0331",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+1DC7": {
+          "glyph": "uni1DC7",
+          "contours": 2,
+          "advance": 0
+        }
+      }
+    },
+    {
+      "filename": "Nambli-BoldItalic.ttf",
+      "sha256": "196b13fe071e48a86348b10569f4e93b9f2d7d680bba747b0d4948b167a92f54",
+      "fontRevision": 1.0,
+      "cmap_count": 970,
+      "glyph_count": 998,
+      "marks": {
+        "U+0302": {
+          "glyph": "uni0302",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0306": {
+          "glyph": "uni0306",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+030C": {
+          "glyph": "uni030C",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0330": {
+          "glyph": "uni0330",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0331": {
+          "glyph": "uni0331",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+1DC7": {
+          "glyph": "uni1DC7",
+          "contours": 2,
+          "advance": 0
+        }
+      }
+    },
+    {
+      "filename": "Nambli-ExtraBold.ttf",
+      "sha256": "17885ab53bef4b4d4c98de5329aaa09e0d4f404e64f993b08a55f792658c8d15",
+      "fontRevision": 1.0,
+      "cmap_count": 970,
+      "glyph_count": 998,
+      "marks": {
+        "U+0302": {
+          "glyph": "uni0302",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0306": {
+          "glyph": "uni0306",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+030C": {
+          "glyph": "uni030C",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0330": {
+          "glyph": "uni0330",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0331": {
+          "glyph": "uni0331",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+1DC7": {
+          "glyph": "uni1DC7",
+          "contours": 2,
+          "advance": 0
+        }
+      }
+    },
+    {
+      "filename": "Nambli-ExtraBoldItalic.ttf",
+      "sha256": "f7700b96cec7584bde30214d60a7a92a8845c29631f9cebc1b9bc29d5afd73f3",
+      "fontRevision": 1.0,
+      "cmap_count": 970,
+      "glyph_count": 998,
+      "marks": {
+        "U+0302": {
+          "glyph": "uni0302",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0306": {
+          "glyph": "uni0306",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+030C": {
+          "glyph": "uni030C",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0330": {
+          "glyph": "uni0330",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0331": {
+          "glyph": "uni0331",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+1DC7": {
+          "glyph": "uni1DC7",
+          "contours": 2,
+          "advance": 0
+        }
+      }
+    },
+    {
+      "filename": "Nambli-Italic.ttf",
+      "sha256": "cca0ec1f6e356d4f74a304c836ec1eeb1f5945319dbc6939cf32af29d127a0e2",
+      "fontRevision": 1.0,
+      "cmap_count": 970,
+      "glyph_count": 998,
+      "marks": {
+        "U+0302": {
+          "glyph": "uni0302",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0306": {
+          "glyph": "uni0306",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+030C": {
+          "glyph": "uni030C",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0330": {
+          "glyph": "uni0330",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0331": {
+          "glyph": "uni0331",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+1DC7": {
+          "glyph": "uni1DC7",
+          "contours": 2,
+          "advance": 0
+        }
+      }
+    },
+    {
+      "filename": "Nambli-Light.ttf",
+      "sha256": "3e0fda8b8b0158569aef73945b164c0d9d647d38978563575d987ca46676fa64",
+      "fontRevision": 1.0,
+      "cmap_count": 970,
+      "glyph_count": 998,
+      "marks": {
+        "U+0302": {
+          "glyph": "uni0302",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0306": {
+          "glyph": "uni0306",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+030C": {
+          "glyph": "uni030C",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0330": {
+          "glyph": "uni0330",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0331": {
+          "glyph": "uni0331",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+1DC7": {
+          "glyph": "uni1DC7",
+          "contours": 2,
+          "advance": 0
+        }
+      }
+    },
+    {
+      "filename": "Nambli-LightItalic.ttf",
+      "sha256": "1392f44a367715f9c239127266d4e6b5d11b3475b86c0c5c93293adadfa84594",
+      "fontRevision": 1.0,
+      "cmap_count": 970,
+      "glyph_count": 998,
+      "marks": {
+        "U+0302": {
+          "glyph": "uni0302",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0306": {
+          "glyph": "uni0306",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+030C": {
+          "glyph": "uni030C",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0330": {
+          "glyph": "uni0330",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0331": {
+          "glyph": "uni0331",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+1DC7": {
+          "glyph": "uni1DC7",
+          "contours": 2,
+          "advance": 0
+        }
+      }
+    },
+    {
+      "filename": "Nambli-Medium.ttf",
+      "sha256": "524e48a4b9139e6a09c766051b816b1a41cf5e4693bb3a55846d5c4fa00d9f39",
+      "fontRevision": 1.0,
+      "cmap_count": 970,
+      "glyph_count": 998,
+      "marks": {
+        "U+0302": {
+          "glyph": "uni0302",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0306": {
+          "glyph": "uni0306",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+030C": {
+          "glyph": "uni030C",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0330": {
+          "glyph": "uni0330",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0331": {
+          "glyph": "uni0331",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+1DC7": {
+          "glyph": "uni1DC7",
+          "contours": 2,
+          "advance": 0
+        }
+      }
+    },
+    {
+      "filename": "Nambli-MediumItalic.ttf",
+      "sha256": "00f109e32ce4fb55f7c7899cf287d5892ac0f20986b52c9e792bf7c2fd04a8a5",
+      "fontRevision": 1.0,
+      "cmap_count": 970,
+      "glyph_count": 998,
+      "marks": {
+        "U+0302": {
+          "glyph": "uni0302",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0306": {
+          "glyph": "uni0306",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+030C": {
+          "glyph": "uni030C",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0330": {
+          "glyph": "uni0330",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0331": {
+          "glyph": "uni0331",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+1DC7": {
+          "glyph": "uni1DC7",
+          "contours": 2,
+          "advance": 0
+        }
+      }
+    },
+    {
+      "filename": "Nambli-Regular.ttf",
+      "sha256": "a837d0eab7a6cd27a39871fbfd7ac2a4881e7443d34391b3a55e396275470e4b",
+      "fontRevision": 1.0,
+      "cmap_count": 970,
+      "glyph_count": 998,
+      "marks": {
+        "U+0302": {
+          "glyph": "uni0302",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0306": {
+          "glyph": "uni0306",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+030C": {
+          "glyph": "uni030C",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0330": {
+          "glyph": "uni0330",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0331": {
+          "glyph": "uni0331",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+1DC7": {
+          "glyph": "uni1DC7",
+          "contours": 2,
+          "advance": 0
+        }
+      }
+    },
+    {
+      "filename": "Nambli-SemiBold.ttf",
+      "sha256": "7aa45f61c37f3533db9bd835d47187b428255167bb3d5835a54d86059275af3d",
+      "fontRevision": 1.0,
+      "cmap_count": 970,
+      "glyph_count": 998,
+      "marks": {
+        "U+0302": {
+          "glyph": "uni0302",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0306": {
+          "glyph": "uni0306",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+030C": {
+          "glyph": "uni030C",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0330": {
+          "glyph": "uni0330",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0331": {
+          "glyph": "uni0331",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+1DC7": {
+          "glyph": "uni1DC7",
+          "contours": 2,
+          "advance": 0
+        }
+      }
+    },
+    {
+      "filename": "Nambli-SemiBoldItalic.ttf",
+      "sha256": "6d79567bc7a84be9a535ccf8f6bd61b34aac662658b8a361f704edd521fc4583",
+      "fontRevision": 1.0,
+      "cmap_count": 970,
+      "glyph_count": 998,
+      "marks": {
+        "U+0302": {
+          "glyph": "uni0302",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0306": {
+          "glyph": "uni0306",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+030C": {
+          "glyph": "uni030C",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0330": {
+          "glyph": "uni0330",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+0331": {
+          "glyph": "uni0331",
+          "contours": 1,
+          "advance": 0
+        },
+        "U+1DC7": {
+          "glyph": "uni1DC7",
+          "contours": 2,
+          "advance": 0
+        }
+      }
+    }
+  ],
+  "aghem_proof": {
+    "language": "agq_Latn",
+    "sample_file_sha256": "5c34ac83bc075b58c1d1bce8bf02b3eec2623f7c0eb8f2da08c8ee313dfd9a6f",
+    "sample_U1DC7_count": 2,
+    "U1DC7_nfc": [
+      "U+006F",
+      "U+1DC7"
+    ]
+  }
+}

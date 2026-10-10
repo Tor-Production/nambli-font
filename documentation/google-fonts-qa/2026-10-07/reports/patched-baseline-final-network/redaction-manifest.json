@@ -1,0 +1,16 @@
+{
+  "run": "patched-baseline-final-network",
+  "public_report": "Explicitly path-redacted copy; severities/messages otherwise preserved.",
+  "original_files_sha256": {
+    "fontspector.json": "1517db5b047c357e5b357261c062aa2b588598ff475b13abf147c979f46d8333",
+    "summary.json": "a031b51bbb6f99d5caf9ba15de091253fe9fee8f4957ec46513dde85fc024624",
+    "stdout.log": "a18d035748ddc40f6d57173088513456e4bb3103ae708362a791c681d89d5dd2",
+    "stderr.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "redacted_json_sha256": "f0351a4bc48c6c178f5fcd1f2fa441740eacb2dee4b417ee69ffce3cb9765514",
+  "redacted_gzip_sha256": "a0243cb05656e4d67a8cb1326c620efc6206882d9f7ac23ccd19229e8181004b",
+  "redacted_log_gzip_sha256": {
+    "stderr.log.redacted.txt.gz": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64",
+    "stdout.log.redacted.txt.gz": "f4953e29168af6aed10f2eab2089b4ff3c5e8a5462a34c06f06bda27766e8c45"
+  }
+}

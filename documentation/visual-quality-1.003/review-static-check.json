@@ -1,0 +1,105 @@
+{
+  "review": "C:\\Users\\morta\\Documents\\Codex\\2026-10-07\\Nambli-Google-Fonts-preparation\\worktrees\\visual-quality-1.002\\documentation\\review\\visual-quality-1.003\\Nambli-Design-Review.html",
+  "mainJavaScriptSyntax": "PASS",
+  "faces": [
+    {
+      "face": "Nambli-Bold",
+      "glyphs": 998,
+      "changed": 121,
+      "retained": 566,
+      "assetSyntax": "PASS",
+      "fontPathsAndHashes": "PASS"
+    },
+    {
+      "face": "Nambli-BoldItalic",
+      "glyphs": 998,
+      "changed": 121,
+      "retained": 566,
+      "assetSyntax": "PASS",
+      "fontPathsAndHashes": "PASS"
+    },
+    {
+      "face": "Nambli-ExtraBold",
+      "glyphs": 998,
+      "changed": 116,
+      "retained": 566,
+      "assetSyntax": "PASS",
+      "fontPathsAndHashes": "PASS"
+    },
+    {
+      "face": "Nambli-ExtraBoldItalic",
+      "glyphs": 998,
+      "changed": 116,
+      "retained": 566,
+      "assetSyntax": "PASS",
+      "fontPathsAndHashes": "PASS"
+    },
+    {
+      "face": "Nambli-Italic",
+      "glyphs": 998,
+      "changed": 116,
+      "retained": 566,
+      "assetSyntax": "PASS",
+      "fontPathsAndHashes": "PASS"
+    },
+    {
+      "face": "Nambli-Light",
+      "glyphs": 998,
+      "changed": 116,
+      "retained": 566,
+      "assetSyntax": "PASS",
+      "fontPathsAndHashes": "PASS"
+    },
+    {
+      "face": "Nambli-LightItalic",
+      "glyphs": 998,
+      "changed": 116,
+      "retained": 566,
+      "assetSyntax": "PASS",
+      "fontPathsAndHashes": "PASS"
+    },
+    {
+      "face": "Nambli-Medium",
+      "glyphs": 998,
+      "changed": 116,
+      "retained": 566,
+      "assetSyntax": "PASS",
+      "fontPathsAndHashes": "PASS"
+    },
+    {
+      "face": "Nambli-MediumItalic",
+      "glyphs": 998,
+      "changed": 116,
+      "retained": 566,
+      "assetSyntax": "PASS",
+      "fontPathsAndHashes": "PASS"
+    },
+    {
+      "face": "Nambli-Regular",
+      "glyphs": 998,
+      "changed": 116,
+      "retained": 566,
+      "assetSyntax": "PASS",
+      "fontPathsAndHashes": "PASS"
+    },
+    {
+      "face": "Nambli-SemiBold",
+      "glyphs": 998,
+      "changed": 121,
+      "retained": 566,
+      "assetSyntax": "PASS",
+      "fontPathsAndHashes": "PASS"
+    },
+    {
+      "face": "Nambli-SemiBoldItalic",
+      "glyphs": 998,
+      "changed": 121,
+      "retained": 566,
+      "assetSyntax": "PASS",
+      "fontPathsAndHashes": "PASS"
+    }
+  ],
+  "allGlyphFacePairs": 11976,
+  "changedGlyphFacePairs": 1412,
+  "browserOrServerUsed": false
+}

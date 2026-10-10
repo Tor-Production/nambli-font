@@ -1,39 +1,127 @@
-Nambli final QA warning dispositions — 2026-10-07
+Nambli package warning dispositions — updated after owner review 2026-10-08
 
-1127 PASS, 134 WARN, 704 SKIP, 80 INFO, 0 FAIL, 0 ERROR, 0 FATAL
+Original full-package stock: 152 WARN, 16 FAIL.
+Historical 1.000 full-package stock/patched: 151 WARN, respectively 16/0 FAIL.
+Current approved 1.001 full package: 145 WARN, respectively 16/0 FAIL in the
+stock/patched runs. Historical raw results below remain unchanged and no
+warning is waived by this document. See the adoption report for the new runs.
+Approved binary-only stock: 134 WARN, 0 FAIL.
+Separate 1.001 binary-only candidate: 128 WARN, 0 FAIL.
+These are unsuppressed native results; every ERROR/FATAL in the final network
+runs is zero. No WARN is turned into PASS by this document. Raw historical
+reports are retained. See google-fonts-qa/2026-10-07/REPORT.md and reports/.
+The original package contains 13 WARN check IDs; the final package contains
+12. These are subresult counts, not counts of distinct defective glyphs.
 
-No checks excluded. These notes do not turn warnings into passes.
+alt_caron: 48 WARN (original and final package)
+OWNER_VISUAL_REVIEW_COMPLETE / specialist review remains available. The owner
+reviewed the final proof on 2026-10-08, including all 48 side-caron controls.
+Four decomposed side-caron
+glyphs U+013D, U+013E, U+010F, U+0165 per style cannot be validated by the
+check's expected component convention. Their approved outlines are unchanged;
+no global caron redesign is justified by that structural heuristic. All 48
+actual controls are included in the outline candidate review for inspection.
 
-alt_caron: 48 WARN
-Existing decomposed side-caron outlines need human inspection; localized substitution is tested.
+googlefonts/article/images: 1 original WARN, 0 final WARN
+FIXED_IN_PROJECT. Three original, genuinely rendered Nambli JPEG specimens
+(1600x900, 72 dpi, each under 800 KiB) are included and passed explicitly to
+package QA. Their CC BY-SA 4.0 license is stated separately; the old specimen's
+OFL license is preserved. Article and metadata source mappings are consistent.
+
+googlefonts/metadata/consistent_with_fonts: 16 WARN
+JUSTIFIED_TRADE_OFF / onboarding decision. Non-RIBBI legacy family names use
+weight-specific name ID 1 values while preferred family IDs identify Nambli.
+The 16 messages cover two platform records for each of eight non-RIBBI faces.
+Current OpenType guidance recommends this four-style legacy grouping together
+with name IDs 16/17 for an extended family. The package also passes the
+OpenType family naming, maximum-four-faces, style-bit and preferred-family
+consistency checks. Changing these records is a compatibility decision;
+metadata continues to declare all 12 styles with correct weights/italic status.
+Source: https://learn.microsoft.com/en-us/typography/opentype/spec/name
+
+googlefonts/metadata/designer_profiles: 1 WARN
+REQUIRES_UPSTREAM_ACCEPTANCE. The owner reports submitting the designer
+profile form on 2026-10-08. The yuriitor catalog path still returned HTTP 404
+at the follow-up check. No duplicate form or profile PR was submitted by the
+agent, and the previously drafted bio is not claimed to be the form response.
+The warning remains until actual catalog registration becomes available.
 
 googlefonts/metadata/unreachable_subsetting: 12 WARN
-Google serving subset coverage requires onboarding decisions; no misleading script labels were added.
+REQUIRES_UPSTREAM_ACCEPTANCE/ROLLOUT. 48 encoded characters per face are outside
+the original four fixed arrays; the NAM proposal leaves 35. The exact lists
+are in repertoire-and-metrics.json. They include extra marks, historical Cyrillic,
+symbols and formatting characters. The local coherent model retains all 970
+encoded characters; none was deleted or given a fake metadata label. Legitimate
+Google range assignments and backend/CSS routing must be reviewed upstream.
+The six tofu-failure marks are a subset of this broader serving problem.
 
 googlefonts/vendor_id: 12 WARN
-NAMB is not claimed as a registered Microsoft vendor ID.
+JUSTIFIED_TRADE_OFF / optional owner action. NAMB remains an unregistered vendor
+ID; registration is not claimed. No registration was made and no third party's
+ID was substituted. There is no source-design cause for the tofu failures.
 
 googlefonts/vertical_metrics: 12 WARN
-Existing 1.6 UPM line metrics preserve room for tall accents and descenders.
+JUSTIFIED_TRADE_OFF. Existing typo/hhea metrics 1200/-400/0 (1.6 UPM) preserve
+room for the approved accents and descenders. Direct font ink bounds across
+styles range from -326 to 1182 (1,508 units in ExtraBold); shrinking to 1.5 UPM
+cannot contain even that direct extent without a trade-off. Unbounded mark
+stacking is not claimed covered. Metrics were measured and left unchanged.
 
 math_signs_width: 12 WARN
-Math signs retain proportional spacing; changing advances needs a separate spacing decision.
+JUSTIFIED_TRADE_OFF / owner spacing decision. Proportional mathematical signs
+retain their approved advances (the checker expects a common width). No global
+spacing or kerning normalization was performed to satisfy a math-width rule.
 
 outline_colinear_vectors: 6 WARN
-Approximate collinearity notices include straight joins. Exact zero segments and exact redundant points were removed; remaining heuristics are not blanket-waived.
+JUSTIFIED_TRADE_OFF / visual decision if further editing is desired. The check
+uses a 0.1-radian tolerance between consecutive straight segments. The six
+WARN subresults contain 47 approximately collinear joins and zero exactly
+collinear triples. Removing each middle point would alter the outline by
+0.006564 to 1.238336 font units at that point; no lossless deletion was found.
+Exact zero/redundant-point cleanup from the prior release is retained.
+Individual messages/coordinates remain in the raw report. These were not
+globally removed or waived by severity changes. A further simplification
+would require a separately validated outline candidate.
 
-outline_jaggy_segments: 4 WARN
-Inspect the individual remaining coordinates. New italic hooked P/p and light h-hook backtracking was corrected; unrelated older geometry is preserved.
+outline_jaggy_segments: 4 package/binary WARN in approved 1.000
+FIXED_IN_PROJECT for two findings, with two retained after owner visual review.
+The approved 1.001 candidate removes
+the guarded very short backtracking segments in Bold/BoldItalic U+A7C8; those
+two warnings disappear. It also removes a short reverse segment in Medium
+U+1D7D, but the sharp bar/counter junction remains a heuristic warning. LightItalic
+U+00B6 has two sharp stem/bowl joins within one WARN. Those two remaining WARN
+are retained in the visually approved geometry; they are not called fixed.
+The owner reviewed all eight changed contour pairs before adoption. Release
+1.000 is unchanged; current package checks are in the adoption report.
 
-overlapping_path_segments: 4 WARN
-Small quantized-path overlap notices remain for manual inspection; they are recorded without claiming perfect outlines.
+overlapping_path_segments: 4 package/binary WARN in approved 1.000
+FIXED_IN_PROJECT in the owner-approved versioned 1.001 candidate.
+Four tiny rounded intersections affected MediumItalic/SemiBold/SemiBoldItalic
+U+02A3 and Bold U+02A6. Selected paths were unioned with winding preserved;
+two precisely guarded one-unit excursions introduced by quantization were
+removed. All four overlap warnings disappear in the final 1.001 candidate.
+All other glyphs, metrics, cmap, layout and kerning remain unchanged. The
+approved candidate is prepared for the Google draft submission; the published
+release remains unchanged. See the adoption report for the tested package.
 
 rupee: 12 WARN
-The rupee sign is outside this release's repertoire.
+NEEDS_OWNER_INPUT if expanding scope. U+20B9 is outside the approved 970-character
+repertoire. No invented/borrowed rupee drawing was inserted merely for a WARN.
+Its absence does not justify narrowing existing language support or glyphs.
 
 unreachable_glyphs: 12 WARN
-The retained legacy empty .null glyph is unencoded.
+JUSTIFIED_TRADE_OFF / optional modern-font cleanup. The legacy unencoded .null
+is empty, with zero advance at glyph ID 1. OpenType 1.7 recommended this
+historical glyph ordering; current recommendations no longer require the
+first-four-glyph convention. Retention is a compatibility choice, not a
+current requirement. Removing it would renumber later glyphs and change the
+approved 998-glyph binary, with no visible glyph loss. It causes no tofu FAIL.
+Sources: https://learn.microsoft.com/en-us/typography/opentype/otspec170/recom
+https://learn.microsoft.com/en-us/typography/opentype/spec/recom
 
-All raw warning details are preserved in fontspector-summary.json.
-The review pages preserve the before/after evidence for the compiled fonts.
-Yurii Tor approved the final designs for publication on 2026-10-07.
+No other WARN groups occur in the original 152-WARN full package. Removing the
+article-image warning yields the final 151-WARN total; the optional outline
+candidate's original six removals were measured in binary scope. The new
+full-package run is reported separately in the adoption report. See the dated report for limits, raw hashes,
+browser versions, external dependencies and all exact original subresults.
+See google-fonts-qa/2026-10-08/WARN-AUDIT.txt for the independent follow-up.

@@ -1,0 +1,195 @@
+{
+  "quadraticSegmentsScanned": 884255,
+  "flags": [
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni0426",
+      "contour": 0,
+      "segment": 45,
+      "t": 0.5,
+      "point": [
+        465.5,
+        46.5
+      ],
+      "distanceToNearestEndpoint": 0.7071067811865476,
+      "scope": "processed_body",
+      "curve": [
+        [
+          465,
+          46
+        ],
+        [
+          466,
+          47
+        ],
+        [
+          465,
+          46
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni01B3",
+      "contour": 0,
+      "segment": 22,
+      "t": 0.5,
+      "point": [
+        478.5,
+        606.0
+      ],
+      "distanceToNearestEndpoint": 0.5,
+      "scope": "processed_body",
+      "curve": [
+        [
+          478,
+          606
+        ],
+        [
+          479,
+          606
+        ],
+        [
+          478.0,
+          606.0
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni02A6",
+      "contour": 0,
+      "segment": 27,
+      "t": 0.4,
+      "point": [
+        361.0,
+        117.6
+      ],
+      "distanceToNearestEndpoint": 0.4000000000000057,
+      "scope": "processed_body",
+      "curve": [
+        [
+          361,
+          118
+        ],
+        [
+          361,
+          117
+        ],
+        [
+          361.0,
+          118.5
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni044F",
+      "contour": 0,
+      "segment": 15,
+      "t": 0.6666666666666666,
+      "point": [
+        305.0,
+        160.33333333333331
+      ],
+      "distanceToNearestEndpoint": 0.3333333333333144,
+      "scope": "processed_body",
+      "curve": [
+        [
+          305.0,
+          159.0
+        ],
+        [
+          305,
+          161
+        ],
+        [
+          305,
+          160
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni0163",
+      "contour": 0,
+      "segment": 47,
+      "t": 0.5,
+      "point": [
+        206.5,
+        -2.0
+      ],
+      "distanceToNearestEndpoint": 0.5,
+      "scope": "unchanged_deferred",
+      "curve": [
+        [
+          207,
+          -2
+        ],
+        [
+          206,
+          -2
+        ],
+        [
+          207,
+          -2
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni0104",
+      "contour": 0,
+      "segment": 43,
+      "t": 0.5,
+      "point": [
+        559.0,
+        15.5
+      ],
+      "distanceToNearestEndpoint": 0.5,
+      "scope": "unchanged_deferred",
+      "curve": [
+        [
+          559,
+          15
+        ],
+        [
+          559,
+          16
+        ],
+        [
+          559,
+          15
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni1DB6",
+      "contour": 1,
+      "segment": 6,
+      "t": 0.3333333333333333,
+      "point": [
+        309.33333333333337,
+        444.00000000000006
+      ],
+      "distanceToNearestEndpoint": 0.33333333333337123,
+      "scope": "processed_body",
+      "curve": [
+        [
+          309,
+          444
+        ],
+        [
+          310,
+          444
+        ],
+        [
+          308.0,
+          444.0
+        ]
+      ]
+    }
+  ],
+  "note": "Exact interior zero derivative with direction reversal. Supplemental diagnostic; frozen main-audit criteria are unchanged."
+}

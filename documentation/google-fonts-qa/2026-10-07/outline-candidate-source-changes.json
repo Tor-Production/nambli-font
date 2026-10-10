@@ -1,0 +1,122 @@
+{
+  "candidate_version": "1.001",
+  "changes": [
+    {
+      "face": "Nambli-Bold",
+      "glyph": "uniA7C8",
+      "before_sha256": "622e901271f71074c6c1ad6a52f8ab1f470783542ce49eb7c11bf05ef1972e8d",
+      "after_sha256": "7f4cef38d7c0c8f5f0f6415259869a55e52fce786cab12fbb7f29caae3e57627",
+      "guarded_short_segments_removed": [
+        [
+          [
+            183,
+            300
+          ],
+          [
+            183,
+            301
+          ],
+          [
+            183,
+            302
+          ]
+        ]
+      ],
+      "original_contours": 3,
+      "simplified_contours": 3
+    },
+    {
+      "face": "Nambli-Bold",
+      "glyph": "uni02A6",
+      "before_sha256": "e3b8c5e68c25ad5f1b19cf2eb83baaf98616dcda43be27db66678af7bd5bd4c4",
+      "after_sha256": "9cc0dd4b61f1eeb7bd458aed7cbab24d5c2173766f80b82424303f1d7fc5b6a2",
+      "guarded_short_segments_removed": [],
+      "original_contours": 1,
+      "simplified_contours": 1
+    },
+    {
+      "face": "Nambli-BoldItalic",
+      "glyph": "uniA7C8",
+      "before_sha256": "890cf0f703202e71fb789d386b03a5deede50771c8d8a11aa3e0b90a916eeb78",
+      "after_sha256": "2366533d4aefa74b62ea8158ef34e21dbd70da99f709c0103eebb6640869b300",
+      "guarded_short_segments_removed": [
+        [
+          [
+            208,
+            329
+          ],
+          [
+            209,
+            330
+          ],
+          [
+            211,
+            331
+          ]
+        ]
+      ],
+      "original_contours": 3,
+      "simplified_contours": 3
+    },
+    {
+      "face": "Nambli-LightItalic",
+      "glyph": "uni00B6",
+      "before_sha256": "72438cd0076ac6ff5df97b676cf998324b090d22e1de401d16a5f8c2294f421e",
+      "after_sha256": "59546425ff29e896f2cbed2577393613e1cb74ef32f3012c98c3976bbd40a82f",
+      "guarded_short_segments_removed": [],
+      "original_contours": 2,
+      "simplified_contours": 2
+    },
+    {
+      "face": "Nambli-Medium",
+      "glyph": "uni1D7D",
+      "before_sha256": "c2b6697366e12a7d5eec8aa338c5c00734d8dc46456680c979cbc253327fdc66",
+      "after_sha256": "3a5f6a29006c3958393e0a8c56d8a9cbb2b7c4bf3f17c67b590161132919160e",
+      "guarded_short_segments_removed": [
+        [
+          [
+            419,
+            168
+          ],
+          [
+            419,
+            166
+          ],
+          [
+            418,
+            165
+          ]
+        ]
+      ],
+      "original_contours": 3,
+      "simplified_contours": 3
+    },
+    {
+      "face": "Nambli-MediumItalic",
+      "glyph": "uni02A3",
+      "before_sha256": "f09dee20a706ab17a42122fd087b1a873e46aa2ac1ea1c7f04ef79c592202656",
+      "after_sha256": "e9fc2851eb1ef84fe60944ed4cea2597d2d06274a0261f68dd1f72ac867e07e5",
+      "guarded_short_segments_removed": [],
+      "original_contours": 3,
+      "simplified_contours": 3
+    },
+    {
+      "face": "Nambli-SemiBold",
+      "glyph": "uni02A3",
+      "before_sha256": "8a947e22b3f563d392038fd42f67f96bb3532e9383f251715c785eaf8335deb4",
+      "after_sha256": "b0b8401edfe4f57a6b0f9cf0758d05a56f848634e7a0c397a03ec5234bdd1d50",
+      "guarded_short_segments_removed": [],
+      "original_contours": 3,
+      "simplified_contours": 3
+    },
+    {
+      "face": "Nambli-SemiBoldItalic",
+      "glyph": "uni02A3",
+      "before_sha256": "2a39c1cbb2c2abfe5e3837d55bda64feda4a49923b9b68c0cdb89efd8afe3f60",
+      "after_sha256": "45a4f5d010a448ddf59fa383e1096de8f4a24745de4fa02b61fd395261f09cec",
+      "guarded_short_segments_removed": [],
+      "original_contours": 3,
+      "simplified_contours": 3
+    }
+  ]
+}

@@ -1,0 +1,1753 @@
+{
+  "audit_schema": 2,
+  "status": "MEASURED_REQUIRES_VISUAL_REVIEW",
+  "audit_source_sha256": "0439a245090286e782fc7719add4ea9a66ef3176bc84bb3087ac570a645c1bc0",
+  "python_version": "3.13.6",
+  "fonttools_version": "4.66.1",
+  "scope": "Every glyph and every decomposed contour, including unencoded glyphs, in all supplied TTFs",
+  "faces": 12,
+  "glyph_face_pairs": 11976,
+  "flag_counts": {
+    "sudden_curvature_change": 36990,
+    "line_corner": 429,
+    "short_curvature_reversal": 9257,
+    "short_handle_corner": 4067,
+    "short_line_facet_between_curves": 102,
+    "curve_tangent_break": 57
+  },
+  "criteria": {
+    "curve_tangent_break": "Raw endpoint tangent angle > 8 degrees and exceeds conservative integer rounding allowance by > 4 degrees; high if excess >= 25 degrees.",
+    "short_handle_corner": "Angle > 30 degrees at a curve join with a tangent vector shorter than 4/1000 UPM, otherwise masked by integer rounding allowance.",
+    "short_line_facet_between_curves": "Line <= 12/1000 UPM between curves, with an endpoint angle > 8 degrees.",
+    "line_corner": "Line/line angle > 8 degrees; preserved as intentional-design review, never blindly rounded or required to reach zero.",
+    "sudden_curvature_change": "At a join within 4 degrees of tangent continuity after rounding allowance: adjacent lengths >=8 and tangent control vectors >=3/1000 UPM, signed curvature jump > .015 inverse units and >4:1 magnitude ratio with peak > .02 (normalized to 1000 UPM). Includes possibly intentional line-to-fillet transitions; review required.",
+    "short_curvature_reversal": "At a join within 4 degrees of tangent continuity after rounding allowance: opposite signed endpoint curvatures, both > .004 inverse units, tangent control vectors >=3, adjacent lengths >=8 and total <80 (normalized to 1000 UPM). Natural S-curves remain possible; review required.",
+    "proper_crossings": "Interior segment crossings after adaptive Bezier subdivision at 0.25/1000 UPM tolerance; exact-outline confirmation required.",
+    "limitations": "Does not prove perceived smoothness, classify all intentional corners, or measure optical balance. Curvature screens nominate local changes but do not establish visual defects; image review is required."
+  },
+  "results": [
+    {
+      "file": "Nambli-Bold.ttf",
+      "sha256": "e775845b2da90bd3e06705cb0e89b31ed07f86d667ea90cbbbd486676c18a243",
+      "upm": 1000,
+      "version": 1.002,
+      "glyphs_scanned": 998,
+      "encoded_codepoints": 970,
+      "counts": {
+        "contours": 2111,
+        "segments": 76440,
+        "joins": 76440,
+        "joins_angle_gt_8": 10625,
+        "joins_angle_gt_30": 181,
+        "joins_angle_gt_90": 4,
+        "curve_joins": 76407,
+        "proper_crossings": 0
+      },
+      "flag_counts": {
+        "sudden_curvature_change": 2296,
+        "line_corner": 32,
+        "short_curvature_reversal": 597,
+        "short_handle_corner": 142,
+        "short_line_facet_between_curves": 16,
+        "curve_tangent_break": 7
+      },
+      "severity_counts": {
+        "review": 3051,
+        "intentional_corner_review": 32,
+        "high": 7
+      },
+      "overshoot_probes": {
+        ".notdef": {
+          "bounds": [
+            55,
+            0,
+            565,
+            740
+          ],
+          "advance": 620,
+          "contours": 3
+        },
+        "O": {
+          "bounds": [
+            46,
+            -12,
+            654,
+            752
+          ],
+          "advance": 700,
+          "contours": 2
+        },
+        "o": {
+          "bounds": [
+            46,
+            -9,
+            574,
+            539
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "a": {
+          "bounds": [
+            46,
+            -12,
+            574,
+            542
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "b": {
+          "bounds": [
+            46,
+            -10,
+            577,
+            713
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "e": {
+          "bounds": [
+            42,
+            -13,
+            575,
+            544
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "r": {
+          "bounds": [
+            46,
+            -1,
+            477,
+            528
+          ],
+          "advance": 480,
+          "contours": 1
+        },
+        "k": {
+          "bounds": [
+            46,
+            -2,
+            564,
+            713
+          ],
+          "advance": 596,
+          "contours": 1
+        },
+        "s": {
+          "bounds": [
+            45,
+            -15,
+            560,
+            537
+          ],
+          "advance": 590,
+          "contours": 1
+        },
+        "x": {
+          "bounds": [
+            41,
+            -2,
+            557,
+            532
+          ],
+          "advance": 598,
+          "contours": 1
+        },
+        "n": {
+          "bounds": [
+            46,
+            -1,
+            574,
+            530
+          ],
+          "advance": 620,
+          "contours": 1
+        }
+      },
+      "notdef_exactly_equals_O": false
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "sha256": "28da91cf39e4e16de54836bf774e88d6aa4caf68ab03c4cd6168f67069399473",
+      "upm": 1000,
+      "version": 1.002,
+      "glyphs_scanned": 998,
+      "encoded_codepoints": 970,
+      "counts": {
+        "contours": 2111,
+        "segments": 73206,
+        "joins": 73206,
+        "joins_angle_gt_8": 9830,
+        "joins_angle_gt_30": 217,
+        "joins_angle_gt_90": 13,
+        "curve_joins": 73158,
+        "proper_crossings": 0
+      },
+      "flag_counts": {
+        "sudden_curvature_change": 2584,
+        "line_corner": 33,
+        "short_curvature_reversal": 644,
+        "short_handle_corner": 181,
+        "short_line_facet_between_curves": 18,
+        "curve_tangent_break": 5
+      },
+      "severity_counts": {
+        "review": 3428,
+        "intentional_corner_review": 33,
+        "high": 4
+      },
+      "overshoot_probes": {
+        ".notdef": {
+          "bounds": [
+            62,
+            0,
+            688,
+            740
+          ],
+          "advance": 620,
+          "contours": 3
+        },
+        "O": {
+          "bounds": [
+            51,
+            -12,
+            686,
+            752
+          ],
+          "advance": 700,
+          "contours": 2
+        },
+        "o": {
+          "bounds": [
+            41,
+            -10,
+            579,
+            540
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "a": {
+          "bounds": [
+            39,
+            -13,
+            612,
+            542
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "b": {
+          "bounds": [
+            39,
+            -10,
+            580,
+            714
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "e": {
+          "bounds": [
+            41,
+            -9,
+            580,
+            544
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "r": {
+          "bounds": [
+            7,
+            -2,
+            504,
+            529
+          ],
+          "advance": 480,
+          "contours": 1
+        },
+        "k": {
+          "bounds": [
+            8,
+            -2,
+            562,
+            714
+          ],
+          "advance": 596,
+          "contours": 1
+        },
+        "s": {
+          "bounds": [
+            15,
+            -16,
+            559,
+            536
+          ],
+          "advance": 590,
+          "contours": 1
+        },
+        "x": {
+          "bounds": [
+            7,
+            -2,
+            591,
+            533
+          ],
+          "advance": 598,
+          "contours": 1
+        },
+        "n": {
+          "bounds": [
+            8,
+            -1,
+            593,
+            531
+          ],
+          "advance": 620,
+          "contours": 1
+        }
+      },
+      "notdef_exactly_equals_O": false
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "sha256": "20f64c4001ccdb5e9d91cda8a387447181dfd86fb0620a9a1e382704d26544df",
+      "upm": 1000,
+      "version": 1.002,
+      "glyphs_scanned": 998,
+      "encoded_codepoints": 970,
+      "counts": {
+        "contours": 2110,
+        "segments": 71203,
+        "joins": 71203,
+        "joins_angle_gt_8": 8050,
+        "joins_angle_gt_30": 175,
+        "joins_angle_gt_90": 6,
+        "curve_joins": 71166,
+        "proper_crossings": 0
+      },
+      "flag_counts": {
+        "sudden_curvature_change": 1498,
+        "line_corner": 35,
+        "short_curvature_reversal": 487,
+        "short_line_facet_between_curves": 15,
+        "short_handle_corner": 137,
+        "curve_tangent_break": 3
+      },
+      "severity_counts": {
+        "review": 2140,
+        "intentional_corner_review": 35
+      },
+      "overshoot_probes": {
+        ".notdef": {
+          "bounds": [
+            55,
+            0,
+            565,
+            740
+          ],
+          "advance": 620,
+          "contours": 3
+        },
+        "O": {
+          "bounds": [
+            46,
+            -12,
+            654,
+            752
+          ],
+          "advance": 700,
+          "contours": 2
+        },
+        "o": {
+          "bounds": [
+            43,
+            -10,
+            577,
+            540
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "a": {
+          "bounds": [
+            46,
+            -12,
+            574,
+            542
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "b": {
+          "bounds": [
+            46,
+            -10,
+            576,
+            714
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "e": {
+          "bounds": [
+            43,
+            -11,
+            574,
+            541
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "r": {
+          "bounds": [
+            44,
+            -2,
+            479,
+            527
+          ],
+          "advance": 480,
+          "contours": 1
+        },
+        "k": {
+          "bounds": [
+            46,
+            -2,
+            564,
+            714
+          ],
+          "advance": 596,
+          "contours": 1
+        },
+        "s": {
+          "bounds": [
+            46,
+            -15,
+            557,
+            536
+          ],
+          "advance": 590,
+          "contours": 1
+        },
+        "x": {
+          "bounds": [
+            41,
+            -3,
+            557,
+            533
+          ],
+          "advance": 598,
+          "contours": 1
+        },
+        "n": {
+          "bounds": [
+            46,
+            2,
+            574,
+            530
+          ],
+          "advance": 620,
+          "contours": 1
+        }
+      },
+      "notdef_exactly_equals_O": false
+    },
+    {
+      "file": "Nambli-ExtraBoldItalic.ttf",
+      "sha256": "72bccaa761ed31f17c0932556c1d64b876dc3ded61db012d71089572c1b29763",
+      "upm": 1000,
+      "version": 1.002,
+      "glyphs_scanned": 998,
+      "encoded_codepoints": 970,
+      "counts": {
+        "contours": 2110,
+        "segments": 73382,
+        "joins": 73382,
+        "joins_angle_gt_8": 8356,
+        "joins_angle_gt_30": 228,
+        "joins_angle_gt_90": 29,
+        "curve_joins": 73327,
+        "proper_crossings": 0
+      },
+      "flag_counts": {
+        "sudden_curvature_change": 2714,
+        "line_corner": 34,
+        "short_curvature_reversal": 685,
+        "short_line_facet_between_curves": 19,
+        "short_handle_corner": 191,
+        "curve_tangent_break": 3
+      },
+      "severity_counts": {
+        "review": 3610,
+        "intentional_corner_review": 34,
+        "high": 2
+      },
+      "overshoot_probes": {
+        ".notdef": {
+          "bounds": [
+            62,
+            0,
+            688,
+            740
+          ],
+          "advance": 620,
+          "contours": 3
+        },
+        "O": {
+          "bounds": [
+            51,
+            -12,
+            686,
+            752
+          ],
+          "advance": 700,
+          "contours": 2
+        },
+        "o": {
+          "bounds": [
+            41,
+            -10,
+            579,
+            540
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "a": {
+          "bounds": [
+            39,
+            -10,
+            611,
+            543
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "b": {
+          "bounds": [
+            39,
+            -10,
+            580,
+            714
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "e": {
+          "bounds": [
+            40,
+            -11,
+            581,
+            541
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "r": {
+          "bounds": [
+            6,
+            -2,
+            506,
+            527
+          ],
+          "advance": 480,
+          "contours": 1
+        },
+        "k": {
+          "bounds": [
+            9,
+            -2,
+            565,
+            714
+          ],
+          "advance": 596,
+          "contours": 1
+        },
+        "s": {
+          "bounds": [
+            15,
+            -17,
+            559,
+            537
+          ],
+          "advance": 590,
+          "contours": 1
+        },
+        "x": {
+          "bounds": [
+            7,
+            -3,
+            591,
+            533
+          ],
+          "advance": 598,
+          "contours": 1
+        },
+        "n": {
+          "bounds": [
+            9,
+            -2,
+            593,
+            531
+          ],
+          "advance": 620,
+          "contours": 1
+        }
+      },
+      "notdef_exactly_equals_O": false
+    },
+    {
+      "file": "Nambli-Italic.ttf",
+      "sha256": "2b19586d1791ba830776d2114950c83e2d3af25e67e78baaf6c1797591184bc3",
+      "upm": 1000,
+      "version": 1.002,
+      "glyphs_scanned": 998,
+      "encoded_codepoints": 970,
+      "counts": {
+        "contours": 2111,
+        "segments": 73074,
+        "joins": 73074,
+        "joins_angle_gt_8": 10689,
+        "joins_angle_gt_30": 375,
+        "joins_angle_gt_90": 21,
+        "curve_joins": 73013,
+        "proper_crossings": 0
+      },
+      "flag_counts": {
+        "sudden_curvature_change": 4157,
+        "line_corner": 41,
+        "short_curvature_reversal": 790,
+        "short_handle_corner": 334,
+        "curve_tangent_break": 3,
+        "short_line_facet_between_curves": 3
+      },
+      "severity_counts": {
+        "review": 5285,
+        "intentional_corner_review": 41,
+        "high": 2
+      },
+      "overshoot_probes": {
+        ".notdef": {
+          "bounds": [
+            61,
+            0,
+            690,
+            740
+          ],
+          "advance": 620,
+          "contours": 3
+        },
+        "O": {
+          "bounds": [
+            51,
+            -12,
+            686,
+            752
+          ],
+          "advance": 700,
+          "contours": 2
+        },
+        "o": {
+          "bounds": [
+            41,
+            -10,
+            579,
+            540
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "a": {
+          "bounds": [
+            39,
+            -14,
+            615,
+            542
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "b": {
+          "bounds": [
+            38,
+            -10,
+            580,
+            713
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "e": {
+          "bounds": [
+            41,
+            -13,
+            580,
+            540
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "r": {
+          "bounds": [
+            8,
+            -2,
+            503,
+            524
+          ],
+          "advance": 480,
+          "contours": 1
+        },
+        "k": {
+          "bounds": [
+            5,
+            -2,
+            559,
+            713
+          ],
+          "advance": 596,
+          "contours": 1
+        },
+        "s": {
+          "bounds": [
+            16,
+            -19,
+            558,
+            537
+          ],
+          "advance": 590,
+          "contours": 1
+        },
+        "x": {
+          "bounds": [
+            4,
+            -2,
+            594,
+            532
+          ],
+          "advance": 598,
+          "contours": 1
+        },
+        "n": {
+          "bounds": [
+            5,
+            0,
+            587,
+            533
+          ],
+          "advance": 620,
+          "contours": 1
+        }
+      },
+      "notdef_exactly_equals_O": false
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "sha256": "e854a25d2a8ed1d60f89392d7adc567d777e6a86f937d5100af131655326f75f",
+      "upm": 1000,
+      "version": 1.002,
+      "glyphs_scanned": 998,
+      "encoded_codepoints": 970,
+      "counts": {
+        "contours": 2112,
+        "segments": 71695,
+        "joins": 71695,
+        "joins_angle_gt_8": 10200,
+        "joins_angle_gt_30": 851,
+        "joins_angle_gt_90": 11,
+        "curve_joins": 71658,
+        "proper_crossings": 0
+      },
+      "flag_counts": {
+        "sudden_curvature_change": 2679,
+        "line_corner": 32,
+        "short_curvature_reversal": 1178,
+        "short_handle_corner": 816,
+        "curve_tangent_break": 3
+      },
+      "severity_counts": {
+        "review": 4674,
+        "intentional_corner_review": 32,
+        "high": 2
+      },
+      "overshoot_probes": {
+        ".notdef": {
+          "bounds": [
+            55,
+            0,
+            565,
+            740
+          ],
+          "advance": 620,
+          "contours": 3
+        },
+        "O": {
+          "bounds": [
+            46,
+            -12,
+            654,
+            752
+          ],
+          "advance": 700,
+          "contours": 2
+        },
+        "o": {
+          "bounds": [
+            43,
+            -10,
+            577,
+            540
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "a": {
+          "bounds": [
+            46,
+            -10,
+            575,
+            540
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "b": {
+          "bounds": [
+            46,
+            -10,
+            576,
+            712
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "e": {
+          "bounds": [
+            46,
+            -10,
+            575,
+            541
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "r": {
+          "bounds": [
+            52,
+            0,
+            469,
+            524
+          ],
+          "advance": 480,
+          "contours": 1
+        },
+        "k": {
+          "bounds": [
+            46,
+            -1,
+            562,
+            712
+          ],
+          "advance": 596,
+          "contours": 1
+        },
+        "s": {
+          "bounds": [
+            46,
+            -16,
+            556,
+            537
+          ],
+          "advance": 590,
+          "contours": 1
+        },
+        "x": {
+          "bounds": [
+            43,
+            -2,
+            555,
+            532
+          ],
+          "advance": 598,
+          "contours": 1
+        },
+        "n": {
+          "bounds": [
+            45,
+            0,
+            575,
+            531
+          ],
+          "advance": 620,
+          "contours": 1
+        }
+      },
+      "notdef_exactly_equals_O": false
+    },
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "sha256": "f5779ce32fdb77c2071e91cf34fa6c67d48d74bc3d46ec343336d54586787300",
+      "upm": 1000,
+      "version": 1.002,
+      "glyphs_scanned": 998,
+      "encoded_codepoints": 970,
+      "counts": {
+        "contours": 2113,
+        "segments": 72689,
+        "joins": 72689,
+        "joins_angle_gt_8": 10871,
+        "joins_angle_gt_30": 1179,
+        "joins_angle_gt_90": 17,
+        "curve_joins": 72634,
+        "proper_crossings": 0
+      },
+      "flag_counts": {
+        "sudden_curvature_change": 3324,
+        "line_corner": 35,
+        "short_curvature_reversal": 854,
+        "short_handle_corner": 1146,
+        "curve_tangent_break": 3,
+        "short_line_facet_between_curves": 4
+      },
+      "severity_counts": {
+        "review": 5331,
+        "intentional_corner_review": 35
+      },
+      "overshoot_probes": {
+        ".notdef": {
+          "bounds": [
+            61,
+            0,
+            690,
+            740
+          ],
+          "advance": 620,
+          "contours": 3
+        },
+        "O": {
+          "bounds": [
+            51,
+            -12,
+            686,
+            752
+          ],
+          "advance": 700,
+          "contours": 2
+        },
+        "o": {
+          "bounds": [
+            41,
+            -10,
+            579,
+            540
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "a": {
+          "bounds": [
+            39,
+            -15,
+            616,
+            541
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "b": {
+          "bounds": [
+            38,
+            -10,
+            580,
+            712
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "e": {
+          "bounds": [
+            40,
+            -10,
+            579,
+            542
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "r": {
+          "bounds": [
+            9,
+            -1,
+            502,
+            524
+          ],
+          "advance": 480,
+          "contours": 1
+        },
+        "k": {
+          "bounds": [
+            4,
+            -2,
+            559,
+            712
+          ],
+          "advance": 596,
+          "contours": 1
+        },
+        "s": {
+          "bounds": [
+            14,
+            -16,
+            557,
+            537
+          ],
+          "advance": 590,
+          "contours": 1
+        },
+        "x": {
+          "bounds": [
+            3,
+            -2,
+            595,
+            532
+          ],
+          "advance": 598,
+          "contours": 1
+        },
+        "n": {
+          "bounds": [
+            4,
+            -1,
+            586,
+            533
+          ],
+          "advance": 620,
+          "contours": 1
+        }
+      },
+      "notdef_exactly_equals_O": false
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "sha256": "89417193c8610cb129be0d9d895035e7daadd94a7e69515cc41452424912605a",
+      "upm": 1000,
+      "version": 1.002,
+      "glyphs_scanned": 998,
+      "encoded_codepoints": 970,
+      "counts": {
+        "contours": 2112,
+        "segments": 71488,
+        "joins": 71488,
+        "joins_angle_gt_8": 11249,
+        "joins_angle_gt_30": 264,
+        "joins_angle_gt_90": 6,
+        "curve_joins": 71448,
+        "proper_crossings": 0
+      },
+      "flag_counts": {
+        "sudden_curvature_change": 3746,
+        "line_corner": 38,
+        "short_curvature_reversal": 881,
+        "short_handle_corner": 224,
+        "short_line_facet_between_curves": 5,
+        "curve_tangent_break": 2
+      },
+      "severity_counts": {
+        "review": 4856,
+        "intentional_corner_review": 38,
+        "high": 2
+      },
+      "overshoot_probes": {
+        ".notdef": {
+          "bounds": [
+            55,
+            0,
+            565,
+            740
+          ],
+          "advance": 620,
+          "contours": 3
+        },
+        "O": {
+          "bounds": [
+            46,
+            -12,
+            654,
+            752
+          ],
+          "advance": 700,
+          "contours": 2
+        },
+        "o": {
+          "bounds": [
+            43,
+            -10,
+            577,
+            540
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "a": {
+          "bounds": [
+            46,
+            -10,
+            574,
+            540
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "b": {
+          "bounds": [
+            46,
+            -10,
+            576,
+            714
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "e": {
+          "bounds": [
+            44,
+            -12,
+            576,
+            542
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "r": {
+          "bounds": [
+            48,
+            -2,
+            474,
+            528
+          ],
+          "advance": 480,
+          "contours": 1
+        },
+        "k": {
+          "bounds": [
+            46,
+            -2,
+            563,
+            713
+          ],
+          "advance": 596,
+          "contours": 1
+        },
+        "s": {
+          "bounds": [
+            47,
+            -16,
+            555,
+            535
+          ],
+          "advance": 590,
+          "contours": 1
+        },
+        "x": {
+          "bounds": [
+            42,
+            -2,
+            556,
+            532
+          ],
+          "advance": 598,
+          "contours": 1
+        },
+        "n": {
+          "bounds": [
+            46,
+            0,
+            574,
+            530
+          ],
+          "advance": 620,
+          "contours": 1
+        }
+      },
+      "notdef_exactly_equals_O": false
+    },
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "sha256": "8a3a0d3e7d43deacdafd10cd5844143520ea70af900095bb449cc2d414a05899",
+      "upm": 1000,
+      "version": 1.002,
+      "glyphs_scanned": 998,
+      "encoded_codepoints": 970,
+      "counts": {
+        "contours": 2111,
+        "segments": 73139,
+        "joins": 73139,
+        "joins_angle_gt_8": 10420,
+        "joins_angle_gt_30": 289,
+        "joins_angle_gt_90": 31,
+        "curve_joins": 73076,
+        "proper_crossings": 0
+      },
+      "flag_counts": {
+        "sudden_curvature_change": 3590,
+        "line_corner": 39,
+        "short_curvature_reversal": 888,
+        "short_handle_corner": 235,
+        "curve_tangent_break": 16,
+        "short_line_facet_between_curves": 7
+      },
+      "severity_counts": {
+        "review": 4732,
+        "intentional_corner_review": 39,
+        "high": 4
+      },
+      "overshoot_probes": {
+        ".notdef": {
+          "bounds": [
+            61,
+            0,
+            689,
+            740
+          ],
+          "advance": 620,
+          "contours": 3
+        },
+        "O": {
+          "bounds": [
+            51,
+            -12,
+            686,
+            752
+          ],
+          "advance": 700,
+          "contours": 2
+        },
+        "o": {
+          "bounds": [
+            41,
+            -10,
+            579,
+            540
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "a": {
+          "bounds": [
+            39,
+            -14,
+            614,
+            542
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "b": {
+          "bounds": [
+            37,
+            -10,
+            580,
+            714
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "e": {
+          "bounds": [
+            41,
+            -11,
+            580,
+            543
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "r": {
+          "bounds": [
+            8,
+            -1,
+            503,
+            527
+          ],
+          "advance": 480,
+          "contours": 1
+        },
+        "k": {
+          "bounds": [
+            6,
+            -3,
+            561,
+            714
+          ],
+          "advance": 596,
+          "contours": 1
+        },
+        "s": {
+          "bounds": [
+            14,
+            -18,
+            558,
+            537
+          ],
+          "advance": 590,
+          "contours": 1
+        },
+        "x": {
+          "bounds": [
+            5,
+            -3,
+            593,
+            533
+          ],
+          "advance": 598,
+          "contours": 1
+        },
+        "n": {
+          "bounds": [
+            6,
+            -1,
+            588,
+            531
+          ],
+          "advance": 620,
+          "contours": 1
+        }
+      },
+      "notdef_exactly_equals_O": false
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "sha256": "44811dec7e3ded0f123da6a6ff754504a1260083bd4f6323a64b705c0b1e5b2a",
+      "upm": 1000,
+      "version": 1.002,
+      "glyphs_scanned": 998,
+      "encoded_codepoints": 970,
+      "counts": {
+        "contours": 2111,
+        "segments": 71553,
+        "joins": 71553,
+        "joins_angle_gt_8": 11404,
+        "joins_angle_gt_30": 344,
+        "joins_angle_gt_90": 9,
+        "curve_joins": 71514,
+        "proper_crossings": 0
+      },
+      "flag_counts": {
+        "sudden_curvature_change": 3404,
+        "line_corner": 37,
+        "short_curvature_reversal": 805,
+        "short_handle_corner": 304,
+        "curve_tangent_break": 3
+      },
+      "severity_counts": {
+        "review": 4513,
+        "intentional_corner_review": 37,
+        "high": 3
+      },
+      "overshoot_probes": {
+        ".notdef": {
+          "bounds": [
+            55,
+            0,
+            565,
+            740
+          ],
+          "advance": 620,
+          "contours": 3
+        },
+        "O": {
+          "bounds": [
+            46,
+            -12,
+            654,
+            752
+          ],
+          "advance": 700,
+          "contours": 2
+        },
+        "o": {
+          "bounds": [
+            43,
+            -10,
+            577,
+            540
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "a": {
+          "bounds": [
+            46,
+            -10,
+            574,
+            540
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "b": {
+          "bounds": [
+            46,
+            -10,
+            575,
+            713
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "e": {
+          "bounds": [
+            45,
+            -15,
+            576,
+            588
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "r": {
+          "bounds": [
+            50,
+            -1,
+            472,
+            525
+          ],
+          "advance": 480,
+          "contours": 1
+        },
+        "k": {
+          "bounds": [
+            47,
+            -2,
+            562,
+            713
+          ],
+          "advance": 596,
+          "contours": 1
+        },
+        "s": {
+          "bounds": [
+            46,
+            -18,
+            556,
+            536
+          ],
+          "advance": 590,
+          "contours": 1
+        },
+        "x": {
+          "bounds": [
+            42,
+            -2,
+            556,
+            532
+          ],
+          "advance": 598,
+          "contours": 1
+        },
+        "n": {
+          "bounds": [
+            46,
+            -1,
+            574,
+            531
+          ],
+          "advance": 620,
+          "contours": 1
+        }
+      },
+      "notdef_exactly_equals_O": false
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "sha256": "ff60a06a6fbf1643a6fdc768f4cdd907e8916fb5db6b3d2925c83f266881769e",
+      "upm": 1000,
+      "version": 1.002,
+      "glyphs_scanned": 998,
+      "encoded_codepoints": 970,
+      "counts": {
+        "contours": 2111,
+        "segments": 71958,
+        "joins": 71958,
+        "joins_angle_gt_8": 9910,
+        "joins_angle_gt_30": 209,
+        "joins_angle_gt_90": 8,
+        "curve_joins": 71920,
+        "proper_crossings": 0
+      },
+      "flag_counts": {
+        "sudden_curvature_change": 3633,
+        "line_corner": 36,
+        "short_curvature_reversal": 808,
+        "short_handle_corner": 171,
+        "short_line_facet_between_curves": 6,
+        "curve_tangent_break": 2
+      },
+      "severity_counts": {
+        "review": 4620,
+        "intentional_corner_review": 36
+      },
+      "overshoot_probes": {
+        ".notdef": {
+          "bounds": [
+            55,
+            0,
+            565,
+            740
+          ],
+          "advance": 620,
+          "contours": 3
+        },
+        "O": {
+          "bounds": [
+            46,
+            -12,
+            654,
+            752
+          ],
+          "advance": 700,
+          "contours": 2
+        },
+        "o": {
+          "bounds": [
+            43,
+            -10,
+            577,
+            540
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "a": {
+          "bounds": [
+            46,
+            -10,
+            574,
+            540
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "b": {
+          "bounds": [
+            46,
+            -10,
+            576,
+            713
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "e": {
+          "bounds": [
+            43,
+            -10,
+            575,
+            543
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "r": {
+          "bounds": [
+            47,
+            -2,
+            476,
+            528
+          ],
+          "advance": 480,
+          "contours": 1
+        },
+        "k": {
+          "bounds": [
+            46,
+            -3,
+            563,
+            713
+          ],
+          "advance": 596,
+          "contours": 1
+        },
+        "s": {
+          "bounds": [
+            47,
+            -15,
+            555,
+            536
+          ],
+          "advance": 590,
+          "contours": 1
+        },
+        "x": {
+          "bounds": [
+            42,
+            -2,
+            556,
+            532
+          ],
+          "advance": 598,
+          "contours": 1
+        },
+        "n": {
+          "bounds": [
+            46,
+            -2,
+            574,
+            531
+          ],
+          "advance": 620,
+          "contours": 1
+        }
+      },
+      "notdef_exactly_equals_O": false
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "sha256": "4fd5ddaccd15a9412f35b3fc99cefc26a1276f3fe92cb4be0acc747778ee5993",
+      "upm": 1000,
+      "version": 1.002,
+      "glyphs_scanned": 998,
+      "encoded_codepoints": 970,
+      "counts": {
+        "contours": 2111,
+        "segments": 72571,
+        "joins": 72571,
+        "joins_angle_gt_8": 9629,
+        "joins_angle_gt_30": 230,
+        "joins_angle_gt_90": 20,
+        "curve_joins": 72509,
+        "proper_crossings": 0
+      },
+      "flag_counts": {
+        "sudden_curvature_change": 3365,
+        "line_corner": 37,
+        "short_curvature_reversal": 640,
+        "short_handle_corner": 186,
+        "short_line_facet_between_curves": 9,
+        "curve_tangent_break": 7
+      },
+      "severity_counts": {
+        "review": 4203,
+        "intentional_corner_review": 37,
+        "high": 4
+      },
+      "overshoot_probes": {
+        ".notdef": {
+          "bounds": [
+            61,
+            0,
+            689,
+            740
+          ],
+          "advance": 620,
+          "contours": 3
+        },
+        "O": {
+          "bounds": [
+            51,
+            -12,
+            686,
+            752
+          ],
+          "advance": 700,
+          "contours": 2
+        },
+        "o": {
+          "bounds": [
+            41,
+            -10,
+            579,
+            540
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "a": {
+          "bounds": [
+            39,
+            -14,
+            613,
+            542
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "b": {
+          "bounds": [
+            39,
+            -10,
+            581,
+            714
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "e": {
+          "bounds": [
+            42,
+            -15,
+            580,
+            543
+          ],
+          "advance": 620,
+          "contours": 2
+        },
+        "r": {
+          "bounds": [
+            7,
+            -1,
+            503,
+            529
+          ],
+          "advance": 480,
+          "contours": 1
+        },
+        "k": {
+          "bounds": [
+            7,
+            -2,
+            561,
+            714
+          ],
+          "advance": 596,
+          "contours": 1
+        },
+        "s": {
+          "bounds": [
+            17,
+            -18,
+            559,
+            536
+          ],
+          "advance": 590,
+          "contours": 1
+        },
+        "x": {
+          "bounds": [
+            6,
+            -2,
+            592,
+            532
+          ],
+          "advance": 598,
+          "contours": 1
+        },
+        "n": {
+          "bounds": [
+            7,
+            -1,
+            591,
+            532
+          ],
+          "advance": 620,
+          "contours": 1
+        }
+      },
+      "notdef_exactly_equals_O": false
+    }
+  ]
+}

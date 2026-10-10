@@ -1,0 +1,5309 @@
+{
+  "faces": [
+    {
+      "face": "Nambli-Bold",
+      "encoded": 970,
+      "glyphs": 998,
+      "version": 1.0,
+      "units_per_em": 1000,
+      "font_ink_ymin": -321,
+      "font_ink_ymax": 1180,
+      "hhea": [
+        1200,
+        -400,
+        0
+      ],
+      "typo": [
+        1200,
+        -400,
+        0
+      ],
+      "win": [
+        1200,
+        400
+      ],
+      "outside_stock_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0302",
+          "glyph": "uni0302",
+          "name": "COMBINING CIRCUMFLEX ACCENT"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+0306",
+          "glyph": "uni0306",
+          "name": "COMBINING BREVE"
+        },
+        {
+          "cp": "U+0307",
+          "glyph": "uni0307",
+          "name": "COMBINING DOT ABOVE"
+        },
+        {
+          "cp": "U+030A",
+          "glyph": "uni030A",
+          "name": "COMBINING RING ABOVE"
+        },
+        {
+          "cp": "U+030B",
+          "glyph": "uni030B",
+          "name": "COMBINING DOUBLE ACUTE ACCENT"
+        },
+        {
+          "cp": "U+030C",
+          "glyph": "uni030C",
+          "name": "COMBINING CARON"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+031B",
+          "glyph": "uni031B",
+          "name": "COMBINING HORN"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+0326",
+          "glyph": "uni0326",
+          "name": "COMBINING COMMA BELOW"
+        },
+        {
+          "cp": "U+0327",
+          "glyph": "uni0327",
+          "name": "COMBINING CEDILLA"
+        },
+        {
+          "cp": "U+0328",
+          "glyph": "uni0328",
+          "name": "COMBINING OGONEK"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0330",
+          "glyph": "uni0330",
+          "name": "COMBINING TILDE BELOW"
+        },
+        {
+          "cp": "U+0331",
+          "glyph": "uni0331",
+          "name": "COMBINING MACRON BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+1DC7",
+          "glyph": "uni1DC7",
+          "name": "COMBINING ACUTE-MACRON"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ],
+      "outside_patched_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ]
+    },
+    {
+      "face": "Nambli-BoldItalic",
+      "encoded": 970,
+      "glyphs": 998,
+      "version": 1.0,
+      "units_per_em": 1000,
+      "font_ink_ymin": -322,
+      "font_ink_ymax": 1180,
+      "hhea": [
+        1200,
+        -400,
+        0
+      ],
+      "typo": [
+        1200,
+        -400,
+        0
+      ],
+      "win": [
+        1200,
+        400
+      ],
+      "outside_stock_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0302",
+          "glyph": "uni0302",
+          "name": "COMBINING CIRCUMFLEX ACCENT"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+0306",
+          "glyph": "uni0306",
+          "name": "COMBINING BREVE"
+        },
+        {
+          "cp": "U+0307",
+          "glyph": "uni0307",
+          "name": "COMBINING DOT ABOVE"
+        },
+        {
+          "cp": "U+030A",
+          "glyph": "uni030A",
+          "name": "COMBINING RING ABOVE"
+        },
+        {
+          "cp": "U+030B",
+          "glyph": "uni030B",
+          "name": "COMBINING DOUBLE ACUTE ACCENT"
+        },
+        {
+          "cp": "U+030C",
+          "glyph": "uni030C",
+          "name": "COMBINING CARON"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+031B",
+          "glyph": "uni031B",
+          "name": "COMBINING HORN"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+0326",
+          "glyph": "uni0326",
+          "name": "COMBINING COMMA BELOW"
+        },
+        {
+          "cp": "U+0327",
+          "glyph": "uni0327",
+          "name": "COMBINING CEDILLA"
+        },
+        {
+          "cp": "U+0328",
+          "glyph": "uni0328",
+          "name": "COMBINING OGONEK"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0330",
+          "glyph": "uni0330",
+          "name": "COMBINING TILDE BELOW"
+        },
+        {
+          "cp": "U+0331",
+          "glyph": "uni0331",
+          "name": "COMBINING MACRON BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+1DC7",
+          "glyph": "uni1DC7",
+          "name": "COMBINING ACUTE-MACRON"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ],
+      "outside_patched_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ]
+    },
+    {
+      "face": "Nambli-ExtraBold",
+      "encoded": 970,
+      "glyphs": 998,
+      "version": 1.0,
+      "units_per_em": 1000,
+      "font_ink_ymin": -326,
+      "font_ink_ymax": 1182,
+      "hhea": [
+        1200,
+        -400,
+        0
+      ],
+      "typo": [
+        1200,
+        -400,
+        0
+      ],
+      "win": [
+        1200,
+        400
+      ],
+      "outside_stock_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0302",
+          "glyph": "uni0302",
+          "name": "COMBINING CIRCUMFLEX ACCENT"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+0306",
+          "glyph": "uni0306",
+          "name": "COMBINING BREVE"
+        },
+        {
+          "cp": "U+0307",
+          "glyph": "uni0307",
+          "name": "COMBINING DOT ABOVE"
+        },
+        {
+          "cp": "U+030A",
+          "glyph": "uni030A",
+          "name": "COMBINING RING ABOVE"
+        },
+        {
+          "cp": "U+030B",
+          "glyph": "uni030B",
+          "name": "COMBINING DOUBLE ACUTE ACCENT"
+        },
+        {
+          "cp": "U+030C",
+          "glyph": "uni030C",
+          "name": "COMBINING CARON"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+031B",
+          "glyph": "uni031B",
+          "name": "COMBINING HORN"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+0326",
+          "glyph": "uni0326",
+          "name": "COMBINING COMMA BELOW"
+        },
+        {
+          "cp": "U+0327",
+          "glyph": "uni0327",
+          "name": "COMBINING CEDILLA"
+        },
+        {
+          "cp": "U+0328",
+          "glyph": "uni0328",
+          "name": "COMBINING OGONEK"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0330",
+          "glyph": "uni0330",
+          "name": "COMBINING TILDE BELOW"
+        },
+        {
+          "cp": "U+0331",
+          "glyph": "uni0331",
+          "name": "COMBINING MACRON BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+1DC7",
+          "glyph": "uni1DC7",
+          "name": "COMBINING ACUTE-MACRON"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ],
+      "outside_patched_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ]
+    },
+    {
+      "face": "Nambli-ExtraBoldItalic",
+      "encoded": 970,
+      "glyphs": 998,
+      "version": 1.0,
+      "units_per_em": 1000,
+      "font_ink_ymin": -326,
+      "font_ink_ymax": 1182,
+      "hhea": [
+        1200,
+        -400,
+        0
+      ],
+      "typo": [
+        1200,
+        -400,
+        0
+      ],
+      "win": [
+        1200,
+        400
+      ],
+      "outside_stock_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0302",
+          "glyph": "uni0302",
+          "name": "COMBINING CIRCUMFLEX ACCENT"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+0306",
+          "glyph": "uni0306",
+          "name": "COMBINING BREVE"
+        },
+        {
+          "cp": "U+0307",
+          "glyph": "uni0307",
+          "name": "COMBINING DOT ABOVE"
+        },
+        {
+          "cp": "U+030A",
+          "glyph": "uni030A",
+          "name": "COMBINING RING ABOVE"
+        },
+        {
+          "cp": "U+030B",
+          "glyph": "uni030B",
+          "name": "COMBINING DOUBLE ACUTE ACCENT"
+        },
+        {
+          "cp": "U+030C",
+          "glyph": "uni030C",
+          "name": "COMBINING CARON"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+031B",
+          "glyph": "uni031B",
+          "name": "COMBINING HORN"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+0326",
+          "glyph": "uni0326",
+          "name": "COMBINING COMMA BELOW"
+        },
+        {
+          "cp": "U+0327",
+          "glyph": "uni0327",
+          "name": "COMBINING CEDILLA"
+        },
+        {
+          "cp": "U+0328",
+          "glyph": "uni0328",
+          "name": "COMBINING OGONEK"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0330",
+          "glyph": "uni0330",
+          "name": "COMBINING TILDE BELOW"
+        },
+        {
+          "cp": "U+0331",
+          "glyph": "uni0331",
+          "name": "COMBINING MACRON BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+1DC7",
+          "glyph": "uni1DC7",
+          "name": "COMBINING ACUTE-MACRON"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ],
+      "outside_patched_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ]
+    },
+    {
+      "face": "Nambli-Italic",
+      "encoded": 970,
+      "glyphs": 998,
+      "version": 1.0,
+      "units_per_em": 1000,
+      "font_ink_ymin": -311,
+      "font_ink_ymax": 1176,
+      "hhea": [
+        1200,
+        -400,
+        0
+      ],
+      "typo": [
+        1200,
+        -400,
+        0
+      ],
+      "win": [
+        1200,
+        400
+      ],
+      "outside_stock_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0302",
+          "glyph": "uni0302",
+          "name": "COMBINING CIRCUMFLEX ACCENT"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+0306",
+          "glyph": "uni0306",
+          "name": "COMBINING BREVE"
+        },
+        {
+          "cp": "U+0307",
+          "glyph": "uni0307",
+          "name": "COMBINING DOT ABOVE"
+        },
+        {
+          "cp": "U+030A",
+          "glyph": "uni030A",
+          "name": "COMBINING RING ABOVE"
+        },
+        {
+          "cp": "U+030B",
+          "glyph": "uni030B",
+          "name": "COMBINING DOUBLE ACUTE ACCENT"
+        },
+        {
+          "cp": "U+030C",
+          "glyph": "uni030C",
+          "name": "COMBINING CARON"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+031B",
+          "glyph": "uni031B",
+          "name": "COMBINING HORN"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+0326",
+          "glyph": "uni0326",
+          "name": "COMBINING COMMA BELOW"
+        },
+        {
+          "cp": "U+0327",
+          "glyph": "uni0327",
+          "name": "COMBINING CEDILLA"
+        },
+        {
+          "cp": "U+0328",
+          "glyph": "uni0328",
+          "name": "COMBINING OGONEK"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0330",
+          "glyph": "uni0330",
+          "name": "COMBINING TILDE BELOW"
+        },
+        {
+          "cp": "U+0331",
+          "glyph": "uni0331",
+          "name": "COMBINING MACRON BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+1DC7",
+          "glyph": "uni1DC7",
+          "name": "COMBINING ACUTE-MACRON"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ],
+      "outside_patched_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ]
+    },
+    {
+      "face": "Nambli-Light",
+      "encoded": 970,
+      "glyphs": 998,
+      "version": 1.0,
+      "units_per_em": 1000,
+      "font_ink_ymin": -304,
+      "font_ink_ymax": 1174,
+      "hhea": [
+        1200,
+        -400,
+        0
+      ],
+      "typo": [
+        1200,
+        -400,
+        0
+      ],
+      "win": [
+        1200,
+        400
+      ],
+      "outside_stock_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0302",
+          "glyph": "uni0302",
+          "name": "COMBINING CIRCUMFLEX ACCENT"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+0306",
+          "glyph": "uni0306",
+          "name": "COMBINING BREVE"
+        },
+        {
+          "cp": "U+0307",
+          "glyph": "uni0307",
+          "name": "COMBINING DOT ABOVE"
+        },
+        {
+          "cp": "U+030A",
+          "glyph": "uni030A",
+          "name": "COMBINING RING ABOVE"
+        },
+        {
+          "cp": "U+030B",
+          "glyph": "uni030B",
+          "name": "COMBINING DOUBLE ACUTE ACCENT"
+        },
+        {
+          "cp": "U+030C",
+          "glyph": "uni030C",
+          "name": "COMBINING CARON"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+031B",
+          "glyph": "uni031B",
+          "name": "COMBINING HORN"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+0326",
+          "glyph": "uni0326",
+          "name": "COMBINING COMMA BELOW"
+        },
+        {
+          "cp": "U+0327",
+          "glyph": "uni0327",
+          "name": "COMBINING CEDILLA"
+        },
+        {
+          "cp": "U+0328",
+          "glyph": "uni0328",
+          "name": "COMBINING OGONEK"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0330",
+          "glyph": "uni0330",
+          "name": "COMBINING TILDE BELOW"
+        },
+        {
+          "cp": "U+0331",
+          "glyph": "uni0331",
+          "name": "COMBINING MACRON BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+1DC7",
+          "glyph": "uni1DC7",
+          "name": "COMBINING ACUTE-MACRON"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ],
+      "outside_patched_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ]
+    },
+    {
+      "face": "Nambli-LightItalic",
+      "encoded": 970,
+      "glyphs": 998,
+      "version": 1.0,
+      "units_per_em": 1000,
+      "font_ink_ymin": -304,
+      "font_ink_ymax": 1174,
+      "hhea": [
+        1200,
+        -400,
+        0
+      ],
+      "typo": [
+        1200,
+        -400,
+        0
+      ],
+      "win": [
+        1200,
+        400
+      ],
+      "outside_stock_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0302",
+          "glyph": "uni0302",
+          "name": "COMBINING CIRCUMFLEX ACCENT"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+0306",
+          "glyph": "uni0306",
+          "name": "COMBINING BREVE"
+        },
+        {
+          "cp": "U+0307",
+          "glyph": "uni0307",
+          "name": "COMBINING DOT ABOVE"
+        },
+        {
+          "cp": "U+030A",
+          "glyph": "uni030A",
+          "name": "COMBINING RING ABOVE"
+        },
+        {
+          "cp": "U+030B",
+          "glyph": "uni030B",
+          "name": "COMBINING DOUBLE ACUTE ACCENT"
+        },
+        {
+          "cp": "U+030C",
+          "glyph": "uni030C",
+          "name": "COMBINING CARON"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+031B",
+          "glyph": "uni031B",
+          "name": "COMBINING HORN"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+0326",
+          "glyph": "uni0326",
+          "name": "COMBINING COMMA BELOW"
+        },
+        {
+          "cp": "U+0327",
+          "glyph": "uni0327",
+          "name": "COMBINING CEDILLA"
+        },
+        {
+          "cp": "U+0328",
+          "glyph": "uni0328",
+          "name": "COMBINING OGONEK"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0330",
+          "glyph": "uni0330",
+          "name": "COMBINING TILDE BELOW"
+        },
+        {
+          "cp": "U+0331",
+          "glyph": "uni0331",
+          "name": "COMBINING MACRON BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+1DC7",
+          "glyph": "uni1DC7",
+          "name": "COMBINING ACUTE-MACRON"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ],
+      "outside_patched_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ]
+    },
+    {
+      "face": "Nambli-Medium",
+      "encoded": 970,
+      "glyphs": 998,
+      "version": 1.0,
+      "units_per_em": 1000,
+      "font_ink_ymin": -315,
+      "font_ink_ymax": 1178,
+      "hhea": [
+        1200,
+        -400,
+        0
+      ],
+      "typo": [
+        1200,
+        -400,
+        0
+      ],
+      "win": [
+        1200,
+        400
+      ],
+      "outside_stock_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0302",
+          "glyph": "uni0302",
+          "name": "COMBINING CIRCUMFLEX ACCENT"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+0306",
+          "glyph": "uni0306",
+          "name": "COMBINING BREVE"
+        },
+        {
+          "cp": "U+0307",
+          "glyph": "uni0307",
+          "name": "COMBINING DOT ABOVE"
+        },
+        {
+          "cp": "U+030A",
+          "glyph": "uni030A",
+          "name": "COMBINING RING ABOVE"
+        },
+        {
+          "cp": "U+030B",
+          "glyph": "uni030B",
+          "name": "COMBINING DOUBLE ACUTE ACCENT"
+        },
+        {
+          "cp": "U+030C",
+          "glyph": "uni030C",
+          "name": "COMBINING CARON"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+031B",
+          "glyph": "uni031B",
+          "name": "COMBINING HORN"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+0326",
+          "glyph": "uni0326",
+          "name": "COMBINING COMMA BELOW"
+        },
+        {
+          "cp": "U+0327",
+          "glyph": "uni0327",
+          "name": "COMBINING CEDILLA"
+        },
+        {
+          "cp": "U+0328",
+          "glyph": "uni0328",
+          "name": "COMBINING OGONEK"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0330",
+          "glyph": "uni0330",
+          "name": "COMBINING TILDE BELOW"
+        },
+        {
+          "cp": "U+0331",
+          "glyph": "uni0331",
+          "name": "COMBINING MACRON BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+1DC7",
+          "glyph": "uni1DC7",
+          "name": "COMBINING ACUTE-MACRON"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ],
+      "outside_patched_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ]
+    },
+    {
+      "face": "Nambli-MediumItalic",
+      "encoded": 970,
+      "glyphs": 998,
+      "version": 1.0,
+      "units_per_em": 1000,
+      "font_ink_ymin": -316,
+      "font_ink_ymax": 1178,
+      "hhea": [
+        1200,
+        -400,
+        0
+      ],
+      "typo": [
+        1200,
+        -400,
+        0
+      ],
+      "win": [
+        1200,
+        400
+      ],
+      "outside_stock_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0302",
+          "glyph": "uni0302",
+          "name": "COMBINING CIRCUMFLEX ACCENT"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+0306",
+          "glyph": "uni0306",
+          "name": "COMBINING BREVE"
+        },
+        {
+          "cp": "U+0307",
+          "glyph": "uni0307",
+          "name": "COMBINING DOT ABOVE"
+        },
+        {
+          "cp": "U+030A",
+          "glyph": "uni030A",
+          "name": "COMBINING RING ABOVE"
+        },
+        {
+          "cp": "U+030B",
+          "glyph": "uni030B",
+          "name": "COMBINING DOUBLE ACUTE ACCENT"
+        },
+        {
+          "cp": "U+030C",
+          "glyph": "uni030C",
+          "name": "COMBINING CARON"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+031B",
+          "glyph": "uni031B",
+          "name": "COMBINING HORN"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+0326",
+          "glyph": "uni0326",
+          "name": "COMBINING COMMA BELOW"
+        },
+        {
+          "cp": "U+0327",
+          "glyph": "uni0327",
+          "name": "COMBINING CEDILLA"
+        },
+        {
+          "cp": "U+0328",
+          "glyph": "uni0328",
+          "name": "COMBINING OGONEK"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0330",
+          "glyph": "uni0330",
+          "name": "COMBINING TILDE BELOW"
+        },
+        {
+          "cp": "U+0331",
+          "glyph": "uni0331",
+          "name": "COMBINING MACRON BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+1DC7",
+          "glyph": "uni1DC7",
+          "name": "COMBINING ACUTE-MACRON"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ],
+      "outside_patched_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ]
+    },
+    {
+      "face": "Nambli-Regular",
+      "encoded": 970,
+      "glyphs": 998,
+      "version": 1.0,
+      "units_per_em": 1000,
+      "font_ink_ymin": -310,
+      "font_ink_ymax": 1176,
+      "hhea": [
+        1200,
+        -400,
+        0
+      ],
+      "typo": [
+        1200,
+        -400,
+        0
+      ],
+      "win": [
+        1200,
+        400
+      ],
+      "outside_stock_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0302",
+          "glyph": "uni0302",
+          "name": "COMBINING CIRCUMFLEX ACCENT"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+0306",
+          "glyph": "uni0306",
+          "name": "COMBINING BREVE"
+        },
+        {
+          "cp": "U+0307",
+          "glyph": "uni0307",
+          "name": "COMBINING DOT ABOVE"
+        },
+        {
+          "cp": "U+030A",
+          "glyph": "uni030A",
+          "name": "COMBINING RING ABOVE"
+        },
+        {
+          "cp": "U+030B",
+          "glyph": "uni030B",
+          "name": "COMBINING DOUBLE ACUTE ACCENT"
+        },
+        {
+          "cp": "U+030C",
+          "glyph": "uni030C",
+          "name": "COMBINING CARON"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+031B",
+          "glyph": "uni031B",
+          "name": "COMBINING HORN"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+0326",
+          "glyph": "uni0326",
+          "name": "COMBINING COMMA BELOW"
+        },
+        {
+          "cp": "U+0327",
+          "glyph": "uni0327",
+          "name": "COMBINING CEDILLA"
+        },
+        {
+          "cp": "U+0328",
+          "glyph": "uni0328",
+          "name": "COMBINING OGONEK"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0330",
+          "glyph": "uni0330",
+          "name": "COMBINING TILDE BELOW"
+        },
+        {
+          "cp": "U+0331",
+          "glyph": "uni0331",
+          "name": "COMBINING MACRON BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+1DC7",
+          "glyph": "uni1DC7",
+          "name": "COMBINING ACUTE-MACRON"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ],
+      "outside_patched_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ]
+    },
+    {
+      "face": "Nambli-SemiBold",
+      "encoded": 970,
+      "glyphs": 998,
+      "version": 1.0,
+      "units_per_em": 1000,
+      "font_ink_ymin": -318,
+      "font_ink_ymax": 1179,
+      "hhea": [
+        1200,
+        -400,
+        0
+      ],
+      "typo": [
+        1200,
+        -400,
+        0
+      ],
+      "win": [
+        1200,
+        400
+      ],
+      "outside_stock_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0302",
+          "glyph": "uni0302",
+          "name": "COMBINING CIRCUMFLEX ACCENT"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+0306",
+          "glyph": "uni0306",
+          "name": "COMBINING BREVE"
+        },
+        {
+          "cp": "U+0307",
+          "glyph": "uni0307",
+          "name": "COMBINING DOT ABOVE"
+        },
+        {
+          "cp": "U+030A",
+          "glyph": "uni030A",
+          "name": "COMBINING RING ABOVE"
+        },
+        {
+          "cp": "U+030B",
+          "glyph": "uni030B",
+          "name": "COMBINING DOUBLE ACUTE ACCENT"
+        },
+        {
+          "cp": "U+030C",
+          "glyph": "uni030C",
+          "name": "COMBINING CARON"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+031B",
+          "glyph": "uni031B",
+          "name": "COMBINING HORN"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+0326",
+          "glyph": "uni0326",
+          "name": "COMBINING COMMA BELOW"
+        },
+        {
+          "cp": "U+0327",
+          "glyph": "uni0327",
+          "name": "COMBINING CEDILLA"
+        },
+        {
+          "cp": "U+0328",
+          "glyph": "uni0328",
+          "name": "COMBINING OGONEK"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0330",
+          "glyph": "uni0330",
+          "name": "COMBINING TILDE BELOW"
+        },
+        {
+          "cp": "U+0331",
+          "glyph": "uni0331",
+          "name": "COMBINING MACRON BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+1DC7",
+          "glyph": "uni1DC7",
+          "name": "COMBINING ACUTE-MACRON"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ],
+      "outside_patched_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ]
+    },
+    {
+      "face": "Nambli-SemiBoldItalic",
+      "encoded": 970,
+      "glyphs": 998,
+      "version": 1.0,
+      "units_per_em": 1000,
+      "font_ink_ymin": -319,
+      "font_ink_ymax": 1179,
+      "hhea": [
+        1200,
+        -400,
+        0
+      ],
+      "typo": [
+        1200,
+        -400,
+        0
+      ],
+      "win": [
+        1200,
+        400
+      ],
+      "outside_stock_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0302",
+          "glyph": "uni0302",
+          "name": "COMBINING CIRCUMFLEX ACCENT"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+0306",
+          "glyph": "uni0306",
+          "name": "COMBINING BREVE"
+        },
+        {
+          "cp": "U+0307",
+          "glyph": "uni0307",
+          "name": "COMBINING DOT ABOVE"
+        },
+        {
+          "cp": "U+030A",
+          "glyph": "uni030A",
+          "name": "COMBINING RING ABOVE"
+        },
+        {
+          "cp": "U+030B",
+          "glyph": "uni030B",
+          "name": "COMBINING DOUBLE ACUTE ACCENT"
+        },
+        {
+          "cp": "U+030C",
+          "glyph": "uni030C",
+          "name": "COMBINING CARON"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+031B",
+          "glyph": "uni031B",
+          "name": "COMBINING HORN"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+0326",
+          "glyph": "uni0326",
+          "name": "COMBINING COMMA BELOW"
+        },
+        {
+          "cp": "U+0327",
+          "glyph": "uni0327",
+          "name": "COMBINING CEDILLA"
+        },
+        {
+          "cp": "U+0328",
+          "glyph": "uni0328",
+          "name": "COMBINING OGONEK"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0330",
+          "glyph": "uni0330",
+          "name": "COMBINING TILDE BELOW"
+        },
+        {
+          "cp": "U+0331",
+          "glyph": "uni0331",
+          "name": "COMBINING MACRON BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+1DC7",
+          "glyph": "uni1DC7",
+          "name": "COMBINING ACUTE-MACRON"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ],
+      "outside_patched_declared_subsets": [
+        {
+          "cp": "U+02D8",
+          "glyph": "uni02D8",
+          "name": "BREVE"
+        },
+        {
+          "cp": "U+02D9",
+          "glyph": "uni02D9",
+          "name": "DOT ABOVE"
+        },
+        {
+          "cp": "U+02DB",
+          "glyph": "uni02DB",
+          "name": "OGONEK"
+        },
+        {
+          "cp": "U+0305",
+          "glyph": "uni0305",
+          "name": "COMBINING OVERLINE"
+        },
+        {
+          "cp": "U+030D",
+          "glyph": "uni030D",
+          "name": "COMBINING VERTICAL LINE ABOVE"
+        },
+        {
+          "cp": "U+030F",
+          "glyph": "uni030F",
+          "name": "COMBINING DOUBLE GRAVE ACCENT"
+        },
+        {
+          "cp": "U+0311",
+          "glyph": "uni0311",
+          "name": "COMBINING INVERTED BREVE"
+        },
+        {
+          "cp": "U+0313",
+          "glyph": "uni0313",
+          "name": "COMBINING COMMA ABOVE"
+        },
+        {
+          "cp": "U+0324",
+          "glyph": "uni0324",
+          "name": "COMBINING DIAERESIS BELOW"
+        },
+        {
+          "cp": "U+0325",
+          "glyph": "uni0325",
+          "name": "COMBINING RING BELOW"
+        },
+        {
+          "cp": "U+032D",
+          "glyph": "uni032D",
+          "name": "COMBINING CIRCUMFLEX ACCENT BELOW"
+        },
+        {
+          "cp": "U+032E",
+          "glyph": "uni032E",
+          "name": "COMBINING BREVE BELOW"
+        },
+        {
+          "cp": "U+032F",
+          "glyph": "uni032F",
+          "name": "COMBINING INVERTED BREVE BELOW"
+        },
+        {
+          "cp": "U+0332",
+          "glyph": "uni0332",
+          "name": "COMBINING LOW LINE"
+        },
+        {
+          "cp": "U+035F",
+          "glyph": "uni035F",
+          "name": "COMBINING DOUBLE MACRON BELOW"
+        },
+        {
+          "cp": "U+0462",
+          "glyph": "uni0462",
+          "name": "CYRILLIC CAPITAL LETTER YAT"
+        },
+        {
+          "cp": "U+0463",
+          "glyph": "uni0463",
+          "name": "CYRILLIC SMALL LETTER YAT"
+        },
+        {
+          "cp": "U+046A",
+          "glyph": "uni046A",
+          "name": "CYRILLIC CAPITAL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+046B",
+          "glyph": "uni046B",
+          "name": "CYRILLIC SMALL LETTER BIG YUS"
+        },
+        {
+          "cp": "U+1DC4",
+          "glyph": "uni1DC4",
+          "name": "COMBINING MACRON-ACUTE"
+        },
+        {
+          "cp": "U+1DC5",
+          "glyph": "uni1DC5",
+          "name": "COMBINING GRAVE-MACRON"
+        },
+        {
+          "cp": "U+1DC6",
+          "glyph": "uni1DC6",
+          "name": "COMBINING MACRON-GRAVE"
+        },
+        {
+          "cp": "U+2028",
+          "glyph": "uni2028",
+          "name": "LINE SEPARATOR"
+        },
+        {
+          "cp": "U+2029",
+          "glyph": "uni2029",
+          "name": "PARAGRAPH SEPARATOR"
+        },
+        {
+          "cp": "U+202F",
+          "glyph": "uni202F",
+          "name": "NARROW NO-BREAK SPACE"
+        },
+        {
+          "cp": "U+2071",
+          "glyph": "uni2071",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER I"
+        },
+        {
+          "cp": "U+207F",
+          "glyph": "uni207F",
+          "name": "SUPERSCRIPT LATIN SMALL LETTER N"
+        },
+        {
+          "cp": "U+2190",
+          "glyph": "uni2190",
+          "name": "LEFTWARDS ARROW"
+        },
+        {
+          "cp": "U+2192",
+          "glyph": "uni2192",
+          "name": "RIGHTWARDS ARROW"
+        },
+        {
+          "cp": "U+2260",
+          "glyph": "uni2260",
+          "name": "NOT EQUAL TO"
+        },
+        {
+          "cp": "U+2264",
+          "glyph": "uni2264",
+          "name": "LESS-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+2265",
+          "glyph": "uni2265",
+          "name": "GREATER-THAN OR EQUAL TO"
+        },
+        {
+          "cp": "U+24B6",
+          "glyph": "uni24B6",
+          "name": "CIRCLED LATIN CAPITAL LETTER A"
+        },
+        {
+          "cp": "U+24D0",
+          "glyph": "uni24D0",
+          "name": "CIRCLED LATIN SMALL LETTER A"
+        },
+        {
+          "cp": "U+25CC",
+          "glyph": "uni25CC",
+          "name": "DOTTED CIRCLE"
+        }
+      ]
+    }
+  ],
+  "preexisting_nam_main_additions_encoded_in_nambli": []
+}

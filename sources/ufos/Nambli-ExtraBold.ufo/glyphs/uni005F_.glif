@@ -6,28 +6,20 @@
     <contour>
       <point x="90" y="-176" type="line"/>
       <point x="72" y="-176"/>
-      <point x="64" y="-174" type="qcurve"/>
       <point x="51" y="-171"/>
-      <point x="43" y="-161" type="qcurve"/>
       <point x="32" y="-146"/>
       <point x="32" y="-125" type="qcurve"/>
       <point x="32" y="-105"/>
-      <point x="43" y="-90" type="qcurve"/>
       <point x="51" y="-80"/>
-      <point x="64" y="-77" type="qcurve"/>
       <point x="72" y="-75"/>
       <point x="90" y="-75" type="qcurve"/>
       <point x="530" y="-75" type="line"/>
       <point x="548" y="-75"/>
-      <point x="556" y="-77" type="qcurve"/>
       <point x="569" y="-80"/>
-      <point x="577" y="-90" type="qcurve"/>
       <point x="588" y="-105"/>
       <point x="588" y="-125" type="qcurve"/>
       <point x="588" y="-146"/>
-      <point x="577" y="-161" type="qcurve"/>
       <point x="569" y="-171"/>
-      <point x="556" y="-174" type="qcurve"/>
       <point x="548" y="-176"/>
       <point x="530" y="-176" type="qcurve"/>
     </contour>

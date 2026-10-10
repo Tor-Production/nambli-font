@@ -1,0 +1,107 @@
+Nambli 1.003 — owner-directed visual revision
+Completed: 2026-10-10
+State: GITHUB CANDIDATE FOR GOOGLE FONTS DESIGN REVIEW
+
+Design decisions
+----------------
+The owner rejected the added baseline/x-height overshoot in 1.002 and praised
+the contour smoothing. Only the 1,364 glyph/face instances identified by the
+1.002 overshoot operation reports were rebuilt from the original 1.001 body
+design, with the bounded smoothing and finalization retained. This does not
+remove every natural baseline departure already present in the original font.
+
+The rejected all-accent thickening experiment is excluded. Only the side caron
+in U+013D, U+013E, U+010F, U+0165 and shared uni030C.alt has a modest increase:
+30% of its original nominal stroke width, with its original curve and placement
+retained. This is not a claim of exact stem-width matching. All other accent
+designs, including Turkish accents, are intentionally retained. They are no
+longer presented as a 571-glyph unfinished redesign backlog.
+
+Across 12 faces, 1,412 glyph/face outlines differ from 1.002. The four encoded
+side-caron forms and shared mark are consistent in composed/decomposed text.
+Advances, anchor layout, kerning, line metrics, cmap and .notdef are unchanged.
+
+Files and preservation
+----------------------
+Current complete editable masters: sources/ufos (version 1.003).
+Verified candidate TTF/WOFF2: fonts/candidates/1.003.
+Previous TTF/WOFF2 and editable ZIP: fonts/candidates/1.002.
+The ZIP contains all 12,060 old source files and SOURCE-SHA256.json.
+Approved 1.001 sources remain at Git commit 0d5deb9; TTF/WOFF2 are preserved
+under fonts/candidates/1.001. No released 1.000 font or website was changed.
+
+Verification
+------------
+Fontmake source-to-TTF validation: PASS, 12 faces, 11,976 glyphs.
+Lossless WOFF2 validation: PASS. Both builds have identical hashes for all
+24 TTF/WOFF2 files. No binary reference tables were transplanted.
+Independent owner-revision validation: PASS, zero failures, including 37,008
+normalization comparisons and 74,736 shaping stability comparisons in six
+languages. Each face preserves 119 protected whole glyphs and 604 non-target
+accent contours exactly. Minimum compiled side-caron clearance is 12.8601 units.
+Tests: 3 body-revision, 4 selective-mark and 9 adversarial-validator tests pass.
+
+GitHub publication preflight, 2026-10-10: all 24 current TTF/WOFF2 files match
+the recorded repeat-build hashes and identify themselves as version 1.003.
+All 12,060 current UFO source files match the recorded source hashes. The
+16 targeted tests were rerun and passed. See publication-integrity.json and
+publication-targeted-tests.txt in documentation/visual-quality-1.003.
+
+The frozen independent contour auditor scans every glyph/contour in all faces.
+Repaired bodies and selected side-carons have no core flags for tangent breaks,
+short-handle corners, short line facets, crossings or degenerate/open contours.
+The whole family has no detected proper crossings, zero-length segments,
+open/nonfinite/zero-area or disconnected contours under this audit's criteria.
+The selected side-carons' short-handle flags fell from 166 to zero.
+
+The retained original designs still carry unchanged review flags: 57 tangent
+breaks, 102 short line facets and 3,901 short-handle corners. These are isolated
+in the scope report; they must not be described as newly repaired. Curvature
+screens and intentional line corners are review locations, not visible-defect
+counts. Passing the checks does not prove every contour optically perfect.
+
+The actual TTFs were rendered and inspected in Light, Regular and ExtraBold
+Italic at display and reading sizes. The raster helper uses Pillow/FreeType
+BASIC layout; language shaping is independently tested with HarfBuzz. Offline
+review JavaScript, assets and font hashes are checked statically. Automated
+browser rendering of the local HTML is not claimed.
+
+Reproduce from current masters
+------------------------------
+python -m pip install -r requirements.txt
+python sources/build_fontmake.py --output build-1.003 --reference-fonts fonts/candidates/1.003/ttf --verify-reproducible
+python sources/validate_owner_revision.py --before fonts/candidates/1.002/ttf --after build-1.003 --body-reports documentation/visual-quality-1.003/body-reports --mark-reports documentation/visual-quality-1.003/mark-reports --preservation-reports documentation/visual-quality-1.002/preparation --output build-1.003/owner-validation.json
+python sources/audit_visual_quality.py --fonts build-1.003 --output build-1.003/edge-audit
+
+For the 16 targeted regression tests (including design-time dependencies):
+python -m pip install -r sources/requirements-visual.txt
+cd sources
+python -m unittest test_revise_body_design test_refine_selective_diacritics test_validate_owner_revision -v
+cd ..
+
+The transformation tools are revise_body_design.py and
+refine_selective_diacritics.py. They write to fresh directories. The latter's
+design-time tests additionally require NumPy; sources/requirements-visual.txt
+records the version used. The side-caron test can read the archived 1.002 UFOs
+when current sources are already 1.003. Set NAMBLI_QA_TMPDIR to a writable
+scratch directory on restricted Windows hosts.
+
+Review and Google Fonts
+-----------------------
+Open review/visual-quality-1.003/Nambli-Design-Review.html. It shows all twelve
+faces, changed glyphs and retained diacritics, real-font text, zoom/overlay,
+Unicode/name search, and static comparisons with the original proportions.
+Evidence is in visual-quality-1.003.
+
+Google Fonts' baseline-overshoot comment is design feedback; no specific
+overshoot FAIL or mandatory numeric threshold was identified in the cited
+comment or inspected checker list. Design review still governs inclusion.
+An English reply explaining the intended alignment was posted, with explicit
+owner authorization, on 2026-10-10 and independently verified:
+https://github.com/google/fonts/issues/11082#issuecomment-6098701884
+Comparison images were added to that reply. The candidate is now provided
+on codex/fix/visual-quality-candidate, including its complete editable UFOs,
+TTF/WOFF2 fonts, downloadable review ZIP and the recorded validation evidence.
+This candidate has not had an
+official Google Fonts package QA run and does not resolve the separately
+documented stock NAM/tofu serving issues or imply curatorial acceptance.

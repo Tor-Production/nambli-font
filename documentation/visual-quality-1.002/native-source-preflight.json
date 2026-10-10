@@ -1,0 +1,91 @@
+{
+  "scope": "Current native quadratic UFO bodies and body/accent interactions, excluding exactly deferred whole glyphs/accents. Full compiled audit is still required.",
+  "faces": 12,
+  "flags": {},
+  "results": [
+    {
+      "font": "Nambli-Bold",
+      "processedGlyphs": 878,
+      "processedContours": 1294,
+      "curvedJoins": 48015,
+      "flags": []
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "processedGlyphs": 878,
+      "processedContours": 1294,
+      "curvedJoins": 46448,
+      "flags": []
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "processedGlyphs": 878,
+      "processedContours": 1293,
+      "curvedJoins": 44556,
+      "flags": []
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "processedGlyphs": 878,
+      "processedContours": 1293,
+      "curvedJoins": 46499,
+      "flags": []
+    },
+    {
+      "font": "Nambli-Italic",
+      "processedGlyphs": 878,
+      "processedContours": 1294,
+      "curvedJoins": 46546,
+      "flags": []
+    },
+    {
+      "font": "Nambli-Light",
+      "processedGlyphs": 878,
+      "processedContours": 1295,
+      "curvedJoins": 45479,
+      "flags": []
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "processedGlyphs": 878,
+      "processedContours": 1296,
+      "curvedJoins": 46689,
+      "flags": []
+    },
+    {
+      "font": "Nambli-Medium",
+      "processedGlyphs": 878,
+      "processedContours": 1295,
+      "curvedJoins": 44983,
+      "flags": []
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "processedGlyphs": 878,
+      "processedContours": 1294,
+      "curvedJoins": 46478,
+      "flags": []
+    },
+    {
+      "font": "Nambli-Regular",
+      "processedGlyphs": 878,
+      "processedContours": 1294,
+      "curvedJoins": 45361,
+      "flags": []
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "processedGlyphs": 878,
+      "processedContours": 1294,
+      "curvedJoins": 45454,
+      "flags": []
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "processedGlyphs": 878,
+      "processedContours": 1294,
+      "curvedJoins": 45908,
+      "flags": []
+    }
+  ]
+}

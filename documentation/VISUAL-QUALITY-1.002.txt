@@ -1,0 +1,86 @@
+Nambli 1.002 — local visual review candidate
+Date: 2026-10-08
+State: NOT APPROVED FOR RELEASE
+
+Historical record: superseded by the owner's 1.003 revision on 2026-10-10.
+Current sources/ufos now contains 1.003. The exact 1.002 editable sources are
+preserved in fonts/candidates/1.002/sources-1.002.zip, with a SHA-256 manifest.
+Extract that archive separately and pass --ufo-dir when reproducing 1.002.
+The owner rejected the added overshoot and chose selective side-caron changes;
+see VISUAL-QUALITY-1.003.txt. The original review remains unchanged.
+
+Owner direction
+---------------
+Repair rough body outlines and rounded joins across all twelve faces. Pause
+diacritic redesign after the owner rejected the thickness experiment. Keep the
+original diacritic contours and spacing, and show completed versus deferred work
+separately. The rejected experiment is archived outside the candidate tree.
+
+Baseline and scope
+------------------
+Baseline: approved 1.001 UFO sources at Git commit 0d5deb9, with reference TTFs
+in fonts/candidates/1.001/ttf. Historical editable candidate: the 1.002 source ZIP.
+Each face retains 998 glyphs and 970 Unicode mappings.
+
+The candidate applies bounded curve fitting, repair of integer-grid tangents,
+and small fillets at measured curved joins. Straight-to-straight design corners
+are retained. Self-crossings are removed only with boundary and substantial
+contour-topology guards. A bounded quantization retry handles residual joins;
+it does not relax acceptance criteria or contain glyph-name exceptions.
+
+Selected broad lowercase bowls receive small baseline/x-height overshoots.
+The missing-glyph symbol becomes a rounded frame with an X, distinct from O.
+These optical adjustments are not a claim that all possible overshoot decisions
+have been completed for every Unicode character.
+
+Standalone marks, spacing accents, connected accent glyphs, uncertain accent
+decompositions, and the accented DZ digraphs remain entirely unchanged. Where
+the accent and letter body are separable, only the body is repaired and the
+original accent contours are retained exactly. Dots belonging to ordinary i/j
+letterforms are not a diacritic weight redesign.
+Baseline overshoot is withheld beside preserved below-marks to retain their
+original clearance. Exact removal of constant segments precedes curve-join
+checks so redundant zero-length segments cannot conceal a cusp. A bounded
+local curve merge removes the small ExtraBoldItalic OE facet.
+
+Reproduction
+------------
+Install requirements.txt in a suitable Python environment. From this repository:
+
+python sources/build_fontmake.py --output build-visual-review --reference-fonts fonts/candidates/1.002/ttf --verify-reproducible
+python sources/validate_visual_candidate.py --before fonts/candidates/1.001/ttf --after build-visual-review --reports documentation/visual-quality-1.002/preparation --output build-visual-review/visual-validation.json
+python sources/audit_visual_quality.py --fonts build-visual-review --output build-visual-review/edge-audit
+python -m unittest discover -s sources -p test_smooth_contours.py
+python -m unittest discover -s sources -p test_finalize_visual_outlines.py
+python -m unittest discover -s sources -p test_audit_visual_quality.py
+python -m unittest discover -s sources -p test_refine_optical_details.py
+
+The authoritative deliverable is the editable UFO set and its verified build.
+prepare_visual_quality.py also records the transformation sequence from a
+separate baseline UFO directory. Its input and output must differ. The pipeline
+does not publish, deploy, tag, or alter the released files.
+
+Review and evidence
+-------------------
+Open review/visual-quality-1.002/Nambli-Visual-Quality-Review.html in a browser.
+The Done and Remaining tabs separate repaired letter bodies from deferred
+diacritics. A letter with a repaired body and unchanged accent appears in both,
+with an explicit explanation. All twelve faces have before/after and overlay
+views, Unicode/name search, zoom, and real-font text samples.
+
+Machine reports are saved in documentation/visual-quality-1.002. Read their
+actual statuses and counts; no visual approval is inferred from a passing
+build. SVG paths in the review are extracted from compiled candidate TTFs.
+
+Audit limitations
+-----------------
+The independent audit checks every glyph and contour, including unencoded
+alternates. Its flags are candidate review locations, not a count of visible
+defects. Intentional corners, natural S-curves, retained accents, and integer
+quantization may be flagged. The finalizer's tighter curved-join criterion and
+the independent audit use different measurements; their raw counts cannot be
+substituted for one another. Automated checks cannot prove optical perfection.
+
+No official Google Fonts QA pass, curatorial acceptance, new release, website
+deployment, or user approval of 1.002 is claimed. The closed Google Fonts PR
+remains closed. The published 1.000 files are untouched.

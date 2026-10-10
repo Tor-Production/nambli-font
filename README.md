@@ -12,6 +12,36 @@ text. Release **1.0.0** (font version 1.000) contains 970 encoded characters
 and 998 glyphs per style. Yurii Tor approved the final designs for publication
 on 2026-10-07. The earlier v0.7.4 release remains available separately.
 
+## Visual review candidate — 1.003
+
+This branch's editable UFOs contain the **1.003 candidate for Google Fonts design review**.
+Download the [1.003 review package](fonts/candidates/1.003/Nambli-1.003-review.zip)
+(twelve TTFs, twelve WOFF2 files, OFL and SHA-256 checksums), or inspect the
+[individual TTFs](fonts/candidates/1.003/ttf). The editable sources are in
+[`sources/ufos`](sources/ufos); build and validation evidence is in
+[`documentation/visual-quality-1.003`](documentation/visual-quality-1.003).
+It retains the accepted contour smoothing and distinct missing-glyph symbol,
+removes the added overshoot rejected by the owner, and modestly strengthens
+only the side carons in Ľ, ľ, ď, ť and their shared mark. Other accent designs,
+including the Turkish alphabet's accents, are retained.
+See the [visual review record](documentation/VISUAL-QUALITY-1.003.txt) and
+[before/after review](documentation/review/visual-quality-1.003/Nambli-Design-Review.html)
+for all twelve faces, with changed glyphs and retained diacritics shown separately.
+The 1.002 experiment and its editable-source ZIP remain in `fonts/candidates/1.002`.
+The public release and website have not been updated with this candidate.
+
+## Previously approved candidate — 1.001
+
+The owner approved the eight contour changes on 2026-10-08. Those editable
+sources are preserved at commit `0d5deb9`; the version **1.001** TTFs and WOFF2 files are
+isolated in `fonts/candidates/1.001/ttf` and `fonts/candidates/1.001/webfonts`.
+The existing `fonts/ttf`, `fonts/webfonts` and supplementary `fonts/otf`
+retain released version 1.000. No 1.001 OTF build or public release is claimed.
+
+The owner also reports submitting the Google Fonts designer profile form.
+Catalog publication is pending. See the [adoption record](documentation/google-fonts-qa/2026-10-08/adoption-1.001/REPORT.md)
+for build, package QA and remaining upstream work.
+
 ## Download and use
 
 Download the ZIP from [Releases](https://github.com/Tor-Production/nambli-font/releases).
@@ -34,7 +64,7 @@ of authorship is claimed by this repository.
 
 ## Source and build
 
-The twelve editable UFO3 masters in `sources/ufos` include the complete released
+The twelve editable UFO3 masters in `sources/ufos` include the complete current candidate
 outlines, metrics, Unicode mapping, kerning and OpenType feature source. Build
 them with the pinned Fontmake toolchain:
 

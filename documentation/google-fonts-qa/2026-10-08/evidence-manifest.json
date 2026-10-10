@@ -1,0 +1,58 @@
+{
+  "fresh-submission-manifest.json": {
+    "original_sha256": "b3784e50a0b2b017e53aa0eb888cf48bbf9fbf630b3bef79d647caec93670482",
+    "public_copy_sha256": "c946ba565edc0137ed2ba0bc89f7466f95fc9275416bdcad623c5ba32d62b4bf"
+  },
+  "official-upstream.json": {
+    "original_sha256": "ece3eedffd788a1f4d88f32e89373004f6ea4408bbb07af34b68958c3f199874",
+    "public_copy_sha256": "8e6100866f01c0bfc9fefd868a826f21b108142ad62bc4946a13391b27cba0c4"
+  },
+  "all-stock-subsets.json": {
+    "original_sha256": "a6e1f77d8614a746ab70750c409dc1076d4d7ea2ed240256f396f695fbfdf2e8",
+    "public_copy_sha256": "d48308274e081af5c7a7757083b25236c0d3bdd3d28e59fae79e94c7837a05e5"
+  },
+  "all-twelve-font-evidence.json": {
+    "original_sha256": "b713c198457cde40de83d226dbafe90ae3f5e7b14eb26a435560b85a7bb9ce50",
+    "public_copy_sha256": "90ac25d1f1ebcfcf3748cedc4d52923099ecdc4fe4e9e829cf45b3ecc2cbe2b6"
+  },
+  "warning-geometry.json": {
+    "original_sha256": "6a11f761e9645a1cd75db63d2d55c6079f51291f0e537d853331b08345d374ba",
+    "public_copy_sha256": "7ae07afcfd52e8c98629c76c9980a5774bb312432a1859c282b685a2bcf433b5"
+  },
+  "fresh-google-head-stock-full": {
+    "fontspector.json": {
+      "original_sha256": "ff193636c767752746bd3d671364691c5cd9a1da0030d83af5a0f7d51edfb68d",
+      "public_copy_sha256": "129d5629cd47b26c13a08d7ebc4b4f321a173eea4db454e470bb8f65b3085a1a"
+    },
+    "summary.json": {
+      "original_sha256": "270d092cee4ddfb0e5837b3c4dfa6ad51f71ef46f5dbf467be54b0a5200bbf19",
+      "public_copy_sha256": "1dfed2ce6e3ccf82994e95df828a18e073d5861c217e71db2cca169a883b6d6e"
+    },
+    "stdout.log": {
+      "original_sha256": "823d2fb59d6ddf3ba2e1096c681fb6dec91e527d2298b6e82c3eb180a243f614",
+      "public_copy_sha256": "d68fac56186ba2c09e34f21eed042ade07ac9a895fd2b01dd11d91dcceaaff20"
+    },
+    "stderr.log": {
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "public_copy_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    }
+  },
+  "contour-1.001-stock-tofu": {
+    "fontspector.json": {
+      "original_sha256": "59fe700f6f9d5617b900ad440488c00cf6e66fd2b4bb521871ba82478bb34785",
+      "public_copy_sha256": "a08bc65934d3da5cc8145b0ea4acb051eac90a06fd997547afab1fb605c325c2"
+    },
+    "summary.json": {
+      "original_sha256": "d8d5787b0f59130d4c5bc6c0522d426e9b9eea2499ae76cea8248bf575dcdcb2",
+      "public_copy_sha256": "c8f4fbe6e95c237e9475878bdbed9f2dc032708c0221c43e63b92065afba805b"
+    },
+    "stdout.log": {
+      "original_sha256": "5eaaef9af9c453d3dfaacc89a03f12559785ae81f24417c09d774fd1cbca5109",
+      "public_copy_sha256": "1f04d9a18607f3e3fa100f364c5f0672ae9bcc1b993396f6b2e76248e8c41920"
+    },
+    "stderr.log": {
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "public_copy_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    }
+  }
+}

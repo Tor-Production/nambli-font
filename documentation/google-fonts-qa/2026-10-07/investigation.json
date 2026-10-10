@@ -1,0 +1,5756 @@
+{
+  "fontspector_version": "1.8.0",
+  "languages_version": "0.7.11",
+  "subsets_version": "0.202602.1",
+  "python_unicode": "16.0.0",
+  "failures": [
+    {
+      "check_id": "googlefonts/tofu",
+      "code": "missing-subsetted",
+      "language_id": "agq_Latn",
+      "language": "Aghem",
+      "sample_id": "specimen_16",
+      "text": "A fɨ̀ bugho an tì li kō, ghùw ù lì ghe fɨ̀ tɔɔŋ tsɨ̀ghà enyɨa Kɨ̀zɨ̀ŋè. Kɨ̀zɨ̀ŋè fɨ̀ lo êzɨ̀, ghe fɨ̀ tɔŋɔ wɨ̄n enyɨa kɨ̀zɨ̀ŋè bòʼ enyɨa ufʉghà ù dzɨ̀m u fɨ̀ lo àzɨ̀ŋo wɨ̄n. A fɨ̀ lo tsɨgha ko nû, tɔ̀lɔki m bwìi ùfwɨn ghèe mbùʼù kò. Mbùʼù kɨ̀ m mgbɛɛ bùghòo bwìin kòʼò tsɨ̀ghà ko wɨ̄n. Ù mo᷇, “ŋ ghûw fɨ̀n, N sô mgbɛɛ bùghoo bwìin kôʼò ko. Ghù lô mùghò bùgho bwìin kòʼò zɨn a?” Tɔ̀lɔ̀ki n dzɛ̀ â mbùʼù kò enyɨa kǎ ghee lûum, è kê tsǒo bùghò gbɨ̀là ghù, tō. E kê bùghò gbɨ̀ɨn ghù, E ndôʼò dzàa zìi yò tsuʼ fɨla e kê bughoo a te alô ghù. A fɨ̀ lo alo enaʼ ghɨa ghɨ ntsòʼ ghɨ̌ n tughuu fughu, ghe n tum tɔ̀lɔki enyɨa è ndùw zue ntsòʼ a n lo mò dzì zɨ̀ ntsoʼ e te lɔ̄ʼso dàa.",
+      "nfc_text": "A fɨ̀ bugho an tì li kō, ghùw ù lì ghe fɨ̀ tɔɔŋ tsɨ̀ghà enyɨa Kɨ̀zɨ̀ŋè. Kɨ̀zɨ̀ŋè fɨ̀ lo êzɨ̀, ghe fɨ̀ tɔŋɔ wɨ̄n enyɨa kɨ̀zɨ̀ŋè bòʼ enyɨa ufʉghà ù dzɨ̀m u fɨ̀ lo àzɨ̀ŋo wɨ̄n. A fɨ̀ lo tsɨgha ko nû, tɔ̀lɔki m bwìi ùfwɨn ghèe mbùʼù kò. Mbùʼù kɨ̀ m mgbɛɛ bùghòo bwìin kòʼò tsɨ̀ghà ko wɨ̄n. Ù mo᷇, “ŋ ghûw fɨ̀n, N sô mgbɛɛ bùghoo bwìin kôʼò ko. Ghù lô mùghò bùgho bwìin kòʼò zɨn a?” Tɔ̀lɔ̀ki n dzɛ̀ â mbùʼù kò enyɨa kǎ ghee lûum, è kê tsǒo bùghò gbɨ̀là ghù, tō. E kê bùghò gbɨ̀ɨn ghù, E ndôʼò dzàa zìi yò tsuʼ fɨla e kê bughoo a te alô ghù. A fɨ̀ lo alo enaʼ ghɨa ghɨ ntsòʼ ghɨ̌ n tughuu fughu, ghe n tum tɔ̀lɔki enyɨa è ndùw zue ntsòʼ a n lo mò dzì zɨ̀ ntsoʼ e te lɔ̄ʼso dàa.",
+      "missing_codepoints": [
+        "U+030C",
+        "U+1DC7"
+      ],
+      "clusters": [
+        "o᷇",
+        "ɨ̌"
+      ],
+      "source": "Lib/gflanguages/data/languages/agq_Latn.textproto",
+      "language_data_sha256": "5c34ac83bc075b58c1d1bce8bf02b3eec2623f7c0eb8f2da08c8ee313dfd9a6f"
+    },
+    {
+      "check_id": "googlefonts/tofu",
+      "code": "missing-subsetted",
+      "language_id": "ale_Latn",
+      "language": "Aleut",
+      "sample_id": "specimen_16",
+      "text": "Anĝaĝinam huzungis agaxtakuu ingisxigikux̂ ama liidax̂ nagan sahnganaxtada. Txin sakaaĝatal anagis mataxchx̂ida inaqamchix̂ agangudaganasaaĝiiĝutakus ludaangan huzuu ngaan quĝasaatakus.\nAnĝaĝinam huzungis agaxtakuu ingisxigikux̂ ama liidax̂ nagan sahnganaxtada. Txin sakaaĝatal anagis mataxchx̂ida inaqamchix̂ agangudaganasaaĝiiĝutakus ludaangan huzuu ngaan quĝasaatakus.\nAnĝaĝinam huzungis agaxtakuu ingisxigikux̂ ama liidax̂ nagan sahnganaxtada. Txin sakaaĝatal anagis mataxchx̂ida inaqamchix̂ agangudaganasaaĝiiĝutakus ludaangan huzuu ngaan quĝasaatakus.\nAnĝaĝinam huzungis agaxtakuu ingisxigikux̂ ama liidax̂ nagan sahnganaxtada. Txin sakaaĝatal anagis mataxchx̂ida inaqamchix̂ agangudaganasaaĝiiĝutakus ludaangan huzuu ngaan quĝasaatakus.",
+      "nfc_text": "Anĝaĝinam huzungis agaxtakuu ingisxigikux̂ ama liidax̂ nagan sahnganaxtada. Txin sakaaĝatal anagis mataxchx̂ida inaqamchix̂ agangudaganasaaĝiiĝutakus ludaangan huzuu ngaan quĝasaatakus.Anĝaĝinam huzungis agaxtakuu ingisxigikux̂ ama liidax̂ nagan sahnganaxtada. Txin sakaaĝatal anagis mataxchx̂ida inaqamchix̂ agangudaganasaaĝiiĝutakus ludaangan huzuu ngaan quĝasaatakus.Anĝaĝinam huzungis agaxtakuu ingisxigikux̂ ama liidax̂ nagan sahnganaxtada. Txin sakaaĝatal anagis mataxchx̂ida inaqamchix̂ agangudaganasaaĝiiĝutakus ludaangan huzuu ngaan quĝasaatakus.Anĝaĝinam huzungis agaxtakuu ingisxigikux̂ ama liidax̂ nagan sahnganaxtada. Txin sakaaĝatal anagis mataxchx̂ida inaqamchix̂ agangudaganasaaĝiiĝutakus ludaangan huzuu ngaan quĝasaatakus.",
+      "missing_codepoints": [
+        "U+0302"
+      ],
+      "clusters": [
+        "x̂"
+      ],
+      "source": "Lib/gflanguages/data/languages/ale_Latn.textproto",
+      "language_data_sha256": "3eb694343a2b677bfc029e2c0f88b4f029a3f15e8c8707b73b887573bebf6c80"
+    },
+    {
+      "check_id": "googlefonts/tofu",
+      "code": "missing-subsetted",
+      "language_id": "amr_Latn",
+      "language": "Amarakaeri",
+      "sample_id": "specimen_16",
+      "text": "Aya'da aratbut katepi' eka'ta' on'pakpo ka'dik o̱'ne. Nog aratbut huadak o̱'nepo ko̱nigti opudo̱mey huadak mo'e̱. Aya'da huadak eka' nopoe̱'dik o̱'ne kenpa'ti dakhuea' eka' nopoe̱'dik o̱'ne kenpa'ti ko̱nig huama'buytaj o 'tihuapokika' ko̱nigti nogo̱meytaj tihuapokika 'dik o̱'ne.\nAya'da aratbut katepi' eka'ta' on'pakpo ka'dik o̱'ne. Nog aratbut huadak o̱'nepo ko̱nigti opudo̱mey huadak mo'e̱. Aya'da huadak eka' nopoe̱'dik o̱'ne kenpa'ti dakhuea' eka' nopoe̱'dik o̱'ne kenpa'ti ko̱nig huama'buytaj o 'tihuapokika' ko̱nigti nogo̱meytaj tihuapokika 'dik o̱'ne.\nAya'da aratbut katepi' eka'ta' on'pakpo ka'dik o̱'ne. Nog aratbut huadak o̱'nepo ko̱nigti opudo̱mey huadak mo'e̱. Aya'da huadak eka' nopoe̱'dik o̱'ne kenpa'ti dakhuea' eka' nopoe̱'dik o̱'ne kenpa'ti ko̱nig huama'buytaj o 'tihuapokika' ko̱nigti nogo̱meytaj tihuapokika 'dik o̱'ne.",
+      "nfc_text": "Aya'da aratbut katepi' eka'ta' on'pakpo ka'dik o̱'ne. Nog aratbut huadak o̱'nepo ko̱nigti opudo̱mey huadak mo'e̱. Aya'da huadak eka' nopoe̱'dik o̱'ne kenpa'ti dakhuea' eka' nopoe̱'dik o̱'ne kenpa'ti ko̱nig huama'buytaj o 'tihuapokika' ko̱nigti nogo̱meytaj tihuapokika 'dik o̱'ne.Aya'da aratbut katepi' eka'ta' on'pakpo ka'dik o̱'ne. Nog aratbut huadak o̱'nepo ko̱nigti opudo̱mey huadak mo'e̱. Aya'da huadak eka' nopoe̱'dik o̱'ne kenpa'ti dakhuea' eka' nopoe̱'dik o̱'ne kenpa'ti ko̱nig huama'buytaj o 'tihuapokika' ko̱nigti nogo̱meytaj tihuapokika 'dik o̱'ne.Aya'da aratbut katepi' eka'ta' on'pakpo ka'dik o̱'ne. Nog aratbut huadak o̱'nepo ko̱nigti opudo̱mey huadak mo'e̱. Aya'da huadak eka' nopoe̱'dik o̱'ne kenpa'ti dakhuea' eka' nopoe̱'dik o̱'ne kenpa'ti ko̱nig huama'buytaj o 'tihuapokika' ko̱nigti nogo̱meytaj tihuapokika 'dik o̱'ne.",
+      "missing_codepoints": [
+        "U+0331"
+      ],
+      "clusters": [
+        "e̱",
+        "o̱"
+      ],
+      "source": "Lib/gflanguages/data/languages/amr_Latn.textproto",
+      "language_data_sha256": "83056c173991b07355ade81d125afd948e3dd55678505c3d66e596f53870728e"
+    },
+    {
+      "check_id": "googlefonts/tofu",
+      "code": "missing-subsetted",
+      "language_id": "cic_Latn",
+      "language": "Chickasaw",
+      "sample_id": "poster_md",
+      "text": "Nanna mó̱maka̱",
+      "nfc_text": "Nanna mó̱maka̱",
+      "missing_codepoints": [
+        "U+0331"
+      ],
+      "clusters": [
+        "a̱",
+        "ó̱"
+      ],
+      "source": "Lib/gflanguages/data/languages/cic_Latn.textproto",
+      "language_data_sha256": "c74a9f20d117aa38743b7369a7c47fb4d79df5f4b1b46d1ebb40fc0c709c177e"
+    },
+    {
+      "check_id": "googlefonts/tofu",
+      "code": "missing-subsetted",
+      "language_id": "csa_Latn",
+      "language": "Chinantec, Chiltepec",
+      "sample_id": "specimen_16",
+      "text": "Lejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.\nLejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.\nLejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.\nLejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.\nLejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.\nLejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.",
+      "nfc_text": "Lejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.Lejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.Lejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.Lejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.Lejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.Lejɨ̈ ni sou tsa lisia̱ ija̱a sia ikou' ne kojo̱ jï ne juso̱ ne jmo' re ju i sɨ' jmo' nö sala̱ ne sasno.",
+      "missing_codepoints": [
+        "U+0331"
+      ],
+      "clusters": [
+        "a̱",
+        "o̱"
+      ],
+      "source": "Lib/gflanguages/data/languages/csa_Latn.textproto",
+      "language_data_sha256": "642a8a6573fb89aa8645a8ea564d88e371bbb349fa8b00ac93188263d20d547c"
+    },
+    {
+      "check_id": "googlefonts/tofu",
+      "code": "missing-subsetted",
+      "language_id": "djc_Latn",
+      "language": "Dar Daju Daju",
+      "sample_id": "masthead_partial",
+      "text": "N̰j",
+      "nfc_text": "N̰j",
+      "missing_codepoints": [
+        "U+0330"
+      ],
+      "clusters": [
+        "N̰"
+      ],
+      "source": "Lib/gflanguages/data/languages/djc_Latn.textproto",
+      "language_data_sha256": "2580c197dfda4077f634a7da530ac858ab8492bb7c0f7e68b01afa729c02f462"
+    },
+    {
+      "check_id": "googlefonts/tofu",
+      "code": "missing-subsetted",
+      "language_id": "fvr_Latn",
+      "language": "Fur",
+      "sample_id": "masthead_partial",
+      "text": "A̱a̱",
+      "nfc_text": "A̱a̱",
+      "missing_codepoints": [
+        "U+0331"
+      ],
+      "clusters": [
+        "A̱",
+        "a̱"
+      ],
+      "source": "Lib/gflanguages/data/languages/fvr_Latn.textproto",
+      "language_data_sha256": "47c5dd7614e438cbf60f226b02205f838a56984220443ec6ec1b3b1841050eb8"
+    },
+    {
+      "check_id": "googlefonts/tofu",
+      "code": "missing-subsetted",
+      "language_id": "jra_Latn",
+      "language": "Jarai (Latin)",
+      "sample_id": "specimen_16",
+      "text": "Abih bang mơnuih-mơnam tơkeng rai rơngai laih anŭn mơdơ̆-mơđơr amăng tơlơi pơpŭ-pơyôm hăng tơlơi dưi. Ƀing gơñu tŭ hơmâo tơlơi pơmĭn hăng tơlơi thâo djơ̆-glaĭ laih anŭn brơi ngă kơ tơdruă amăng tơlơi khăp ayŏng adơi.\nAbih bang mơnuih-mơnam tơkeng rai rơngai laih anŭn mơdơ̆-mơđơr amăng tơlơi pơpŭ-pơyôm hăng tơlơi dưi. Ƀing gơñu tŭ hơmâo tơlơi pơmĭn hăng tơlơi thâo djơ̆-glaĭ laih anŭn brơi ngă kơ tơdruă amăng tơlơi khăp ayŏng adơi.\nAbih bang mơnuih-mơnam tơkeng rai rơngai laih anŭn mơdơ̆-mơđơr amăng tơlơi pơpŭ-pơyôm hăng tơlơi dưi. Ƀing gơñu tŭ hơmâo tơlơi pơmĭn hăng tơlơi thâo djơ̆-glaĭ laih anŭn brơi ngă kơ tơdruă amăng tơlơi khăp ayŏng adơi.",
+      "nfc_text": "Abih bang mơnuih-mơnam tơkeng rai rơngai laih anŭn mơdơ̆-mơđơr amăng tơlơi pơpŭ-pơyôm hăng tơlơi dưi. Ƀing gơñu tŭ hơmâo tơlơi pơmĭn hăng tơlơi thâo djơ̆-glaĭ laih anŭn brơi ngă kơ tơdruă amăng tơlơi khăp ayŏng adơi.Abih bang mơnuih-mơnam tơkeng rai rơngai laih anŭn mơdơ̆-mơđơr amăng tơlơi pơpŭ-pơyôm hăng tơlơi dưi. Ƀing gơñu tŭ hơmâo tơlơi pơmĭn hăng tơlơi thâo djơ̆-glaĭ laih anŭn brơi ngă kơ tơdruă amăng tơlơi khăp ayŏng adơi.Abih bang mơnuih-mơnam tơkeng rai rơngai laih anŭn mơdơ̆-mơđơr amăng tơlơi pơpŭ-pơyôm hăng tơlơi dưi. Ƀing gơñu tŭ hơmâo tơlơi pơmĭn hăng tơlơi thâo djơ̆-glaĭ laih anŭn brơi ngă kơ tơdruă amăng tơlơi khăp ayŏng adơi.",
+      "missing_codepoints": [
+        "U+0306"
+      ],
+      "clusters": [
+        "ơ̆"
+      ],
+      "source": "Lib/gflanguages/data/languages/jra_Latn.textproto",
+      "language_data_sha256": "f2f84a2dd44ae084f6a88de09c13a6ad5af8f803946e30a23a5aa33f150ca32d"
+    },
+    {
+      "check_id": "googlefonts/tofu",
+      "code": "missing-subsetted",
+      "language_id": "ln_Latn",
+      "language": "Lingala",
+      "sample_id": "specimen_16",
+      "text": "Na botáláká ’te kondima limɛmya ya bato nyɔ́nsɔ ya molɔ́ngɔ́ mpé makokí ma bangó óyo ezalí ndéngé mɔ̌kɔ́ mpé bakokí kopímela moto tɛ́ ezalí ntína ya bonsɔ́mí, bosémbo mpé kímyá káti ya molɔ́ngɔ́. Na botáláká ’te komɔ́na mpámba mpé kobóya kotósa esengeli ya moto ebátelama na bokonzi ya bosémbo mpɔ̂ ’te, na sima yangó, moto ákóma na botɔmbɔki esóngó na minyɔ́kɔli tɛ́,\nNa botáláká ’te esengélí koléndisa boyókani na káti ya bikólo,\nNa botáláká ’te kozala bato nyɔ́nsɔ na makanisi ndéngé mɔ̌kɔ́ mpɔ̂ na makokí mpé bonsɔ́mí yangó, ezalí na ntína monɛ́nɛ mpɔ̂ ’te óyo bakáni elónga,\nBato nyɔ́nsɔ na mbótama bazalí nsɔ́mí mpé bakókání na limɛmya mpé makokí. Bazalí na mayɛ́lɛ mpé basengélí kovánda na bondeko o káti na bangó.",
+      "nfc_text": "Na botáláká ’te kondima limɛmya ya bato nyɔ́nsɔ ya molɔ́ngɔ́ mpé makokí ma bangó óyo ezalí ndéngé mɔ̌kɔ́ mpé bakokí kopímela moto tɛ́ ezalí ntína ya bonsɔ́mí, bosémbo mpé kímyá káti ya molɔ́ngɔ́. Na botáláká ’te komɔ́na mpámba mpé kobóya kotósa esengeli ya moto ebátelama na bokonzi ya bosémbo mpɔ̂ ’te, na sima yangó, moto ákóma na botɔmbɔki esóngó na minyɔ́kɔli tɛ́,Na botáláká ’te esengélí koléndisa boyókani na káti ya bikólo,Na botáláká ’te kozala bato nyɔ́nsɔ na makanisi ndéngé mɔ̌kɔ́ mpɔ̂ na makokí mpé bonsɔ́mí yangó, ezalí na ntína monɛ́nɛ mpɔ̂ ’te óyo bakáni elónga,Bato nyɔ́nsɔ na mbótama bazalí nsɔ́mí mpé bakókání na limɛmya mpé makokí. Bazalí na mayɛ́lɛ mpé basengélí kovánda na bondeko o káti na bangó.",
+      "missing_codepoints": [
+        "U+0302",
+        "U+030C"
+      ],
+      "clusters": [
+        "ɔ̂",
+        "ɔ̌"
+      ],
+      "source": "Lib/gflanguages/data/languages/ln_Latn.textproto",
+      "language_data_sha256": "b19000578f39885fb52c9b1a54121b27d40a9876b4b1159ea485f77428b459c0"
+    },
+    {
+      "check_id": "googlefonts/tofu",
+      "code": "missing-subsetted",
+      "language_id": "mfd_Latn",
+      "language": "Mendankwe-Nkwen",
+      "sample_id": "specimen_16",
+      "text": "Bamə nə ghəghənə nə njinjìɂì bə̌ bə̀səɂə. Tòɂòrə̀ bikakə seŋe bə. Dədoɂo bwo ǹnà-mə̀karə nə forə nə tòɂòrə̀ bə̌ mə̀nà. Chɛ̀kə̀rə̀ nə àkə̀ɂətə nə fəkəbə nə mə̀saŋə àshìshì nə àzarə nə ǹzhà bə̌ ə̀dzuŋə məmə̀ ndyâ. Àbàà nə fɛrə nə yɛ̀rə̀ bə̌ ə̀dzuŋə nyèsə nnu. Ŋorə nə nùŋə̀ nə ndə̀-fə̀ɂə̀ bə̌ ədzuŋə də̀sə fəɂə̀. Lamshì nə ə̀boɂo bə̌ əduŋə ma ə̀boo nə njyə. Boŋə ò nyesə̀ ndyâ zhə̀ nə mə̀ngòɂò bwo waŋsə-nshye. Sama, a zhi wwo ghə̀rə a waŋsə-nshye ku nəli wwò. Talà zhwe àbaɂatə-kaŋə atyə àkəɂətə̀.",
+      "nfc_text": "Bamə nə ghəghənə nə njinjìɂì bə̌ bə̀səɂə. Tòɂòrə̀ bikakə seŋe bə. Dədoɂo bwo ǹnà-mə̀karə nə forə nə tòɂòrə̀ bə̌ mə̀nà. Chɛ̀kə̀rə̀ nə àkə̀ɂətə nə fəkəbə nə mə̀saŋə àshìshì nə àzarə nə ǹzhà bə̌ ə̀dzuŋə məmə̀ ndyâ. Àbàà nə fɛrə nə yɛ̀rə̀ bə̌ ə̀dzuŋə nyèsə nnu. Ŋorə nə nùŋə̀ nə ndə̀-fə̀ɂə̀ bə̌ ədzuŋə də̀sə fəɂə̀. Lamshì nə ə̀boɂo bə̌ əduŋə ma ə̀boo nə njyə. Boŋə ò nyesə̀ ndyâ zhə̀ nə mə̀ngòɂò bwo waŋsə-nshye. Sama, a zhi wwo ghə̀rə a waŋsə-nshye ku nəli wwò. Talà zhwe àbaɂatə-kaŋə atyə àkəɂətə̀.",
+      "missing_codepoints": [
+        "U+030C"
+      ],
+      "clusters": [
+        "ə̌"
+      ],
+      "source": "Lib/gflanguages/data/languages/mfd_Latn.textproto",
+      "language_data_sha256": "ca361072bf23fe345934d53a7ecea176c1114c1e6c6d383f0fe4bf1dc4822148"
+    },
+    {
+      "check_id": "googlefonts/tofu",
+      "code": "missing-subsetted",
+      "language_id": "nus_Latn",
+      "language": "Nuer",
+      "sample_id": "masthead_full",
+      "text": "Ɛ̱̈ɛ̱̈Ɣɣ",
+      "nfc_text": "Ɛ̱̈ɛ̱̈Ɣɣ",
+      "missing_codepoints": [
+        "U+0331"
+      ],
+      "clusters": [
+        "Ɛ̱̈",
+        "ɛ̱̈"
+      ],
+      "source": "Lib/gflanguages/data/languages/nus_Latn.textproto",
+      "language_data_sha256": "190779d8a65dc6715e863c21f16a1e3d98c3a5f79e854189db9b3697213ee7a8"
+    },
+    {
+      "check_id": "googlefonts/tofu",
+      "code": "missing-subsetted",
+      "language_id": "ote_Latn",
+      "language": "Otomi, Mezquital",
+      "sample_id": "specimen_16",
+      "text": "Gotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.\nGotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.\nGotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.\nGotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.\nGotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.",
+      "nfc_text": "Gotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.Gotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.Gotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.Gotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.Gotho nu kja'ni i mu̱i ra zoo i gotho ro kuchti, i tu'ni nu ro ña padä bini i da budi, da mu̱i ra zoo koyu gotho yu kja'ni i yo kuadi.",
+      "missing_codepoints": [
+        "U+0331"
+      ],
+      "clusters": [
+        "u̱"
+      ],
+      "source": "Lib/gflanguages/data/languages/ote_Latn.textproto",
+      "language_data_sha256": "93f6986de8334e716dfe20b8b4e666f7df06338374b9b65ecbe3d6f7895eaedd"
+    },
+    {
+      "check_id": "googlefonts/tofu",
+      "code": "missing-subsetted",
+      "language_id": "sey_Latn",
+      "language": "Secoya",
+      "sample_id": "specimen_16",
+      "text": "Si'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.\nSi'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.\nSi'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.\nSi'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.",
+      "nfc_text": "Si'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.Si'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.Si'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.Si'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne peoye ñese saiye pa'iji ko̱kaijë yekë paireje.",
+      "missing_codepoints": [
+        "U+0331"
+      ],
+      "clusters": [
+        "o̱"
+      ],
+      "source": "Lib/gflanguages/data/languages/sey_Latn.textproto",
+      "language_data_sha256": "ebe33c5c1e276a561b254c76fbb53f6760cb213f5f10abd2ef3fa223beb1680f"
+    },
+    {
+      "check_id": "googlefonts/tofu",
+      "code": "missing-subsetted",
+      "language_id": "snn_Latn",
+      "language": "Siona",
+      "sample_id": "poster_lg",
+      "text": "Sia'bai̱",
+      "nfc_text": "Sia'bai̱",
+      "missing_codepoints": [
+        "U+0331"
+      ],
+      "clusters": [
+        "i̱"
+      ],
+      "source": "Lib/gflanguages/data/languages/snn_Latn.textproto",
+      "language_data_sha256": "56ede41151cb46651e1851a046340315f45a100a3872c087531e6faf5c0c3e7d"
+    },
+    {
+      "check_id": "googlefonts/tofu",
+      "code": "missing-subsetted",
+      "language_id": "tca_Latn",
+      "language": "Ticuna",
+      "sample_id": "specimen_16",
+      "text": "Ngẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.\nNgẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.\nNgẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.\nNgẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.",
+      "nfc_text": "Ngẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.Ngẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.Ngẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.Ngẽxguma nabuxgu i duü̃xü̃gü rü guxü̃ma nawüxigu, rü tataxuma ya texé ya togüarü yexera ixĩsẽ. Rü guxü̃ma naxããẽgü rü ngẽmaca̱x rü name nixĩ na nügümaã namecümaxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü.",
+      "missing_codepoints": [
+        "U+0331"
+      ],
+      "clusters": [
+        "a̱"
+      ],
+      "source": "Lib/gflanguages/data/languages/tca_Latn.textproto",
+      "language_data_sha256": "84fb83de940ba2718195edf1530ee12bcc36872e4709594d65299ee6bfd4b09f"
+    },
+    {
+      "check_id": "googlefonts/tofu",
+      "code": "missing-subsetted",
+      "language_id": "udu_Latn",
+      "language": "Uduk",
+      "sample_id": "specimen_16",
+      "text": "Aris ’kwaniny’ceshi ’baar mo dho’thkunu ’baḵany mo dhali mmomiiya ṯu’c imonṯal ’de/ mo dhali mii ma ḵar/e mo. Uni mini ta gi gwo mo dhali mii mo dhali uni mini mii ka karambuye/ ’kup̱ ki cin tiya mo e shi/in mo dhali mii kun tanu ikam mo.\nAris ’kwaniny’ceshi ’baar mo dho’thkunu ’baḵany mo dhali mmomiiya ṯu’c imonṯal ’de/ mo dhali mii ma ḵar/e mo. Uni mini ta gi gwo mo dhali mii mo dhali uni mini mii ka karambuye/ ’kup̱ ki cin tiya mo e shi/in mo dhali mii kun tanu ikam mo.\nAris ’kwaniny’ceshi ’baar mo dho’thkunu ’baḵany mo dhali mmomiiya ṯu’c imonṯal ’de/ mo dhali mii ma ḵar/e mo. Uni mini ta gi gwo mo dhali mii mo dhali uni mini mii ka karambuye/ ’kup̱ ki cin tiya mo e shi/in mo dhali mii kun tanu ikam mo.",
+      "nfc_text": "Aris ’kwaniny’ceshi ’baar mo dho’thkunu ’baḵany mo dhali mmomiiya ṯu’c imonṯal ’de/ mo dhali mii ma ḵar/e mo. Uni mini ta gi gwo mo dhali mii mo dhali uni mini mii ka karambuye/ ’kup̱ ki cin tiya mo e shi/in mo dhali mii kun tanu ikam mo.Aris ’kwaniny’ceshi ’baar mo dho’thkunu ’baḵany mo dhali mmomiiya ṯu’c imonṯal ’de/ mo dhali mii ma ḵar/e mo. Uni mini ta gi gwo mo dhali mii mo dhali uni mini mii ka karambuye/ ’kup̱ ki cin tiya mo e shi/in mo dhali mii kun tanu ikam mo.Aris ’kwaniny’ceshi ’baar mo dho’thkunu ’baḵany mo dhali mmomiiya ṯu’c imonṯal ’de/ mo dhali mii ma ḵar/e mo. Uni mini ta gi gwo mo dhali mii mo dhali uni mini mii ka karambuye/ ’kup̱ ki cin tiya mo e shi/in mo dhali mii kun tanu ikam mo.",
+      "missing_codepoints": [
+        "U+0331"
+      ],
+      "clusters": [
+        "p̱"
+      ],
+      "source": "Lib/gflanguages/data/languages/udu_Latn.textproto",
+      "language_data_sha256": "9b3ca7566632037c8b98b5439eef4013f57e1cdee697292639dc49498daf62f6"
+    }
+  ],
+  "mark_matrix": [
+    {
+      "codepoint": "U+0302",
+      "name": "COMBINING CIRCUMFLEX ACCENT",
+      "membership": {
+        "published_crate": [],
+        "nam_main": []
+      },
+      "faces": [
+        {
+          "face": "Nambli-Bold",
+          "glyph": "uni0302",
+          "ufo_codepoints": [
+            770
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-BoldItalic",
+          "glyph": "uni0302",
+          "ufo_codepoints": [
+            770
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-ExtraBold",
+          "glyph": "uni0302",
+          "ufo_codepoints": [
+            770
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-ExtraBoldItalic",
+          "glyph": "uni0302",
+          "ufo_codepoints": [
+            770
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Italic",
+          "glyph": "uni0302",
+          "ufo_codepoints": [
+            770
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Light",
+          "glyph": "uni0302",
+          "ufo_codepoints": [
+            770
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-LightItalic",
+          "glyph": "uni0302",
+          "ufo_codepoints": [
+            770
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Medium",
+          "glyph": "uni0302",
+          "ufo_codepoints": [
+            770
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-MediumItalic",
+          "glyph": "uni0302",
+          "ufo_codepoints": [
+            770
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Regular",
+          "glyph": "uni0302",
+          "ufo_codepoints": [
+            770
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-SemiBold",
+          "glyph": "uni0302",
+          "ufo_codepoints": [
+            770
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-SemiBoldItalic",
+          "glyph": "uni0302",
+          "ufo_codepoints": [
+            770
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        }
+      ],
+      "required_clusters": [
+        "x̂",
+        "ɔ̂"
+      ]
+    },
+    {
+      "codepoint": "U+0306",
+      "name": "COMBINING BREVE",
+      "membership": {
+        "published_crate": [],
+        "nam_main": []
+      },
+      "faces": [
+        {
+          "face": "Nambli-Bold",
+          "glyph": "uni0306",
+          "ufo_codepoints": [
+            774
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-BoldItalic",
+          "glyph": "uni0306",
+          "ufo_codepoints": [
+            774
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-ExtraBold",
+          "glyph": "uni0306",
+          "ufo_codepoints": [
+            774
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-ExtraBoldItalic",
+          "glyph": "uni0306",
+          "ufo_codepoints": [
+            774
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Italic",
+          "glyph": "uni0306",
+          "ufo_codepoints": [
+            774
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Light",
+          "glyph": "uni0306",
+          "ufo_codepoints": [
+            774
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-LightItalic",
+          "glyph": "uni0306",
+          "ufo_codepoints": [
+            774
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Medium",
+          "glyph": "uni0306",
+          "ufo_codepoints": [
+            774
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-MediumItalic",
+          "glyph": "uni0306",
+          "ufo_codepoints": [
+            774
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Regular",
+          "glyph": "uni0306",
+          "ufo_codepoints": [
+            774
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-SemiBold",
+          "glyph": "uni0306",
+          "ufo_codepoints": [
+            774
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-SemiBoldItalic",
+          "glyph": "uni0306",
+          "ufo_codepoints": [
+            774
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        }
+      ],
+      "required_clusters": [
+        "ơ̆"
+      ]
+    },
+    {
+      "codepoint": "U+030C",
+      "name": "COMBINING CARON",
+      "membership": {
+        "published_crate": [],
+        "nam_main": []
+      },
+      "faces": [
+        {
+          "face": "Nambli-Bold",
+          "glyph": "uni030C",
+          "ufo_codepoints": [
+            780
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-BoldItalic",
+          "glyph": "uni030C",
+          "ufo_codepoints": [
+            780
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-ExtraBold",
+          "glyph": "uni030C",
+          "ufo_codepoints": [
+            780
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-ExtraBoldItalic",
+          "glyph": "uni030C",
+          "ufo_codepoints": [
+            780
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Italic",
+          "glyph": "uni030C",
+          "ufo_codepoints": [
+            780
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Light",
+          "glyph": "uni030C",
+          "ufo_codepoints": [
+            780
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-LightItalic",
+          "glyph": "uni030C",
+          "ufo_codepoints": [
+            780
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Medium",
+          "glyph": "uni030C",
+          "ufo_codepoints": [
+            780
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-MediumItalic",
+          "glyph": "uni030C",
+          "ufo_codepoints": [
+            780
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Regular",
+          "glyph": "uni030C",
+          "ufo_codepoints": [
+            780
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-SemiBold",
+          "glyph": "uni030C",
+          "ufo_codepoints": [
+            780
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-SemiBoldItalic",
+          "glyph": "uni030C",
+          "ufo_codepoints": [
+            780
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        }
+      ],
+      "required_clusters": [
+        "ɔ̌",
+        "ə̌",
+        "ɨ̌"
+      ]
+    },
+    {
+      "codepoint": "U+0330",
+      "name": "COMBINING TILDE BELOW",
+      "membership": {
+        "published_crate": [],
+        "nam_main": []
+      },
+      "faces": [
+        {
+          "face": "Nambli-Bold",
+          "glyph": "uni0330",
+          "ufo_codepoints": [
+            816
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-BoldItalic",
+          "glyph": "uni0330",
+          "ufo_codepoints": [
+            816
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-ExtraBold",
+          "glyph": "uni0330",
+          "ufo_codepoints": [
+            816
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-ExtraBoldItalic",
+          "glyph": "uni0330",
+          "ufo_codepoints": [
+            816
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Italic",
+          "glyph": "uni0330",
+          "ufo_codepoints": [
+            816
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Light",
+          "glyph": "uni0330",
+          "ufo_codepoints": [
+            816
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-LightItalic",
+          "glyph": "uni0330",
+          "ufo_codepoints": [
+            816
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Medium",
+          "glyph": "uni0330",
+          "ufo_codepoints": [
+            816
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-MediumItalic",
+          "glyph": "uni0330",
+          "ufo_codepoints": [
+            816
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Regular",
+          "glyph": "uni0330",
+          "ufo_codepoints": [
+            816
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-SemiBold",
+          "glyph": "uni0330",
+          "ufo_codepoints": [
+            816
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-SemiBoldItalic",
+          "glyph": "uni0330",
+          "ufo_codepoints": [
+            816
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        }
+      ],
+      "required_clusters": [
+        "N̰"
+      ]
+    },
+    {
+      "codepoint": "U+0331",
+      "name": "COMBINING MACRON BELOW",
+      "membership": {
+        "published_crate": [],
+        "nam_main": []
+      },
+      "faces": [
+        {
+          "face": "Nambli-Bold",
+          "glyph": "uni0331",
+          "ufo_codepoints": [
+            817
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-BoldItalic",
+          "glyph": "uni0331",
+          "ufo_codepoints": [
+            817
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-ExtraBold",
+          "glyph": "uni0331",
+          "ufo_codepoints": [
+            817
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-ExtraBoldItalic",
+          "glyph": "uni0331",
+          "ufo_codepoints": [
+            817
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Italic",
+          "glyph": "uni0331",
+          "ufo_codepoints": [
+            817
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Light",
+          "glyph": "uni0331",
+          "ufo_codepoints": [
+            817
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-LightItalic",
+          "glyph": "uni0331",
+          "ufo_codepoints": [
+            817
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Medium",
+          "glyph": "uni0331",
+          "ufo_codepoints": [
+            817
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-MediumItalic",
+          "glyph": "uni0331",
+          "ufo_codepoints": [
+            817
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Regular",
+          "glyph": "uni0331",
+          "ufo_codepoints": [
+            817
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-SemiBold",
+          "glyph": "uni0331",
+          "ufo_codepoints": [
+            817
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-SemiBoldItalic",
+          "glyph": "uni0331",
+          "ufo_codepoints": [
+            817
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 1,
+          "ufo_contours": 1,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        }
+      ],
+      "required_clusters": [
+        "A̱",
+        "a̱",
+        "e̱",
+        "i̱",
+        "o̱",
+        "p̱",
+        "u̱",
+        "ó̱",
+        "Ɛ̱̈",
+        "ɛ̱̈"
+      ]
+    },
+    {
+      "codepoint": "U+1DC7",
+      "name": "COMBINING ACUTE-MACRON",
+      "membership": {
+        "published_crate": [],
+        "nam_main": []
+      },
+      "faces": [
+        {
+          "face": "Nambli-Bold",
+          "glyph": "uni1DC7",
+          "ufo_codepoints": [
+            7623
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 2,
+          "ufo_contours": 2,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-BoldItalic",
+          "glyph": "uni1DC7",
+          "ufo_codepoints": [
+            7623
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 2,
+          "ufo_contours": 2,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-ExtraBold",
+          "glyph": "uni1DC7",
+          "ufo_codepoints": [
+            7623
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 2,
+          "ufo_contours": 2,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-ExtraBoldItalic",
+          "glyph": "uni1DC7",
+          "ufo_codepoints": [
+            7623
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 2,
+          "ufo_contours": 2,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Italic",
+          "glyph": "uni1DC7",
+          "ufo_codepoints": [
+            7623
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 2,
+          "ufo_contours": 2,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Light",
+          "glyph": "uni1DC7",
+          "ufo_codepoints": [
+            7623
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 2,
+          "ufo_contours": 2,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-LightItalic",
+          "glyph": "uni1DC7",
+          "ufo_codepoints": [
+            7623
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 2,
+          "ufo_contours": 2,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Medium",
+          "glyph": "uni1DC7",
+          "ufo_codepoints": [
+            7623
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 2,
+          "ufo_contours": 2,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-MediumItalic",
+          "glyph": "uni1DC7",
+          "ufo_codepoints": [
+            7623
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 2,
+          "ufo_contours": 2,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-Regular",
+          "glyph": "uni1DC7",
+          "ufo_codepoints": [
+            7623
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 2,
+          "ufo_contours": 2,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-SemiBold",
+          "glyph": "uni1DC7",
+          "ufo_codepoints": [
+            7623
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 2,
+          "ufo_contours": 2,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        },
+        {
+          "face": "Nambli-SemiBoldItalic",
+          "glyph": "uni1DC7",
+          "ufo_codepoints": [
+            7623
+          ],
+          "ufo_width": 0,
+          "ttf_width": 0,
+          "contours": 2,
+          "ufo_contours": 2,
+          "gdef_class": 3,
+          "features": {
+            "GSUB": [
+              "ccmp",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl",
+              "locl"
+            ],
+            "GPOS": [
+              "kern",
+              "mark",
+              "mkmk"
+            ]
+          }
+        }
+      ],
+      "required_clusters": [
+        "o᷇"
+      ]
+    }
+  ],
+  "warnings": [
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013D is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013D",
+            "glyph_id": 316,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013D is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni010F is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni010F",
+            "glyph_id": 282,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni010F is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013E is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013E",
+            "glyph_id": 317,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013E is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni0165 is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0165",
+            "glyph_id": 347,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni0165 is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "check_id": "math_signs_width",
+      "message": "The most common width is 620 among a set of 11  math glyphs.\nThe following math glyphs have a different width, though:\nwidth=590: uni003C, uni2264, uni003E, uni2265",
+      "severity": "WARN",
+      "code": "width-outliers"
+    },
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "check_id": "rupee",
+      "message": "Font is missing the Indian Rupee Sign glyph. Please add a glyph for Indian Rupee Sign (₹) at codepoint U+20B9.",
+      "severity": "WARN",
+      "code": "missing-rupee"
+    },
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "check_id": "unreachable_glyphs",
+      "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+      "severity": "WARN",
+      "code": "unreachable-glyphs",
+      "metadata": [
+        {
+          "FontProblem": {
+            "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+            "context": {
+              "unreachable_glyphs": [
+                ".null"
+              ],
+              "total_unreachable": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "check_id": "googlefonts/vendor_id",
+      "message": "OS/2 VendorID value 'NAMB' is not yet recognized.\nIf you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx\n",
+      "severity": "WARN",
+      "code": "unknown"
+    },
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "check_id": "googlefonts/vertical_metrics",
+      "message": "We recommend the absolute sum of the hhea metrics should be between 1.2-1.5x of the font's upm. This font has 1.6x (1600)",
+      "severity": "WARN",
+      "code": "bad-hhea-range"
+    },
+    {
+      "file": "Nambli-MediumItalic.ttf",
+      "check_id": "overlapping_path_segments",
+      "message": "The following glyphs have overlapping path segments:\n\n* uni02A3 (U+02A3): Quad(QuadBez { p0: (466.5, 79.5), p1: (466.0, 79.0), p2: (466.0, 79.0) }) has the same coordinates as a previous segment.",
+      "severity": "WARN",
+      "code": "overlapping-path-segments"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/consistent_with_fonts",
+      "message": "METADATA.pb family name field \"Nambli\" does not match correct family name \"Nambli Light\". This is a warning because the font is not a non-variable RIBBI.",
+      "severity": "WARN",
+      "code": "familyname-mismatch"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/consistent_with_fonts",
+      "message": "METADATA.pb family name field \"Nambli\" does not match correct family name \"Nambli Light\". This is a warning because the font is not a non-variable RIBBI.",
+      "severity": "WARN",
+      "code": "familyname-mismatch"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/consistent_with_fonts",
+      "message": "METADATA.pb family name field \"Nambli\" does not match correct family name \"Nambli Light\". This is a warning because the font is not a non-variable RIBBI.",
+      "severity": "WARN",
+      "code": "familyname-mismatch"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/consistent_with_fonts",
+      "message": "METADATA.pb family name field \"Nambli\" does not match correct family name \"Nambli Light\". This is a warning because the font is not a non-variable RIBBI.",
+      "severity": "WARN",
+      "code": "familyname-mismatch"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/consistent_with_fonts",
+      "message": "METADATA.pb family name field \"Nambli\" does not match correct family name \"Nambli Medium\". This is a warning because the font is not a non-variable RIBBI.",
+      "severity": "WARN",
+      "code": "familyname-mismatch"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/consistent_with_fonts",
+      "message": "METADATA.pb family name field \"Nambli\" does not match correct family name \"Nambli Medium\". This is a warning because the font is not a non-variable RIBBI.",
+      "severity": "WARN",
+      "code": "familyname-mismatch"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/consistent_with_fonts",
+      "message": "METADATA.pb family name field \"Nambli\" does not match correct family name \"Nambli Medium\". This is a warning because the font is not a non-variable RIBBI.",
+      "severity": "WARN",
+      "code": "familyname-mismatch"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/consistent_with_fonts",
+      "message": "METADATA.pb family name field \"Nambli\" does not match correct family name \"Nambli Medium\". This is a warning because the font is not a non-variable RIBBI.",
+      "severity": "WARN",
+      "code": "familyname-mismatch"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/consistent_with_fonts",
+      "message": "METADATA.pb family name field \"Nambli\" does not match correct family name \"Nambli SemiBold\". This is a warning because the font is not a non-variable RIBBI.",
+      "severity": "WARN",
+      "code": "familyname-mismatch"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/consistent_with_fonts",
+      "message": "METADATA.pb family name field \"Nambli\" does not match correct family name \"Nambli SemiBold\". This is a warning because the font is not a non-variable RIBBI.",
+      "severity": "WARN",
+      "code": "familyname-mismatch"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/consistent_with_fonts",
+      "message": "METADATA.pb family name field \"Nambli\" does not match correct family name \"Nambli SemiBold\". This is a warning because the font is not a non-variable RIBBI.",
+      "severity": "WARN",
+      "code": "familyname-mismatch"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/consistent_with_fonts",
+      "message": "METADATA.pb family name field \"Nambli\" does not match correct family name \"Nambli SemiBold\". This is a warning because the font is not a non-variable RIBBI.",
+      "severity": "WARN",
+      "code": "familyname-mismatch"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/consistent_with_fonts",
+      "message": "METADATA.pb family name field \"Nambli\" does not match correct family name \"Nambli ExtraBold\". This is a warning because the font is not a non-variable RIBBI.",
+      "severity": "WARN",
+      "code": "familyname-mismatch"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/consistent_with_fonts",
+      "message": "METADATA.pb family name field \"Nambli\" does not match correct family name \"Nambli ExtraBold\". This is a warning because the font is not a non-variable RIBBI.",
+      "severity": "WARN",
+      "code": "familyname-mismatch"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/consistent_with_fonts",
+      "message": "METADATA.pb family name field \"Nambli\" does not match correct family name \"Nambli ExtraBold\". This is a warning because the font is not a non-variable RIBBI.",
+      "severity": "WARN",
+      "code": "familyname-mismatch"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/consistent_with_fonts",
+      "message": "METADATA.pb family name field \"Nambli\" does not match correct family name \"Nambli ExtraBold\". This is a warning because the font is not a non-variable RIBBI.",
+      "severity": "WARN",
+      "code": "familyname-mismatch"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/unreachable_subsetting",
+      "message": "<QA>\\baseline\\ofl\\nambli\\Nambli-Bold.ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.\n\n* U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n* U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n* U+0305 COMBINING OVERLINE: try adding one of: gothic, math, coptic, elbasan, glagolitic\n* U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n* U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, coptic, todhri, math, malayalam, duployan, old-permic, tai-le, tifinagh, canadian-aboriginal, syriac\n* U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n... and 29 others\n\nOr you can add the above codepoints to one of the subsets supported by the font: cyrillic, latin, latin-ext, menu, vietnamese",
+      "severity": "WARN",
+      "code": "unreachable-subsetting"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/unreachable_subsetting",
+      "message": "<QA>\\baseline\\ofl\\nambli\\Nambli-BoldItalic.ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.\n\n* U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n* U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n* U+0305 COMBINING OVERLINE: try adding one of: gothic, math, coptic, elbasan, glagolitic\n* U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n* U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, coptic, todhri, math, malayalam, duployan, old-permic, tai-le, tifinagh, canadian-aboriginal, syriac\n* U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n... and 29 others\n\nOr you can add the above codepoints to one of the subsets supported by the font: cyrillic, latin, latin-ext, menu, vietnamese",
+      "severity": "WARN",
+      "code": "unreachable-subsetting"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/unreachable_subsetting",
+      "message": "<QA>\\baseline\\ofl\\nambli\\Nambli-ExtraBold.ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.\n\n* U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n* U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n* U+0305 COMBINING OVERLINE: try adding one of: gothic, math, coptic, elbasan, glagolitic\n* U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n* U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, coptic, todhri, math, malayalam, duployan, old-permic, tai-le, tifinagh, canadian-aboriginal, syriac\n* U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n... and 29 others\n\nOr you can add the above codepoints to one of the subsets supported by the font: cyrillic, latin, latin-ext, menu, vietnamese",
+      "severity": "WARN",
+      "code": "unreachable-subsetting"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/unreachable_subsetting",
+      "message": "<QA>\\baseline\\ofl\\nambli\\Nambli-ExtraBoldItalic.ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.\n\n* U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n* U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n* U+0305 COMBINING OVERLINE: try adding one of: gothic, math, coptic, elbasan, glagolitic\n* U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n* U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, coptic, todhri, math, malayalam, duployan, old-permic, tai-le, tifinagh, canadian-aboriginal, syriac\n* U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n... and 29 others\n\nOr you can add the above codepoints to one of the subsets supported by the font: cyrillic, latin, latin-ext, menu, vietnamese",
+      "severity": "WARN",
+      "code": "unreachable-subsetting"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/unreachable_subsetting",
+      "message": "<QA>\\baseline\\ofl\\nambli\\Nambli-Italic.ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.\n\n* U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n* U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n* U+0305 COMBINING OVERLINE: try adding one of: gothic, math, coptic, elbasan, glagolitic\n* U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n* U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, coptic, todhri, math, malayalam, duployan, old-permic, tai-le, tifinagh, canadian-aboriginal, syriac\n* U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n... and 29 others\n\nOr you can add the above codepoints to one of the subsets supported by the font: cyrillic, latin, latin-ext, menu, vietnamese",
+      "severity": "WARN",
+      "code": "unreachable-subsetting"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/unreachable_subsetting",
+      "message": "<QA>\\baseline\\ofl\\nambli\\Nambli-Light.ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.\n\n* U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n* U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n* U+0305 COMBINING OVERLINE: try adding one of: gothic, math, coptic, elbasan, glagolitic\n* U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n* U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, coptic, todhri, math, malayalam, duployan, old-permic, tai-le, tifinagh, canadian-aboriginal, syriac\n* U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n... and 29 others\n\nOr you can add the above codepoints to one of the subsets supported by the font: cyrillic, latin, latin-ext, menu, vietnamese",
+      "severity": "WARN",
+      "code": "unreachable-subsetting"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/unreachable_subsetting",
+      "message": "<QA>\\baseline\\ofl\\nambli\\Nambli-LightItalic.ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.\n\n* U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n* U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n* U+0305 COMBINING OVERLINE: try adding one of: gothic, math, coptic, elbasan, glagolitic\n* U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n* U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, coptic, todhri, math, malayalam, duployan, old-permic, tai-le, tifinagh, canadian-aboriginal, syriac\n* U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n... and 29 others\n\nOr you can add the above codepoints to one of the subsets supported by the font: cyrillic, latin, latin-ext, menu, vietnamese",
+      "severity": "WARN",
+      "code": "unreachable-subsetting"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/unreachable_subsetting",
+      "message": "<QA>\\baseline\\ofl\\nambli\\Nambli-Medium.ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.\n\n* U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n* U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n* U+0305 COMBINING OVERLINE: try adding one of: gothic, math, coptic, elbasan, glagolitic\n* U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n* U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, coptic, todhri, math, malayalam, duployan, old-permic, tai-le, tifinagh, canadian-aboriginal, syriac\n* U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n... and 29 others\n\nOr you can add the above codepoints to one of the subsets supported by the font: cyrillic, latin, latin-ext, menu, vietnamese",
+      "severity": "WARN",
+      "code": "unreachable-subsetting"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/unreachable_subsetting",
+      "message": "<QA>\\baseline\\ofl\\nambli\\Nambli-MediumItalic.ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.\n\n* U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n* U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n* U+0305 COMBINING OVERLINE: try adding one of: gothic, math, coptic, elbasan, glagolitic\n* U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n* U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, coptic, todhri, math, malayalam, duployan, old-permic, tai-le, tifinagh, canadian-aboriginal, syriac\n* U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n... and 29 others\n\nOr you can add the above codepoints to one of the subsets supported by the font: cyrillic, latin, latin-ext, menu, vietnamese",
+      "severity": "WARN",
+      "code": "unreachable-subsetting"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/unreachable_subsetting",
+      "message": "<QA>\\baseline\\ofl\\nambli\\Nambli-Regular.ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.\n\n* U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n* U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n* U+0305 COMBINING OVERLINE: try adding one of: gothic, math, coptic, elbasan, glagolitic\n* U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n* U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, coptic, todhri, math, malayalam, duployan, old-permic, tai-le, tifinagh, canadian-aboriginal, syriac\n* U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n... and 29 others\n\nOr you can add the above codepoints to one of the subsets supported by the font: cyrillic, latin, latin-ext, menu, vietnamese",
+      "severity": "WARN",
+      "code": "unreachable-subsetting"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/unreachable_subsetting",
+      "message": "<QA>\\baseline\\ofl\\nambli\\Nambli-SemiBold.ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.\n\n* U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n* U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n* U+0305 COMBINING OVERLINE: try adding one of: gothic, math, coptic, elbasan, glagolitic\n* U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n* U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, coptic, todhri, math, malayalam, duployan, old-permic, tai-le, tifinagh, canadian-aboriginal, syriac\n* U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n... and 29 others\n\nOr you can add the above codepoints to one of the subsets supported by the font: cyrillic, latin, latin-ext, menu, vietnamese",
+      "severity": "WARN",
+      "code": "unreachable-subsetting"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/metadata/unreachable_subsetting",
+      "message": "<QA>\\baseline\\ofl\\nambli\\Nambli-SemiBoldItalic.ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.\n\n* U+02D8 BREVE: try adding one of: yi, canadian-aboriginal\n* U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi\n* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi\n* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math\n* U+0305 COMBINING OVERLINE: try adding one of: gothic, math, coptic, elbasan, glagolitic\n* U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh\n* U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, coptic, todhri, math, malayalam, duployan, old-permic, tai-le, tifinagh, canadian-aboriginal, syriac\n* U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac\n* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee\n... and 29 others\n\nOr you can add the above codepoints to one of the subsets supported by the font: cyrillic, latin, latin-ext, menu, vietnamese",
+      "severity": "WARN",
+      "code": "unreachable-subsetting"
+    },
+    {
+      "file": "nambli",
+      "check_id": "googlefonts/article/images",
+      "message": "Article page lacks visual assets.",
+      "severity": "WARN",
+      "code": "missing-visual-asset"
+    },
+    {
+      "file": "METADATA.pb",
+      "check_id": "googlefonts/metadata/designer_profiles",
+      "message": "It seems that yuriitor is still not listed on the designers catalog. Please submit a photo and a link to a webpage where people can learn more about the work of this designer/typefoundry.",
+      "severity": "WARN",
+      "code": "profile-not-found"
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "check_id": "outline_colinear_vectors",
+      "message": "The following glyphs have colinear vectors:\n\n* uni043A (U+043A): from (242.0, 410.0) to (249.0, 414.0) is colinear with segment from (249.0, 414.0) to (413.0, 524.0)\n* uni0414 (U+0414): from (263.0, 304.0) to (244.0, 183.0) is colinear with segment from (244.0, 183.0) to (237.0, 146.0)\n* uni045C (U+045C): from (242.0, 410.0) to (249.0, 414.0) is colinear with segment from (249.0, 414.0) to (413.0, 524.0)\n* uni2C64 (U+2C64): from (429.0, 127.0) to (363.0, 200.0) is colinear with segment from (363.0, 200.0) to (308.0, 260.0)\n* uni2C72 (U+2C72): from (837.0, 592.0) to (829.0, 565.0) is colinear with segment from (829.0, 565.0) to (824.0, 545.0)\n* uni2C72 (U+2C72): from (829.0, 565.0) to (824.0, 545.0) is colinear with segment from (824.0, 545.0) to (818.0, 522.0)\n* uni2C73 (U+2C73): from (269.0, 259.0) to (348.0, 428.0) is colinear with segment from (348.0, 428.0) to (355.0, 440.0)",
+      "severity": "WARN",
+      "code": "found-colinear-vectors",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni043A (U+043A)",
+            "glyph_id": 74,
+            "position": [
+              249.0,
+              414.0
+            ],
+            "actual": {
+              "p0": [
+                242.0,
+                410.0
+              ],
+              "p1": [
+                249.0,
+                414.0
+              ],
+              "p2": [
+                413.0,
+                524.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0414 (U+0414)",
+            "glyph_id": 82,
+            "position": [
+              244.0,
+              183.0
+            ],
+            "actual": {
+              "p0": [
+                263.0,
+                304.0
+              ],
+              "p1": [
+                244.0,
+                183.0
+              ],
+              "p2": [
+                237.0,
+                146.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni045C (U+045C)",
+            "glyph_id": 614,
+            "position": [
+              249.0,
+              414.0
+            ],
+            "actual": {
+              "p0": [
+                242.0,
+                410.0
+              ],
+              "p1": [
+                249.0,
+                414.0
+              ],
+              "p2": [
+                413.0,
+                524.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C64 (U+2C64)",
+            "glyph_id": 973,
+            "position": [
+              363.0,
+              200.0
+            ],
+            "actual": {
+              "p0": [
+                429.0,
+                127.0
+              ],
+              "p1": [
+                363.0,
+                200.0
+              ],
+              "p2": [
+                308.0,
+                260.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              829.0,
+              565.0
+            ],
+            "actual": {
+              "p0": [
+                837.0,
+                592.0
+              ],
+              "p1": [
+                829.0,
+                565.0
+              ],
+              "p2": [
+                824.0,
+                545.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              824.0,
+              545.0
+            ],
+            "actual": {
+              "p0": [
+                829.0,
+                565.0
+              ],
+              "p1": [
+                824.0,
+                545.0
+              ],
+              "p2": [
+                818.0,
+                522.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C73 (U+2C73)",
+            "glyph_id": 976,
+            "position": [
+              348.0,
+              428.0
+            ],
+            "actual": {
+              "p0": [
+                269.0,
+                259.0
+              ],
+              "p1": [
+                348.0,
+                428.0
+              ],
+              "p2": [
+                355.0,
+                440.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "check_id": "googlefonts/vendor_id",
+      "message": "OS/2 VendorID value 'NAMB' is not yet recognized.\nIf you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx\n",
+      "severity": "WARN",
+      "code": "unknown"
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "check_id": "googlefonts/vertical_metrics",
+      "message": "We recommend the absolute sum of the hhea metrics should be between 1.2-1.5x of the font's upm. This font has 1.6x (1600)",
+      "severity": "WARN",
+      "code": "bad-hhea-range"
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013D is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013D",
+            "glyph_id": 316,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013D is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "check_id": "alt_caron",
+      "message": "uni010F is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni010F",
+            "glyph_id": 282,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni010F is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013E is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013E",
+            "glyph_id": 317,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013E is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "check_id": "alt_caron",
+      "message": "uni0165 is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0165",
+            "glyph_id": 347,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni0165 is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "check_id": "math_signs_width",
+      "message": "The most common width is 620 among a set of 11  math glyphs.\nThe following math glyphs have a different width, though:\nwidth=590: uni2265, uni003E, uni2264, uni003C",
+      "severity": "WARN",
+      "code": "width-outliers"
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "check_id": "rupee",
+      "message": "Font is missing the Indian Rupee Sign glyph. Please add a glyph for Indian Rupee Sign (₹) at codepoint U+20B9.",
+      "severity": "WARN",
+      "code": "missing-rupee"
+    },
+    {
+      "file": "Nambli-ExtraBold.ttf",
+      "check_id": "unreachable_glyphs",
+      "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+      "severity": "WARN",
+      "code": "unreachable-glyphs",
+      "metadata": [
+        {
+          "FontProblem": {
+            "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+            "context": {
+              "unreachable_glyphs": [
+                ".null"
+              ],
+              "total_unreachable": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "check_id": "googlefonts/vendor_id",
+      "message": "OS/2 VendorID value 'NAMB' is not yet recognized.\nIf you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx\n",
+      "severity": "WARN",
+      "code": "unknown"
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "check_id": "googlefonts/vertical_metrics",
+      "message": "We recommend the absolute sum of the hhea metrics should be between 1.2-1.5x of the font's upm. This font has 1.6x (1600)",
+      "severity": "WARN",
+      "code": "bad-hhea-range"
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "check_id": "outline_colinear_vectors",
+      "message": "The following glyphs have colinear vectors:\n\n* uni043A (U+043A): from (253.0, 377.0) to (264.0, 384.0) is colinear with segment from (264.0, 384.0) to (457.0, 508.0)\n* uni0414 (U+0414): from (205.0, 312.0) to (184.0, 180.0) is colinear with segment from (184.0, 180.0) to (176.0, 140.0)\n* uni042F (U+042F): from (489.0, 384.0) to (358.0, 254.0) is colinear with segment from (358.0, 254.0) to (114.0, 12.0)\n* uni045C (U+045C): from (253.0, 377.0) to (264.0, 384.0) is colinear with segment from (264.0, 384.0) to (457.0, 508.0)\n* uni2C64 (U+2C64): from (453.0, 150.0) to (407.0, 200.0) is colinear with segment from (407.0, 200.0) to (336.0, 276.0)\n* uni2C72 (U+2C72): from (664.0, 259.0) to (747.0, 565.0) is colinear with segment from (747.0, 565.0) to (761.0, 619.0)\n* uni2C72 (U+2C72): from (828.0, 601.0) to (810.0, 535.0) is colinear with segment from (810.0, 535.0) to (674.0, 27.0)\n* uni2C72 (U+2C72): from (226.0, 27.0) to (48.0, 690.0) is colinear with segment from (48.0, 690.0) to (46.0, 698.0)\n* uni2C73 (U+2C73): from (739.0, 388.0) to (738.0, 384.0) is colinear with segment from (738.0, 384.0) to (609.0, 25.0)",
+      "severity": "WARN",
+      "code": "found-colinear-vectors",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni043A (U+043A)",
+            "glyph_id": 74,
+            "position": [
+              264.0,
+              384.0
+            ],
+            "actual": {
+              "p0": [
+                253.0,
+                377.0
+              ],
+              "p1": [
+                264.0,
+                384.0
+              ],
+              "p2": [
+                457.0,
+                508.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0414 (U+0414)",
+            "glyph_id": 82,
+            "position": [
+              184.0,
+              180.0
+            ],
+            "actual": {
+              "p0": [
+                205.0,
+                312.0
+              ],
+              "p1": [
+                184.0,
+                180.0
+              ],
+              "p2": [
+                176.0,
+                140.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni042F (U+042F)",
+            "glyph_id": 118,
+            "position": [
+              358.0,
+              254.0
+            ],
+            "actual": {
+              "p0": [
+                489.0,
+                384.0
+              ],
+              "p1": [
+                358.0,
+                254.0
+              ],
+              "p2": [
+                114.0,
+                12.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni045C (U+045C)",
+            "glyph_id": 614,
+            "position": [
+              264.0,
+              384.0
+            ],
+            "actual": {
+              "p0": [
+                253.0,
+                377.0
+              ],
+              "p1": [
+                264.0,
+                384.0
+              ],
+              "p2": [
+                457.0,
+                508.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C64 (U+2C64)",
+            "glyph_id": 973,
+            "position": [
+              407.0,
+              200.0
+            ],
+            "actual": {
+              "p0": [
+                453.0,
+                150.0
+              ],
+              "p1": [
+                407.0,
+                200.0
+              ],
+              "p2": [
+                336.0,
+                276.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              747.0,
+              565.0
+            ],
+            "actual": {
+              "p0": [
+                664.0,
+                259.0
+              ],
+              "p1": [
+                747.0,
+                565.0
+              ],
+              "p2": [
+                761.0,
+                619.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              810.0,
+              535.0
+            ],
+            "actual": {
+              "p0": [
+                828.0,
+                601.0
+              ],
+              "p1": [
+                810.0,
+                535.0
+              ],
+              "p2": [
+                674.0,
+                27.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              48.0,
+              690.0
+            ],
+            "actual": {
+              "p0": [
+                226.0,
+                27.0
+              ],
+              "p1": [
+                48.0,
+                690.0
+              ],
+              "p2": [
+                46.0,
+                698.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C73 (U+2C73)",
+            "glyph_id": 976,
+            "position": [
+              738.0,
+              384.0
+            ],
+            "actual": {
+              "p0": [
+                739.0,
+                388.0
+              ],
+              "p1": [
+                738.0,
+                384.0
+              ],
+              "p2": [
+                609.0,
+                25.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013D is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013D",
+            "glyph_id": 316,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013D is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "check_id": "alt_caron",
+      "message": "uni010F is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni010F",
+            "glyph_id": 282,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni010F is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013E is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013E",
+            "glyph_id": 317,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013E is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "check_id": "alt_caron",
+      "message": "uni0165 is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0165",
+            "glyph_id": 347,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni0165 is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "check_id": "math_signs_width",
+      "message": "The most common width is 620 among a set of 11  math glyphs.\nThe following math glyphs have a different width, though:\nwidth=590: uni2264, uni003E, uni003C, uni2265",
+      "severity": "WARN",
+      "code": "width-outliers"
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "check_id": "rupee",
+      "message": "Font is missing the Indian Rupee Sign glyph. Please add a glyph for Indian Rupee Sign (₹) at codepoint U+20B9.",
+      "severity": "WARN",
+      "code": "missing-rupee"
+    },
+    {
+      "file": "Nambli-Light.ttf",
+      "check_id": "unreachable_glyphs",
+      "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+      "severity": "WARN",
+      "code": "unreachable-glyphs",
+      "metadata": [
+        {
+          "FontProblem": {
+            "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+            "context": {
+              "unreachable_glyphs": [
+                ".null"
+              ],
+              "total_unreachable": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "check_id": "googlefonts/vendor_id",
+      "message": "OS/2 VendorID value 'NAMB' is not yet recognized.\nIf you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx\n",
+      "severity": "WARN",
+      "code": "unknown"
+    },
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "check_id": "googlefonts/vertical_metrics",
+      "message": "We recommend the absolute sum of the hhea metrics should be between 1.2-1.5x of the font's upm. This font has 1.6x (1600)",
+      "severity": "WARN",
+      "code": "bad-hhea-range"
+    },
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013D is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013D",
+            "glyph_id": 316,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013D is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni010F is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni010F",
+            "glyph_id": 282,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni010F is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013E is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013E",
+            "glyph_id": 317,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013E is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni0165 is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0165",
+            "glyph_id": 347,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni0165 is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "check_id": "math_signs_width",
+      "message": "The most common width is 620 among a set of 11  math glyphs.\nThe following math glyphs have a different width, though:\nwidth=590: uni2265, uni003E, uni2264, uni003C",
+      "severity": "WARN",
+      "code": "width-outliers"
+    },
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "check_id": "rupee",
+      "message": "Font is missing the Indian Rupee Sign glyph. Please add a glyph for Indian Rupee Sign (₹) at codepoint U+20B9.",
+      "severity": "WARN",
+      "code": "missing-rupee"
+    },
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "check_id": "unreachable_glyphs",
+      "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+      "severity": "WARN",
+      "code": "unreachable-glyphs",
+      "metadata": [
+        {
+          "FontProblem": {
+            "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+            "context": {
+              "unreachable_glyphs": [
+                ".null"
+              ],
+              "total_unreachable": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-LightItalic.ttf",
+      "check_id": "outline_jaggy_segments",
+      "message": "The following glyphs have jaggy segments:\n\n* uni00B6 (U+00B6): Line(Line { p0: (441.0, 49.0), p1: (524.0, 517.0) })/Quad(QuadBez { p0: (524.0, 517.0), p1: (519.0, 498.0), p2: (509.5, 480.5) }) = 4.686701821222458 degrees\n* uni00B6 (U+00B6): Quad(QuadBez { p0: (526.0, 583.0), p1: (530.0, 564.0), p2: (528.0, 543.0) })/Line(Line { p0: (528.0, 543.0), p1: (542.0, 619.0) }) = 4.997143320112695 degrees",
+      "severity": "WARN",
+      "code": "found-jaggy-segments",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni00B6 (U+00B6)",
+            "glyph_id": 905,
+            "position": [
+              509.5,
+              480.5
+            ],
+            "actual": {
+              "prev_seg_start": [
+                441.0,
+                49.0
+              ],
+              "prev_seg_end": [
+                524.0,
+                517.0
+              ],
+              "cur_seg_start": [
+                509.5,
+                480.5
+              ],
+              "cur_seg_end": [
+                509.5,
+                480.5
+              ],
+              "jag_angle_degrees": 4.686701821222458
+            },
+            "message": "Jaggy segment found"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni00B6 (U+00B6)",
+            "glyph_id": 905,
+            "position": [
+              542.0,
+              619.0
+            ],
+            "actual": {
+              "prev_seg_start": [
+                526.0,
+                583.0
+              ],
+              "prev_seg_end": [
+                528.0,
+                543.0
+              ],
+              "cur_seg_start": [
+                542.0,
+                619.0
+              ],
+              "cur_seg_end": [
+                542.0,
+                619.0
+              ],
+              "jag_angle_degrees": 4.997143320112695
+            },
+            "message": "Jaggy segment found"
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013D is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013D",
+            "glyph_id": 316,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013D is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "check_id": "alt_caron",
+      "message": "uni010F is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni010F",
+            "glyph_id": 282,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni010F is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013E is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013E",
+            "glyph_id": 317,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013E is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "check_id": "alt_caron",
+      "message": "uni0165 is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0165",
+            "glyph_id": 347,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni0165 is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "check_id": "math_signs_width",
+      "message": "The most common width is 620 among a set of 11  math glyphs.\nThe following math glyphs have a different width, though:\nwidth=590: uni003C, uni2264, uni2265, uni003E",
+      "severity": "WARN",
+      "code": "width-outliers"
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "check_id": "rupee",
+      "message": "Font is missing the Indian Rupee Sign glyph. Please add a glyph for Indian Rupee Sign (₹) at codepoint U+20B9.",
+      "severity": "WARN",
+      "code": "missing-rupee"
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "check_id": "unreachable_glyphs",
+      "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+      "severity": "WARN",
+      "code": "unreachable-glyphs",
+      "metadata": [
+        {
+          "FontProblem": {
+            "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+            "context": {
+              "unreachable_glyphs": [
+                ".null"
+              ],
+              "total_unreachable": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "check_id": "googlefonts/vendor_id",
+      "message": "OS/2 VendorID value 'NAMB' is not yet recognized.\nIf you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx\n",
+      "severity": "WARN",
+      "code": "unknown"
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "check_id": "googlefonts/vertical_metrics",
+      "message": "We recommend the absolute sum of the hhea metrics should be between 1.2-1.5x of the font's upm. This font has 1.6x (1600)",
+      "severity": "WARN",
+      "code": "bad-hhea-range"
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "check_id": "outline_colinear_vectors",
+      "message": "The following glyphs have colinear vectors:\n\n* uni2C64 (U+2C64): from (434.0, 132.0) to (372.0, 200.0) is colinear with segment from (372.0, 200.0) to (315.0, 263.0)\n* uni2C72 (U+2C72): from (834.0, 594.0) to (827.0, 565.0) is colinear with segment from (827.0, 565.0) to (821.0, 546.0)\n* uni2C72 (U+2C72): from (827.0, 565.0) to (821.0, 546.0) is colinear with segment from (821.0, 546.0) to (815.0, 524.0)\n* uni2C73 (U+2C73): from (44.0, 477.0) to (48.0, 489.0) is colinear with segment from (48.0, 489.0) to (53.0, 501.0)\n* uni2C73 (U+2C73): from (197.0, 41.0) to (48.0, 439.0) is colinear with segment from (48.0, 439.0) to (44.0, 451.0)",
+      "severity": "WARN",
+      "code": "found-colinear-vectors",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C64 (U+2C64)",
+            "glyph_id": 973,
+            "position": [
+              372.0,
+              200.0
+            ],
+            "actual": {
+              "p0": [
+                434.0,
+                132.0
+              ],
+              "p1": [
+                372.0,
+                200.0
+              ],
+              "p2": [
+                315.0,
+                263.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              827.0,
+              565.0
+            ],
+            "actual": {
+              "p0": [
+                834.0,
+                594.0
+              ],
+              "p1": [
+                827.0,
+                565.0
+              ],
+              "p2": [
+                821.0,
+                546.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              821.0,
+              546.0
+            ],
+            "actual": {
+              "p0": [
+                827.0,
+                565.0
+              ],
+              "p1": [
+                821.0,
+                546.0
+              ],
+              "p2": [
+                815.0,
+                524.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C73 (U+2C73)",
+            "glyph_id": 976,
+            "position": [
+              48.0,
+              489.0
+            ],
+            "actual": {
+              "p0": [
+                44.0,
+                477.0
+              ],
+              "p1": [
+                48.0,
+                489.0
+              ],
+              "p2": [
+                53.0,
+                501.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C73 (U+2C73)",
+            "glyph_id": 976,
+            "position": [
+              48.0,
+              439.0
+            ],
+            "actual": {
+              "p0": [
+                197.0,
+                41.0
+              ],
+              "p1": [
+                48.0,
+                439.0
+              ],
+              "p2": [
+                44.0,
+                451.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "check_id": "outline_jaggy_segments",
+      "message": "The following glyphs have jaggy segments:\n\n* uniA7C8 (U+A7C8): Quad(QuadBez { p0: (183.0, 300.0), p1: (183.0, 301.0), p2: (183.0, 302.0) })/Quad(QuadBez { p0: (183.0, 302.0), p1: (181.0, 293.0), p2: (179.5, 284.0) }) = 12.528807709151492 degrees",
+      "severity": "WARN",
+      "code": "found-jaggy-segments",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uniA7C8 (U+A7C8)",
+            "glyph_id": 987,
+            "position": [
+              179.5,
+              284.0
+            ],
+            "actual": {
+              "prev_seg_start": [
+                183.0,
+                300.0
+              ],
+              "prev_seg_end": [
+                183.0,
+                302.0
+              ],
+              "cur_seg_start": [
+                179.5,
+                284.0
+              ],
+              "cur_seg_end": [
+                179.5,
+                284.0
+              ],
+              "jag_angle_degrees": 12.528807709151492
+            },
+            "message": "Jaggy segment found"
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Bold.ttf",
+      "check_id": "overlapping_path_segments",
+      "message": "The following glyphs have overlapping path segments:\n\n* uni02A6 (U+02A6): Quad(QuadBez { p0: (391.0, 69.5), p1: (391.0, 70.0), p2: (391.0, 69.0) }) has the same coordinates as a previous segment.",
+      "severity": "WARN",
+      "code": "overlapping-path-segments"
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "check_id": "outline_jaggy_segments",
+      "message": "The following glyphs have jaggy segments:\n\n* uniA7C8 (U+A7C8): Quad(QuadBez { p0: (235.0, 358.0), p1: (219.0, 345.0), p2: (208.0, 329.0) })/Quad(QuadBez { p0: (208.0, 329.0), p1: (209.0, 330.0), p2: (211.0, 331.0) }) = 10.491477012331634 degrees",
+      "severity": "WARN",
+      "code": "found-jaggy-segments",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uniA7C8 (U+A7C8)",
+            "glyph_id": 987,
+            "position": [
+              211.0,
+              331.0
+            ],
+            "actual": {
+              "prev_seg_start": [
+                235.0,
+                358.0
+              ],
+              "prev_seg_end": [
+                208.0,
+                329.0
+              ],
+              "cur_seg_start": [
+                211.0,
+                331.0
+              ],
+              "cur_seg_end": [
+                211.0,
+                331.0
+              ],
+              "jag_angle_degrees": 10.491477012331634
+            },
+            "message": "Jaggy segment found"
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013D is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013D",
+            "glyph_id": 316,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013D is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni010F is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni010F",
+            "glyph_id": 282,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni010F is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013E is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013E",
+            "glyph_id": 317,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013E is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni0165 is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0165",
+            "glyph_id": 347,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni0165 is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "check_id": "math_signs_width",
+      "message": "The most common width is 620 among a set of 11  math glyphs.\nThe following math glyphs have a different width, though:\nwidth=590: uni003C, uni2265, uni2264, uni003E",
+      "severity": "WARN",
+      "code": "width-outliers"
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "check_id": "rupee",
+      "message": "Font is missing the Indian Rupee Sign glyph. Please add a glyph for Indian Rupee Sign (₹) at codepoint U+20B9.",
+      "severity": "WARN",
+      "code": "missing-rupee"
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "check_id": "unreachable_glyphs",
+      "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+      "severity": "WARN",
+      "code": "unreachable-glyphs",
+      "metadata": [
+        {
+          "FontProblem": {
+            "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+            "context": {
+              "unreachable_glyphs": [
+                ".null"
+              ],
+              "total_unreachable": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "check_id": "googlefonts/vendor_id",
+      "message": "OS/2 VendorID value 'NAMB' is not yet recognized.\nIf you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx\n",
+      "severity": "WARN",
+      "code": "unknown"
+    },
+    {
+      "file": "Nambli-BoldItalic.ttf",
+      "check_id": "googlefonts/vertical_metrics",
+      "message": "We recommend the absolute sum of the hhea metrics should be between 1.2-1.5x of the font's upm. This font has 1.6x (1600)",
+      "severity": "WARN",
+      "code": "bad-hhea-range"
+    },
+    {
+      "file": "Nambli-ExtraBoldItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013D is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013D",
+            "glyph_id": 316,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013D is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBoldItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni010F is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni010F",
+            "glyph_id": 282,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni010F is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBoldItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013E is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013E",
+            "glyph_id": 317,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013E is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBoldItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni0165 is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0165",
+            "glyph_id": 347,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni0165 is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBoldItalic.ttf",
+      "check_id": "math_signs_width",
+      "message": "The most common width is 620 among a set of 11  math glyphs.\nThe following math glyphs have a different width, though:\nwidth=590: uni2265, uni003C, uni003E, uni2264",
+      "severity": "WARN",
+      "code": "width-outliers"
+    },
+    {
+      "file": "Nambli-ExtraBoldItalic.ttf",
+      "check_id": "rupee",
+      "message": "Font is missing the Indian Rupee Sign glyph. Please add a glyph for Indian Rupee Sign (₹) at codepoint U+20B9.",
+      "severity": "WARN",
+      "code": "missing-rupee"
+    },
+    {
+      "file": "Nambli-ExtraBoldItalic.ttf",
+      "check_id": "unreachable_glyphs",
+      "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+      "severity": "WARN",
+      "code": "unreachable-glyphs",
+      "metadata": [
+        {
+          "FontProblem": {
+            "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+            "context": {
+              "unreachable_glyphs": [
+                ".null"
+              ],
+              "total_unreachable": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-ExtraBoldItalic.ttf",
+      "check_id": "googlefonts/vendor_id",
+      "message": "OS/2 VendorID value 'NAMB' is not yet recognized.\nIf you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx\n",
+      "severity": "WARN",
+      "code": "unknown"
+    },
+    {
+      "file": "Nambli-ExtraBoldItalic.ttf",
+      "check_id": "googlefonts/vertical_metrics",
+      "message": "We recommend the absolute sum of the hhea metrics should be between 1.2-1.5x of the font's upm. This font has 1.6x (1600)",
+      "severity": "WARN",
+      "code": "bad-hhea-range"
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013D is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013D",
+            "glyph_id": 316,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013D is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "check_id": "alt_caron",
+      "message": "uni010F is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni010F",
+            "glyph_id": 282,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni010F is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013E is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013E",
+            "glyph_id": 317,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013E is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "check_id": "alt_caron",
+      "message": "uni0165 is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0165",
+            "glyph_id": 347,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni0165 is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "check_id": "math_signs_width",
+      "message": "The most common width is 620 among a set of 11  math glyphs.\nThe following math glyphs have a different width, though:\nwidth=590: uni003C, uni003E, uni2265, uni2264",
+      "severity": "WARN",
+      "code": "width-outliers"
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "check_id": "rupee",
+      "message": "Font is missing the Indian Rupee Sign glyph. Please add a glyph for Indian Rupee Sign (₹) at codepoint U+20B9.",
+      "severity": "WARN",
+      "code": "missing-rupee"
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "check_id": "unreachable_glyphs",
+      "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+      "severity": "WARN",
+      "code": "unreachable-glyphs",
+      "metadata": [
+        {
+          "FontProblem": {
+            "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+            "context": {
+              "unreachable_glyphs": [
+                ".null"
+              ],
+              "total_unreachable": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "check_id": "googlefonts/vendor_id",
+      "message": "OS/2 VendorID value 'NAMB' is not yet recognized.\nIf you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx\n",
+      "severity": "WARN",
+      "code": "unknown"
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "check_id": "googlefonts/vertical_metrics",
+      "message": "We recommend the absolute sum of the hhea metrics should be between 1.2-1.5x of the font's upm. This font has 1.6x (1600)",
+      "severity": "WARN",
+      "code": "bad-hhea-range"
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "check_id": "outline_colinear_vectors",
+      "message": "The following glyphs have colinear vectors:\n\n* uni043A (U+043A): from (244.0, 397.0) to (254.0, 403.0) is colinear with segment from (254.0, 403.0) to (429.0, 518.0)\n* uni0414 (U+0414): from (242.0, 307.0) to (222.0, 182.0) is colinear with segment from (222.0, 182.0) to (215.0, 144.0)\n* uni042F (U+042F): from (443.0, 330.0) to (375.0, 257.0) is colinear with segment from (375.0, 257.0) to (374.0, 256.0)\n* uni042F (U+042F): from (375.0, 257.0) to (374.0, 256.0) is colinear with segment from (374.0, 256.0) to (152.0, 19.0)\n* uni045C (U+045C): from (244.0, 397.0) to (254.0, 403.0) is colinear with segment from (254.0, 403.0) to (429.0, 518.0)\n* uni2C64 (U+2C64): from (437.0, 135.0) to (378.0, 200.0) is colinear with segment from (378.0, 200.0) to (327.0, 257.0)\n* uni2C72 (U+2C72): from (833.0, 595.0) to (825.0, 565.0) is colinear with segment from (825.0, 565.0) to (823.0, 556.0)\n* uni2C72 (U+2C72): from (825.0, 565.0) to (823.0, 556.0) is colinear with segment from (823.0, 556.0) to (814.0, 526.0)",
+      "severity": "WARN",
+      "code": "found-colinear-vectors",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni043A (U+043A)",
+            "glyph_id": 74,
+            "position": [
+              254.0,
+              403.0
+            ],
+            "actual": {
+              "p0": [
+                244.0,
+                397.0
+              ],
+              "p1": [
+                254.0,
+                403.0
+              ],
+              "p2": [
+                429.0,
+                518.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0414 (U+0414)",
+            "glyph_id": 82,
+            "position": [
+              222.0,
+              182.0
+            ],
+            "actual": {
+              "p0": [
+                242.0,
+                307.0
+              ],
+              "p1": [
+                222.0,
+                182.0
+              ],
+              "p2": [
+                215.0,
+                144.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni042F (U+042F)",
+            "glyph_id": 118,
+            "position": [
+              375.0,
+              257.0
+            ],
+            "actual": {
+              "p0": [
+                443.0,
+                330.0
+              ],
+              "p1": [
+                375.0,
+                257.0
+              ],
+              "p2": [
+                374.0,
+                256.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni042F (U+042F)",
+            "glyph_id": 118,
+            "position": [
+              374.0,
+              256.0
+            ],
+            "actual": {
+              "p0": [
+                375.0,
+                257.0
+              ],
+              "p1": [
+                374.0,
+                256.0
+              ],
+              "p2": [
+                152.0,
+                19.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni045C (U+045C)",
+            "glyph_id": 614,
+            "position": [
+              254.0,
+              403.0
+            ],
+            "actual": {
+              "p0": [
+                244.0,
+                397.0
+              ],
+              "p1": [
+                254.0,
+                403.0
+              ],
+              "p2": [
+                429.0,
+                518.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C64 (U+2C64)",
+            "glyph_id": 973,
+            "position": [
+              378.0,
+              200.0
+            ],
+            "actual": {
+              "p0": [
+                437.0,
+                135.0
+              ],
+              "p1": [
+                378.0,
+                200.0
+              ],
+              "p2": [
+                327.0,
+                257.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              825.0,
+              565.0
+            ],
+            "actual": {
+              "p0": [
+                833.0,
+                595.0
+              ],
+              "p1": [
+                825.0,
+                565.0
+              ],
+              "p2": [
+                823.0,
+                556.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              823.0,
+              556.0
+            ],
+            "actual": {
+              "p0": [
+                825.0,
+                565.0
+              ],
+              "p1": [
+                823.0,
+                556.0
+              ],
+              "p2": [
+                814.0,
+                526.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-SemiBold.ttf",
+      "check_id": "overlapping_path_segments",
+      "message": "The following glyphs have overlapping path segments:\n\n* uni02A3 (U+02A3): Quad(QuadBez { p0: (497.0, 77.0), p1: (497.0, 77.0), p2: (497.0, 77.5) }) has the same coordinates as a previous segment.",
+      "severity": "WARN",
+      "code": "overlapping-path-segments"
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "check_id": "googlefonts/vendor_id",
+      "message": "OS/2 VendorID value 'NAMB' is not yet recognized.\nIf you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx\n",
+      "severity": "WARN",
+      "code": "unknown"
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "check_id": "googlefonts/vertical_metrics",
+      "message": "We recommend the absolute sum of the hhea metrics should be between 1.2-1.5x of the font's upm. This font has 1.6x (1600)",
+      "severity": "WARN",
+      "code": "bad-hhea-range"
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013D is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013D",
+            "glyph_id": 316,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013D is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "check_id": "alt_caron",
+      "message": "uni010F is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni010F",
+            "glyph_id": 282,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni010F is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013E is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013E",
+            "glyph_id": 317,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013E is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "check_id": "alt_caron",
+      "message": "uni0165 is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0165",
+            "glyph_id": 347,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni0165 is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "check_id": "math_signs_width",
+      "message": "The most common width is 620 among a set of 11  math glyphs.\nThe following math glyphs have a different width, though:\nwidth=590: uni2265, uni003E, uni2264, uni003C",
+      "severity": "WARN",
+      "code": "width-outliers"
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "check_id": "rupee",
+      "message": "Font is missing the Indian Rupee Sign glyph. Please add a glyph for Indian Rupee Sign (₹) at codepoint U+20B9.",
+      "severity": "WARN",
+      "code": "missing-rupee"
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "check_id": "unreachable_glyphs",
+      "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+      "severity": "WARN",
+      "code": "unreachable-glyphs",
+      "metadata": [
+        {
+          "FontProblem": {
+            "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+            "context": {
+              "unreachable_glyphs": [
+                ".null"
+              ],
+              "total_unreachable": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Regular.ttf",
+      "check_id": "outline_colinear_vectors",
+      "message": "The following glyphs have colinear vectors:\n\n* uni043A (U+043A): from (249.0, 386.0) to (260.0, 393.0) is colinear with segment from (260.0, 393.0) to (444.0, 512.0)\n* uni0414 (U+0414): from (222.0, 309.0) to (201.0, 181.0) is colinear with segment from (201.0, 181.0) to (194.0, 142.0)\n* uni045C (U+045C): from (249.0, 386.0) to (260.0, 393.0) is colinear with segment from (260.0, 393.0) to (444.0, 512.0)\n* uni2C64 (U+2C64): from (446.0, 143.0) to (393.0, 200.0) is colinear with segment from (393.0, 200.0) to (328.0, 271.0)\n* uni2C72 (U+2C72): from (648.0, 266.0) to (726.0, 552.0) is colinear with segment from (726.0, 552.0) to (730.0, 565.0)\n* uni2C72 (U+2C72): from (726.0, 552.0) to (730.0, 565.0) is colinear with segment from (730.0, 565.0) to (745.0, 622.0)\n* uni2C73 (U+2C73): from (587.0, 224.0) to (652.0, 402.0) is colinear with segment from (652.0, 402.0) to (656.0, 412.0)\n* uni2C73 (U+2C73): from (652.0, 402.0) to (656.0, 412.0) is colinear with segment from (656.0, 412.0) to (657.0, 415.0)",
+      "severity": "WARN",
+      "code": "found-colinear-vectors",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni043A (U+043A)",
+            "glyph_id": 74,
+            "position": [
+              260.0,
+              393.0
+            ],
+            "actual": {
+              "p0": [
+                249.0,
+                386.0
+              ],
+              "p1": [
+                260.0,
+                393.0
+              ],
+              "p2": [
+                444.0,
+                512.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0414 (U+0414)",
+            "glyph_id": 82,
+            "position": [
+              201.0,
+              181.0
+            ],
+            "actual": {
+              "p0": [
+                222.0,
+                309.0
+              ],
+              "p1": [
+                201.0,
+                181.0
+              ],
+              "p2": [
+                194.0,
+                142.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni045C (U+045C)",
+            "glyph_id": 614,
+            "position": [
+              260.0,
+              393.0
+            ],
+            "actual": {
+              "p0": [
+                249.0,
+                386.0
+              ],
+              "p1": [
+                260.0,
+                393.0
+              ],
+              "p2": [
+                444.0,
+                512.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C64 (U+2C64)",
+            "glyph_id": 973,
+            "position": [
+              393.0,
+              200.0
+            ],
+            "actual": {
+              "p0": [
+                446.0,
+                143.0
+              ],
+              "p1": [
+                393.0,
+                200.0
+              ],
+              "p2": [
+                328.0,
+                271.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              726.0,
+              552.0
+            ],
+            "actual": {
+              "p0": [
+                648.0,
+                266.0
+              ],
+              "p1": [
+                726.0,
+                552.0
+              ],
+              "p2": [
+                730.0,
+                565.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              730.0,
+              565.0
+            ],
+            "actual": {
+              "p0": [
+                726.0,
+                552.0
+              ],
+              "p1": [
+                730.0,
+                565.0
+              ],
+              "p2": [
+                745.0,
+                622.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C73 (U+2C73)",
+            "glyph_id": 976,
+            "position": [
+              652.0,
+              402.0
+            ],
+            "actual": {
+              "p0": [
+                587.0,
+                224.0
+              ],
+              "p1": [
+                652.0,
+                402.0
+              ],
+              "p2": [
+                656.0,
+                412.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C73 (U+2C73)",
+            "glyph_id": 976,
+            "position": [
+              656.0,
+              412.0
+            ],
+            "actual": {
+              "p0": [
+                652.0,
+                402.0
+              ],
+              "p1": [
+                656.0,
+                412.0
+              ],
+              "p2": [
+                657.0,
+                415.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Italic.ttf",
+      "check_id": "googlefonts/vendor_id",
+      "message": "OS/2 VendorID value 'NAMB' is not yet recognized.\nIf you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx\n",
+      "severity": "WARN",
+      "code": "unknown"
+    },
+    {
+      "file": "Nambli-Italic.ttf",
+      "check_id": "googlefonts/vertical_metrics",
+      "message": "We recommend the absolute sum of the hhea metrics should be between 1.2-1.5x of the font's upm. This font has 1.6x (1600)",
+      "severity": "WARN",
+      "code": "bad-hhea-range"
+    },
+    {
+      "file": "Nambli-Italic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013D is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013D",
+            "glyph_id": 316,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013D is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Italic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni010F is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni010F",
+            "glyph_id": 282,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni010F is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Italic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013E is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013E",
+            "glyph_id": 317,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013E is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Italic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni0165 is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0165",
+            "glyph_id": 347,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni0165 is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Italic.ttf",
+      "check_id": "math_signs_width",
+      "message": "The most common width is 620 among a set of 11  math glyphs.\nThe following math glyphs have a different width, though:\nwidth=590: uni2265, uni003C, uni2264, uni003E",
+      "severity": "WARN",
+      "code": "width-outliers"
+    },
+    {
+      "file": "Nambli-Italic.ttf",
+      "check_id": "rupee",
+      "message": "Font is missing the Indian Rupee Sign glyph. Please add a glyph for Indian Rupee Sign (₹) at codepoint U+20B9.",
+      "severity": "WARN",
+      "code": "missing-rupee"
+    },
+    {
+      "file": "Nambli-Italic.ttf",
+      "check_id": "unreachable_glyphs",
+      "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+      "severity": "WARN",
+      "code": "unreachable-glyphs",
+      "metadata": [
+        {
+          "FontProblem": {
+            "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+            "context": {
+              "unreachable_glyphs": [
+                ".null"
+              ],
+              "total_unreachable": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013D is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013D",
+            "glyph_id": 316,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013D is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni010F is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni010F",
+            "glyph_id": 282,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni010F is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013E is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013E",
+            "glyph_id": 317,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013E is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "check_id": "alt_caron",
+      "message": "uni0165 is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0165",
+            "glyph_id": 347,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni0165 is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "check_id": "math_signs_width",
+      "message": "The most common width is 620 among a set of 11  math glyphs.\nThe following math glyphs have a different width, though:\nwidth=590: uni003C, uni003E, uni2264, uni2265",
+      "severity": "WARN",
+      "code": "width-outliers"
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "check_id": "rupee",
+      "message": "Font is missing the Indian Rupee Sign glyph. Please add a glyph for Indian Rupee Sign (₹) at codepoint U+20B9.",
+      "severity": "WARN",
+      "code": "missing-rupee"
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "check_id": "unreachable_glyphs",
+      "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+      "severity": "WARN",
+      "code": "unreachable-glyphs",
+      "metadata": [
+        {
+          "FontProblem": {
+            "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+            "context": {
+              "unreachable_glyphs": [
+                ".null"
+              ],
+              "total_unreachable": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "check_id": "overlapping_path_segments",
+      "message": "The following glyphs have overlapping path segments:\n\n* uni02A3 (U+02A3): Quad(QuadBez { p0: (464.0, 77.0), p1: (464.0, 77.0), p2: (464.0, 77.5) }) has the same coordinates as a previous segment.",
+      "severity": "WARN",
+      "code": "overlapping-path-segments"
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "check_id": "googlefonts/vendor_id",
+      "message": "OS/2 VendorID value 'NAMB' is not yet recognized.\nIf you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx\n",
+      "severity": "WARN",
+      "code": "unknown"
+    },
+    {
+      "file": "Nambli-SemiBoldItalic.ttf",
+      "check_id": "googlefonts/vertical_metrics",
+      "message": "We recommend the absolute sum of the hhea metrics should be between 1.2-1.5x of the font's upm. This font has 1.6x (1600)",
+      "severity": "WARN",
+      "code": "bad-hhea-range"
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013D is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013D",
+            "glyph_id": 316,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013D is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "check_id": "alt_caron",
+      "message": "uni010F is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni010F",
+            "glyph_id": 282,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni010F is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "check_id": "alt_caron",
+      "message": "uni013E is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni013E",
+            "glyph_id": 317,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni013E is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "check_id": "alt_caron",
+      "message": "uni0165 is decomposed and therefore could not be checked. Please check manually.",
+      "severity": "WARN",
+      "code": "decomposed-outline",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0165",
+            "glyph_id": 347,
+            "actual": {
+              "outline_type": "simple"
+            },
+            "message": "uni0165 is decomposed and therefore could not be checked. Please check manually."
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "check_id": "math_signs_width",
+      "message": "The most common width is 620 among a set of 11  math glyphs.\nThe following math glyphs have a different width, though:\nwidth=590: uni2264, uni003E, uni003C, uni2265",
+      "severity": "WARN",
+      "code": "width-outliers"
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "check_id": "rupee",
+      "message": "Font is missing the Indian Rupee Sign glyph. Please add a glyph for Indian Rupee Sign (₹) at codepoint U+20B9.",
+      "severity": "WARN",
+      "code": "missing-rupee"
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "check_id": "unreachable_glyphs",
+      "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+      "severity": "WARN",
+      "code": "unreachable-glyphs",
+      "metadata": [
+        {
+          "FontProblem": {
+            "message": "The following glyphs could not be reached by codepoint or substitution rules:\n\n* .null",
+            "context": {
+              "unreachable_glyphs": [
+                ".null"
+              ],
+              "total_unreachable": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "check_id": "outline_colinear_vectors",
+      "message": "The following glyphs have colinear vectors:\n\n* uni043A (U+043A): from (246.0, 392.0) to (256.0, 399.0) is colinear with segment from (256.0, 399.0) to (435.0, 516.0)\n* uni0414 (U+0414): from (234.0, 308.0) to (214.0, 182.0) is colinear with segment from (214.0, 182.0) to (207.0, 143.0)\n* uni045C (U+045C): from (246.0, 392.0) to (256.0, 399.0) is colinear with segment from (256.0, 399.0) to (435.0, 516.0)\n* uni2C64 (U+2C64): from (440.0, 138.0) to (384.0, 200.0) is colinear with segment from (384.0, 200.0) to (336.0, 253.0)\n* uni2C72 (U+2C72): from (637.0, 271.0) to (714.0, 554.0) is colinear with segment from (714.0, 554.0) to (717.0, 565.0)\n* uni2C72 (U+2C72): from (714.0, 554.0) to (717.0, 565.0) is colinear with segment from (717.0, 565.0) to (733.0, 624.0)\n* uni2C72 (U+2C72): from (833.0, 596.0) to (824.0, 565.0) is colinear with segment from (824.0, 565.0) to (822.0, 556.0)\n* uni2C72 (U+2C72): from (824.0, 565.0) to (822.0, 556.0) is colinear with segment from (822.0, 556.0) to (814.0, 527.0)\n* uni2C72 (U+2C72): from (222.0, 30.0) to (219.0, 40.0) is colinear with segment from (219.0, 40.0) to (48.0, 668.0)\n... and 1 others",
+      "severity": "WARN",
+      "code": "found-colinear-vectors",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni043A (U+043A)",
+            "glyph_id": 74,
+            "position": [
+              256.0,
+              399.0
+            ],
+            "actual": {
+              "p0": [
+                246.0,
+                392.0
+              ],
+              "p1": [
+                256.0,
+                399.0
+              ],
+              "p2": [
+                435.0,
+                516.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni0414 (U+0414)",
+            "glyph_id": 82,
+            "position": [
+              214.0,
+              182.0
+            ],
+            "actual": {
+              "p0": [
+                234.0,
+                308.0
+              ],
+              "p1": [
+                214.0,
+                182.0
+              ],
+              "p2": [
+                207.0,
+                143.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni045C (U+045C)",
+            "glyph_id": 614,
+            "position": [
+              256.0,
+              399.0
+            ],
+            "actual": {
+              "p0": [
+                246.0,
+                392.0
+              ],
+              "p1": [
+                256.0,
+                399.0
+              ],
+              "p2": [
+                435.0,
+                516.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C64 (U+2C64)",
+            "glyph_id": 973,
+            "position": [
+              384.0,
+              200.0
+            ],
+            "actual": {
+              "p0": [
+                440.0,
+                138.0
+              ],
+              "p1": [
+                384.0,
+                200.0
+              ],
+              "p2": [
+                336.0,
+                253.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              714.0,
+              554.0
+            ],
+            "actual": {
+              "p0": [
+                637.0,
+                271.0
+              ],
+              "p1": [
+                714.0,
+                554.0
+              ],
+              "p2": [
+                717.0,
+                565.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              717.0,
+              565.0
+            ],
+            "actual": {
+              "p0": [
+                714.0,
+                554.0
+              ],
+              "p1": [
+                717.0,
+                565.0
+              ],
+              "p2": [
+                733.0,
+                624.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              824.0,
+              565.0
+            ],
+            "actual": {
+              "p0": [
+                833.0,
+                596.0
+              ],
+              "p1": [
+                824.0,
+                565.0
+              ],
+              "p2": [
+                822.0,
+                556.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              822.0,
+              556.0
+            ],
+            "actual": {
+              "p0": [
+                824.0,
+                565.0
+              ],
+              "p1": [
+                822.0,
+                556.0
+              ],
+              "p2": [
+                814.0,
+                527.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              219.0,
+              40.0
+            ],
+            "actual": {
+              "p0": [
+                222.0,
+                30.0
+              ],
+              "p1": [
+                219.0,
+                40.0
+              ],
+              "p2": [
+                48.0,
+                668.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        },
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni2C72 (U+2C72)",
+            "glyph_id": 975,
+            "position": [
+              48.0,
+              668.0
+            ],
+            "actual": {
+              "p0": [
+                219.0,
+                40.0
+              ],
+              "p1": [
+                48.0,
+                668.0
+              ],
+              "p2": [
+                46.0,
+                678.0
+              ]
+            },
+            "message": "Colinear vector"
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "check_id": "outline_jaggy_segments",
+      "message": "The following glyphs have jaggy segments:\n\n* uni1D7D (U+1D7D): Quad(QuadBez { p0: (419.0, 168.0), p1: (419.0, 166.0), p2: (418.0, 165.0) })/Quad(QuadBez { p0: (418.0, 165.0), p1: (437.0, 185.0), p2: (448.0, 210.0) }) = 1.4688007143861963 degrees",
+      "severity": "WARN",
+      "code": "found-jaggy-segments",
+      "metadata": [
+        {
+          "GlyphProblem": {
+            "glyph_name": "uni1D7D (U+1D7D)",
+            "glyph_id": 961,
+            "position": [
+              448.0,
+              210.0
+            ],
+            "actual": {
+              "prev_seg_start": [
+                419.0,
+                168.0
+              ],
+              "prev_seg_end": [
+                418.0,
+                165.0
+              ],
+              "cur_seg_start": [
+                448.0,
+                210.0
+              ],
+              "cur_seg_end": [
+                448.0,
+                210.0
+              ],
+              "jag_angle_degrees": 1.4688007143861963
+            },
+            "message": "Jaggy segment found"
+          }
+        }
+      ]
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "check_id": "googlefonts/vendor_id",
+      "message": "OS/2 VendorID value 'NAMB' is not yet recognized.\nIf you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx\n",
+      "severity": "WARN",
+      "code": "unknown"
+    },
+    {
+      "file": "Nambli-Medium.ttf",
+      "check_id": "googlefonts/vertical_metrics",
+      "message": "We recommend the absolute sum of the hhea metrics should be between 1.2-1.5x of the font's upm. This font has 1.6x (1600)",
+      "severity": "WARN",
+      "code": "bad-hhea-range"
+    }
+  ]
+}

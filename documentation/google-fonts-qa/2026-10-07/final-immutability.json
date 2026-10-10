@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "baseline_files_unchanged": 24,
+  "published_release_assets_sha256": {
+    "google-fonts-package-qa.json": "e9bbafdd9ce097731ac1fd8e4c005f8b076496fdf93dfb9cb287b2ca1eb7436f",
+    "Nambli-1.0.0.zip": "1acdf98f0604474e867975c559ec9b782cf143b064bc6708c636cb98b4cdf946",
+    "package-validation.json": "dab0a0cd1fbb2de89518660c8673eaf4e9c8be9ca2508e29ce08c142a7c67a84",
+    "release-manifest.json": "c0a411930a99fab2dd875c494a26528fcc501f74dbdef2fd3331d8f34897a019",
+    "RELEASE-NOTES.md": "9b9805fb63e936d79c5a68a576f8215f0a0ef50d66bb600625671bd69d33ad9c",
+    "SHA256SUMS.txt": "c8721eecd5c12211cb4eac340ccb8932f2cf40f0cf95222d2356440366cb39dc"
+  },
+  "published_release_assets_unchanged": true,
+  "local_only_receipts_not_published": [
+    "publication-receipt.json",
+    "site-live-verification.json"
+  ],
+  "tag": "v1.0.0",
+  "tag_commit": "7492b115b65043f99475c65374ff7cad39543cfa",
+  "approved_primary_sources_and_fonts_unchanged": true,
+  "google_package_commit": "61b4ac3f08aaf42ef24aa1ad4a6a09faf3c54576",
+  "committed_package_matches_tested_index": true,
+  "package_files": 19,
+  "original_native_reports_unchanged": true,
+  "public_evidence_has_no_personal_paths": true,
+  "website_deployment_performed": false
+}

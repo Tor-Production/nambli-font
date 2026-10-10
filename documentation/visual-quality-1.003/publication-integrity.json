@@ -1,0 +1,381 @@
+{
+  "scope": "Validate current saved fonts and masters against prior verified build/adoption reports; no new Google Fonts QA is claimed",
+  "fontFiles": [
+    {
+      "file": "fonts/candidates/1.003/ttf/Nambli-Bold.ttf",
+      "sha256": "6f584c5b3d94da09ca35e19ae367f1cc4b8bca92b6e33561179b18827558d25d",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/webfonts/Nambli-Bold.woff2",
+      "sha256": "69e91856661224c812d32aa662b63dc628f3181820769adafa797fc5b03c6988",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/ttf/Nambli-BoldItalic.ttf",
+      "sha256": "bf74792775573c38d47bb82be903bc35e74fcc7ba8588c1c781bcb9fce5769c3",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/webfonts/Nambli-BoldItalic.woff2",
+      "sha256": "f7e4a04045051f587f96db1d1ec5fa666c94801d0e645cfe74b6a31418719a97",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/ttf/Nambli-ExtraBold.ttf",
+      "sha256": "1a0bbd0cdd59ee28fc1a6fa123e449d3ee69a919328041eded280dd5f6a9c983",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/webfonts/Nambli-ExtraBold.woff2",
+      "sha256": "758b095c8a11d21c970bddfb82c17caf14241d9f1b254efdccc9226a8c2ca8bd",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/ttf/Nambli-ExtraBoldItalic.ttf",
+      "sha256": "f59c1f8b5d9825a878820efedbbd10e92bf7e18cb02b1075ae2d797eae19afd1",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/webfonts/Nambli-ExtraBoldItalic.woff2",
+      "sha256": "f25f21b818dba66ec288c3a5065500fa73355af90a2ac2f7ef08daeab9a52a40",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/ttf/Nambli-Italic.ttf",
+      "sha256": "ac4e66943c1e19d81f771548bd7376cc040e2f3b532a761ffcd10ca132c0a499",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/webfonts/Nambli-Italic.woff2",
+      "sha256": "11cf1a8a64caae75d9c94a41936be774a245c130598bef57283cc89c31af1440",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/ttf/Nambli-Light.ttf",
+      "sha256": "f5502e2ea0a911af3c3d7cf98158541422015692168d3cfd50929de830b4c294",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/webfonts/Nambli-Light.woff2",
+      "sha256": "c29c70a8030c371e0bea27b358caeac80d280a1d3c5ffa9b97a599eee887b87b",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/ttf/Nambli-LightItalic.ttf",
+      "sha256": "3ef8fb200ba92646e52eb09aada82717b005fb9b800b53fc622b6cc35ccfe87f",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/webfonts/Nambli-LightItalic.woff2",
+      "sha256": "20f64eec85d276c66bf4d1265b637df3e0c2eabe5337a0f102a66bd9da630ece",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/ttf/Nambli-Medium.ttf",
+      "sha256": "ed0ee06c872b16253f96a5ef2e1009bd7156ba51a489358ac79fa6de87f78770",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/webfonts/Nambli-Medium.woff2",
+      "sha256": "bee41b209e0d7696ce47885e4cf826cad2a260a163f893537fadc1d21251c121",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/ttf/Nambli-MediumItalic.ttf",
+      "sha256": "0cf9fb0c83f97fad6be42323bcf04046c8e2e7487630d3a6374b684c7317c4cb",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/webfonts/Nambli-MediumItalic.woff2",
+      "sha256": "396b8c7c84770a217c4d46d3a99557f74f87684bbb92084e358162f82ac91d09",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/ttf/Nambli-Regular.ttf",
+      "sha256": "ac88bcdd9ccc2cba9e7f2e7286ce60b352ac17a25746b429a308adb2b1056fcb",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/webfonts/Nambli-Regular.woff2",
+      "sha256": "5a72478bb36d3bd651b3ba481aded4801302e2782d570ea8995ab33c996e4ae3",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/ttf/Nambli-SemiBold.ttf",
+      "sha256": "db210f480ec8f4a6dec73fb1f6c3e33715b98eecbcd6e16e5e9d198c4246ae84",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/webfonts/Nambli-SemiBold.woff2",
+      "sha256": "3ee3d09671e747d2becccadd13f033882299241313addd5012b0bce9087fd1df",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/ttf/Nambli-SemiBoldItalic.ttf",
+      "sha256": "eaa86716662c9158616bc1138394b7cf75c84acec01f7ab811b9ab22f52a8269",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    },
+    {
+      "file": "fonts/candidates/1.003/webfonts/Nambli-SemiBoldItalic.woff2",
+      "sha256": "72cc9f74f13e8e994f4a61fc1cdef41d262680e73f7ea4d697ad7a97c2177fb8",
+      "matchesVerifiedBuild": true,
+      "headVersion": 1.003,
+      "nameVersion": [
+        "Version 1.003"
+      ],
+      "glyphs": 998,
+      "cmap": 970
+    }
+  ],
+  "sourceFaces": [
+    {
+      "face": "Nambli-Bold.ufo",
+      "version": [
+        1,
+        3
+      ]
+    },
+    {
+      "face": "Nambli-BoldItalic.ufo",
+      "version": [
+        1,
+        3
+      ]
+    },
+    {
+      "face": "Nambli-ExtraBold.ufo",
+      "version": [
+        1,
+        3
+      ]
+    },
+    {
+      "face": "Nambli-ExtraBoldItalic.ufo",
+      "version": [
+        1,
+        3
+      ]
+    },
+    {
+      "face": "Nambli-Italic.ufo",
+      "version": [
+        1,
+        3
+      ]
+    },
+    {
+      "face": "Nambli-Light.ufo",
+      "version": [
+        1,
+        3
+      ]
+    },
+    {
+      "face": "Nambli-LightItalic.ufo",
+      "version": [
+        1,
+        3
+      ]
+    },
+    {
+      "face": "Nambli-Medium.ufo",
+      "version": [
+        1,
+        3
+      ]
+    },
+    {
+      "face": "Nambli-MediumItalic.ufo",
+      "version": [
+        1,
+        3
+      ]
+    },
+    {
+      "face": "Nambli-Regular.ufo",
+      "version": [
+        1,
+        3
+      ]
+    },
+    {
+      "face": "Nambli-SemiBold.ufo",
+      "version": [
+        1,
+        3
+      ]
+    },
+    {
+      "face": "Nambli-SemiBoldItalic.ufo",
+      "version": [
+        1,
+        3
+      ]
+    }
+  ],
+  "toolHashes": [
+    {
+      "file": "revise_body_design.py",
+      "matchesRecordedHash": true
+    },
+    {
+      "file": "refine_selective_diacritics.py",
+      "matchesRecordedHash": true
+    },
+    {
+      "file": "validate_owner_revision.py",
+      "matchesRecordedHash": true
+    },
+    {
+      "file": "make_owner_revision_review.py",
+      "matchesRecordedHash": true
+    },
+    {
+      "file": "audit_visual_quality.py",
+      "matchesRecordedHash": true
+    }
+  ],
+  "failures": [],
+  "sourceFiles": 12060,
+  "sourceHashMismatches": [],
+  "status": "PASS"
+}
