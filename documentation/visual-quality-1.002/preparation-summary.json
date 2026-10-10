@@ -1,0 +1,1198 @@
+{
+  "version": "1.002",
+  "familyWindowsClipping": [
+    1200,
+    400
+  ],
+  "faces": [
+    {
+      "font": "Nambli-Bold",
+      "version": "1.002",
+      "glyphs": 998,
+      "changedGlyphCount": 866,
+      "outlineReasons": {
+        "already_smooth": 364,
+        "bounded_shared_tangent_refit": 942
+      },
+      "quantizedG1Repairs": 6897,
+      "inkYBounds": [
+        -321,
+        1173.7
+      ],
+      "windowsClippingBefore": [
+        1200,
+        400
+      ],
+      "windowsClippingAfter": [
+        1200,
+        400
+      ],
+      "advanceChanges": {},
+      "cache": {
+        "hits": 846,
+        "misses": 462,
+        "maxsize": 24000,
+        "currsize": 462
+      },
+      "seconds": 118.19
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "version": "1.002",
+      "glyphs": 998,
+      "changedGlyphCount": 868,
+      "outlineReasons": {
+        "already_smooth": 169,
+        "bounded_shared_tangent_refit": 1137
+      },
+      "quantizedG1Repairs": 9350,
+      "inkYBounds": [
+        -322,
+        1174.2857142857142
+      ],
+      "windowsClippingBefore": [
+        1200,
+        400
+      ],
+      "windowsClippingAfter": [
+        1200,
+        400
+      ],
+      "advanceChanges": {},
+      "cache": {
+        "hits": 813,
+        "misses": 493,
+        "maxsize": 24000,
+        "currsize": 493
+      },
+      "seconds": 176.91
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "version": "1.002",
+      "glyphs": 998,
+      "changedGlyphCount": 867,
+      "outlineReasons": {
+        "already_smooth": 270,
+        "bounded_shared_tangent_refit": 1035
+      },
+      "quantizedG1Repairs": 6683,
+      "inkYBounds": [
+        -326,
+        1175.7
+      ],
+      "windowsClippingBefore": [
+        1200,
+        400
+      ],
+      "windowsClippingAfter": [
+        1200,
+        400
+      ],
+      "advanceChanges": {},
+      "cache": {
+        "hits": 823,
+        "misses": 482,
+        "maxsize": 24000,
+        "currsize": 482
+      },
+      "seconds": 128.14
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "version": "1.002",
+      "glyphs": 998,
+      "changedGlyphCount": 868,
+      "outlineReasons": {
+        "already_smooth": 203,
+        "bounded_shared_tangent_refit": 1101,
+        "tiny_contour_preserved": 1
+      },
+      "quantizedG1Repairs": 9090,
+      "inkYBounds": [
+        -326,
+        1175.7931034482758
+      ],
+      "windowsClippingBefore": [
+        1200,
+        400
+      ],
+      "windowsClippingAfter": [
+        1200,
+        400
+      ],
+      "advanceChanges": {},
+      "cache": {
+        "hits": 811,
+        "misses": 506,
+        "maxsize": 24000,
+        "currsize": 506
+      },
+      "seconds": 211.26
+    },
+    {
+      "font": "Nambli-Italic",
+      "version": "1.002",
+      "glyphs": 998,
+      "changedGlyphCount": 868,
+      "outlineReasons": {
+        "already_smooth": 200,
+        "bounded_shared_tangent_refit": 1106
+      },
+      "quantizedG1Repairs": 9360,
+      "inkYBounds": [
+        -311,
+        1170.2857142857142
+      ],
+      "windowsClippingBefore": [
+        1200,
+        400
+      ],
+      "windowsClippingAfter": [
+        1200,
+        400
+      ],
+      "advanceChanges": {},
+      "cache": {
+        "hits": 1652,
+        "misses": 962,
+        "maxsize": 24000,
+        "currsize": 962
+      },
+      "seconds": 175.34
+    },
+    {
+      "font": "Nambli-Light",
+      "version": "1.002",
+      "glyphs": 998,
+      "changedGlyphCount": 867,
+      "outlineReasons": {
+        "already_smooth": 316,
+        "bounded_shared_tangent_refit": 991
+      },
+      "quantizedG1Repairs": 7343,
+      "inkYBounds": [
+        -304,
+        1167.7
+      ],
+      "windowsClippingBefore": [
+        1200,
+        400
+      ],
+      "windowsClippingAfter": [
+        1200,
+        400
+      ],
+      "advanceChanges": {},
+      "cache": {
+        "hits": 1651,
+        "misses": 961,
+        "maxsize": 24000,
+        "currsize": 961
+      },
+      "seconds": 113.12
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "version": "1.002",
+      "glyphs": 998,
+      "changedGlyphCount": 868,
+      "outlineReasons": {
+        "already_smooth": 215,
+        "bounded_shared_tangent_refit": 1093
+      },
+      "quantizedG1Repairs": 9281,
+      "inkYBounds": [
+        -304,
+        1167.7
+      ],
+      "windowsClippingBefore": [
+        1200,
+        400
+      ],
+      "windowsClippingAfter": [
+        1200,
+        400
+      ],
+      "advanceChanges": {},
+      "cache": {
+        "hits": 1627,
+        "misses": 987,
+        "maxsize": 24000,
+        "currsize": 987
+      },
+      "seconds": 180.46
+    },
+    {
+      "font": "Nambli-Medium",
+      "version": "1.002",
+      "glyphs": 998,
+      "changedGlyphCount": 867,
+      "outlineReasons": {
+        "already_smooth": 344,
+        "bounded_shared_tangent_refit": 963
+      },
+      "quantizedG1Repairs": 7335,
+      "inkYBounds": [
+        -315,
+        1171.7
+      ],
+      "windowsClippingBefore": [
+        1200,
+        400
+      ],
+      "windowsClippingAfter": [
+        1200,
+        400
+      ],
+      "advanceChanges": {},
+      "cache": {
+        "hits": 1636,
+        "misses": 988,
+        "maxsize": 24000,
+        "currsize": 988
+      },
+      "seconds": 116.52
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "version": "1.002",
+      "glyphs": 998,
+      "changedGlyphCount": 868,
+      "outlineReasons": {
+        "already_smooth": 242,
+        "bounded_shared_tangent_refit": 1063,
+        "boundary_limit_rejected": 1
+      },
+      "quantizedG1Repairs": 9270,
+      "inkYBounds": [
+        -316,
+        1171.7
+      ],
+      "windowsClippingBefore": [
+        1200,
+        400
+      ],
+      "windowsClippingAfter": [
+        1200,
+        400
+      ],
+      "advanceChanges": {},
+      "cache": {
+        "hits": 2460,
+        "misses": 1458,
+        "maxsize": 24000,
+        "currsize": 1458
+      },
+      "seconds": 176.64
+    },
+    {
+      "font": "Nambli-Regular",
+      "version": "1.002",
+      "glyphs": 998,
+      "changedGlyphCount": 867,
+      "outlineReasons": {
+        "already_smooth": 344,
+        "bounded_shared_tangent_refit": 962
+      },
+      "quantizedG1Repairs": 7333,
+      "inkYBounds": [
+        -310,
+        1169.7
+      ],
+      "windowsClippingBefore": [
+        1200,
+        400
+      ],
+      "windowsClippingAfter": [
+        1200,
+        400
+      ],
+      "advanceChanges": {},
+      "cache": {
+        "hits": 2480,
+        "misses": 1440,
+        "maxsize": 24000,
+        "currsize": 1440
+      },
+      "seconds": 114.9
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "version": "1.002",
+      "glyphs": 998,
+      "changedGlyphCount": 867,
+      "outlineReasons": {
+        "already_smooth": 325,
+        "bounded_shared_tangent_refit": 980,
+        "boundary_limit_rejected": 1
+      },
+      "quantizedG1Repairs": 6459,
+      "inkYBounds": [
+        -318,
+        1172.7
+      ],
+      "windowsClippingBefore": [
+        1200,
+        400
+      ],
+      "windowsClippingAfter": [
+        1200,
+        400
+      ],
+      "advanceChanges": {},
+      "cache": {
+        "hits": 2471,
+        "misses": 1459,
+        "maxsize": 24000,
+        "currsize": 1459
+      },
+      "seconds": 117.91
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "version": "1.002",
+      "glyphs": 998,
+      "changedGlyphCount": 868,
+      "outlineReasons": {
+        "already_smooth": 179,
+        "bounded_shared_tangent_refit": 1127
+      },
+      "quantizedG1Repairs": 8182,
+      "inkYBounds": [
+        -319,
+        1173.2857142857142
+      ],
+      "windowsClippingBefore": [
+        1200,
+        400
+      ],
+      "windowsClippingAfter": [
+        1200,
+        400
+      ],
+      "advanceChanges": {},
+      "cache": {
+        "hits": 2445,
+        "misses": 1475,
+        "maxsize": 24000,
+        "currsize": 1475
+      },
+      "seconds": 176.4
+    }
+  ],
+  "postPreparationRepairs": [
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni002A",
+      "movement": 1.0
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni0180",
+      "movement": 0.8570726066710015
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni01B4",
+      "movement": 0.6559898284343374
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uniA7C8",
+      "movement": 0.9397185906282385
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni00B6",
+      "movement": 1.7593938199759402
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni042F",
+      "movement": 0.7907916585376609
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni01A5",
+      "movement": 1.4939783421181438
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uniA7C8",
+      "movement": 0.75
+    }
+  ],
+  "belowmarkGapRepairs": [
+    {
+      "font": "Nambli-Bold",
+      "glyph": "uni1E01"
+    },
+    {
+      "font": "Nambli-Bold",
+      "glyph": "uni1E05"
+    },
+    {
+      "font": "Nambli-Bold",
+      "glyph": "uni1E07"
+    },
+    {
+      "font": "Nambli-Bold",
+      "glyph": "uni1E0D"
+    },
+    {
+      "font": "Nambli-Bold",
+      "glyph": "uni1E0F"
+    },
+    {
+      "font": "Nambli-Bold",
+      "glyph": "uni1E13"
+    },
+    {
+      "font": "Nambli-Bold",
+      "glyph": "uni1E19"
+    },
+    {
+      "font": "Nambli-Bold",
+      "glyph": "uni1E1B"
+    },
+    {
+      "font": "Nambli-Bold",
+      "glyph": "uni1EA1"
+    },
+    {
+      "font": "Nambli-Bold",
+      "glyph": "uni1EAD"
+    },
+    {
+      "font": "Nambli-Bold",
+      "glyph": "uni1EB7"
+    },
+    {
+      "font": "Nambli-Bold",
+      "glyph": "uni1EB9"
+    },
+    {
+      "font": "Nambli-Bold",
+      "glyph": "uni1EC7"
+    },
+    {
+      "font": "Nambli-Bold",
+      "glyph": "uni1ECD"
+    },
+    {
+      "font": "Nambli-Bold",
+      "glyph": "uni1ED9"
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni1E01"
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni1E05"
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni1E07"
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni1E0D"
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni1E0F"
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni1E13"
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni1E19"
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni1E1B"
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni1EA1"
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni1EAD"
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni1EB7"
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni1EB9"
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni1EC7"
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni1ECD"
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni1ED9"
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "glyph": "uni1E01"
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "glyph": "uni1E05"
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "glyph": "uni1E07"
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "glyph": "uni1E0D"
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "glyph": "uni1E0F"
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "glyph": "uni1E13"
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "glyph": "uni1E19"
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "glyph": "uni1E1B"
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "glyph": "uni1EA1"
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "glyph": "uni1EAD"
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "glyph": "uni1EB7"
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "glyph": "uni1EB9"
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "glyph": "uni1EC7"
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "glyph": "uni1ECD"
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "glyph": "uni1ED9"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni1E01"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni1E05"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni1E07"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni1E0D"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni1E0F"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni1E13"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni1E19"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni1E1B"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni1EA1"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni1EAD"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni1EB7"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni1EB9"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni1EC7"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni1ECD"
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni1ED9"
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uni1E01"
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uni1E05"
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uni1E07"
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uni1E0D"
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uni1E0F"
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uni1E13"
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uni1E19"
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uni1E1B"
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uni1EA1"
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uni1EAD"
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uni1EB7"
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uni1EB9"
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uni1EC7"
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uni1ECD"
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uni1ED9"
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni1E01"
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni1E05"
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni1E07"
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni1E0D"
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni1E0F"
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni1E13"
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni1E19"
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni1E1B"
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni1EA1"
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni1EAD"
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni1EB7"
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni1EB9"
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni1EC7"
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni1ECD"
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni1ED9"
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni1E01"
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni1E05"
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni1E07"
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni1E0D"
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni1E0F"
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni1E13"
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni1E19"
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni1E1B"
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni1EA1"
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni1EAD"
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni1EB7"
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni1EB9"
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni1EC7"
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni1ECD"
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni1ED9"
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni1E01"
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni1E05"
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni1E07"
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni1E0D"
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni1E0F"
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni1E13"
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni1E19"
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni1E1B"
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni1EA1"
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni1EAD"
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni1EB7"
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni1EB9"
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni1EC7"
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni1ECD"
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni1ED9"
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni1E01"
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni1E05"
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni1E07"
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni1E0D"
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni1E0F"
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni1E13"
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni1E19"
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni1E1B"
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni1EA1"
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni1EAD"
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni1EB7"
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni1EB9"
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni1EC7"
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni1ECD"
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni1ED9"
+    },
+    {
+      "font": "Nambli-Regular",
+      "glyph": "uni1E01"
+    },
+    {
+      "font": "Nambli-Regular",
+      "glyph": "uni1E05"
+    },
+    {
+      "font": "Nambli-Regular",
+      "glyph": "uni1E07"
+    },
+    {
+      "font": "Nambli-Regular",
+      "glyph": "uni1E0D"
+    },
+    {
+      "font": "Nambli-Regular",
+      "glyph": "uni1E0F"
+    },
+    {
+      "font": "Nambli-Regular",
+      "glyph": "uni1E13"
+    },
+    {
+      "font": "Nambli-Regular",
+      "glyph": "uni1E19"
+    },
+    {
+      "font": "Nambli-Regular",
+      "glyph": "uni1E1B"
+    },
+    {
+      "font": "Nambli-Regular",
+      "glyph": "uni1EA1"
+    },
+    {
+      "font": "Nambli-Regular",
+      "glyph": "uni1EAD"
+    },
+    {
+      "font": "Nambli-Regular",
+      "glyph": "uni1EB7"
+    },
+    {
+      "font": "Nambli-Regular",
+      "glyph": "uni1EB9"
+    },
+    {
+      "font": "Nambli-Regular",
+      "glyph": "uni1EC7"
+    },
+    {
+      "font": "Nambli-Regular",
+      "glyph": "uni1ECD"
+    },
+    {
+      "font": "Nambli-Regular",
+      "glyph": "uni1ED9"
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni1E01"
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni1E05"
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni1E07"
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni1E0D"
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni1E0F"
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni1E13"
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni1E19"
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni1E1B"
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni1EA1"
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni1EAD"
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni1EB7"
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni1EB9"
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni1EC7"
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni1ECD"
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni1ED9"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni1E01"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni1E05"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni1E07"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni1E0D"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni1E0F"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni1E13"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni1E19"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni1E1B"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni1EA1"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni1EAD"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni1EB7"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni1EB9"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni1EC7"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni1ECD"
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni1ED9"
+    }
+  ],
+  "nativeCleanupGlyphs": 68,
+  "pendingBodyRepairs": [],
+  "postCleanupFacetMerge": {
+    "changed": true,
+    "nativeCleanup": {
+      "changed": false,
+      "removedSegments": [],
+      "geometryExact": true,
+      "reason": "no_constant_segments"
+    },
+    "merges": [
+      {
+        "contour": 0,
+        "point": [
+          531.0,
+          79.0
+        ],
+        "lineEnd": [
+          532.0,
+          83.0
+        ],
+        "length": 4.123105625617661,
+        "mergedInto": "next",
+        "beforeAngles": [
+          0.0,
+          12.528807709151522
+        ],
+        "afterAngle": 4.398705354995591,
+        "boundaryMovement": 0.22746005361446006,
+        "crossingVerification": {
+          "0.25": 0,
+          "0.1": 0,
+          "0.05": 0,
+          "0.01": 0
+        }
+      }
+    ],
+    "reason": "bounded_short_facet_merge"
+  },
+  "diacriticRedesign": "DEFERRED_BY_OWNER",
+  "tests": {
+    "status": "PASS",
+    "count": 33,
+    "modules": [
+      "test_smooth_contours",
+      "test_finalize_visual_outlines",
+      "test_audit_visual_quality",
+      "test_refine_optical_details"
+    ]
+  }
+}

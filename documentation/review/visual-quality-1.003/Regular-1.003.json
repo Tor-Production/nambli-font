@@ -1,0 +1,110 @@
+{
+  "title": "Nambli Regular",
+  "fonts": [
+    {
+      "label": "1.001 original",
+      "path": "C:\\Users\\morta\\Documents\\Codex\\2026-10-07\\Nambli-Google-Fonts-preparation\\worktrees\\visual-quality-1.002\\fonts\\candidates\\1.001\\ttf\\Nambli-Regular.ttf",
+      "sha256": "f789a1b268a498235b27d88c134ffc8ac34158ea4bc80d6a5dc9067e3499aa41",
+      "name": [
+        "Nambli",
+        "Regular"
+      ]
+    },
+    {
+      "label": "1.002 overshoot",
+      "path": "C:\\Users\\morta\\Documents\\Codex\\2026-10-07\\Nambli-Google-Fonts-preparation\\worktrees\\visual-quality-1.002\\fonts\\candidates\\1.002\\ttf\\Nambli-Regular.ttf",
+      "sha256": "44811dec7e3ded0f123da6a6ff754504a1260083bd4f6323a64b705c0b1e5b2a",
+      "name": [
+        "Nambli",
+        "Regular"
+      ]
+    },
+    {
+      "label": "1.003 revised",
+      "path": "C:\\Users\\morta\\Documents\\Codex\\2026-10-07\\Nambli-Google-Fonts-preparation\\visual-quality-2026-10-08\\owner-directed-1.003\\build\\Nambli-Regular.ttf",
+      "sha256": "ac88bcdd9ccc2cba9e7f2e7286ce60b352ac17a25746b429a308adb2b1056fcb",
+      "name": [
+        "Nambli",
+        "Regular"
+      ]
+    }
+  ],
+  "samples": {
+    "display": [
+      {
+        "label": "Display / Latin",
+        "text": "abeo@",
+        "size": 144
+      },
+      {
+        "label": "Display / Cyrillic and side carons",
+        "text": "Я Ľ ľ ď ť",
+        "size": 144
+      },
+      {
+        "label": "Turkish / encoded forms",
+        "text": "İ I ı i  Ğ ğ  Ş ş",
+        "size": 144,
+        "language": "tr"
+      }
+    ],
+    "text": [
+      {
+        "label": "Reading size",
+        "text": "abeo@ ЯĽľďť — Nambli. A round form, a smooth edge.",
+        "size": 18
+      },
+      {
+        "label": "Turkish control",
+        "text": "İ I ı i — Çağrı, İstanbul, ışık, küçük, düzgün.",
+        "size": 18,
+        "language": "tr"
+      },
+      {
+        "label": "Reading size",
+        "text": "abeo@ ЯĽľďť — Nambli. A round form, a smooth edge.",
+        "size": 24
+      },
+      {
+        "label": "Turkish control",
+        "text": "İ I ı i — Çağrı, İstanbul, ışık, küçük, düzgün.",
+        "size": 24,
+        "language": "tr"
+      },
+      {
+        "label": "Reading size",
+        "text": "abeo@ ЯĽľďť — Nambli. A round form, a smooth edge.",
+        "size": 36
+      },
+      {
+        "label": "Turkish control",
+        "text": "İ I ı i — Çağrı, İstanbul, ışık, küçük, düzgün.",
+        "size": 36,
+        "language": "tr"
+      }
+    ]
+  },
+  "renderer": {
+    "python": "3.12.0",
+    "pillow": "11.3.0",
+    "freetype": "2.13.3",
+    "raqm": false,
+    "layout": "BASIC",
+    "languageShapingVerified": false,
+    "note": "Raster comparison, not a substitute for browser/OS and OpenType shaping tests."
+  },
+  "outputs": {
+    "combined": {
+      "path": "C:\\Users\\morta\\Documents\\Codex\\2026-10-07\\Nambli-Google-Fonts-preparation\\visual-quality-2026-10-08\\owner-directed-1.003\\raster-proofs\\Regular-1.003.png",
+      "sha256": "fd38e6eca0211bfc1b503f0ff91a43d0b165afc01af75478a42d75da4bd80371"
+    },
+    "display": {
+      "path": "C:\\Users\\morta\\Documents\\Codex\\2026-10-07\\Nambli-Google-Fonts-preparation\\visual-quality-2026-10-08\\owner-directed-1.003\\raster-proofs\\Regular-1.003-display.png",
+      "sha256": "52ed4d30d6b2b1b50a97c0a72b5af3342497f5cc77e59e6a2085a9030725b233"
+    },
+    "text": {
+      "path": "C:\\Users\\morta\\Documents\\Codex\\2026-10-07\\Nambli-Google-Fonts-preparation\\visual-quality-2026-10-08\\owner-directed-1.003\\raster-proofs\\Regular-1.003-text.png",
+      "sha256": "b45e7dc661f3e79827ca1e208de6855ec3b4532634e8dd2bae9ecbc1c9b83f60"
+    }
+  }
+}

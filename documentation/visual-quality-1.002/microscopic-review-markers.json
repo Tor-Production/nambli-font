@@ -1,0 +1,816 @@
+{
+  "quadraticSegmentsScanned": 814941,
+  "flags": [
+    {
+      "font": "Nambli-Bold",
+      "glyph": "uni01A4",
+      "contour": 0,
+      "segment": 29,
+      "t": 0.5,
+      "point": [
+        352.0,
+        707.5
+      ],
+      "distanceToNearestEndpoint": 0.5,
+      "scope": "processed_body",
+      "curve": [
+        [
+          352,
+          708
+        ],
+        [
+          352,
+          707
+        ],
+        [
+          352,
+          708
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni01AE",
+      "contour": 0,
+      "segment": 0,
+      "t": 0.6666666666666666,
+      "point": [
+        246.66666666666669,
+        202.0
+      ],
+      "distanceToNearestEndpoint": 0.5270462766947359,
+      "scope": "processed_body",
+      "curve": [
+        [
+          246,
+          200
+        ],
+        [
+          247,
+          203
+        ],
+        [
+          246.5,
+          201.5
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni01AE",
+      "contour": 0,
+      "segment": 1,
+      "t": 0.3333333333333333,
+      "point": [
+        246.33333333333337,
+        201.00000000000003
+      ],
+      "distanceToNearestEndpoint": 0.527046276694691,
+      "scope": "processed_body",
+      "curve": [
+        [
+          246.5,
+          201.5
+        ],
+        [
+          246,
+          200
+        ],
+        [
+          247,
+          203
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni0266",
+      "contour": 0,
+      "segment": 43,
+      "t": 0.6666666666666666,
+      "point": [
+        232.0,
+        556.3333333333334
+      ],
+      "distanceToNearestEndpoint": 0.16666666666662877,
+      "scope": "processed_body",
+      "curve": [
+        [
+          232,
+          557
+        ],
+        [
+          232,
+          556
+        ],
+        [
+          232.0,
+          556.5
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni027D",
+      "contour": 0,
+      "segment": 1,
+      "t": 0.6666666666666666,
+      "point": [
+        55.0,
+        202.33333333333331
+      ],
+      "distanceToNearestEndpoint": 0.16666666666668561,
+      "scope": "processed_body",
+      "curve": [
+        [
+          55.0,
+          203.0
+        ],
+        [
+          55,
+          202
+        ],
+        [
+          55.0,
+          202.5
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni027D",
+      "contour": 0,
+      "segment": 2,
+      "t": 0.5,
+      "point": [
+        55.0,
+        202.75
+      ],
+      "distanceToNearestEndpoint": 0.25,
+      "scope": "processed_body",
+      "curve": [
+        [
+          55.0,
+          202.5
+        ],
+        [
+          55,
+          203
+        ],
+        [
+          55.0,
+          202.5
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uni027D",
+      "contour": 0,
+      "segment": 3,
+      "t": 0.5,
+      "point": [
+        55.0,
+        202.25
+      ],
+      "distanceToNearestEndpoint": 0.25,
+      "scope": "processed_body",
+      "curve": [
+        [
+          55.0,
+          202.5
+        ],
+        [
+          55,
+          202
+        ],
+        [
+          55.0,
+          202.5
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-BoldItalic",
+      "glyph": "uniA7AA",
+      "contour": 0,
+      "segment": 28,
+      "t": 0.6666666666666666,
+      "point": [
+        102.0,
+        581.6666666666666
+      ],
+      "distanceToNearestEndpoint": 0.16666666666662877,
+      "scope": "processed_body",
+      "curve": [
+        [
+          102.0,
+          581.0
+        ],
+        [
+          102,
+          582
+        ],
+        [
+          102.0,
+          581.5
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-ExtraBold",
+      "glyph": "uni01A4",
+      "contour": 0,
+      "segment": 23,
+      "t": 0.5,
+      "point": [
+        366.0,
+        707.0
+      ],
+      "distanceToNearestEndpoint": 1.0,
+      "scope": "processed_body",
+      "curve": [
+        [
+          366,
+          708
+        ],
+        [
+          366,
+          706
+        ],
+        [
+          366,
+          708
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-ExtraBoldItalic",
+      "glyph": "uni0163",
+      "contour": 0,
+      "segment": 47,
+      "t": 0.5,
+      "point": [
+        206.5,
+        -2.0
+      ],
+      "distanceToNearestEndpoint": 0.5,
+      "scope": "unchanged_deferred",
+      "curve": [
+        [
+          207,
+          -2
+        ],
+        [
+          206,
+          -2
+        ],
+        [
+          207,
+          -2
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uniA7AA",
+      "contour": 0,
+      "segment": 29,
+      "t": 0.5,
+      "point": [
+        102.75,
+        584.75
+      ],
+      "distanceToNearestEndpoint": 0.3535533905932738,
+      "scope": "processed_body",
+      "curve": [
+        [
+          102.5,
+          584.5
+        ],
+        [
+          103,
+          585
+        ],
+        [
+          102.5,
+          584.5
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uniA7AA",
+      "contour": 0,
+      "segment": 30,
+      "t": 0.5,
+      "point": [
+        102.25,
+        584.25
+      ],
+      "distanceToNearestEndpoint": 0.3535533905932738,
+      "scope": "processed_body",
+      "curve": [
+        [
+          102.5,
+          584.5
+        ],
+        [
+          102,
+          584
+        ],
+        [
+          102.5,
+          584.5
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uniA7AA",
+      "contour": 0,
+      "segment": 31,
+      "t": 0.5,
+      "point": [
+        102.75,
+        584.75
+      ],
+      "distanceToNearestEndpoint": 0.3535533905932738,
+      "scope": "processed_body",
+      "curve": [
+        [
+          102.5,
+          584.5
+        ],
+        [
+          103,
+          585
+        ],
+        [
+          102.5,
+          584.5
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-Italic",
+      "glyph": "uniA7AA",
+      "contour": 0,
+      "segment": 32,
+      "t": 0.5,
+      "point": [
+        102.25,
+        584.25
+      ],
+      "distanceToNearestEndpoint": 0.3535533905932738,
+      "scope": "processed_body",
+      "curve": [
+        [
+          102.5,
+          584.5
+        ],
+        [
+          102,
+          584
+        ],
+        [
+          102.5,
+          584.5
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni0104",
+      "contour": 0,
+      "segment": 43,
+      "t": 0.5,
+      "point": [
+        559.0,
+        15.5
+      ],
+      "distanceToNearestEndpoint": 0.5,
+      "scope": "unchanged_deferred",
+      "curve": [
+        [
+          559,
+          15
+        ],
+        [
+          559,
+          16
+        ],
+        [
+          559,
+          15
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni01A4",
+      "contour": 0,
+      "segment": 23,
+      "t": 0.5,
+      "point": [
+        299.0,
+        707.0
+      ],
+      "distanceToNearestEndpoint": 1.0,
+      "scope": "processed_body",
+      "curve": [
+        [
+          299,
+          708
+        ],
+        [
+          299,
+          706
+        ],
+        [
+          299,
+          708
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-Light",
+      "glyph": "uni01A5",
+      "contour": 0,
+      "segment": 35,
+      "t": 0.7142857142857143,
+      "point": [
+        300.0,
+        492.7142857142857
+      ],
+      "distanceToNearestEndpoint": 0.2857142857142776,
+      "scope": "processed_body",
+      "curve": [
+        [
+          300.0,
+          494.5
+        ],
+        [
+          300,
+          492
+        ],
+        [
+          300,
+          493
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni027D",
+      "contour": 0,
+      "segment": 72,
+      "t": 0.5,
+      "point": [
+        139.0,
+        202.25
+      ],
+      "distanceToNearestEndpoint": 0.25,
+      "scope": "processed_body",
+      "curve": [
+        [
+          139.0,
+          202.5
+        ],
+        [
+          139,
+          202
+        ],
+        [
+          139.0,
+          202.5
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni027D",
+      "contour": 0,
+      "segment": 73,
+      "t": 0.5,
+      "point": [
+        139.0,
+        202.75
+      ],
+      "distanceToNearestEndpoint": 0.25,
+      "scope": "processed_body",
+      "curve": [
+        [
+          139.0,
+          202.5
+        ],
+        [
+          139,
+          203
+        ],
+        [
+          139.0,
+          202.5
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni027D",
+      "contour": 0,
+      "segment": 74,
+      "t": 0.3333333333333333,
+      "point": [
+        139.0,
+        202.33333333333337
+      ],
+      "distanceToNearestEndpoint": 0.16666666666662877,
+      "scope": "processed_body",
+      "curve": [
+        [
+          139.0,
+          202.5
+        ],
+        [
+          139,
+          202
+        ],
+        [
+          139.0,
+          203.0
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni0288",
+      "contour": 0,
+      "segment": 30,
+      "t": 0.6666666666666666,
+      "point": [
+        146.66666666666669,
+        294.0
+      ],
+      "distanceToNearestEndpoint": 0.5270462766947359,
+      "scope": "processed_body",
+      "curve": [
+        [
+          146,
+          292
+        ],
+        [
+          147,
+          295
+        ],
+        [
+          146.5,
+          293.5
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-LightItalic",
+      "glyph": "uni0288",
+      "contour": 0,
+      "segment": 31,
+      "t": 0.3333333333333333,
+      "point": [
+        146.33333333333334,
+        293.0
+      ],
+      "distanceToNearestEndpoint": 0.5270462766947269,
+      "scope": "processed_body",
+      "curve": [
+        [
+          146.5,
+          293.5
+        ],
+        [
+          146,
+          292
+        ],
+        [
+          147,
+          295
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni20B4",
+      "contour": 0,
+      "segment": 13,
+      "t": 0.5,
+      "point": [
+        302.25,
+        433.0
+      ],
+      "distanceToNearestEndpoint": 0.25,
+      "scope": "processed_body",
+      "curve": [
+        [
+          302.5,
+          433.0
+        ],
+        [
+          302,
+          433
+        ],
+        [
+          302.5,
+          433.0
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni045B",
+      "contour": 0,
+      "segment": 19,
+      "t": 0.14285714285714285,
+      "point": [
+        158.42857142857144,
+        668.0000000000001
+      ],
+      "distanceToNearestEndpoint": 0.07142857142855519,
+      "scope": "processed_body",
+      "curve": [
+        [
+          158.5,
+          668.0
+        ],
+        [
+          158,
+          668
+        ],
+        [
+          161,
+          668
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-Medium",
+      "glyph": "uni01A4",
+      "contour": 0,
+      "segment": 25,
+      "t": 0.5,
+      "point": [
+        334.0,
+        707.0
+      ],
+      "distanceToNearestEndpoint": 1.0,
+      "scope": "processed_body",
+      "curve": [
+        [
+          334,
+          708
+        ],
+        [
+          334,
+          706
+        ],
+        [
+          334,
+          708
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni20B4",
+      "contour": 0,
+      "segment": 12,
+      "t": 0.5,
+      "point": [
+        337.5,
+        433.0
+      ],
+      "distanceToNearestEndpoint": 0.5,
+      "scope": "processed_body",
+      "curve": [
+        [
+          338.0,
+          433.0
+        ],
+        [
+          337,
+          433
+        ],
+        [
+          338.0,
+          433.0
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-MediumItalic",
+      "glyph": "uni1D7D",
+      "contour": 1,
+      "segment": 7,
+      "t": 0.5,
+      "point": [
+        404.25,
+        170.25
+      ],
+      "distanceToNearestEndpoint": 0.3535533905932738,
+      "scope": "processed_body",
+      "curve": [
+        [
+          404.5,
+          170.5
+        ],
+        [
+          404,
+          170
+        ],
+        [
+          404.5,
+          170.5
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-Regular",
+      "glyph": "uni01A4",
+      "contour": 0,
+      "segment": 25,
+      "t": 0.5,
+      "point": [
+        319.0,
+        707.0
+      ],
+      "distanceToNearestEndpoint": 1.0,
+      "scope": "processed_body",
+      "curve": [
+        [
+          319,
+          708
+        ],
+        [
+          319,
+          706
+        ],
+        [
+          319,
+          708
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-SemiBold",
+      "glyph": "uni01A4",
+      "contour": 0,
+      "segment": 25,
+      "t": 0.5,
+      "point": [
+        343.0,
+        707.0
+      ],
+      "distanceToNearestEndpoint": 1.0,
+      "scope": "processed_body",
+      "curve": [
+        [
+          343,
+          708
+        ],
+        [
+          343,
+          706
+        ],
+        [
+          343,
+          708
+        ]
+      ]
+    },
+    {
+      "font": "Nambli-SemiBoldItalic",
+      "glyph": "uni0266",
+      "contour": 0,
+      "segment": 40,
+      "t": 0.6666666666666666,
+      "point": [
+        223.0,
+        556.3333333333334
+      ],
+      "distanceToNearestEndpoint": 0.16666666666662877,
+      "scope": "processed_body",
+      "curve": [
+        [
+          223,
+          557
+        ],
+        [
+          223,
+          556
+        ],
+        [
+          223.0,
+          556.5
+        ]
+      ]
+    }
+  ],
+  "note": "Exact interior zero derivative with direction reversal. Supplemental diagnostic; frozen main-audit criteria are unchanged."
+}

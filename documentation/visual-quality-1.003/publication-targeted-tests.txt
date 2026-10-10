@@ -1,0 +1,21 @@
+test_rebuild_uses_original_design_and_preserves_accents (test_revise_body_design.ReviseBodyDesignTests.test_rebuild_uses_original_design_and_preserves_accents) ... ok
+test_scope_conflict_fails_without_mutating_sources (test_revise_body_design.ReviseBodyDesignTests.test_scope_conflict_fails_without_mutating_sources) ... ok
+test_scope_uses_recorded_overshoot_only (test_revise_body_design.ReviseBodyDesignTests.test_scope_uses_recorded_overshoot_only) ... ok
+test_moderate_expansion_keeps_a_single_open_curl (test_refine_selective_diacritics.SelectiveDiacriticsTests.test_moderate_expansion_keeps_a_single_open_curl) ... ok
+test_only_shared_sidecaron_and_four_precomposed_forms_change (test_refine_selective_diacritics.SelectiveDiacriticsTests.test_only_shared_sidecaron_and_four_precomposed_forms_change) ... ok
+test_original_body_contours_and_layout_survive (test_refine_selective_diacritics.SelectiveDiacriticsTests.test_original_body_contours_and_layout_survive) ... ok
+test_turkish_alphabet_and_its_marks_are_exactly_preserved (test_refine_selective_diacritics.SelectiveDiacriticsTests.test_turkish_alphabet_and_its_marks_are_exactly_preserved) ... ok
+test_crossing_with_base_is_detected_even_if_translation_matches (test_validate_owner_revision.OwnerRevisionScopeTests.test_crossing_with_base_is_detected_even_if_translation_matches) ... ok
+test_notdef_cannot_be_silently_authorized (test_validate_owner_revision.OwnerRevisionScopeTests.test_notdef_cannot_be_silently_authorized) ... ok
+test_precise_allowed_changes_and_last_contour_mapping_pass (test_validate_owner_revision.OwnerRevisionScopeTests.test_precise_allowed_changes_and_last_contour_mapping_pass) ... ok
+test_precomposed_mark_must_match_actual_shared_mark (test_validate_owner_revision.OwnerRevisionScopeTests.test_precomposed_mark_must_match_actual_shared_mark) ... ok
+test_protected_whole_glyph_stays_protected_even_if_manifest_selects_it (test_validate_owner_revision.OwnerRevisionScopeTests.test_protected_whole_glyph_stays_protected_even_if_manifest_selects_it) ... ok
+test_reversed_mark_winding_is_a_topology_regression (test_validate_owner_revision.OwnerRevisionScopeTests.test_reversed_mark_winding_is_a_topology_regression) ... ok
+test_selected_letter_does_not_authorize_its_unchosen_accent (test_validate_owner_revision.OwnerRevisionScopeTests.test_selected_letter_does_not_authorize_its_unchosen_accent) ... ok
+test_sidecaron_selection_does_not_authorize_base_letter_change (test_validate_owner_revision.OwnerRevisionScopeTests.test_sidecaron_selection_does_not_authorize_base_letter_change) ... ok
+test_unauthorized_plain_letter_change_is_rejected (test_validate_owner_revision.OwnerRevisionScopeTests.test_unauthorized_plain_letter_change_is_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 44.843s
+
+OK

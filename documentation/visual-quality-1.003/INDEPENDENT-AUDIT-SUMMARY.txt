@@ -1,0 +1,61 @@
+Nambli 1.003 — independent compiled-candidate verification
+
+Scope: compare the preserved 1.002 experiment with the owner's 1.003 revision.
+The revision removes reported experimental optical overshoots and selectively
+strengthens uni030C.alt / Ľ / ľ / ď / ť. Other accent designs are retained by
+the owner's choice; they are not an outstanding redesign queue.
+
+Preservation and layout validator: PASS
+  12 faces; 998 glyphs and 970 encoded characters per face.
+  11,976 glyph comparisons; 37,008 NFC/NFD normalization comparisons;
+  74,736 before/after shaping stability comparisons. No failures or known
+  normalization mismatches in the tested en/uk/cs/sk/vi/tr comparisons.
+  Version 1.003 verified. Only authorized body/mark glyphs changed.
+  All .notdef outlines, advances, line metrics, layout/kerning tables, and
+  unselected whole glyphs/accents were preserved exactly.
+  119 protected whole glyphs and 604 non-target accent contours per face
+  are exactly unchanged. The four selected precomposed marks match the
+  actual compiled shared side-caron by exact translation.
+  Minimum measured mark-to-body boundary clearance: 12.8601 font units.
+  Nine adversarial validator tests pass.
+
+Frozen whole-family outline audit: completed; 11,976 glyphs inspected.
+  Auditor SHA256:
+  0439a245090286e782fc7719add4ea9a66ef3176bc84bb3087ac570a645c1bc0
+  All source/binary hashes match. The audit thresholds were not changed.
+
+  In body contours and selected side-carons:
+    curve tangent breaks:             0
+    short-handle corners:             0
+    short-line facets between curves: 0
+    proper crossings:                 0
+    zero-length/open/nonfinite/zero-area/disconnected contours: 0
+  The selected side-caron short-handle flags dropped from 166 to 0.
+
+  Whole-family proper crossings, zero-length segments, open contours,
+  nonfinite coordinates, zero-area contours and disconnected segments: 0.
+
+  Retained existing-design scopes have identical prior review flags:
+    57 curve tangent breaks; 102 short facets; 3,901 tiny-handle corners.
+  These are in the unchanged accents/connected forms; they are not new
+  defects caused by this revision, nor a promise to redesign those forms.
+
+  Curvature/intentional-corner screens are review markers, not pass/fail
+  diagnoses or confirmed visible artifacts. Whole-family totals:
+    sudden curvature-change markers: 36,990 -> 36,961
+    short curvature-reversal markers: 9,257 -> 9,463
+    intentional line-corner markers: 429 -> 429
+  The changed side-carons contribute 45 curvature-change and 80 reversal
+  markers. Their topology, transitions, spacing and shared geometry pass
+  the independent checks above; visual appearance remains owner-reviewed.
+
+Evidence:
+  candidate-validation.json
+  edge-audit-summary.json
+  edge-audit-scopes.json
+  body-reports/ and mark-reports/ (per-face transformation evidence)
+  Reproduce the detailed contour-coordinate reports with the audit command
+  in ../VISUAL-QUALITY-1.003.txt; they are not included in this summary bundle.
+
+This is an automated geometric/preservation assessment, not a claim of
+visual perfection, Google Fonts acceptance, or a full Fontspector pass.

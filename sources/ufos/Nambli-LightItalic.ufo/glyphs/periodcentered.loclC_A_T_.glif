@@ -3,22 +3,18 @@
   <advance width="260"/>
   <outline>
     <contour>
-      <point x="170" y="299" type="qcurve"/>
       <point x="169" y="292"/>
       <point x="161" y="280"/>
       <point x="150" y="270"/>
       <point x="137" y="265"/>
-      <point x="130" y="265" type="qcurve"/>
       <point x="123" y="265"/>
       <point x="112" y="270"/>
       <point x="104" y="280"/>
       <point x="101" y="292"/>
-      <point x="102" y="299" type="qcurve"/>
       <point x="103" y="306"/>
       <point x="111" y="318"/>
       <point x="122" y="328"/>
       <point x="135" y="333"/>
-      <point x="142" y="333" type="qcurve"/>
       <point x="149" y="333"/>
       <point x="160" y="328"/>
       <point x="168" y="318"/>

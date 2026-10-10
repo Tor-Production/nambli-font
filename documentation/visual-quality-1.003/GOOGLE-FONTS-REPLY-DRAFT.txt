@@ -1,0 +1,42 @@
+Historical draft. An adapted reply was posted and independently verified on 2026-10-10:
+https://github.com/google/fonts/issues/11082#issuecomment-6098701884
+The reply was subsequently updated with comparison images. Candidate 1.003
+is now supplied on codex/fix/visual-quality-candidate for design review.
+The text below is the historical draft, not the current published comment.
+Intended destination: https://github.com/google/fonts/issues/11082#issuecomment-6055152137
+
+Hi Simon, thank you for the specific feedback and examples.
+
+We have smoothed the outline joins and rounded terminals across the family,
+and made .notdef distinct from O. I am keeping those improvements.
+
+I tested added overshoot at the baseline and x-height, then chose to retain
+the original alignment and round proportions. That alignment is part of the
+appearance I want for Nambli; the added extensions changed its balance in a
+way I did not want to keep. Candidate 1.003 therefore uses the original body
+design with the contour smoothing retained. This is a design choice I would
+like to evaluate through the proofs, rather than a claim that overshoot is
+unnecessary in general.
+
+For diacritics, I am making selective, modest weight adjustments where marks
+are visibly weak, starting with the side caron in Ľ and related forms, rather
+than thickening every accent. I want their weight, compact proportions, and
+rounded construction to remain coherent with the letters.
+
+I have prepared comparisons of the original, overshoot experiment, and revised
+candidate at display and text sizes. Could you assess whether this direction
+works for Nambli, and point out any letters or weights where the original
+alignment remains a problem? If retaining it would prevent inclusion in
+Google Fonts, I would appreciate knowing that before making further changes.
+
+I understand that passing the automated checks does not replace Google
+Fonts' design review. My aim is to address the outline and mark issues while
+preserving Nambli's intended appearance.
+
+Thank you,
+Yurii
+
+References for the author, not necessarily for inclusion in the comment:
+https://googlefonts.github.io/gf-guide/onboarding.html#new-fonts
+https://googlefonts.github.io/gf-guide/qa.html
+https://googlefonts.github.io/gf-guide/diacritics.html

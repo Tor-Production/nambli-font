@@ -1,6 +1,6 @@
 # Building Nambli
 
-The editable static masters for the approved, unreleased 1.001 candidate are the twelve UFO3
+The editable static masters for the 1.003 visual review candidate are the twelve UFO3
 directories in `sources/ufos`. They include quadratic outlines, Unicode mapping,
 metrics, kerning and OpenType feature source. No installed font, network font
 service or binary reference font is needed to build them.
@@ -20,7 +20,7 @@ fresh output directory for another run.
 For a complete repeat-build and comparison with the committed candidate TTFs:
 
 ```sh
-python sources/build_fontmake.py --output build-verification --reference-fonts fonts/candidates/1.001/ttf --verify-reproducible
+python sources/build_fontmake.py --output build-verification --reference-fonts fonts/candidates/1.003/ttf --verify-reproducible
 ```
 
 Expect a PASS report at `build-verification/build-validation.json`, identical
@@ -33,10 +33,11 @@ editable UFO kerning and library data. There is no transplantation of compiled
 layout tables from reference binaries. `--reference-fonts` is only a validation
 input. A fixed build timestamp makes repeated builds comparable.
 
-To verify the approved changes against the preserved 1.000 release:
+The following older validator applies only to preserved 1.001 fonts against the
+1.000 release; it must not be used to approve the broader visual changes in 1.002 or 1.003:
 
 ```sh
-python sources/validate_outline_candidate.py --baseline fonts/ttf --candidate build-verification --output candidate-audit.json
+python sources/validate_outline_candidate.py --baseline fonts/ttf --candidate fonts/candidates/1.001/ttf --output candidate-1.001-audit.json
 ```
 
 The specialized validator allows exactly eight changed glyph/face pairs and
@@ -44,6 +45,13 @@ version 1.001, with unchanged character mapping, metrics, layout and kerning.
 Its automated result does not determine visual approval; the owner's approval
 is recorded separately in the dated adoption report. The preserved supplementary
 OTFs remain version 1.000 and are not part of the candidate build.
+
+For 1.003, use `validate_owner_revision.py` against the preserved 1.002 TTFs,
+plus the unchanged `audit_visual_quality.py`. See
+`documentation/VISUAL-QUALITY-1.003.txt` for exact commands and evidence.
+The older `validate_visual_candidate.py` applies only to the preserved 1.002
+experiment. Its sources are archived in `fonts/candidates/1.002/sources-1.002.zip`;
+extract to a separate directory when reproducing that historical build.
 
 ## Binary QA
 
